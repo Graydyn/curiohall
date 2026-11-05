@@ -1,0 +1,5802 @@
+[
+ {
+  "slot": "1_1",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "2_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.1
+  ]
+ },
+ {
+  "slot": "8_4",
+  "move": 0,
+  "luminance": [
+   1,
+   1.1
+  ]
+ },
+ {
+  "slot": "12_5",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "12_11",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "16_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "19_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "21_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.1
+  ]
+ },
+ {
+  "slot": "24_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "29_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "30_1",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "33_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "34_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.1
+  ]
+ },
+ {
+  "slot": "34_5",
+  "move": 0,
+  "luminance": [
+   1,
+   1.1
+  ]
+ },
+ {
+  "slot": "38_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "44_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "48_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.1
+  ]
+ },
+ {
+  "slot": "53_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "55_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "58_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "66_6",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "1_6",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "2_1",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "2_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "3_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "8_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "8_10",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "10_11",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "11_4",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "16_5",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "17_1",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "18_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "19_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "19_5",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "20_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "21_4",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "21_6",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "21_12",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "22_5",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "23_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "23_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "26_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "26_4",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "27_4",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "27_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "29_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "30_11",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "31_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "32_5",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "33_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "34_4",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "36_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "42_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "42_10",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "44_4",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "44_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "46_1",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "47_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "47_5",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "47_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "48_4",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "48_5",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "48_6",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "48_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "48_12",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "50_4",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "50_6",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "52_10",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "53_6",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "53_10",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "54_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "54_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "54_4",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "56_1",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "57_1",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "58_1",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "58_5",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "58_11",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "61_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "63_6",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "63_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "66_5",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "67_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "71_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "75_5",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "75_11",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "73_10",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "73_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "74_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "74_15",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "77_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "77_11",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "76_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "78_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "79_4",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "79_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "79_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "72_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "74_13",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "82_10",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "84_4",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "84_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "85_11",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "85_14",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "81_10",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "81_14",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "83_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "83_6",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "83_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "83_12",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "86_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "86_6",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "86_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "87_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "87_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "88_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "89_5",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "90_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "90_15",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "91_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "91_6",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "91_10",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "91_14",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "92_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "93_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "93_5",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "94_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "94_10",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "95_4",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "95_6",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "95_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "94_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "92_11",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "92_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "97_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "97_12",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "97_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "98_1",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "98_6",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "100_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "100_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "100_10",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "100_4",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "101_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "101_12",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "101_11",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "104_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "107_4",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "103_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "103_6",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "103_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "107_6",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "107_12",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "107_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "104_4",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "105_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "103_13",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "102_5",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "103_4",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "106_5",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "106_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "109_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "109_4",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "108_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "108_10",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "111_11",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "111_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "111_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "112_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "112_12",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "112_14",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "115_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "115_5",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "115_10",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "113_6",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "112_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "114_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "114_5",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "114_11",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "1_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "117_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "117_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "119_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "119_4",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "119_5",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "119_6",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "118_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "118_13",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "119_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "121_5",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "120_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "120_4",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "120_6",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "120_12",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "118_5",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "122_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "124_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "124_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "124_10",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "124_12",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "124_13",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "123_6",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "123_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "123_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "123_10",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "123_12",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "125_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "125_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "125_10",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "126_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "127_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "127_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "128_1",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "128_5",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "129_4",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "129_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "129_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "129_13",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "67_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "68_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "66_10",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "69_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "70_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "67_4",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "70_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "132_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "132_6",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "132_13",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "130_6",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "130_13",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "131_5",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "131_14",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "131_12",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "131_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "130_4",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "130_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "130_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "130_14",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "130_15",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "133_4",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "133_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "133_12",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "133_16",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "mdn_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "mdn_5",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "mdn_11",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "mdn_16",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "mdn_19",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "134_13",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "135_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "134_4",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "134_11",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "134_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "ex_11",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "ex_13",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "136_5",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "136_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "136_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "138_15",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "138_13",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "138_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "138_5",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "138_6",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "138_10",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "138_17",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "139_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "139_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "139_12",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "59_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "59_10",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "140_15",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "140_16",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "140_10",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "25_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "142_1",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "142_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "141_11",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "141_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "142_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "144_5",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "144_16",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "147_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "145_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "148_6",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "148_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "151_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "151_14",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "151_15",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "149_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "149_5",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "149_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "149_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "150_13",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "150_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "152_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "152_15",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "154_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "154_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "153_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "153_6",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "153_11",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "152_4",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "155_11",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "155_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "155_5",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "155_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "157_16",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "158_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "158_6",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "158_15",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "156_5",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "156_10",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "156_12",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "157_4",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "157_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "157_10",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "157_11",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "157_14",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "157_5",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "162_4",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "162_6",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "162_11",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "162_14",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "163_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "163_4",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "163_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "160_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "160_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "160_15",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "161_4",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "161_12",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "161_15",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "162_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "159_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "159_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "159_6",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "159_16",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "167_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "167_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "167_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "167_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "164_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "164_4",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "164_6",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "164_14",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "164_17",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "168_15",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "165_17",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "166_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "166_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "166_11",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "166_14",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "168_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "168_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "168_12",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "168_17",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "165_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "172_6",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "172_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "170_5",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "171_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "171_6",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "171_17",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "171_15",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "169_17",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "169_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "169_5",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "169_6",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "169_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "172_17",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "175_10",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "175_17",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "176_4",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "173_6",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "173_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "173_17",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "174_4",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "175_15",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "176_14",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "174_17",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "174_5",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "174_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "174_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "179_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "179_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "179_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "179_15",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "179_17",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "178_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "178_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "178_11",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "177_5",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "177_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "177_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "177_10",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "177_16",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "180_15",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "180_17",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "180_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "180_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "180_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "181_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "181_5",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "181_6",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "181_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "181_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "181_14",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "181_17",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "184_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "185_4",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "184_17",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "182_6",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "182_11",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "182_13",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "182_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "182_4",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "183_12",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "184_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "184_10",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "185_5",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "184_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "186_5",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "186_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "186_11",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "189_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "189_11",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "190_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "190_15",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "190_17",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "188_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "188_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "188_12",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "188_17",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "187_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "187_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "187_6",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "190_4",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "186_18",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "191_6",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "191_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "195_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "192_14",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "194_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "194_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "194_15",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "194_18",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "193_10",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "194_1",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "196_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "196_11",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "199_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "199_11",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "197_6",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "197_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "197_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "197_15",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "197_16",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "197_17",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "198_12",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "200_6",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "200_13",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "201_4",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "202_4",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "202_16",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "201_17",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "203_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "203_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "202_12",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "202_15",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "204_13",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "204_16",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "202_17",
+  "move": 0,
+  "luminance": [
+   1,
+   1
+  ]
+ },
+ {
+  "slot": "206_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "206_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "206_16",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "206_17",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "209_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "209_5",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "209_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "209_12",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "207_12",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "209_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "209_18",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "208_15",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "208_5",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "212_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "212_12",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "212_14",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "210_14",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "210_18",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "210_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "216_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "216_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "215_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "215_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "215_12",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "214_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "214_6",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "214_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "213_15",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "213_10",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "213_13",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "219_10",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "219_13",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "221_12",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "221_13",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "222_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "222_5",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "222_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "222_11",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "218_5",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "218_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "218_17",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "219_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "220_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "220_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "220_13",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "220_15",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "221_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "223_11",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "223_12",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "223_15",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "224_6",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "224_10",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "225_4",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "225_14",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "225_17",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "226_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "226_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "226_6",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "226_11",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "226_12",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "226_17",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "227_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "227_15",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "228_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "228_5",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "229_10",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "229_11",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "229_16",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "233_12",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "232_6",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "232_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "232_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "232_11",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "232_13",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "230_15",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "231_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "231_12",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "231_14",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "231_17",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "232_4",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "228_11",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "228_17",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "238_12",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "239_1",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "239_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "239_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "239_14",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "239_16",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "237_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "237_10",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "237_11",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "238_4",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "234_12",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "234_13",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "234_17",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "235_1",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "235_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "235_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "238_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "236_5",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "236_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1
+  ]
+ },
+ {
+  "slot": "236_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "236_10",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "236_11",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "243_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "240_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "240_4",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "240_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "240_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "243_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "243_11",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "243_15",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "243_17",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "242_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "242_17",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "248_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "248_10",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "248_12",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "248_17",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "247_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "247_11",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "247_15",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "247_17",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "244_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "245_12",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "246_13",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "246_16",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "246_17",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "246_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "244_1",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "244_13",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "245_1",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "249_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "249_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "249_12",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "249_13",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "250_16",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "250_17",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "252_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "252_6",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "252_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "252_10",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "252_14",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "252_15",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "251_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "251_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "251_17",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "253_4",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "253_6",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "253_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "253_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "253_13",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "253_15",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "253_16",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "254_1",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "254_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "254_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "254_4",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "254_6",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "255_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "255_12",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "255_15",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "257_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "257_4",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "257_6",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "257_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "257_13",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "257_16",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "258_4",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "258_13",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "256_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "256_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "256_13",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "256_14",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "262_1",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "262_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "262_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "262_14",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "262_15",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "262_16",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "259_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "259_4",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "263_1",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "263_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "263_15",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "261_1",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "261_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "261_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "261_16",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "260_5",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "260_6",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "260_10",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "260_17",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "266_1",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "266_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "266_5",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "266_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "266_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "265_1",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "265_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "265_12",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "265_15",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "267_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "267_5",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "267_11",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "267_12",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "264_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "264_4",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "264_5",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "264_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "268_12",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "268_17",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "271_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "271_5",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "271_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "271_16",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "270_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "268_12",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "268_17",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "269_1",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "272_5",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "272_13",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "269_6",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "269_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "277_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "277_10",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "277_15",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "277_16",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "277_17",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "274_7",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "274_13",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "274_15",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "275_1",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "275_2",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "275_4",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "275_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "273_16",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "273_11",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "273_12",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "274_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "274_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "274_14",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "276_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "276_12",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "278_8",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "281_3",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "281_16",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "280_9",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "280_11",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "280_12",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "280_17",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "279_10",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ },
+ {
+  "slot": "282_12",
+  "move": 0,
+  "luminance": [
+   1,
+   1.2
+  ]
+ }
+]

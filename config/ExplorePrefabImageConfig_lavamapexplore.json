@@ -1,0 +1,30 @@
+[
+ {
+  "prefabName": "lavaMapExplore_prb_tool_1",
+  "taskImage": "lavaMapExplore_bossob_1_tool"
+ },
+ {
+  "prefabName": "lavaMapExplore_prb_tool_4",
+  "taskImage": "lavaMapExplore_bossob_4_tool"
+ },
+ {
+  "prefabName": "lavaMapExplore_prb_tool_6_1",
+  "taskImage": "lavaMapExplore_bossob_6_tool_a"
+ },
+ {
+  "prefabName": "lavaMapExplore_prb_tool_6_2",
+  "taskImage": "lavaMapExplore_bossob_6_tool_b"
+ },
+ {
+  "prefabName": "lavaMapExplore_prb_tool_7",
+  "taskImage": "lavaMapExplore_bossob_7_tool"
+ },
+ {
+  "prefabName": "lavaMapExplore_prb_tool_8",
+  "taskImage": "lavaMapExplore_bossob_8_tool"
+ },
+ {
+  "prefabName": "lavaMapExplore_prb_door",
+  "taskImage": "lavaMapExplore_prb_door_pre_img"
+ }
+]

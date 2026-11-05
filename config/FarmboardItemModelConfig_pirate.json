@@ -1,0 +1,385 @@
+[
+ {
+  "Type": "fb_pirate_tar_1",
+  "MergedType": "fb_pirate_tar_2"
+ },
+ {
+  "Type": "fb_pirate_tar_2",
+  "MergedType": "fb_pirate_tar_3",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "fb_pirate_tar_3",
+  "MergedType": "fb_pirate_tar_4",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "fb_pirate_tar_4",
+  "MergedType": "fb_pirate_tar_5",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "fb_pirate_tar_5",
+  "MergedType": "fb_pirate_tar_6",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "fb_pirate_tar_6",
+  "MergedType": "fb_pirate_tar_7",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "2401-1",
+   "2601-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 2,
+  "Spread_StorageMaxNumber": 2,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_pirate_tar_7",
+  "MergedType": "fb_pirate_tar_8",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "2401-1",
+   "main_nugget_1-1",
+   "2601-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_pirate_tar_8",
+  "MergedType": "fb_pirate_tar_9",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "2401-2",
+   "2601-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_pirate_tar_9",
+  "MergedType": "fb_pirate_tar_10",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_nugget_1-2",
+   "2401-1",
+   "2601-2",
+   "2501-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 6,
+  "Spread_StorageMaxNumber": 6,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_pirate_tar_10",
+  "MergedType": "fb_pirate_tar_11",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_nugget_1-2",
+   "2401-1",
+   "2601-2",
+   "2501-1",
+   "main_gem_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 7,
+  "Spread_StorageMaxNumber": 7,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_pirate_tar_11",
+  "MergedType": "fb_pirate_tar_12",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "2402-1",
+   "2401-2",
+   "2602-1",
+   "2601-2",
+   "2502-1",
+   "2501-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 8,
+  "Spread_StorageMaxNumber": 8,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_pirate_tar_12",
+  "ProtectLevel": 13,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2403-2",
+   "2402-2",
+   "2602-3",
+   "2601-2",
+   "2502-5",
+   "2501-2",
+   "main_pack_common_5_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 17,
+  "Spread_StorageMaxNumber": 17,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_pirate_byprod_1",
+  "MergedType": "fb_pirate_byprod_2"
+ },
+ {
+  "Type": "fb_pirate_byprod_2",
+  "MergedType": "fb_pirate_byprod_3",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "fb_pirate_byprod_3",
+  "MergedType": "fb_pirate_byprod_4",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "fb_pirate_byprod_4",
+  "MergedType": "fb_pirate_byprod_5",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_nugget_1-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 2,
+  "Spread_StorageMaxNumber": 2,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_pirate_byprod_5",
+  "MergedType": "fb_pirate_byprod_6",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "2401-1",
+   "2601-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 2,
+  "Spread_StorageMaxNumber": 2,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_pirate_byprod_6",
+  "MergedType": "fb_pirate_byprod_7",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "2401-1",
+   "2601-1",
+   "2501-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_pirate_byprod_7",
+  "MergedType": "fb_pirate_byprod_8",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "2401-2",
+   "2601-2",
+   "2501-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 5,
+  "Spread_StorageMaxNumber": 5,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_pirate_byprod_8",
+  "MergedType": "fb_pirate_byprod_9",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "2401-2",
+   "2601-2",
+   "2501-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 6,
+  "Spread_StorageMaxNumber": 6,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_pirate_byprod_9",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "rb#level_down_piece_1-1",
+   "2502-2",
+   "2501-2",
+   "2601-4",
+   "2401-4"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 13,
+  "Spread_StorageMaxNumber": 13,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_pirate_seed_1",
+  "ProtectLevel": 2,
+  "CommandOperation": "FarmboardUnlockBlock"
+ },
+ {
+  "Type": "fb_pirate_tool_1",
+  "MergedType": "fb_pirate_tool_2"
+ },
+ {
+  "Type": "fb_pirate_tool_2",
+  "MergedType": "fb_pirate_tool_3"
+ },
+ {
+  "Type": "fb_pirate_tool_3",
+  "MergedType": "fb_pirate_tool_4"
+ },
+ {
+  "Type": "fb_pirate_tool_4",
+  "MergedType": "fb_pirate_tool_5"
+ },
+ {
+  "Type": "fb_pirate_tool_5",
+  "CommandOperation": "FarmboardActivateAnimal"
+ },
+ {
+  "Type": "fb_pirate_box1_1",
+  "ProtectLevel": 2,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2602-3",
+   "2601-4",
+   "fb_pirate_gembox_1-1",
+   "main_pack_common_3_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 9,
+  "Spread_StorageMaxNumber": 9,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_pirate_box2_1",
+  "ProtectLevel": 2,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2402-4",
+   "2401-2",
+   "2601-2",
+   "fb_pirate_gembox_1-1",
+   "main_pack_common_5_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 10,
+  "Spread_StorageMaxNumber": 10,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_pirate_box3_1",
+  "ProtectLevel": 2,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "fb_pirate_tar_4-3",
+   "fb_pirate_tar_2-2",
+   "main_pack_common_3_1-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 7,
+  "Spread_StorageMaxNumber": 7,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_pirate_box4_1",
+  "ProtectLevel": 2,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "fb_pirate_tool_3-3",
+   "fb_pirate_tool_1-4"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 7,
+  "Spread_StorageMaxNumber": 7,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_pirate_gembox_1",
+  "MergedType": "fb_pirate_gembox_2",
+  "ProtectLevel": 6,
+  "BubbleChance": 0
+ },
+ {
+  "Type": "fb_pirate_gembox_2",
+  "MergedType": "fb_pirate_gembox_3",
+  "ProtectLevel": 6,
+  "BubbleChance": 0,
+  "Spread_WeightType": 2
+ },
+ {
+  "Type": "fb_pirate_gembox_3",
+  "MergedType": "fb_pirate_gembox_4",
+  "ProtectLevel": 6,
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "2401-4",
+   "2501-2",
+   "main_pack_common_5_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 7,
+  "Spread_StorageMaxNumber": 7,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_pirate_gembox_4",
+  "MergedType": "fb_pirate_gembox_5",
+  "ProtectLevel": 6,
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "2402-2",
+   "2401-4",
+   "2501-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 8,
+  "Spread_StorageMaxNumber": 8,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_pirate_gembox_5",
+  "ProtectLevel": 6,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2403-3",
+   "2502-2",
+   "fb_pirate_byprod_2-4",
+   "main_pack_common_5_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 10,
+  "Spread_StorageMaxNumber": 10,
+  "Spread_CostEnergy": 0
+ }
+]

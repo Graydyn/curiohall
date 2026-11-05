@@ -1,0 +1,149 @@
+[
+ {
+  "Id": 1,
+  "Slots": [
+   1
+  ],
+  "UnlockLevel": 1,
+  "Requirement1": "203"
+ },
+ {
+  "Id": 2,
+  "Slots": [
+   1
+  ],
+  "UnlockLevel": 1,
+  "Requirement1": "208"
+ },
+ {
+  "Id": 3,
+  "Slots": [
+   1
+  ],
+  "UnlockLevel": 1,
+  "Requirement1": "204"
+ },
+ {
+  "Id": 4,
+  "Slots": [
+   1
+  ],
+  "UnlockLevel": 1,
+  "Requirement1": "206"
+ },
+ {
+  "Id": 5,
+  "Slots": [
+   1,
+   2
+  ],
+  "UnlockLevel": 2,
+  "Requirement1": "304"
+ },
+ {
+  "Id": 6,
+  "Slots": [
+   1,
+   2
+  ],
+  "UnlockLevel": 2,
+  "Requirement1": "303"
+ },
+ {
+  "Id": 7,
+  "Slots": [
+   1,
+   2
+  ],
+  "UnlockLevel": 2,
+  "Requirement1": "303",
+  "Requirement2": "206"
+ },
+ {
+  "Id": 8,
+  "Slots": [
+   1,
+   2
+  ],
+  "UnlockLevel": 2,
+  "Requirement1": "305"
+ },
+ {
+  "Id": 9,
+  "Slots": [
+   1,
+   2
+  ],
+  "UnlockLevel": 2,
+  "Requirement1": "208"
+ },
+ {
+  "Id": 10,
+  "Slots": [
+   1,
+   2
+  ],
+  "UnlockLevel": 2,
+  "Requirement1": "205",
+  "Requirement2": "303"
+ },
+ {
+  "Id": 11,
+  "Slots": [
+   1,
+   2
+  ],
+  "UnlockLevel": 3,
+  "Requirement1": "504",
+  "Requirement2": "504"
+ },
+ {
+  "Id": 12,
+  "Slots": [
+   1,
+   2
+  ],
+  "UnlockLevel": 3,
+  "Requirement1": "205",
+  "Requirement2": "505"
+ },
+ {
+  "Id": 13,
+  "Slots": [
+   1,
+   2
+  ],
+  "UnlockLevel": 3,
+  "Requirement1": "505",
+  "Requirement2": "503"
+ },
+ {
+  "Id": 14,
+  "Slots": [
+   1,
+   2
+  ],
+  "UnlockLevel": 4,
+  "Requirement1": "603"
+ },
+ {
+  "Id": 15,
+  "Slots": [
+   3
+  ],
+  "UnlockLevel": 4,
+  "Requirement1": "507",
+  "Requirement2": "204",
+  "Requirement3": "303"
+ },
+ {
+  "Id": 16,
+  "Slots": [
+   1,
+   2
+  ],
+  "UnlockLevel": 4,
+  "Requirement1": "206",
+  "Requirement2": "604"
+ }
+]

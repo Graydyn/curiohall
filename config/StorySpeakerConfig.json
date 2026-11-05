@@ -1,0 +1,517 @@
+{
+ "Hugo": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Barnaby": {
+  "Direction": 1,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "BarnabyYoung": {
+  "Direction": 1,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "BarnabyDive": {
+  "Direction": 1,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Aldous": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Prudence": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Cornelia": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Mark": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Mark_Winter": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Rosalind": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "BurgerBoy": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null
+ },
+ "Ambrose": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Sam": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Anjali": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Coconut": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Stranger": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null
+ },
+ "Ramona2": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null
+ },
+ "Ramona": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null
+ },
+ "Dominic": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null
+ },
+ "Riley": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null
+ },
+ "Riley_remote": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null
+ },
+ "Vance": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null
+ },
+ "Vance2": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null
+ },
+ "Zephyrine": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Sales": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null
+ },
+ "Sophia": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Sophia2": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Imelda": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Poppy": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Mermaid": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Gus": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null
+ },
+ "Chad": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null
+ },
+ "Mark2": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null
+ },
+ "Tony": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Windom": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null
+ },
+ "Lloyd": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null
+ },
+ "Zorkee": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null
+ },
+ "Gerald": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Saul": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null
+ },
+ "Anjali_remote": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Hugo_remote": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Mark_remote": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null
+ },
+ "Mark2_remote": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null
+ },
+ "Ambrose_remote": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Barnaby_remote": {
+  "Direction": 1,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Aldous_remote": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Cornelia_remote": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Sam_remote": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Zephyrine2": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Frankie": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Troll": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null,
+  "SpeakerRBackColor": null,
+  "SpeakerRTextColor": null
+ },
+ "Bruno": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Barni": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Bruno2": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Imelda1": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Crane": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Sam_square": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Barnaby_dig": {
+  "Direction": 1,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Monster": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Beast": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Mark_pairwork": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Barnabyroom": {
+  "Direction": 1,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Monster_freefall": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Ranger_freefall": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Atlas": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Babette": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Frankieadv": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Fred": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Varga": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Bast": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "BastVoice": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Thoth": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Anubis": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Heidi": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Cornelia_astronaut": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ },
+ "Dragon": {
+  "Direction": 2,
+  "NameplateColor": null,
+  "NameColor": null,
+  "BubbleColor": null,
+  "TutorialAvatarPos": null
+ }
+}

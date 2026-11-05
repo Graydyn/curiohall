@@ -1,0 +1,52 @@
+[
+ {
+  "Round": 1,
+  "DropItems": [
+   "ff_monster_a_1-20",
+   "ff_monster_b_1-20",
+   "ff_monster_c_1-20"
+  ]
+ },
+ {
+  "Round": 3,
+  "DropItems": [
+   "ff_monster_a_1-8",
+   "ff_monster_b_1-8",
+   "ff_monster_c_1-8",
+   "ff_monster_random_levelup_1-1"
+  ]
+ },
+ {
+  "Round": 5,
+  "DropItems": [
+   "ff_monster_a_1-16",
+   "ff_monster_b_1-16",
+   "ff_monster_c_1-16",
+   "ff_monster_random_levelup_1-1",
+   "ff_monster_rainbow_s_1-1"
+  ]
+ },
+ {
+  "Round": 7,
+  "DropItems": [
+   "ff_monster_a_1-22",
+   "ff_monster_b_1-22",
+   "ff_monster_c_1-22",
+   "ff_monster_random_levelup_1-1",
+   "ff_monster_rainbow_s_1-1",
+   "ff_monster_rainbow_b_1-1"
+  ]
+ },
+ {
+  "Round": 10,
+  "DropItems": [
+   "ff_monster_a_1-27",
+   "ff_monster_b_1-27",
+   "ff_monster_c_1-27",
+   "ff_monster_random_levelup_1-1",
+   "ff_monster_rainbow_s_1-1",
+   "ff_monster_rainbow_b_1-1",
+   "ff_monster_chain_levelup_1-1"
+  ]
+ }
+]

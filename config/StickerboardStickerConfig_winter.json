@@ -1,0 +1,47 @@
+[
+ {
+  "stickerType": 1,
+  "stickerImage": "winterStickerboard_obstacleSticker_1",
+  "reward": "energy-20"
+ },
+ {
+  "stickerType": 2,
+  "stickerImage": "winterStickerboard_obstacleSticker_2",
+  "reward": "energy-20"
+ },
+ {
+  "stickerType": 3,
+  "stickerImage": "winterStickerboard_obstacleSticker_3",
+  "reward": "energy-20"
+ },
+ {
+  "stickerType": 4,
+  "stickerImage": "winterStickerboard_obstacleSticker_4",
+  "reward": "energy-20"
+ },
+ {
+  "stickerType": 5,
+  "stickerImage": "winterStickerboard_obstacleSticker_5",
+  "reward": "energy-20"
+ },
+ {
+  "stickerType": 6,
+  "stickerImage": "winterStickerboard_obstacleSticker_6",
+  "reward": "energy-20"
+ },
+ {
+  "stickerType": 7,
+  "stickerImage": "winterStickerboard_obstacleSticker_7",
+  "reward": "energy-20"
+ },
+ {
+  "stickerType": 8,
+  "stickerImage": "winterStickerboard_obstacleSticker_8",
+  "reward": "energy-20"
+ },
+ {
+  "stickerType": 9,
+  "stickerImage": "winterStickerboard_obstacleSticker_9",
+  "reward": "energy-20"
+ }
+]

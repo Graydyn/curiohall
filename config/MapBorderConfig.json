@@ -1,0 +1,146 @@
+[
+ {
+  "Border": {
+   "minF": -163,
+   "maxF": 300,
+   "minB": -1100,
+   "maxB": -750,
+   "minL": -450,
+   "maxL": -450,
+   "minR": 190,
+   "maxR": 241
+  }
+ },
+ {
+  "Task": "12_1",
+  "Border": {
+   "minF": -19,
+   "maxF": 568,
+   "minB": -1100,
+   "maxB": -750,
+   "minL": -450,
+   "maxL": -450,
+   "minR": 823,
+   "maxR": 871
+  },
+  "AreaLabelList": [
+   null
+  ],
+  "SlotRemote": [
+   null
+  ],
+  "FixItemRemote": [
+   null
+  ]
+ },
+ {
+  "Task": "89_1",
+  "Border": {
+   "minF": 549,
+   "maxF": 1138,
+   "minB": -1100,
+   "maxB": -750,
+   "minL": -450,
+   "maxL": -450,
+   "minR": 823,
+   "maxR": 871
+  },
+  "AreaLabelList": [
+   null
+  ],
+  "SlotRemote": [
+   null
+  ],
+  "FixItemRemote": [
+   null
+  ]
+ },
+ {
+  "Task": "139_1",
+  "Border": {
+   "minF": 549,
+   "maxF": 1138,
+   "minB": -1100,
+   "maxB": -750,
+   "minL": -450,
+   "maxL": -450,
+   "minR": 1000,
+   "maxR": 1000
+  },
+  "AreaLabelList": [
+   null
+  ],
+  "SlotRemote": [
+   null
+  ],
+  "FixItemRemote": [
+   null
+  ]
+ },
+ {
+  "Task": "205_1",
+  "Border": {
+   "minF": 800,
+   "maxF": 1300,
+   "minB": -1100,
+   "maxB": -750,
+   "minL": -450,
+   "maxL": -450,
+   "minR": 1000,
+   "maxR": 1000
+  },
+  "AreaLabelList": [
+   null
+  ],
+  "SlotRemote": [
+   null
+  ],
+  "FixItemRemote": [
+   null
+  ]
+ },
+ {
+  "Task": "229_1",
+  "Border": {
+   "minF": 1350,
+   "maxF": 1650,
+   "minB": -1100,
+   "maxB": -750,
+   "minL": -450,
+   "maxL": -450,
+   "minR": 1000,
+   "maxR": 1000
+  },
+  "AreaLabelList": [
+   null
+  ],
+  "SlotRemote": [
+   null
+  ],
+  "FixItemRemote": [
+   null
+  ]
+ },
+ {
+  "Task": "273_1",
+  "Border": {
+   "minF": 1350,
+   "maxF": 1650,
+   "minB": -1100,
+   "maxB": -750,
+   "minL": -450,
+   "maxL": -450,
+   "minR": 1010,
+   "maxR": 1010
+  },
+  "AreaLabelList": [
+   null
+  ],
+  "SlotRemote": [
+   null
+  ],
+  "FixItemRemote": [
+   null
+  ]
+ }
+]

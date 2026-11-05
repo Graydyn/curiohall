@@ -1,0 +1,84 @@
+[gd_scene load_steps=11 format=3]
+
+[ext_resource type="Script" path="res://scenes/main.gd" id="1"]
+[ext_resource type="Script" path="res://view/board_view.gd" id="2"]
+[ext_resource type="Script" path="res://view/hud.gd" id="3"]
+[ext_resource type="Script" path="res://view/order_bar.gd" id="4"]
+[ext_resource type="Script" path="res://view/inventory_panel.gd" id="5"]
+[ext_resource type="Script" path="res://view/shop_panel.gd" id="6"]
+[ext_resource type="Script" path="res://view/map_panel.gd" id="7"]
+[ext_resource type="Script" path="res://view/society_panel.gd" id="8"]
+[ext_resource type="Script" path="res://view/chronicle_panel.gd" id="9"]
+[ext_resource type="Script" path="res://view/event_panel.gd" id="10"]
+
+[node name="Main" type="Node"]
+script = ExtResource("1")
+
+[node name="BoardView" type="Node2D" parent="."]
+script = ExtResource("2")
+
+[node name="UI" type="CanvasLayer" parent="."]
+
+[node name="Hud" type="VBoxContainer" parent="UI"]
+offset_left = 10.0
+offset_top = 10.0
+offset_right = 350.0
+offset_bottom = 110.0
+script = ExtResource("3")
+
+[node name="OrderBar" type="HBoxContainer" parent="UI"]
+offset_left = 10.0
+offset_top = 120.0
+offset_right = 710.0
+offset_bottom = 240.0
+script = ExtResource("4")
+
+[node name="InventoryPanel" type="VBoxContainer" parent="UI"]
+offset_left = 10.0
+offset_top = 1140.0
+offset_right = 710.0
+offset_bottom = 1270.0
+script = ExtResource("5")
+
+[node name="ShopButton" type="Button" parent="UI"]
+offset_left = 360.0
+offset_top = 10.0
+offset_right = 470.0
+offset_bottom = 50.0
+text = "Shop"
+
+[node name="MapButton" type="Button" parent="UI"]
+offset_left = 480.0
+offset_top = 10.0
+offset_right = 590.0
+offset_bottom = 50.0
+text = "Map"
+
+[node name="SocietyButton" type="Button" parent="UI"]
+offset_left = 600.0
+offset_top = 10.0
+offset_right = 710.0
+offset_bottom = 50.0
+text = "Society"
+
+[node name="ExpeditionButton" type="Button" parent="UI"]
+offset_left = 600.0
+offset_top = 60.0
+offset_right = 710.0
+offset_bottom = 100.0
+text = "Expedition"
+
+[node name="ShopPanel" type="CanvasLayer" parent="."]
+script = ExtResource("6")
+
+[node name="MapPanel" type="CanvasLayer" parent="."]
+script = ExtResource("7")
+
+[node name="SocietyPanel" type="CanvasLayer" parent="."]
+script = ExtResource("8")
+
+[node name="ChroniclePanel" type="CanvasLayer" parent="."]
+script = ExtResource("9")
+
+[node name="EventPanel" type="CanvasLayer" parent="."]
+script = ExtResource("10")

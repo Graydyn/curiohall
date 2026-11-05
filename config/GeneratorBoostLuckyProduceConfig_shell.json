@@ -1,0 +1,517 @@
+{
+ "MoreLuckyProduce": [
+  {
+   "generator": [
+    "105",
+    "106"
+   ],
+   "lucky_chance": [
+    25,
+    1
+   ],
+   "lucky_items": [
+    "204-66",
+    "205-7",
+    "303-24",
+    "304-3"
+   ],
+   "super_items": [
+    "205",
+    "304"
+   ],
+   "level_min": 1,
+   "level_max": 999
+  },
+  {
+   "generator": [
+    "107",
+    "108",
+    "109",
+    "110",
+    "111"
+   ],
+   "lucky_chance": [
+    25,
+    1
+   ],
+   "lucky_items": [
+    "204-10",
+    "205-60",
+    "206-3",
+    "303-25",
+    "304-2"
+   ],
+   "super_items": [
+    "205",
+    "206",
+    "304"
+   ],
+   "level_min": 1,
+   "level_max": 999
+  },
+  {
+   "generator": [
+    "405",
+    "406"
+   ],
+   "lucky_chance": [
+    25,
+    1
+   ],
+   "lucky_items": [
+    "504-66",
+    "505-7",
+    "603-24",
+    "604-3"
+   ],
+   "super_items": [
+    "505",
+    "604"
+   ],
+   "level_min": 1,
+   "level_max": 999
+  },
+  {
+   "generator": [
+    "407",
+    "408",
+    "409",
+    "410",
+    "411"
+   ],
+   "lucky_chance": [
+    25,
+    1
+   ],
+   "lucky_items": [
+    "504-10",
+    "505-60",
+    "506-3",
+    "603-25",
+    "604-2"
+   ],
+   "super_items": [
+    "505",
+    "506",
+    "604"
+   ],
+   "level_min": 1,
+   "level_max": 999
+  },
+  {
+   "generator": [
+    "805"
+   ],
+   "lucky_chance": [
+    25,
+    1
+   ],
+   "lucky_items": [
+    "903-30",
+    "904-50",
+    "905-5"
+   ],
+   "super_items": [
+    "905"
+   ],
+   "level_min": 1,
+   "level_max": 999
+  },
+  {
+   "generator": [
+    "1205"
+   ],
+   "lucky_chance": [
+    30,
+    1
+   ],
+   "lucky_items": [
+    "1303-82",
+    "1304-15",
+    "1305-3"
+   ],
+   "super_items": [
+    "1305"
+   ],
+   "level_min": 1,
+   "level_max": 999
+  },
+  {
+   "generator": [
+    "1206",
+    "1207"
+   ],
+   "lucky_chance": [
+    30,
+    1
+   ],
+   "lucky_items": [
+    "1303-58",
+    "1304-15",
+    "1305-3",
+    "1403-19",
+    "1404-5"
+   ],
+   "super_items": [
+    "1305",
+    "1404"
+   ],
+   "level_min": 1,
+   "level_max": 999
+  },
+  {
+   "generator": [
+    "1208",
+    "1209",
+    "1210",
+    "1211"
+   ],
+   "lucky_chance": [
+    30,
+    1
+   ],
+   "lucky_items": [
+    "1304-62",
+    "1305-13",
+    "1403-20",
+    "1404-5"
+   ],
+   "super_items": [
+    "1305",
+    "1404"
+   ],
+   "level_min": 1,
+   "level_max": 999
+  },
+  {
+   "generator": [
+    "1705"
+   ],
+   "lucky_chance": [
+    30,
+    1
+   ],
+   "lucky_items": [
+    "1803-75",
+    "1804-20",
+    "1805-5"
+   ],
+   "super_items": [
+    "1805"
+   ],
+   "level_min": 1,
+   "level_max": 999
+  },
+  {
+   "generator": [
+    "1706",
+    "1707"
+   ],
+   "lucky_chance": [
+    30,
+    1
+   ],
+   "lucky_items": [
+    "1803-75",
+    "1804-20",
+    "1805-5",
+    "main_g_artifact_3-12",
+    "main_g_artifact_4-3",
+    "main_g_artifact_3-1"
+   ],
+   "super_items": [
+    "1805",
+    "main_g_artifact_4",
+    "main_g_artifact_5"
+   ],
+   "level_min": 1,
+   "level_max": 999
+  },
+  {
+   "generator": [
+    "1708",
+    "1709",
+    "1710",
+    "1711"
+   ],
+   "lucky_chance": [
+    25,
+    1
+   ],
+   "lucky_items": [
+    "1804-84",
+    "1805-13",
+    "1806-3",
+    "main_g_artifact_3-12",
+    "main_g_artifact_4-3",
+    "main_g_artifact_3-1"
+   ],
+   "super_items": [
+    "1805",
+    "1806",
+    "main_g_artifact_4",
+    "main_g_artifact_5"
+   ],
+   "level_min": 1,
+   "level_max": 999
+  }
+ ],
+ "ExtraLuckyProduce": [
+  {
+   "generator": [
+    "105",
+    "106"
+   ],
+   "lucky_chance": [
+    60,
+    1
+   ],
+   "lucky_items": [
+    "204-66",
+    "205-7",
+    "303-24",
+    "304-3"
+   ],
+   "super_items": [
+    "205",
+    "304"
+   ],
+   "level_min": 1,
+   "level_max": 999
+  },
+  {
+   "generator": [
+    "107",
+    "108",
+    "109",
+    "110",
+    "111"
+   ],
+   "lucky_chance": [
+    60,
+    1
+   ],
+   "lucky_items": [
+    "205-70",
+    "206-3",
+    "303-24",
+    "304-3"
+   ],
+   "super_items": [
+    "206",
+    "304"
+   ],
+   "level_min": 1,
+   "level_max": 999
+  },
+  {
+   "generator": [
+    "405",
+    "406"
+   ],
+   "lucky_chance": [
+    60,
+    1
+   ],
+   "lucky_items": [
+    "504-66",
+    "505-7",
+    "603-24",
+    "604-3"
+   ],
+   "super_items": [
+    "505",
+    "604"
+   ],
+   "level_min": 1,
+   "level_max": 999
+  },
+  {
+   "generator": [
+    "407",
+    "408",
+    "409",
+    "410",
+    "411"
+   ],
+   "lucky_chance": [
+    60,
+    1
+   ],
+   "lucky_items": [
+    "505-70",
+    "506-3",
+    "603-24",
+    "604-3"
+   ],
+   "super_items": [
+    "506",
+    "604"
+   ],
+   "level_min": 1,
+   "level_max": 999
+  },
+  {
+   "generator": [
+    "805"
+   ],
+   "lucky_chance": [
+    60,
+    1
+   ],
+   "lucky_items": [
+    "904-90",
+    "905-10"
+   ],
+   "super_items": [
+    "905"
+   ],
+   "level_min": 1,
+   "level_max": 999
+  },
+  {
+   "generator": [
+    "1205"
+   ],
+   "lucky_chance": [
+    80,
+    1
+   ],
+   "lucky_items": [
+    "1303-80",
+    "1304-15",
+    "1305-5"
+   ],
+   "super_items": [
+    "1305"
+   ],
+   "level_min": 1,
+   "level_max": 999
+  },
+  {
+   "generator": [
+    "1206",
+    "1207"
+   ],
+   "lucky_chance": [
+    80,
+    1
+   ],
+   "lucky_items": [
+    "1303-56",
+    "1304-15",
+    "1305-5",
+    "1403-17",
+    "1404-6",
+    "1405-1"
+   ],
+   "super_items": [
+    "1305",
+    "1404",
+    "1405"
+   ],
+   "level_min": 1,
+   "level_max": 999
+  },
+  {
+   "generator": [
+    "1208",
+    "1209",
+    "1210",
+    "1211"
+   ],
+   "lucky_chance": [
+    80,
+    1
+   ],
+   "lucky_items": [
+    "1304-60",
+    "1305-12",
+    "1306-3",
+    "1403-17",
+    "1404-6",
+    "1405-2"
+   ],
+   "super_items": [
+    "1305",
+    "1306",
+    "1404",
+    "1405"
+   ],
+   "level_min": 1,
+   "level_max": 999
+  },
+  {
+   "generator": [
+    "1705"
+   ],
+   "lucky_chance": [
+    70,
+    1
+   ],
+   "lucky_items": [
+    "1803-75",
+    "1804-20",
+    "1805-5"
+   ],
+   "super_items": [
+    "1805"
+   ],
+   "level_min": 1,
+   "level_max": 999
+  },
+  {
+   "generator": [
+    "1706",
+    "1707"
+   ],
+   "lucky_chance": [
+    70,
+    1
+   ],
+   "lucky_items": [
+    "1803-75",
+    "1804-20",
+    "1805-5",
+    "main_g_artifact_3-12",
+    "main_g_artifact_4-3",
+    "main_g_artifact_3-1"
+   ],
+   "super_items": [
+    "1805",
+    "main_g_artifact_4",
+    "main_g_artifact_5"
+   ],
+   "level_min": 1,
+   "level_max": 999
+  },
+  {
+   "generator": [
+    "1708",
+    "1709",
+    "1710",
+    "1711"
+   ],
+   "lucky_chance": [
+    50,
+    1
+   ],
+   "lucky_items": [
+    "1804-84",
+    "1805-13",
+    "1806-3",
+    "main_g_artifact_3-12",
+    "main_g_artifact_4-3",
+    "main_g_artifact_3-1"
+   ],
+   "super_items": [
+    "1805",
+    "1806",
+    "main_g_artifact_4",
+    "main_g_artifact_5"
+   ],
+   "level_min": 1,
+   "level_max": 999
+  }
+ ]
+}

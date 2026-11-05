@@ -1,0 +1,404 @@
+[
+ {
+  "Type": "adv_dogpark_tar_1",
+  "MergedType": "adv_dogpark_tar_2"
+ },
+ {
+  "Type": "adv_dogpark_tar_2",
+  "MergedType": "adv_dogpark_tar_3",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "adv_dogpark_tar_3",
+  "MergedType": "adv_dogpark_tar_4",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "adv_dogpark_tar_4",
+  "MergedType": "adv_dogpark_tar_5",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "adv_dogpark_tar_5",
+  "MergedType": "adv_dogpark_tar_6",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_gold_1-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 2,
+  "Spread_StorageMaxNumber": 2,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "adv_dogpark_tar_6",
+  "MergedType": "adv_dogpark_tar_7",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_gold_2-1",
+   "main_super_energy_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 2,
+  "Spread_StorageMaxNumber": 2,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "adv_dogpark_tar_7",
+  "MergedType": "adv_dogpark_tar_8",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_gold_2-1",
+   "main_super_gold_1-1",
+   "main_super_energy_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "adv_dogpark_tar_8",
+  "MergedType": "adv_dogpark_tar_9",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_gold_2-1",
+   "main_super_gold_1-1",
+   "main_super_energy_2-2",
+   "adv_dogpark_book_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 5,
+  "Spread_StorageMaxNumber": 5,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "adv_dogpark_tar_9",
+  "MergedType": "adv_dogpark_tar_10",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_gold_1-1",
+   "main_super_gold_2-1",
+   "main_super_energy_2-2",
+   "main_gem_super_1-2",
+   "adv_dogpark_book_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 7,
+  "Spread_StorageMaxNumber": 7,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "adv_dogpark_tar_10",
+  "MergedType": "adv_dogpark_tar_11",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_gold_2-1",
+   "main_super_gold_1-2",
+   "main_super_energy_2-3",
+   "main_gem_super_2-1",
+   "main_gem_super_1-2",
+   "adv_dogpark_book_1-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 11,
+  "Spread_StorageMaxNumber": 11,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "adv_dogpark_tar_11",
+  "MergedType": "adv_dogpark_tar_12",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_gold_2-2",
+   "main_super_gold_1-4",
+   "main_super_energy_3-1",
+   "main_super_energy_2-1",
+   "main_gem_super_3-1",
+   "main_gem_super_1-2",
+   "adv_dogpark_book_1-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 13,
+  "Spread_StorageMaxNumber": 13,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "adv_dogpark_tar_12",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "main_super_gold_4-5",
+   "main_super_energy_4-5",
+   "main_gem_super_4-5",
+   "adv_dogpark_book_1-3"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 18,
+  "Spread_StorageMaxNumber": 18,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "adv_dogpark_book_1",
+  "MergedType": "adv_dogpark_book_2"
+ },
+ {
+  "Type": "adv_dogpark_book_2",
+  "MergedType": "adv_dogpark_book_3",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "adv_dogpark_book_3",
+  "MergedType": "adv_dogpark_book_4",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "adv_dogpark_letter_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "adv_dogpark_book_4",
+  "MergedType": "adv_dogpark_book_5",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "adv_dogpark_book_5",
+  "MergedType": "adv_dogpark_book_6",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_energy_2-1",
+   "main_gem_super_1-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "adv_dogpark_book_6",
+  "MergedType": "adv_dogpark_book_7",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_gold_2-1",
+   "main_super_energy_2-2",
+   "main_gem_super_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 4,
+  "Spread_StorageMaxNumber": 4,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "adv_dogpark_book_7",
+  "MergedType": "adv_dogpark_book_8",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_gold_2-1",
+   "main_super_gold_1-2",
+   "main_super_energy_2-1",
+   "main_super_energy_3-1",
+   "main_gem_super_2-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 7,
+  "Spread_StorageMaxNumber": 7,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "adv_dogpark_book_8",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "main_gem_super_3-4",
+   "main_super_energy_4-1",
+   "main_super_energy_3-2",
+   "main_super_gold_3-6"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 13,
+  "Spread_StorageMaxNumber": 13,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "adv_dogpark_baby_1",
+  "ProtectLevel": 2,
+  "Transform_Weight": [
+   "adv_dogpark_baby_a_f_1-10"
+  ],
+  "Swallow_Weight1": [
+   "adv_dogpark_feed_1-10"
+  ],
+  "Swallow_Number1": 1
+ },
+ {
+  "Type": "adv_dogpark_baby_a_1",
+  "ProtectLevel": 2,
+  "Transform_Weight": [
+   "adv_dogpark_baby_b_f_1-10"
+  ],
+  "Swallow_Weight1": [
+   "adv_dogpark_feed_1-10"
+  ],
+  "Swallow_Number1": 1
+ },
+ {
+  "Type": "adv_dogpark_baby_a_f_1",
+  "ProtectLevel": 2,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "adv_dogpark_tar_2-5",
+   "adv_dogpark_letter_1-4",
+   "adv_dogpark_score_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 10,
+  "Transform_Weight": [
+   "adv_dogpark_baby_a_1-10"
+  ],
+  "Spread_ItemMaxNumber": 10,
+  "Spread_StorageMaxNumber": 10,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "adv_dogpark_baby_b_1",
+  "ProtectLevel": 2,
+  "Transform_Weight": [
+   "adv_dogpark_baby_c_f_1-10"
+  ],
+  "Swallow_Weight1": [
+   "adv_dogpark_feed_1-10"
+  ],
+  "Swallow_Number1": 1
+ },
+ {
+  "Type": "adv_dogpark_baby_b_f_1",
+  "ProtectLevel": 2,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "adv_dogpark_tar_2-3",
+   "adv_dogpark_tar_3-3",
+   "adv_dogpark_letter_1-4",
+   "adv_dogpark_score_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 11,
+  "Transform_Weight": [
+   "adv_dogpark_baby_b_1-10"
+  ],
+  "Spread_ItemMaxNumber": 11,
+  "Spread_StorageMaxNumber": 11,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "adv_dogpark_baby_c_1",
+  "ProtectLevel": 2,
+  "Transform_Weight": [
+   "adv_dogpark_baby_d_1-10"
+  ],
+  "Swallow_Weight1": [
+   "adv_dogpark_feed_1-10"
+  ],
+  "Swallow_Number1": 1
+ },
+ {
+  "Type": "adv_dogpark_baby_c_f_1",
+  "ProtectLevel": 2,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "adv_dogpark_tar_2-4",
+   "adv_dogpark_tar_3-4",
+   "adv_dogpark_book_1-1",
+   "adv_dogpark_letter_1-4",
+   "adv_dogpark_score_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 14,
+  "Transform_Weight": [
+   "adv_dogpark_baby_c_1-10"
+  ],
+  "Spread_ItemMaxNumber": 14,
+  "Spread_StorageMaxNumber": 14,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "adv_dogpark_baby_d_1",
+  "ProtectLevel": 2,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "rb#pack_common_2-1",
+   "adv_dogpark_book_1-3",
+   "adv_dogpark_letter_1-4",
+   "adv_dogpark_score_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 9,
+  "Spread_StorageMaxNumber": 9,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "adv_dogpark_feed_1",
+  "ProtectLevel": 2
+ },
+ {
+  "Type": "adv_dogpark_letter_1",
+  "MergedType": "adv_dogpark_letter_2",
+  "ProtectLevel": 4
+ },
+ {
+  "Type": "adv_dogpark_letter_2",
+  "MergedType": "adv_dogpark_letter_3",
+  "ProtectLevel": 4
+ },
+ {
+  "Type": "adv_dogpark_letter_3",
+  "ProtectLevel": 4,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "main_pack_laser_5_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "adv_dogpark_score_1",
+  "MergedType": "adv_dogpark_score_2"
+ },
+ {
+  "Type": "adv_dogpark_score_2",
+  "MergedType": "adv_dogpark_score_3"
+ },
+ {
+  "Type": "adv_dogpark_score_3",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "main_super_gold_3-3",
+   "main_super_gold_4-1",
+   "main_super_energy_3-3",
+   "main_super_energy_4-1",
+   "main_gem_super_3-2",
+   "main_gem_super_4-1",
+   "adv_dogpark_book_1-2",
+   "adv_dogpark_letter_1-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 15,
+  "Spread_StorageMaxNumber": 15,
+  "Spread_CostEnergy": 0
+ }
+]

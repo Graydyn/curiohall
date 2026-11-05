@@ -1,0 +1,5984 @@
+[
+ {
+  "Type": "101",
+  "MergedType": "102",
+  "SellingPrice": 0,
+  "ProtectLevel": 4,
+  "Rare": 1,
+  "BubbleChance": 0
+ },
+ {
+  "Type": "102",
+  "MergedType": "103",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "103",
+  "MergedType": "104",
+  "SellingPrice": 1,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "104",
+  "MergedType": "105",
+  "SellingPrice": 2,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "201-100"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 80,
+  "Spread_StorageMaxNumber": 240,
+  "Spread_CostEnergy": 1,
+  "Spread_ItemRecoveryDuration": 2,
+  "Spread_StorageRecoveryDuration": 30,
+  "Spread_ItemSpeedUpCost": 1,
+  "Spread_StorageSpeedUpCost": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "105",
+  "MergedType": "106",
+  "SellingPrice": 3,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "201-35",
+   "202-2",
+   "301-5"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 80,
+  "Spread_StorageMaxNumber": 240,
+  "Spread_CostEnergy": 1,
+  "Spread_ItemRecoveryDuration": 30,
+  "Spread_StorageRecoveryDuration": 60,
+  "Spread_ItemSpeedUpCost": 1,
+  "Spread_StorageSpeedUpCost": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "106",
+  "MergedType": "107",
+  "SellingPrice": 4,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "201-34",
+   "202-2",
+   "203-1",
+   "301-5"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 80,
+  "Spread_StorageMaxNumber": 240,
+  "Spread_CostEnergy": 1,
+  "Spread_ItemRecoveryDuration": 180,
+  "Spread_StorageRecoveryDuration": 300,
+  "Spread_ItemSpeedUpCost": 3,
+  "Spread_StorageSpeedUpCost": 5,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "107",
+  "MergedType": "108",
+  "SellingPrice": 5,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "201-33",
+   "202-3",
+   "203-1",
+   "301-5"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 80,
+  "Spread_StorageMaxNumber": 240,
+  "Spread_CostEnergy": 1,
+  "Spread_ItemRecoveryDuration": 180,
+  "Spread_StorageRecoveryDuration": 300,
+  "Spread_ItemSpeedUpCost": 3,
+  "Spread_StorageSpeedUpCost": 5,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "108",
+  "MergedType": "109",
+  "SellingPrice": 6,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "201-32",
+   "202-4",
+   "203-1",
+   "301-5"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 80,
+  "Spread_StorageMaxNumber": 240,
+  "Spread_CostEnergy": 1,
+  "Spread_ItemRecoveryDuration": 180,
+  "Spread_StorageRecoveryDuration": 300,
+  "Spread_ItemSpeedUpCost": 3,
+  "Spread_StorageSpeedUpCost": 5,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "109",
+  "MergedType": "110",
+  "SellingPrice": 7,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "201-31",
+   "202-5",
+   "203-1",
+   "301-5"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 80,
+  "Spread_StorageMaxNumber": 240,
+  "Spread_CostEnergy": 1,
+  "Spread_ItemRecoveryDuration": 180,
+  "Spread_StorageRecoveryDuration": 300,
+  "Spread_ItemSpeedUpCost": 3,
+  "Spread_StorageSpeedUpCost": 5,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "110",
+  "MergedType": "111",
+  "SellingPrice": 8,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "201-31",
+   "202-4",
+   "203-2",
+   "301-5"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 80,
+  "Spread_StorageMaxNumber": 240,
+  "Spread_CostEnergy": 1,
+  "Spread_ItemRecoveryDuration": 180,
+  "Spread_StorageRecoveryDuration": 300,
+  "Spread_ItemSpeedUpCost": 3,
+  "Spread_StorageSpeedUpCost": 5,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "111",
+  "SellingPrice": 9,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "201-31",
+   "202-4",
+   "203-2",
+   "301-4",
+   "302-1"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 80,
+  "Spread_StorageMaxNumber": 240,
+  "Spread_CostEnergy": 1,
+  "Spread_ItemRecoveryDuration": 180,
+  "Spread_StorageRecoveryDuration": 300,
+  "Spread_ItemSpeedUpCost": 3,
+  "Spread_StorageSpeedUpCost": 5,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "201",
+  "MergedType": "202",
+  "SellingPrice": 0,
+  "BubbleChance": 0,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "202",
+  "MergedType": "203",
+  "SellingPrice": 0,
+  "BubbleChance": 0,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "203",
+  "MergedType": "204",
+  "SellingPrice": 0,
+  "BubbleChance": 0,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "204",
+  "MergedType": "205",
+  "SellingPrice": 0,
+  "BubbleChance": 3,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "205",
+  "MergedType": "206",
+  "SellingPrice": 1,
+  "BubbleChance": 5,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "206",
+  "MergedType": "207",
+  "SellingPrice": 2,
+  "BubbleChance": 8,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "207",
+  "MergedType": "208",
+  "SellingPrice": 3,
+  "BubbleChance": 10,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "208",
+  "MergedType": "209",
+  "SellingPrice": 4,
+  "BubbleChance": 15,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "209",
+  "MergedType": "210",
+  "SellingPrice": 5,
+  "BubbleChance": 20,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "210",
+  "MergedType": "211",
+  "SellingPrice": 6,
+  "Rare": 1,
+  "BubbleChance": 33,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "211",
+  "MergedType": "212",
+  "SellingPrice": 7,
+  "Rare": 1,
+  "BubbleChance": 33,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "212",
+  "MergedType": "213",
+  "SellingPrice": 8,
+  "Rare": 1,
+  "BubbleChance": 33,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "213",
+  "MergedType": "214",
+  "SellingPrice": 9,
+  "Rare": 1,
+  "BubbleChance": 33,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "214",
+  "MergedType": "215",
+  "SellingPrice": 10,
+  "Rare": 1,
+  "BubbleChance": 33,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "215",
+  "SellingPrice": 11,
+  "Rare": 1,
+  "BubbleChance": 33,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "301",
+  "MergedType": "302",
+  "SellingPrice": 0,
+  "BubbleChance": 0,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "302",
+  "MergedType": "303",
+  "SellingPrice": 0,
+  "BubbleChance": 0,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "303",
+  "MergedType": "304",
+  "SellingPrice": 1,
+  "BubbleChance": 5,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "304",
+  "MergedType": "305",
+  "SellingPrice": 2,
+  "BubbleChance": 10,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "305",
+  "MergedType": "306",
+  "SellingPrice": 3,
+  "BubbleChance": 15,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "306",
+  "MergedType": "307",
+  "SellingPrice": 4,
+  "BubbleChance": 15,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "307",
+  "SellingPrice": 5,
+  "BubbleChance": 0,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "401",
+  "MergedType": "402",
+  "SellingPrice": 0,
+  "ProtectLevel": 4,
+  "Rare": 1,
+  "BubbleChance": 0
+ },
+ {
+  "Type": "402",
+  "MergedType": "403",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "403",
+  "MergedType": "404",
+  "SellingPrice": 1,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "404",
+  "MergedType": "405",
+  "SellingPrice": 2,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "501-100"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 80,
+  "Spread_StorageMaxNumber": 240,
+  "Spread_CostEnergy": 1,
+  "Spread_ItemRecoveryDuration": 6,
+  "Spread_StorageRecoveryDuration": 120,
+  "Spread_ItemSpeedUpCost": 1,
+  "Spread_StorageSpeedUpCost": 2,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "405",
+  "MergedType": "406",
+  "SellingPrice": 3,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "501-37",
+   "601-5"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 80,
+  "Spread_StorageMaxNumber": 240,
+  "Spread_CostEnergy": 1,
+  "Spread_ItemRecoveryDuration": 180,
+  "Spread_StorageRecoveryDuration": 300,
+  "Spread_ItemSpeedUpCost": 3,
+  "Spread_StorageSpeedUpCost": 5,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "406",
+  "MergedType": "407",
+  "SellingPrice": 4,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "501-34",
+   "502-2",
+   "503-1",
+   "601-5"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 80,
+  "Spread_StorageMaxNumber": 240,
+  "Spread_CostEnergy": 1,
+  "Spread_ItemRecoveryDuration": 180,
+  "Spread_StorageRecoveryDuration": 300,
+  "Spread_ItemSpeedUpCost": 3,
+  "Spread_StorageSpeedUpCost": 5,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "407",
+  "MergedType": "408",
+  "SellingPrice": 5,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "501-33",
+   "502-3",
+   "503-1",
+   "601-5"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 80,
+  "Spread_StorageMaxNumber": 240,
+  "Spread_CostEnergy": 1,
+  "Spread_ItemRecoveryDuration": 180,
+  "Spread_StorageRecoveryDuration": 300,
+  "Spread_ItemSpeedUpCost": 3,
+  "Spread_StorageSpeedUpCost": 5,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "408",
+  "MergedType": "409",
+  "SellingPrice": 6,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "501-32",
+   "502-4",
+   "503-1",
+   "601-5"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 80,
+  "Spread_StorageMaxNumber": 240,
+  "Spread_CostEnergy": 1,
+  "Spread_ItemRecoveryDuration": 180,
+  "Spread_StorageRecoveryDuration": 300,
+  "Spread_ItemSpeedUpCost": 3,
+  "Spread_StorageSpeedUpCost": 5,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "409",
+  "MergedType": "410",
+  "SellingPrice": 7,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "501-31",
+   "502-5",
+   "503-1",
+   "601-5"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 80,
+  "Spread_StorageMaxNumber": 240,
+  "Spread_CostEnergy": 1,
+  "Spread_ItemRecoveryDuration": 180,
+  "Spread_StorageRecoveryDuration": 300,
+  "Spread_ItemSpeedUpCost": 3,
+  "Spread_StorageSpeedUpCost": 5,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "410",
+  "MergedType": "411",
+  "SellingPrice": 8,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "501-31",
+   "502-4",
+   "503-2",
+   "601-5"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 80,
+  "Spread_StorageMaxNumber": 240,
+  "Spread_CostEnergy": 1,
+  "Spread_ItemRecoveryDuration": 180,
+  "Spread_StorageRecoveryDuration": 300,
+  "Spread_ItemSpeedUpCost": 3,
+  "Spread_StorageSpeedUpCost": 5,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "411",
+  "SellingPrice": 9,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "501-31",
+   "502-4",
+   "503-2",
+   "601-4",
+   "602-1"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 80,
+  "Spread_StorageMaxNumber": 240,
+  "Spread_CostEnergy": 1,
+  "Spread_ItemRecoveryDuration": 180,
+  "Spread_StorageRecoveryDuration": 300,
+  "Spread_ItemSpeedUpCost": 3,
+  "Spread_StorageSpeedUpCost": 5,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "501",
+  "MergedType": "502",
+  "SellingPrice": 0,
+  "BubbleChance": 0,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "502",
+  "MergedType": "503",
+  "SellingPrice": 0,
+  "BubbleChance": 0,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "503",
+  "MergedType": "504",
+  "SellingPrice": 0,
+  "BubbleChance": 3,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "504",
+  "MergedType": "505",
+  "SellingPrice": 0,
+  "BubbleChance": 5,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "505",
+  "MergedType": "506",
+  "SellingPrice": 1,
+  "BubbleChance": 8,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "506",
+  "MergedType": "507",
+  "SellingPrice": 2,
+  "BubbleChance": 10,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "507",
+  "MergedType": "508",
+  "SellingPrice": 3,
+  "BubbleChance": 15,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "508",
+  "MergedType": "509",
+  "SellingPrice": 4,
+  "BubbleChance": 20,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "509",
+  "MergedType": "510",
+  "SellingPrice": 5,
+  "BubbleChance": 33,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "510",
+  "MergedType": "511",
+  "SellingPrice": 6,
+  "Rare": 1,
+  "BubbleChance": 33,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "511",
+  "MergedType": "512",
+  "SellingPrice": 7,
+  "Rare": 1,
+  "BubbleChance": 33,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "512",
+  "MergedType": "513",
+  "SellingPrice": 8,
+  "Rare": 1,
+  "BubbleChance": 33,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "513",
+  "MergedType": "514",
+  "SellingPrice": 9,
+  "Rare": 1,
+  "BubbleChance": 33,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "514",
+  "SellingPrice": 10,
+  "Rare": 1,
+  "BubbleChance": 33,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "601",
+  "MergedType": "602",
+  "SellingPrice": 0,
+  "BubbleChance": 0,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "602",
+  "MergedType": "603",
+  "SellingPrice": 0,
+  "BubbleChance": 0,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "603",
+  "MergedType": "604",
+  "SellingPrice": 1,
+  "BubbleChance": 5,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "604",
+  "MergedType": "605",
+  "SellingPrice": 2,
+  "BubbleChance": 10,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "605",
+  "MergedType": "606",
+  "SellingPrice": 3,
+  "BubbleChance": 15,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "606",
+  "MergedType": "607",
+  "SellingPrice": 4,
+  "BubbleChance": 15,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "607",
+  "SellingPrice": 5,
+  "BubbleChance": 0,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "701",
+  "MergedType": "702",
+  "SellingPrice": 0,
+  "ProtectLevel": 4,
+  "Rare": 1,
+  "BubbleChance": 0
+ },
+ {
+  "Type": "702",
+  "MergedType": "703",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "703",
+  "MergedType": "704",
+  "SellingPrice": 1,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "704",
+  "MergedType": "705",
+  "SellingPrice": 2,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "705",
+  "MergedType": "706",
+  "SellingPrice": 3,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "801-100"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 26,
+  "Spread_StorageMaxNumber": 78,
+  "Spread_CostEnergy": 1,
+  "Spread_ItemRecoveryDuration": 180,
+  "Spread_StorageRecoveryDuration": 300,
+  "Spread_ItemSpeedUpCost": 3,
+  "Spread_StorageSpeedUpCost": 5,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "706",
+  "MergedType": "707",
+  "SellingPrice": 4,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "801-90",
+   "802-10"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 26,
+  "Spread_StorageMaxNumber": 78,
+  "Spread_CostEnergy": 1,
+  "Spread_ItemRecoveryDuration": 180,
+  "Spread_StorageRecoveryDuration": 300,
+  "Spread_ItemSpeedUpCost": 3,
+  "Spread_StorageSpeedUpCost": 5,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "707",
+  "MergedType": "708",
+  "SellingPrice": 5,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "801-85",
+   "802-15"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 26,
+  "Spread_StorageMaxNumber": 78,
+  "Spread_CostEnergy": 1,
+  "Spread_ItemRecoveryDuration": 180,
+  "Spread_StorageRecoveryDuration": 300,
+  "Spread_ItemSpeedUpCost": 3,
+  "Spread_StorageSpeedUpCost": 5,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "708",
+  "MergedType": "709",
+  "SellingPrice": 6,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "801-85",
+   "802-10",
+   "803-5"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 26,
+  "Spread_StorageMaxNumber": 78,
+  "Spread_CostEnergy": 1,
+  "Spread_ItemRecoveryDuration": 180,
+  "Spread_StorageRecoveryDuration": 300,
+  "Spread_ItemSpeedUpCost": 3,
+  "Spread_StorageSpeedUpCost": 5,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "709",
+  "MergedType": "710",
+  "SellingPrice": 7,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "801-82",
+   "802-13",
+   "803-5"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 26,
+  "Spread_StorageMaxNumber": 78,
+  "Spread_CostEnergy": 1,
+  "Spread_ItemRecoveryDuration": 180,
+  "Spread_StorageRecoveryDuration": 300,
+  "Spread_ItemSpeedUpCost": 3,
+  "Spread_StorageSpeedUpCost": 5,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "710",
+  "MergedType": "711",
+  "SellingPrice": 8,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "801-80",
+   "802-15",
+   "803-5"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 26,
+  "Spread_StorageMaxNumber": 78,
+  "Spread_CostEnergy": 1,
+  "Spread_ItemRecoveryDuration": 180,
+  "Spread_StorageRecoveryDuration": 300,
+  "Spread_ItemSpeedUpCost": 3,
+  "Spread_StorageSpeedUpCost": 5,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "711",
+  "SellingPrice": 9,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "801-80",
+   "802-15",
+   "803-5",
+   "901-20"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 26,
+  "Spread_StorageMaxNumber": 78,
+  "Spread_CostEnergy": 1,
+  "Spread_ItemRecoveryDuration": 180,
+  "Spread_StorageRecoveryDuration": 300,
+  "Spread_ItemSpeedUpCost": 3,
+  "Spread_StorageSpeedUpCost": 5,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "801",
+  "MergedType": "802",
+  "SellingPrice": 0,
+  "BubbleChance": 0,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "802",
+  "MergedType": "803",
+  "SellingPrice": 0,
+  "BubbleChance": 3,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "803",
+  "MergedType": "804",
+  "SellingPrice": 1,
+  "BubbleChance": 5,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "804",
+  "MergedType": "805",
+  "SellingPrice": 2,
+  "BubbleChance": 8,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "805",
+  "SellingPrice": 3,
+  "BubbleChance": 10,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "901-95",
+   "902-5"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 12,
+  "Spread_CostEnergy": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "901",
+  "MergedType": "902",
+  "SellingPrice": 0,
+  "FirstLevelGeneratorChain": "8",
+  "SecondLevelGeneratorChain": "7",
+  "BubbleChance": 0,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "902",
+  "MergedType": "903",
+  "SellingPrice": 0,
+  "FirstLevelGeneratorChain": "8",
+  "SecondLevelGeneratorChain": "7",
+  "BubbleChance": 1,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "903",
+  "MergedType": "904",
+  "SellingPrice": 1,
+  "FirstLevelGeneratorChain": "8",
+  "SecondLevelGeneratorChain": "7",
+  "BubbleChance": 3,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "904",
+  "MergedType": "905",
+  "SellingPrice": 2,
+  "FirstLevelGeneratorChain": "8",
+  "SecondLevelGeneratorChain": "7",
+  "BubbleChance": 5,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "905",
+  "MergedType": "906",
+  "SellingPrice": 3,
+  "FirstLevelGeneratorChain": "8",
+  "SecondLevelGeneratorChain": "7",
+  "BubbleChance": 10,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "906",
+  "MergedType": "907",
+  "SellingPrice": 4,
+  "FirstLevelGeneratorChain": "8",
+  "SecondLevelGeneratorChain": "7",
+  "BubbleChance": 15,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "907",
+  "MergedType": "908",
+  "SellingPrice": 5,
+  "Rare": 1,
+  "FirstLevelGeneratorChain": "8",
+  "SecondLevelGeneratorChain": "7",
+  "BubbleChance": 20,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "908",
+  "MergedType": "909",
+  "SellingPrice": 6,
+  "Rare": 1,
+  "FirstLevelGeneratorChain": "8",
+  "SecondLevelGeneratorChain": "7",
+  "BubbleChance": 25,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "909",
+  "MergedType": "910",
+  "SellingPrice": 7,
+  "Rare": 1,
+  "FirstLevelGeneratorChain": "8",
+  "SecondLevelGeneratorChain": "7",
+  "BubbleChance": 33,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "910",
+  "SellingPrice": 8,
+  "Rare": 1,
+  "FirstLevelGeneratorChain": "8",
+  "SecondLevelGeneratorChain": "7",
+  "BubbleChance": 33,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1001",
+  "MergedType": "1002",
+  "SellingPrice": 0,
+  "ProtectLevel": 6,
+  "Rare": 1,
+  "BubbleChance": 0
+ },
+ {
+  "Type": "1002",
+  "MergedType": "1003",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1003",
+  "MergedType": "1004",
+  "SellingPrice": 1,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1004",
+  "MergedType": "1005",
+  "SellingPrice": 2,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1005",
+  "MergedType": "1006",
+  "SellingPrice": 3,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1006",
+  "MergedType": "1007",
+  "SellingPrice": 4,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "1101-10"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 6,
+  "Spread_StorageMaxNumber": 12,
+  "Spread_CostEnergy": 0,
+  "Spread_ItemRecoveryDuration": 3600,
+  "Spread_StorageRecoveryDuration": 7200,
+  "Spread_ItemSpeedUpCost": 55,
+  "Spread_StorageSpeedUpCost": 97,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1007",
+  "MergedType": "1008",
+  "SellingPrice": 5,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "1101-90",
+   "1102-10"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 8,
+  "Spread_StorageMaxNumber": 16,
+  "Spread_CostEnergy": 0,
+  "Spread_ItemRecoveryDuration": 4800,
+  "Spread_StorageRecoveryDuration": 9600,
+  "Spread_ItemSpeedUpCost": 68,
+  "Spread_StorageSpeedUpCost": 121,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1008",
+  "MergedType": "1009",
+  "SellingPrice": 6,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "1101-80",
+   "1102-20"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 10,
+  "Spread_StorageMaxNumber": 20,
+  "Spread_CostEnergy": 0,
+  "Spread_ItemRecoveryDuration": 6600,
+  "Spread_StorageRecoveryDuration": 13200,
+  "Spread_ItemSpeedUpCost": 88,
+  "Spread_StorageSpeedUpCost": 165,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1009",
+  "MergedType": "1010",
+  "SellingPrice": 7,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "1101-75",
+   "1102-25"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 12,
+  "Spread_StorageMaxNumber": 24,
+  "Spread_CostEnergy": 0,
+  "Spread_ItemRecoveryDuration": 9600,
+  "Spread_StorageRecoveryDuration": 19200,
+  "Spread_ItemSpeedUpCost": 121,
+  "Spread_StorageSpeedUpCost": 234,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1010",
+  "SellingPrice": 8,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "1101-80",
+   "1102-15",
+   "1103-5"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 12,
+  "Spread_StorageMaxNumber": 24,
+  "Spread_CostEnergy": 0,
+  "Spread_ItemRecoveryDuration": 9600,
+  "Spread_StorageRecoveryDuration": 19200,
+  "Spread_ItemSpeedUpCost": 121,
+  "Spread_StorageSpeedUpCost": 234,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1101",
+  "MergedType": "1102",
+  "SellingPrice": 0,
+  "BubbleChance": 0,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "1102",
+  "MergedType": "1103",
+  "SellingPrice": 0,
+  "BubbleChance": 5,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1103",
+  "MergedType": "1104",
+  "SellingPrice": 1,
+  "BubbleChance": 10,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1104",
+  "MergedType": "1105",
+  "SellingPrice": 2,
+  "BubbleChance": 15,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1105",
+  "MergedType": "1106",
+  "SellingPrice": 3,
+  "BubbleChance": 25,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1106",
+  "MergedType": "1107",
+  "SellingPrice": 4,
+  "BubbleChance": 25,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1107",
+  "SellingPrice": 5,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1201",
+  "MergedType": "1202",
+  "SellingPrice": 0,
+  "ProtectLevel": 4,
+  "Rare": 1,
+  "BubbleChance": 0
+ },
+ {
+  "Type": "1202",
+  "MergedType": "1203",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1203",
+  "MergedType": "1204",
+  "SellingPrice": 1,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1204",
+  "MergedType": "1205",
+  "SellingPrice": 2,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1205",
+  "MergedType": "1206",
+  "SellingPrice": 3,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "1301-100"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 36,
+  "Spread_StorageMaxNumber": 108,
+  "Spread_CostEnergy": 1,
+  "Spread_ItemRecoveryDuration": 180,
+  "Spread_StorageRecoveryDuration": 300,
+  "Spread_ItemSpeedUpCost": 3,
+  "Spread_StorageSpeedUpCost": 5,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1206",
+  "MergedType": "1207",
+  "SellingPrice": 4,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "1301-34",
+   "1401-3"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 36,
+  "Spread_StorageMaxNumber": 108,
+  "Spread_CostEnergy": 1,
+  "Spread_ItemRecoveryDuration": 180,
+  "Spread_StorageRecoveryDuration": 300,
+  "Spread_ItemSpeedUpCost": 3,
+  "Spread_StorageSpeedUpCost": 5,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1207",
+  "MergedType": "1208",
+  "SellingPrice": 5,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "1301-33",
+   "1302-1",
+   "1401-5"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 36,
+  "Spread_StorageMaxNumber": 108,
+  "Spread_CostEnergy": 1,
+  "Spread_ItemRecoveryDuration": 180,
+  "Spread_StorageRecoveryDuration": 300,
+  "Spread_ItemSpeedUpCost": 3,
+  "Spread_StorageSpeedUpCost": 5,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1208",
+  "MergedType": "1209",
+  "SellingPrice": 6,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "1301-34",
+   "1302-1",
+   "1303-1",
+   "1401-6"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 36,
+  "Spread_StorageMaxNumber": 108,
+  "Spread_CostEnergy": 1,
+  "Spread_ItemRecoveryDuration": 180,
+  "Spread_StorageRecoveryDuration": 300,
+  "Spread_ItemSpeedUpCost": 3,
+  "Spread_StorageSpeedUpCost": 5,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1209",
+  "MergedType": "1210",
+  "SellingPrice": 7,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "1301-33",
+   "1302-2",
+   "1303-1",
+   "1401-6"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 36,
+  "Spread_StorageMaxNumber": 108,
+  "Spread_CostEnergy": 1,
+  "Spread_ItemRecoveryDuration": 180,
+  "Spread_StorageRecoveryDuration": 300,
+  "Spread_ItemSpeedUpCost": 3,
+  "Spread_StorageSpeedUpCost": 5,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1210",
+  "MergedType": "1211",
+  "SellingPrice": 8,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "1301-32",
+   "1302-3",
+   "1303-1",
+   "1401-6"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 36,
+  "Spread_StorageMaxNumber": 108,
+  "Spread_CostEnergy": 1,
+  "Spread_ItemRecoveryDuration": 180,
+  "Spread_StorageRecoveryDuration": 300,
+  "Spread_ItemSpeedUpCost": 3,
+  "Spread_StorageSpeedUpCost": 5,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1211",
+  "SellingPrice": 8,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "1301-32",
+   "1302-3",
+   "1303-1",
+   "1401-5",
+   "1402-1"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 36,
+  "Spread_StorageMaxNumber": 108,
+  "Spread_CostEnergy": 1,
+  "Spread_ItemRecoveryDuration": 180,
+  "Spread_StorageRecoveryDuration": 300,
+  "Spread_ItemSpeedUpCost": 3,
+  "Spread_StorageSpeedUpCost": 5,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1301",
+  "MergedType": "1302",
+  "SellingPrice": 0,
+  "BubbleChance": 0,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "1302",
+  "MergedType": "1303",
+  "SellingPrice": 0,
+  "BubbleChance": 0,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1303",
+  "MergedType": "1304",
+  "SellingPrice": 1,
+  "BubbleChance": 5,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1304",
+  "MergedType": "1305",
+  "SellingPrice": 2,
+  "BubbleChance": 10,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1305",
+  "MergedType": "1306",
+  "SellingPrice": 3,
+  "BubbleChance": 15,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1306",
+  "MergedType": "1307",
+  "SellingPrice": 4,
+  "BubbleChance": 20,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1307",
+  "MergedType": "1308",
+  "SellingPrice": 5,
+  "Rare": 1,
+  "BubbleChance": 25,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1308",
+  "MergedType": "1309",
+  "SellingPrice": 6,
+  "Rare": 1,
+  "BubbleChance": 30,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1309",
+  "MergedType": "1310",
+  "SellingPrice": 7,
+  "Rare": 1,
+  "BubbleChance": 35,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1310",
+  "MergedType": "1311",
+  "SellingPrice": 8,
+  "Rare": 1,
+  "BubbleChance": 40,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1311",
+  "SellingPrice": 9,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1401",
+  "MergedType": "1402",
+  "SellingPrice": 0,
+  "BubbleChance": 0,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "1402",
+  "MergedType": "1403",
+  "SellingPrice": 0,
+  "BubbleChance": 10,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1403",
+  "MergedType": "1404",
+  "SellingPrice": 1,
+  "BubbleChance": 15,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1404",
+  "MergedType": "1405",
+  "SellingPrice": 2,
+  "BubbleChance": 20,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1405",
+  "MergedType": "1406",
+  "SellingPrice": 3,
+  "Rare": 1,
+  "BubbleChance": 25,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1406",
+  "MergedType": "1407",
+  "SellingPrice": 4,
+  "Rare": 1,
+  "BubbleChance": 30,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1407",
+  "SellingPrice": 5,
+  "Rare": 1,
+  "BubbleChance": 35,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1501",
+  "MergedType": "1502",
+  "SellingPrice": 0,
+  "ProtectLevel": 3,
+  "BubbleChance": 0
+ },
+ {
+  "Type": "1502",
+  "MergedType": "1503",
+  "SellingPrice": 0,
+  "BubbleChance": 0,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1503",
+  "MergedType": "1504",
+  "SellingPrice": 1,
+  "BubbleChance": 0,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1504",
+  "MergedType": "1505",
+  "SellingPrice": 2,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "1601-100"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 6,
+  "Spread_StorageMaxNumber": 12,
+  "Spread_CostEnergy": 1,
+  "Spread_ItemRecoveryDuration": 9000,
+  "Spread_StorageRecoveryDuration": 18000,
+  "Spread_ItemSpeedUpCost": 117,
+  "Spread_StorageSpeedUpCost": 220,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1505",
+  "MergedType": "1506",
+  "SellingPrice": 3,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "1601-90",
+   "1602-10"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 8,
+  "Spread_StorageMaxNumber": 16,
+  "Spread_CostEnergy": 1,
+  "Spread_ItemRecoveryDuration": 14400,
+  "Spread_StorageRecoveryDuration": 28800,
+  "Spread_ItemSpeedUpCost": 180,
+  "Spread_StorageSpeedUpCost": 348,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1506",
+  "MergedType": "1507",
+  "SellingPrice": 4,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "1601-80",
+   "1602-15",
+   "1603-5"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 10,
+  "Spread_StorageMaxNumber": 20,
+  "Spread_CostEnergy": 1,
+  "Spread_ItemRecoveryDuration": 19800,
+  "Spread_StorageRecoveryDuration": 39600,
+  "Spread_ItemSpeedUpCost": 242,
+  "Spread_StorageSpeedUpCost": 468,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1507",
+  "SellingPrice": 5,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "1601-70",
+   "1602-20",
+   "1603-10"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 12,
+  "Spread_StorageMaxNumber": 24,
+  "Spread_CostEnergy": 1,
+  "Spread_ItemRecoveryDuration": 21600,
+  "Spread_StorageRecoveryDuration": 43200,
+  "Spread_ItemSpeedUpCost": 266,
+  "Spread_StorageSpeedUpCost": 502,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1601",
+  "MergedType": "1602",
+  "SellingPrice": 0,
+  "BubbleChance": 0,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "1602",
+  "MergedType": "1603",
+  "SellingPrice": 0,
+  "BubbleChance": 3,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "1603",
+  "MergedType": "1604",
+  "SellingPrice": 0,
+  "BubbleChance": 5,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "1604",
+  "MergedType": "1605",
+  "SellingPrice": 1,
+  "BubbleChance": 10,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "1605",
+  "MergedType": "1606",
+  "SellingPrice": 2,
+  "BubbleChance": 15,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "1606",
+  "MergedType": "1607",
+  "SellingPrice": 3,
+  "BubbleChance": 25,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "1607",
+  "MergedType": "1608",
+  "SellingPrice": 4,
+  "BubbleChance": 33,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "1608",
+  "MergedType": "1609",
+  "SellingPrice": 5,
+  "BubbleChance": 75,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "1609",
+  "MergedType": "1610",
+  "SellingPrice": 6,
+  "BubbleChance": 100,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "1610",
+  "SellingPrice": 7,
+  "BubbleChance": 0
+ },
+ {
+  "Type": "1701",
+  "MergedType": "1702",
+  "SellingPrice": 0,
+  "ProtectLevel": 4,
+  "Rare": 1,
+  "BubbleChance": 0
+ },
+ {
+  "Type": "1702",
+  "MergedType": "1703",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1703",
+  "MergedType": "1704",
+  "SellingPrice": 1,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1704",
+  "MergedType": "1705",
+  "SellingPrice": 2,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1705",
+  "MergedType": "1706",
+  "SellingPrice": 3,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "1801-100"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 42,
+  "Spread_StorageMaxNumber": 126,
+  "Spread_CostEnergy": 1,
+  "Spread_ItemRecoveryDuration": 180,
+  "Spread_StorageRecoveryDuration": 300,
+  "Spread_ItemSpeedUpCost": 3,
+  "Spread_StorageSpeedUpCost": 5,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1706",
+  "MergedType": "1707",
+  "SellingPrice": 4,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "1801-95",
+   "1802-5"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 42,
+  "Spread_StorageMaxNumber": 126,
+  "Spread_CostEnergy": 1,
+  "Spread_ItemRecoveryDuration": 180,
+  "Spread_StorageRecoveryDuration": 300,
+  "Spread_ItemSpeedUpCost": 3,
+  "Spread_StorageSpeedUpCost": 5,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1707",
+  "MergedType": "1708",
+  "SellingPrice": 5,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "1801-90",
+   "1802-10"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 42,
+  "Spread_StorageMaxNumber": 126,
+  "Spread_CostEnergy": 1,
+  "Spread_ItemRecoveryDuration": 180,
+  "Spread_StorageRecoveryDuration": 300,
+  "Spread_ItemSpeedUpCost": 3,
+  "Spread_StorageSpeedUpCost": 5,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1708",
+  "MergedType": "1709",
+  "SellingPrice": 6,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "1801-90",
+   "1802-8",
+   "1803-2"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 42,
+  "Spread_StorageMaxNumber": 126,
+  "Spread_CostEnergy": 1,
+  "Spread_ItemRecoveryDuration": 180,
+  "Spread_StorageRecoveryDuration": 300,
+  "Spread_ItemSpeedUpCost": 3,
+  "Spread_StorageSpeedUpCost": 5,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1709",
+  "MergedType": "1710",
+  "SellingPrice": 7,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "1801-89",
+   "1802-8",
+   "1803-3"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 42,
+  "Spread_StorageMaxNumber": 126,
+  "Spread_CostEnergy": 1,
+  "Spread_ItemRecoveryDuration": 180,
+  "Spread_StorageRecoveryDuration": 300,
+  "Spread_ItemSpeedUpCost": 3,
+  "Spread_StorageSpeedUpCost": 5,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1710",
+  "MergedType": "1711",
+  "SellingPrice": 8,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "1801-88",
+   "1802-9",
+   "1803-3"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 42,
+  "Spread_StorageMaxNumber": 126,
+  "Spread_CostEnergy": 1,
+  "Spread_ItemRecoveryDuration": 180,
+  "Spread_StorageRecoveryDuration": 300,
+  "Spread_ItemSpeedUpCost": 3,
+  "Spread_StorageSpeedUpCost": 5,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1711",
+  "SellingPrice": 9,
+  "Rare": 1,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "1801-87",
+   "1802-9",
+   "1803-4"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 42,
+  "Spread_StorageMaxNumber": 126,
+  "Spread_CostEnergy": 1,
+  "Spread_ItemRecoveryDuration": 180,
+  "Spread_StorageRecoveryDuration": 300,
+  "Spread_ItemSpeedUpCost": 3,
+  "Spread_StorageSpeedUpCost": 5,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1801",
+  "MergedType": "1802",
+  "SellingPrice": 0,
+  "BubbleChance": 0,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "1802",
+  "MergedType": "1803",
+  "SellingPrice": 0,
+  "BubbleChance": 0,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1803",
+  "MergedType": "1804",
+  "SellingPrice": 1,
+  "BubbleChance": 5,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1804",
+  "MergedType": "1805",
+  "SellingPrice": 2,
+  "BubbleChance": 10,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1805",
+  "MergedType": "1806",
+  "SellingPrice": 3,
+  "BubbleChance": 15,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1806",
+  "MergedType": "1807",
+  "SellingPrice": 4,
+  "BubbleChance": 20,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1807",
+  "MergedType": "1808",
+  "SellingPrice": 5,
+  "BubbleChance": 25,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1808",
+  "MergedType": "1809",
+  "SellingPrice": 6,
+  "Rare": 1,
+  "BubbleChance": 30,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1809",
+  "MergedType": "1810",
+  "SellingPrice": 7,
+  "Rare": 1,
+  "BubbleChance": 35,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1810",
+  "MergedType": "1811",
+  "SellingPrice": 8,
+  "Rare": 1,
+  "BubbleChance": 40,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1811",
+  "MergedType": "1812",
+  "SellingPrice": 9,
+  "Rare": 1,
+  "BubbleChance": 40,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1812",
+  "SellingPrice": 10,
+  "Rare": 1,
+  "BubbleChance": 40,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1901",
+  "MergedType": "1902",
+  "SellingPrice": 0,
+  "ProtectLevel": 2,
+  "BubbleChance": 0
+ },
+ {
+  "Type": "1902",
+  "MergedType": "1903",
+  "SellingPrice": 0,
+  "BubbleChance": 0,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1903",
+  "MergedType": "1904",
+  "SellingPrice": 1,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2001-10"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 4,
+  "Spread_StorageMaxNumber": 8,
+  "Spread_CostEnergy": 1,
+  "Spread_ItemRecoveryDuration": 3600,
+  "Spread_StorageRecoveryDuration": 7200,
+  "Spread_ItemSpeedUpCost": 55,
+  "Spread_StorageSpeedUpCost": 97,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1904",
+  "MergedType": "1905",
+  "SellingPrice": 2,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2001-90",
+   "2002-10"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 6,
+  "Spread_StorageMaxNumber": 12,
+  "Spread_CostEnergy": 1,
+  "Spread_ItemRecoveryDuration": 7200,
+  "Spread_StorageRecoveryDuration": 14400,
+  "Spread_ItemSpeedUpCost": 97,
+  "Spread_StorageSpeedUpCost": 180,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1905",
+  "MergedType": "1906",
+  "SellingPrice": 3,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2001-80",
+   "2002-15",
+   "2003-5"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 8,
+  "Spread_StorageMaxNumber": 16,
+  "Spread_CostEnergy": 1,
+  "Spread_ItemRecoveryDuration": 10800,
+  "Spread_StorageRecoveryDuration": 21600,
+  "Spread_ItemSpeedUpCost": 138,
+  "Spread_StorageSpeedUpCost": 266,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "1906",
+  "SellingPrice": 4,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2001-75",
+   "2002-15",
+   "2003-10"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 10,
+  "Spread_StorageMaxNumber": 20,
+  "Spread_CostEnergy": 1,
+  "Spread_ItemRecoveryDuration": 14400,
+  "Spread_StorageRecoveryDuration": 28800,
+  "Spread_ItemSpeedUpCost": 180,
+  "Spread_StorageSpeedUpCost": 348,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "2001",
+  "MergedType": "2002",
+  "SellingPrice": 0,
+  "BubbleChance": 0,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "2002",
+  "MergedType": "2003",
+  "SellingPrice": 0,
+  "BubbleChance": 3,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "2003",
+  "MergedType": "2004",
+  "SellingPrice": 0,
+  "BubbleChance": 5,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "2004",
+  "MergedType": "2005",
+  "SellingPrice": 1,
+  "BubbleChance": 10,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "2005",
+  "MergedType": "2006",
+  "SellingPrice": 2,
+  "BubbleChance": 15,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "2006",
+  "MergedType": "2007",
+  "SellingPrice": 3,
+  "BubbleChance": 25,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "2007",
+  "MergedType": "2008",
+  "SellingPrice": 4,
+  "BubbleChance": 33,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "2008",
+  "MergedType": "2009",
+  "SellingPrice": 5,
+  "BubbleChance": 75,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "2009",
+  "MergedType": "2010",
+  "SellingPrice": 6,
+  "BubbleChance": 100,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "2010",
+  "SellingPrice": 7,
+  "BubbleChance": 0
+ },
+ {
+  "Type": "2401",
+  "MergedType": "2402",
+  "CollectRewards": [
+   "gold-2"
+  ],
+  "BubbleChance": 0,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "2402",
+  "MergedType": "2403",
+  "CollectRewards": [
+   "gold-6"
+  ],
+  "BubbleChance": 0,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "2403",
+  "MergedType": "2404",
+  "CollectRewards": [
+   "gold-14"
+  ],
+  "BubbleChance": 0,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "2404",
+  "MergedType": "2405",
+  "CollectRewards": [
+   "gold-30"
+  ],
+  "BubbleChance": 0,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "2405",
+  "CollectRewards": [
+   "gold-62"
+  ],
+  "BubbleChance": 0,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "2501",
+  "MergedType": "2502",
+  "CollectRewards": [
+   "gem-1"
+  ],
+  "BubbleChance": 0,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "2502",
+  "MergedType": "2503",
+  "CollectRewards": [
+   "gem-3"
+  ],
+  "BubbleChance": 0,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "2503",
+  "MergedType": "2504",
+  "CollectRewards": [
+   "gem-7"
+  ],
+  "BubbleChance": 0,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "2504",
+  "CollectRewards": [
+   "gem-15"
+  ],
+  "BubbleChance": 0,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "2601",
+  "MergedType": "2602",
+  "CollectRewards": [
+   "energy-2"
+  ],
+  "BubbleChance": 0,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "2602",
+  "MergedType": "2603",
+  "CollectRewards": [
+   "energy-6"
+  ],
+  "BubbleChance": 0,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "2603",
+  "MergedType": "2604",
+  "CollectRewards": [
+   "energy-15"
+  ],
+  "BubbleChance": 0,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "2604",
+  "MergedType": "2605",
+  "CollectRewards": [
+   "energy-40"
+  ],
+  "BubbleChance": 0,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "2605",
+  "CollectRewards": [
+   "energy-100"
+  ],
+  "BubbleChance": 0,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "2701",
+  "MergedType": "2702",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "101-2",
+   "401-1",
+   "701-1",
+   "2401-2",
+   "2501-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 8,
+  "Spread_StorageMaxNumber": 8,
+  "Spread_CostEnergy": 0,
+  "Spread_OpenDuration": 480,
+  "Spread_OpenSpeedUpCost": 8
+ },
+ {
+  "Type": "2702",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "102-2",
+   "402-1",
+   "702-1",
+   "2401-1",
+   "2501-1",
+   "2402-3",
+   "2502-3"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 12,
+  "Spread_StorageMaxNumber": 12,
+  "Spread_CostEnergy": 0,
+  "Spread_OpenDuration": 1200,
+  "Spread_OpenSpeedUpCost": 19
+ },
+ {
+  "Type": "2801",
+  "MergedType": "2802",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "1201-2",
+   "1001-1",
+   "1701-1",
+   "2401-2",
+   "2501-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 8,
+  "Spread_StorageMaxNumber": 8,
+  "Spread_CostEnergy": 0,
+  "Spread_OpenDuration": 480,
+  "Spread_OpenSpeedUpCost": 8
+ },
+ {
+  "Type": "2802",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "1202-2",
+   "1002-1",
+   "1702-1",
+   "2401-1",
+   "2501-1",
+   "2402-3",
+   "2502-3"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 12,
+  "Spread_StorageMaxNumber": 12,
+  "Spread_CostEnergy": 0,
+  "Spread_OpenDuration": 1200,
+  "Spread_OpenSpeedUpCost": 19
+ },
+ {
+  "Type": "2901",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2601-40",
+   "2602-30",
+   "2603-20",
+   "2604-10"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 5,
+  "Spread_StorageMaxNumber": 5,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "3001",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "203-5",
+   "204-4",
+   "303-1",
+   "503-5",
+   "504-4",
+   "603-1"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 5,
+  "Spread_StorageMaxNumber": 5,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "3101",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2401-40",
+   "2402-30",
+   "2403-20",
+   "2404-10"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 5,
+  "Spread_StorageMaxNumber": 5,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "3201"
+ },
+ {
+  "Type": "3301"
+ },
+ {
+  "Type": "3401"
+ },
+ {
+  "Type": "3501",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2401-2",
+   "2402-1",
+   "2501-2",
+   "2502-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 6,
+  "Spread_StorageMaxNumber": 6,
+  "Spread_CostEnergy": 0,
+  "Spread_OpenDuration": 120,
+  "Spread_OpenSpeedUpCost": 2
+ },
+ {
+  "Type": "3601",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "203-10",
+   "204-10",
+   "205-30",
+   "503-10",
+   "504-10",
+   "505-30"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 10,
+  "Spread_StorageMaxNumber": 10,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "3701",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "202-6",
+   "203-10",
+   "204-10",
+   "205-7",
+   "502-6",
+   "503-10",
+   "504-10",
+   "505-7",
+   "902-6",
+   "903-10",
+   "904-10",
+   "905-7"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 10,
+  "Spread_StorageMaxNumber": 10,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "3801",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "1102-6",
+   "1103-10",
+   "1104-10",
+   "1105-7",
+   "1302-6",
+   "1303-10",
+   "1304-10",
+   "1305-7",
+   "1802-6",
+   "1803-10",
+   "1804-10",
+   "1805-7"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 10,
+  "Spread_StorageMaxNumber": 10,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "3901",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "902-6",
+   "903-10",
+   "904-10",
+   "905-7",
+   "1302-6",
+   "1303-10",
+   "1304-10",
+   "1305-7",
+   "1402-6",
+   "1403-10",
+   "1404-10",
+   "1405-7"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 10,
+  "Spread_StorageMaxNumber": 10,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "4001",
+  "BubbleChance": 0,
+  "Choices": [
+   "101",
+   "401",
+   "701"
+  ]
+ },
+ {
+  "Type": "4101",
+  "BubbleChance": 0,
+  "Choices": [
+   "207",
+   "507",
+   "905"
+  ]
+ },
+ {
+  "Type": "8301",
+  "MergedType": "8302",
+  "SellingPrice": 0,
+  "BubbleChance": 0
+ },
+ {
+  "Type": "8302",
+  "MergedType": "8303",
+  "SellingPrice": 0,
+  "BubbleChance": 0
+ },
+ {
+  "Type": "8303",
+  "MergedType": "8304",
+  "SellingPrice": 0,
+  "BubbleChance": 0
+ },
+ {
+  "Type": "8304",
+  "MergedType": "8305",
+  "SellingPrice": 1,
+  "BubbleChance": 5
+ },
+ {
+  "Type": "8305",
+  "MergedType": "8306",
+  "SellingPrice": 2,
+  "BubbleChance": 7
+ },
+ {
+  "Type": "8306",
+  "MergedType": "8307",
+  "SellingPrice": 3,
+  "BubbleChance": 10
+ },
+ {
+  "Type": "8307",
+  "MergedType": "8308",
+  "SellingPrice": 4,
+  "BubbleChance": 15
+ },
+ {
+  "Type": "8308",
+  "MergedType": "8309",
+  "SellingPrice": 5,
+  "BubbleChance": 20
+ },
+ {
+  "Type": "8309",
+  "MergedType": "8310",
+  "SellingPrice": 6,
+  "BubbleChance": 25
+ },
+ {
+  "Type": "8310",
+  "MergedType": "8311",
+  "SellingPrice": 7,
+  "BubbleChance": 30
+ },
+ {
+  "Type": "8311",
+  "MergedType": "8312",
+  "SellingPrice": 8,
+  "BubbleChance": 35
+ },
+ {
+  "Type": "8312",
+  "MergedType": "8313",
+  "SellingPrice": 9,
+  "BubbleChance": 40
+ },
+ {
+  "Type": "8313",
+  "SellingPrice": 10,
+  "BubbleChance": 0
+ },
+ {
+  "Type": "sp3_1_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "sp3_2_1-12",
+   "sp3_3_1-1"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 6,
+  "Spread_StorageMaxNumber": 12,
+  "Spread_CostEnergy": 1,
+  "Spread_ItemRecoveryDuration": 7200,
+  "Spread_StorageRecoveryDuration": 14400,
+  "Spread_ItemSpeedUpCost": 97,
+  "Spread_StorageSpeedUpCost": 180
+ },
+ {
+  "Type": "sp3_2_1",
+  "MergedType": "sp3_2_2",
+  "SellingPrice": 0,
+  "BubbleChance": 0,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "sp3_2_2",
+  "MergedType": "sp3_2_3",
+  "SellingPrice": 0,
+  "BubbleChance": 3,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "sp3_2_3",
+  "MergedType": "sp3_2_4",
+  "SellingPrice": 0,
+  "BubbleChance": 5,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "sp3_2_4",
+  "MergedType": "sp3_2_5",
+  "SellingPrice": 1,
+  "BubbleChance": 10,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "sp3_2_5",
+  "MergedType": "sp3_2_6",
+  "SellingPrice": 2,
+  "BubbleChance": 15,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "sp3_2_6",
+  "MergedType": "sp3_2_7",
+  "SellingPrice": 3,
+  "BubbleChance": 25,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "sp3_2_7",
+  "MergedType": "sp3_2_8",
+  "SellingPrice": 4,
+  "BubbleChance": 33,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "sp3_2_8",
+  "MergedType": "sp3_2_9",
+  "SellingPrice": 5,
+  "BubbleChance": 50,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "sp3_2_9",
+  "MergedType": "sp3_2_10",
+  "SellingPrice": 6,
+  "BubbleChance": 75,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "sp3_2_10",
+  "SellingPrice": 7,
+  "BubbleChance": 0
+ },
+ {
+  "Type": "sp3_3_1",
+  "MergedType": "sp3_3_2",
+  "SellingPrice": 0,
+  "BubbleChance": 0,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "sp3_3_2",
+  "MergedType": "sp3_3_3",
+  "SellingPrice": 0,
+  "BubbleChance": 10,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "sp3_3_3",
+  "MergedType": "sp3_3_4",
+  "SellingPrice": 1,
+  "BubbleChance": 15,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "sp3_3_4",
+  "MergedType": "sp3_3_5",
+  "SellingPrice": 2,
+  "BubbleChance": 25,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "sp3_3_5",
+  "MergedType": "sp3_3_6",
+  "SellingPrice": 3,
+  "BubbleChance": 33,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "sp3_3_6",
+  "SellingPrice": 4,
+  "BubbleChance": 0
+ },
+ {
+  "Type": "BPsp_gift_1",
+  "MergedType": "BPsp_gift_2",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "203-1",
+   "204-1",
+   "205-1",
+   "603-1",
+   "2503-1",
+   "1102-1",
+   "503-1",
+   "504-1",
+   "1803-1",
+   "304-1",
+   "903-1",
+   "904-1"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 10,
+  "Spread_StorageMaxNumber": 10,
+  "Spread_CostEnergy": 0,
+  "Spread_OpenDuration": 5,
+  "Spread_OpenSpeedUpCost": 1
+ },
+ {
+  "Type": "BPsp_gift_2",
+  "MergedType": "BPsp_gift_3",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "203-1",
+   "204-1",
+   "205-2",
+   "206-1",
+   "603-1",
+   "604-1",
+   "2503-1",
+   "1102-1",
+   "1103-1",
+   "1201-1",
+   "503-1",
+   "504-1",
+   "505-1",
+   "1803-1",
+   "903-1",
+   "904-1"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 15,
+  "Spread_StorageMaxNumber": 15,
+  "Spread_CostEnergy": 0,
+  "Spread_OpenDuration": 5,
+  "Spread_OpenSpeedUpCost": 1
+ },
+ {
+  "Type": "BPsp_gift_3",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "203-1",
+   "204-1",
+   "205-3",
+   "206-1",
+   "207-1",
+   "603-1",
+   "604-1",
+   "2504-1",
+   "2503-1",
+   "1102-1",
+   "1103-1",
+   "1201-1",
+   "503-1",
+   "504-1",
+   "505-1",
+   "506-1",
+   "1803-1",
+   "304-1",
+   "903-1",
+   "904-1"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 22,
+  "Spread_StorageMaxNumber": 22,
+  "Spread_CostEnergy": 0,
+  "Spread_OpenDuration": 5,
+  "Spread_OpenSpeedUpCost": 1
+ },
+ {
+  "Type": "BPob_gift_1",
+  "MergedType": "BPob_gift_2",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "203-1",
+   "204-1",
+   "205-1",
+   "603-1",
+   "2503-1",
+   "1102-1",
+   "503-1",
+   "504-1",
+   "1803-1",
+   "304-1",
+   "903-1",
+   "904-1"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 10,
+  "Spread_StorageMaxNumber": 10,
+  "Spread_CostEnergy": 0,
+  "Spread_OpenDuration": 5,
+  "Spread_OpenSpeedUpCost": 1
+ },
+ {
+  "Type": "BPob_gift_2",
+  "MergedType": "BPob_gift_3",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "203-1",
+   "204-1",
+   "205-2",
+   "206-1",
+   "603-1",
+   "604-1",
+   "2503-1",
+   "1102-1",
+   "1103-1",
+   "1201-1",
+   "503-1",
+   "504-1",
+   "505-1",
+   "1803-1",
+   "903-1",
+   "904-1"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 15,
+  "Spread_StorageMaxNumber": 15,
+  "Spread_CostEnergy": 0,
+  "Spread_OpenDuration": 5,
+  "Spread_OpenSpeedUpCost": 1
+ },
+ {
+  "Type": "BPob_gift_3",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "203-1",
+   "204-1",
+   "205-3",
+   "206-1",
+   "207-1",
+   "603-1",
+   "604-1",
+   "2504-1",
+   "2503-1",
+   "1102-1",
+   "1103-1",
+   "1201-1",
+   "503-1",
+   "504-1",
+   "505-1",
+   "506-1",
+   "1803-1",
+   "304-1",
+   "903-1",
+   "904-1"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 22,
+  "Spread_StorageMaxNumber": 22,
+  "Spread_CostEnergy": 0,
+  "Spread_OpenDuration": 5,
+  "Spread_OpenSpeedUpCost": 1
+ },
+ {
+  "Type": "BP_gift_1",
+  "MergedType": "BP_gift_2",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "203-1",
+   "204-1",
+   "205-1",
+   "603-1",
+   "2503-1",
+   "1102-1",
+   "503-1",
+   "504-1",
+   "1803-1",
+   "304-1",
+   "903-1",
+   "904-1"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 10,
+  "Spread_StorageMaxNumber": 10,
+  "Spread_CostEnergy": 0,
+  "Spread_OpenDuration": 5,
+  "Spread_OpenSpeedUpCost": 1
+ },
+ {
+  "Type": "BP_gift_2",
+  "MergedType": "BP_gift_3",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "203-1",
+   "204-1",
+   "205-2",
+   "206-1",
+   "603-1",
+   "604-1",
+   "2503-1",
+   "1102-1",
+   "1103-1",
+   "1201-1",
+   "503-1",
+   "504-1",
+   "505-1",
+   "1803-1",
+   "903-1",
+   "904-1"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 15,
+  "Spread_StorageMaxNumber": 15,
+  "Spread_CostEnergy": 0,
+  "Spread_OpenDuration": 5,
+  "Spread_OpenSpeedUpCost": 1
+ },
+ {
+  "Type": "BP_gift_3",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "203-1",
+   "204-1",
+   "205-3",
+   "206-1",
+   "207-1",
+   "603-1",
+   "604-1",
+   "2504-1",
+   "2503-1",
+   "1102-1",
+   "1103-1",
+   "1201-1",
+   "503-1",
+   "504-1",
+   "505-1",
+   "506-1",
+   "1803-1",
+   "304-1",
+   "903-1",
+   "904-1"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 22,
+  "Spread_StorageMaxNumber": 22,
+  "Spread_CostEnergy": 0,
+  "Spread_OpenDuration": 5,
+  "Spread_OpenSpeedUpCost": 1
+ },
+ {
+  "Type": "md_hw_gift_1",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2602-5",
+   "2603-5",
+   "2604-5",
+   "2401-5",
+   "2402-5",
+   "2501-5",
+   "2502-1"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 6,
+  "Spread_StorageMaxNumber": 6,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "md_hw_gift_2",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2603-5",
+   "2604-5",
+   "2402-5",
+   "2403-5",
+   "2404-1",
+   "2502-5",
+   "2503-1"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 7,
+  "Spread_StorageMaxNumber": 7,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "sp4_1_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "sp4_2_1-10"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 4,
+  "Spread_StorageMaxNumber": 8,
+  "Spread_CostEnergy": 1,
+  "Spread_ItemRecoveryDuration": 9000,
+  "Spread_StorageRecoveryDuration": 18000,
+  "Spread_ItemSpeedUpCost": 117,
+  "Spread_StorageSpeedUpCost": 220
+ },
+ {
+  "Type": "sp4_2_1",
+  "MergedType": "sp4_2_2",
+  "SellingPrice": 0,
+  "BubbleChance": 0
+ },
+ {
+  "Type": "sp4_2_2",
+  "MergedType": "sp4_2_3",
+  "SellingPrice": 0,
+  "BubbleChance": 10
+ },
+ {
+  "Type": "sp4_2_3",
+  "MergedType": "sp4_2_4",
+  "SellingPrice": 0,
+  "BubbleChance": 15
+ },
+ {
+  "Type": "sp4_2_4",
+  "SellingPrice": 1,
+  "BubbleChance": 25,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "sp4_3_1-10"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 6,
+  "Spread_StorageMaxNumber": 6,
+  "Spread_CostEnergy": 1
+ },
+ {
+  "Type": "sp4_3_1",
+  "MergedType": "sp4_3_2",
+  "SellingPrice": 0,
+  "FirstLevelGeneratorChain": "sp4_2",
+  "SecondLevelGeneratorChain": "sp4_1",
+  "BubbleChance": 0,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "sp4_3_2",
+  "MergedType": "sp4_3_3",
+  "SellingPrice": 0,
+  "FirstLevelGeneratorChain": "sp4_2",
+  "SecondLevelGeneratorChain": "sp4_1",
+  "BubbleChance": 3,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "sp4_3_3",
+  "MergedType": "sp4_3_4",
+  "SellingPrice": 0,
+  "FirstLevelGeneratorChain": "sp4_2",
+  "SecondLevelGeneratorChain": "sp4_1",
+  "BubbleChance": 5,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "sp4_3_4",
+  "MergedType": "sp4_3_5",
+  "SellingPrice": 1,
+  "FirstLevelGeneratorChain": "sp4_2",
+  "SecondLevelGeneratorChain": "sp4_1",
+  "BubbleChance": 10,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "sp4_3_5",
+  "MergedType": "sp4_3_6",
+  "SellingPrice": 2,
+  "FirstLevelGeneratorChain": "sp4_2",
+  "SecondLevelGeneratorChain": "sp4_1",
+  "BubbleChance": 15,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "sp4_3_6",
+  "MergedType": "sp4_3_7",
+  "SellingPrice": 3,
+  "FirstLevelGeneratorChain": "sp4_2",
+  "SecondLevelGeneratorChain": "sp4_1",
+  "BubbleChance": 25,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "sp4_3_7",
+  "MergedType": "sp4_3_8",
+  "SellingPrice": 4,
+  "FirstLevelGeneratorChain": "sp4_2",
+  "SecondLevelGeneratorChain": "sp4_1",
+  "BubbleChance": 33,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "sp4_3_8",
+  "MergedType": "sp4_3_9",
+  "SellingPrice": 5,
+  "FirstLevelGeneratorChain": "sp4_2",
+  "SecondLevelGeneratorChain": "sp4_1",
+  "BubbleChance": 50,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "sp4_3_9",
+  "MergedType": "sp4_3_10",
+  "SellingPrice": 6,
+  "FirstLevelGeneratorChain": "sp4_2",
+  "SecondLevelGeneratorChain": "sp4_1",
+  "BubbleChance": 75,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "sp4_3_10",
+  "SellingPrice": 7,
+  "FirstLevelGeneratorChain": "sp4_2",
+  "SecondLevelGeneratorChain": "sp4_1",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "ShopNewChest_1",
+  "MergedType": "ShopNewChest_2",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2401-4",
+   "2601-6"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 5,
+  "Spread_StorageMaxNumber": 5,
+  "Spread_CostEnergy": 0,
+  "Spread_OpenDuration": 5,
+  "Spread_OpenSpeedUpCost": 1
+ },
+ {
+  "Type": "ShopNewChest_2",
+  "MergedType": "ShopNewChest_3",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2401-8",
+   "2402-2",
+   "2601-10",
+   "2602-2"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 11,
+  "Spread_StorageMaxNumber": 11,
+  "Spread_CostEnergy": 0,
+  "Spread_OpenDuration": 5,
+  "Spread_OpenSpeedUpCost": 1
+ },
+ {
+  "Type": "ShopNewChest_3",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2401-16",
+   "2402-6",
+   "2403-2",
+   "2601-16",
+   "2602-4",
+   "2603-2"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 23,
+  "Spread_StorageMaxNumber": 23,
+  "Spread_CostEnergy": 0,
+  "Spread_OpenDuration": 5,
+  "Spread_OpenSpeedUpCost": 1
+ },
+ {
+  "Type": "sp5_1_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "sp5_2_1-10"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 4,
+  "Spread_StorageMaxNumber": 8,
+  "Spread_CostEnergy": 1,
+  "Spread_ItemRecoveryDuration": 10800,
+  "Spread_StorageRecoveryDuration": 21600,
+  "Spread_ItemSpeedUpCost": 137,
+  "Spread_StorageSpeedUpCost": 266
+ },
+ {
+  "Type": "sp5_2_1",
+  "MergedType": "sp5_2_2",
+  "SellingPrice": 0,
+  "BubbleChance": 0,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "sp5_2_2",
+  "MergedType": "sp5_2_3",
+  "SellingPrice": 0,
+  "BubbleChance": 3,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "sp5_2_3",
+  "MergedType": "sp5_2_4",
+  "SellingPrice": 0,
+  "BubbleChance": 5,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "sp5_2_4",
+  "MergedType": "sp5_2_5",
+  "SellingPrice": 1,
+  "BubbleChance": 10,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "sp5_2_5",
+  "MergedType": "sp5_2_6",
+  "SellingPrice": 2,
+  "BubbleChance": 15,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "sp5_2_6",
+  "MergedType": "sp5_2_7",
+  "SellingPrice": 3,
+  "BubbleChance": 25,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "sp5_2_7",
+  "MergedType": "sp5_2_8",
+  "SellingPrice": 4,
+  "BubbleChance": 33,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "sp5_2_8",
+  "MergedType": "sp5_2_9",
+  "SellingPrice": 5,
+  "BubbleChance": 75,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "sp5_2_9",
+  "MergedType": "sp5_2_10",
+  "SellingPrice": 6,
+  "BubbleChance": 100,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "sp5_2_10",
+  "SellingPrice": 7,
+  "BubbleChance": 0
+ },
+ {
+  "Type": "infi_ene_1",
+  "MergedType": "infi_ene_2",
+  "CollectRewards": [
+   "infinite-60"
+  ],
+  "BubbleChance": 0
+ },
+ {
+  "Type": "infi_ene_2",
+  "MergedType": "infi_ene_3",
+  "CollectRewards": [
+   "infinite-120"
+  ],
+  "BubbleChance": 0,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "infi_ene_3",
+  "MergedType": "infi_ene_4",
+  "CollectRewards": [
+   "infinite-240"
+  ],
+  "BubbleChance": 0,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "infi_ene_4",
+  "MergedType": "infi_ene_5",
+  "CollectRewards": [
+   "infinite-480"
+  ],
+  "BubbleChance": 0,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "infi_ene_5",
+  "CollectRewards": [
+   "infinite-960"
+  ],
+  "BubbleChance": 0,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "level_up_piece_1",
+  "SpecialType": 1
+ },
+ {
+  "Type": "level_down_piece_1",
+  "SpecialType": 2
+ },
+ {
+  "Type": "time_skip_1",
+  "MergedType": "time_skip_2",
+  "CollectRewards": [
+   "skip-600"
+  ],
+  "BubbleChance": 0
+ },
+ {
+  "Type": "time_skip_2",
+  "MergedType": "time_skip_3",
+  "CollectRewards": [
+   "skip-1200"
+  ],
+  "BubbleChance": 0,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "time_skip_3",
+  "MergedType": "time_skip_4",
+  "CollectRewards": [
+   "skip-2400"
+  ],
+  "BubbleChance": 0,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "time_skip_4",
+  "MergedType": "time_skip_5",
+  "CollectRewards": [
+   "skip-4800"
+  ],
+  "BubbleChance": 0,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "time_skip_5",
+  "CollectRewards": [
+   "skip-9600"
+  ],
+  "BubbleChance": 0,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "sp6_1_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "sp6_2_1-10"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 4,
+  "Spread_StorageMaxNumber": 8,
+  "Spread_CostEnergy": 1,
+  "Spread_ItemRecoveryDuration": 10800,
+  "Spread_StorageRecoveryDuration": 21600,
+  "Spread_ItemSpeedUpCost": 137,
+  "Spread_StorageSpeedUpCost": 266
+ },
+ {
+  "Type": "sp6_2_1",
+  "MergedType": "sp6_2_2",
+  "SellingPrice": 0,
+  "BubbleChance": 0,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "sp6_2_2",
+  "MergedType": "sp6_2_3",
+  "SellingPrice": 0,
+  "BubbleChance": 3,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "sp6_2_3",
+  "MergedType": "sp6_2_4",
+  "SellingPrice": 0,
+  "BubbleChance": 5,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "sp6_2_4",
+  "MergedType": "sp6_2_5",
+  "SellingPrice": 1,
+  "BubbleChance": 10,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "sp6_2_5",
+  "MergedType": "sp6_2_6",
+  "SellingPrice": 2,
+  "BubbleChance": 15,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "sp6_2_6",
+  "MergedType": "sp6_2_7",
+  "SellingPrice": 3,
+  "BubbleChance": 25,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "sp6_2_7",
+  "MergedType": "sp6_2_8",
+  "SellingPrice": 4,
+  "BubbleChance": 33,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "sp6_2_8",
+  "MergedType": "sp6_2_9",
+  "SellingPrice": 5,
+  "BubbleChance": 75,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "sp6_2_9",
+  "MergedType": "sp6_2_10",
+  "SellingPrice": 6,
+  "BubbleChance": 100,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "sp6_2_10",
+  "SellingPrice": 7,
+  "BubbleChance": 0
+ },
+ {
+  "Type": "daily_task_chestA_1",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2502-4",
+   "2403-4"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 8,
+  "Spread_StorageMaxNumber": 8,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "daily_task_chestB_1",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "4101-4"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 4,
+  "Spread_StorageMaxNumber": 4,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "daily_task_chestC_1",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "4101-4"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 4,
+  "Spread_StorageMaxNumber": 4,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "ns_2_1",
+  "BubbleChance": 0,
+  "Choices": [
+   "208",
+   "508",
+   "906"
+  ]
+ },
+ {
+  "Type": "ns_3_1",
+  "BubbleChance": 0,
+  "Choices": [
+   "1305",
+   "1404",
+   "1805"
+  ]
+ },
+ {
+  "Type": "ns_4_1",
+  "BubbleChance": 0,
+  "Choices": [
+   "1306",
+   "1405",
+   "1806"
+  ]
+ },
+ {
+  "Type": "4201",
+  "BubbleChance": 0,
+  "Choices": [
+   "1001",
+   "1201",
+   "1701"
+  ]
+ },
+ {
+  "Type": "truckbox_1",
+  "MergedType": "truckbox_2",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2601-3",
+   "2401-3"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 6,
+  "Spread_StorageMaxNumber": 6,
+  "Spread_CostEnergy": 0,
+  "Spread_OpenDuration": 5,
+  "Spread_OpenSpeedUpCost": 1
+ },
+ {
+  "Type": "truckbox_2",
+  "MergedType": "truckbox_3",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2601-2",
+   "2602-2",
+   "2401-3",
+   "2402-1",
+   "2501-1",
+   "2502-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 10,
+  "Spread_StorageMaxNumber": 10,
+  "Spread_CostEnergy": 0,
+  "Spread_OpenDuration": 5,
+  "Spread_OpenSpeedUpCost": 1
+ },
+ {
+  "Type": "truckbox_3",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2601-3",
+   "2602-3",
+   "2603-1",
+   "2401-3",
+   "2402-2",
+   "2403-1",
+   "2502-1",
+   "2503-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 15,
+  "Spread_StorageMaxNumber": 15,
+  "Spread_CostEnergy": 0,
+  "Spread_OpenDuration": 5,
+  "Spread_OpenSpeedUpCost": 1
+ },
+ {
+  "Type": "os_1_1",
+  "BubbleChance": 0,
+  "Choices": [
+   "206",
+   "304",
+   "506",
+   "604",
+   "904",
+   "1104",
+   "1304",
+   "1403",
+   "1804"
+  ]
+ },
+ {
+  "Type": "os_2_1",
+  "BubbleChance": 0,
+  "Choices": [
+   "208",
+   "305",
+   "508",
+   "605",
+   "906",
+   "1106",
+   "1306",
+   "1405",
+   "1806"
+  ]
+ },
+ {
+  "Type": "deco_event_gift_s_1",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2602-5",
+   "2603-5",
+   "2604-5",
+   "2401-5",
+   "2402-5",
+   "2501-5",
+   "2502-1"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 6,
+  "Spread_StorageMaxNumber": 6,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "deco_event_gift_b_1",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2603-5",
+   "2604-5",
+   "2402-5",
+   "2403-5",
+   "2404-1",
+   "2502-5",
+   "2503-1"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 7,
+  "Spread_StorageMaxNumber": 7,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "speed_bubble_1",
+  "CollectRewards": [
+   "skip-86400"
+  ]
+ },
+ {
+  "Type": "re_ch_1_1_1",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2501-2",
+   "2502-2",
+   "2601-2",
+   "2602-1",
+   "2603-1"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 8,
+  "Spread_StorageMaxNumber": 8,
+  "Spread_CostEnergy": 0,
+  "IsTemplate": 1
+ },
+ {
+  "Type": "re_ch_1_2_1",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2501-4",
+   "2502-5",
+   "2503-1",
+   "2601-5",
+   "2602-5",
+   "2603-4"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 12,
+  "Spread_StorageMaxNumber": 12,
+  "Spread_CostEnergy": 0,
+  "IsTemplate": 1
+ },
+ {
+  "Type": "re_ch_1_3_1",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2502-5",
+   "2503-3",
+   "2602-4",
+   "2603-4"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 16,
+  "Spread_StorageMaxNumber": 16,
+  "Spread_CostEnergy": 0,
+  "IsTemplate": 1
+ },
+ {
+  "Type": "re_ch_2_1_1",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2501-2",
+   "2502-2",
+   "2601-2",
+   "2602-1",
+   "2603-1"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 8,
+  "Spread_StorageMaxNumber": 8,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "re_ch_2_2_1",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2501-4",
+   "2502-5",
+   "2503-1",
+   "2601-5",
+   "2602-5",
+   "2603-4"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 12,
+  "Spread_StorageMaxNumber": 12,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "re_ch_2_3_1",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2502-5",
+   "2503-3",
+   "2602-4",
+   "2603-4"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 16,
+  "Spread_StorageMaxNumber": 16,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "rc_a_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2401-3",
+   "2402-1",
+   "2601-3",
+   "2602-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 8,
+  "Spread_StorageMaxNumber": 8,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "rc_b_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2401-2",
+   "2402-2",
+   "2501-2",
+   "2601-2",
+   "2602-1",
+   "2603-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 10,
+  "Spread_StorageMaxNumber": 10,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "rc_c_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2401-2",
+   "2402-2",
+   "2403-1",
+   "2501-2",
+   "2502-1",
+   "2601-2",
+   "2602-1",
+   "2603-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 13,
+  "Spread_StorageMaxNumber": 13,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "rc_d_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2401-2",
+   "2402-2",
+   "2403-2",
+   "2501-2",
+   "2502-1",
+   "2503-1",
+   "2602-2",
+   "2603-2",
+   "2604-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 15,
+  "Spread_StorageMaxNumber": 15,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "rc_e_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2402-2",
+   "2403-2",
+   "2404-1",
+   "2501-2",
+   "2502-2",
+   "2503-2",
+   "2602-2",
+   "2603-2",
+   "2604-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 17,
+  "Spread_StorageMaxNumber": 17,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "rc_f_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2402-2",
+   "2403-1",
+   "2404-1",
+   "2405-1",
+   "2502-4",
+   "2503-2",
+   "2504-2",
+   "2603-4",
+   "2604-2",
+   "2605-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 20,
+  "Spread_StorageMaxNumber": 20,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "scratch_a_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2403-3",
+   "2404-2",
+   "2405-1",
+   "2502-3",
+   "2503-2",
+   "2504-1",
+   "2602-3",
+   "2603-2",
+   "2604-1"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "scratch_b_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "scratch_a_1-5"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 5,
+  "Spread_StorageMaxNumber": 5,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "gift_cornelia_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2402-1",
+   "2403-3",
+   "2502-2",
+   "2503-1",
+   "2603-3",
+   "2604-1",
+   "level_down_piece_1-1",
+   "level_up_piece_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 13,
+  "Spread_StorageMaxNumber": 13,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "gift_barnaby_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "206-2",
+   "304-2",
+   "506-2",
+   "604-2",
+   "2502-2",
+   "2503-1",
+   "level_down_piece_1-1",
+   "level_up_piece_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 13,
+  "Spread_StorageMaxNumber": 13,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "gift_aldous_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "805-2",
+   "904-2",
+   "905-2",
+   "906-2",
+   "2502-2",
+   "2503-1",
+   "level_down_piece_1-1",
+   "level_up_piece_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 13,
+  "Spread_StorageMaxNumber": 13,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "Bp_chest_a_1",
+  "MergedType": "Bp_chest_a_2",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "205-4",
+   "206-1",
+   "303-2",
+   "2503-1"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 6,
+  "Spread_StorageMaxNumber": 6,
+  "Spread_CostEnergy": 0,
+  "Spread_OpenDuration": 5,
+  "Spread_OpenSpeedUpCost": 1
+ },
+ {
+  "Type": "Bp_chest_a_2",
+  "MergedType": "Bp_chest_a_3",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "206-3",
+   "207-2",
+   "303-1",
+   "304-2",
+   "2503-1",
+   "2504-1"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 8,
+  "Spread_StorageMaxNumber": 8,
+  "Spread_CostEnergy": 0,
+  "Spread_OpenDuration": 5,
+  "Spread_OpenSpeedUpCost": 1
+ },
+ {
+  "Type": "Bp_chest_a_3",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "206-2",
+   "207-2",
+   "304-4",
+   "2504-1"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 10,
+  "Spread_StorageMaxNumber": 10,
+  "Spread_CostEnergy": 0,
+  "Spread_OpenDuration": 5,
+  "Spread_OpenSpeedUpCost": 1
+ },
+ {
+  "Type": "Bp_chest_b_1",
+  "MergedType": "Bp_chest_b_2",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "504-5",
+   "505-1",
+   "603-2",
+   "604-1",
+   "1103-2",
+   "2503-1"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 6,
+  "Spread_StorageMaxNumber": 6,
+  "Spread_CostEnergy": 0,
+  "Spread_OpenDuration": 5,
+  "Spread_OpenSpeedUpCost": 1
+ },
+ {
+  "Type": "Bp_chest_b_2",
+  "MergedType": "Bp_chest_b_3",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "505-1",
+   "506-3",
+   "603-5",
+   "604-1",
+   "1103-2",
+   "1104-1",
+   "2504-1"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 8,
+  "Spread_StorageMaxNumber": 8,
+  "Spread_CostEnergy": 0,
+  "Spread_OpenDuration": 5,
+  "Spread_OpenSpeedUpCost": 1
+ },
+ {
+  "Type": "Bp_chest_b_3",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "506-7",
+   "507-1",
+   "604-6",
+   "605-3",
+   "1103-1",
+   "1104-5",
+   "2504-3"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 10,
+  "Spread_StorageMaxNumber": 10,
+  "Spread_CostEnergy": 0,
+  "Spread_OpenDuration": 5,
+  "Spread_OpenSpeedUpCost": 1
+ },
+ {
+  "Type": "Bp_chest_c_1",
+  "MergedType": "Bp_chest_c_2",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "903-6",
+   "1201-1",
+   "1803-3"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 6,
+  "Spread_StorageMaxNumber": 6,
+  "Spread_CostEnergy": 0,
+  "Spread_OpenDuration": 5,
+  "Spread_OpenSpeedUpCost": 1
+ },
+ {
+  "Type": "Bp_chest_c_2",
+  "MergedType": "Bp_chest_c_3",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "903-2",
+   "904-5",
+   "1201-2",
+   "1803-4"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 8,
+  "Spread_StorageMaxNumber": 8,
+  "Spread_CostEnergy": 0,
+  "Spread_OpenDuration": 5,
+  "Spread_OpenSpeedUpCost": 1
+ },
+ {
+  "Type": "Bp_chest_c_3",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "904-5",
+   "905-2",
+   "1201-3",
+   "1803-3"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 10,
+  "Spread_StorageMaxNumber": 10,
+  "Spread_CostEnergy": 0,
+  "Spread_OpenDuration": 5,
+  "Spread_OpenSpeedUpCost": 1
+ },
+ {
+  "Type": "re_ch_1_4_1",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2502-7",
+   "2503-10",
+   "2504-1",
+   "2602-7",
+   "2603-10",
+   "2604-1"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 18,
+  "Spread_StorageMaxNumber": 18,
+  "Spread_CostEnergy": 0,
+  "IsTemplate": 1
+ },
+ {
+  "Type": "re_ch_spe_1",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2502-12",
+   "2503-7",
+   "2504-3",
+   "2602-12",
+   "2603-7",
+   "2604-3",
+   "level_up_piece_1-1"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 15,
+  "Spread_StorageMaxNumber": 15,
+  "Spread_CostEnergy": 0,
+  "IsTemplate": 1
+ },
+ {
+  "Type": "gift_sam_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "1405-2",
+   "1305-2",
+   "1306-2",
+   "1307-2",
+   "2502-2",
+   "2503-1",
+   "level_down_piece_1-1",
+   "level_up_piece_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 13,
+  "Spread_StorageMaxNumber": 13,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fish_trophy_a_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2403-4",
+   "2502-4",
+   "2603-4"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 12,
+  "Transform_Weight": [
+   "fish_trophy_b_1-10"
+  ],
+  "Spread_ItemMaxNumber": 12,
+  "Spread_StorageMaxNumber": 12,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fish_trophy_b_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2403-4",
+   "2502-4",
+   "2603-4"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 12,
+  "Transform_Weight": [
+   "fish_trophy_c_1-10"
+  ],
+  "Spread_ItemMaxNumber": 12,
+  "Spread_StorageMaxNumber": 12,
+  "Spread_CostEnergy": 0,
+  "Spread_InitDuration": 86400,
+  "Spread_InitSpeedUpCost": 98
+ },
+ {
+  "Type": "fish_trophy_c_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2403-4",
+   "2502-4",
+   "2603-4"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 12,
+  "Spread_StorageMaxNumber": 12,
+  "Spread_CostEnergy": 0,
+  "Spread_InitDuration": 86400,
+  "Spread_InitSpeedUpCost": 98
+ },
+ {
+  "Type": "gift_mark_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2602-2",
+   "2603-2",
+   "506-2",
+   "604-2",
+   "2502-2",
+   "2503-1",
+   "level_down_piece_1-1",
+   "level_up_piece_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 13,
+  "Spread_StorageMaxNumber": 13,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "gift_anjali_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2602-2",
+   "2603-2",
+   "506-2",
+   "604-2",
+   "2502-2",
+   "2503-1",
+   "level_down_piece_1-1",
+   "level_up_piece_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 13,
+  "Spread_StorageMaxNumber": 13,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "temp_1"
+ },
+ {
+  "Type": "gift_hugo_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2602-2",
+   "2603-2",
+   "303-2",
+   "603-2",
+   "2502-2",
+   "2503-1",
+   "level_down_piece_1-1",
+   "level_up_piece_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 13,
+  "Spread_StorageMaxNumber": 13,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "s5_fly_a_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "205-4",
+   "204-4",
+   "303-4"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 12,
+  "Transform_Weight": [
+   "s5_fly_b_1-10"
+  ],
+  "Spread_ItemMaxNumber": 12,
+  "Spread_StorageMaxNumber": 12,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "s5_fly_b_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "505-4",
+   "504-4",
+   "603-4"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 12,
+  "Transform_Weight": [
+   "s5_fly_c_1-10"
+  ],
+  "Spread_ItemMaxNumber": 12,
+  "Spread_StorageMaxNumber": 12,
+  "Spread_CostEnergy": 0,
+  "Spread_InitDuration": 86400,
+  "Spread_InitSpeedUpCost": 98
+ },
+ {
+  "Type": "s5_fly_c_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2403-4",
+   "2502-4",
+   "2603-4"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 12,
+  "Spread_StorageMaxNumber": 12,
+  "Spread_CostEnergy": 0,
+  "Spread_InitDuration": 86400,
+  "Spread_InitSpeedUpCost": 98
+ },
+ {
+  "Type": "main_order_chest_s_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "204-5",
+   "205-10",
+   "303-10",
+   "304-20",
+   "504-5",
+   "505-10",
+   "603-10",
+   "604-20",
+   "903-7",
+   "904-13",
+   "1103-9",
+   "1304-6",
+   "1305-13",
+   "1403-9",
+   "1804-7",
+   "1805-13"
+  ],
+  "Spread_WeightType": 3,
+  "Spread_ItemMaxNumber": 75,
+  "Spread_StorageMaxNumber": 75,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "main_order_chest_m_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "205-10",
+   "206-20",
+   "303-10",
+   "304-20",
+   "505-10",
+   "506-20",
+   "603-10",
+   "604-20",
+   "904-13",
+   "905-27",
+   "1103-9",
+   "1305-13",
+   "1306-26",
+   "1403-9",
+   "1805-13",
+   "1806-27"
+  ],
+  "Spread_WeightType": 3,
+  "Spread_ItemMaxNumber": 150,
+  "Spread_StorageMaxNumber": 150,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "main_order_chest_b_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "205-10",
+   "206-20",
+   "303-10",
+   "304-20",
+   "505-10",
+   "506-20",
+   "603-10",
+   "604-20",
+   "904-13",
+   "905-27",
+   "1103-9",
+   "1305-13",
+   "1306-26",
+   "1403-9",
+   "1805-13",
+   "1806-27"
+  ],
+  "Spread_WeightType": 3,
+  "Spread_ItemMaxNumber": 225,
+  "Spread_StorageMaxNumber": 225,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "main_nugget_1",
+  "MergedType": "2401"
+ },
+ {
+  "Type": "main_gem_1",
+  "MergedType": "2501"
+ },
+ {
+  "Type": "reward_bubble_1"
+ },
+ {
+  "Type": "main_fry_chest_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "303-5",
+   "302-4"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 9,
+  "Spread_StorageMaxNumber": 9,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "main_tea_chest_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "603-5",
+   "602-4"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 9,
+  "Spread_StorageMaxNumber": 9,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "main_seafood_chest_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "904-4",
+   "903-4"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 8,
+  "Spread_StorageMaxNumber": 8,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "main_orange_chest_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "1103-3",
+   "1102-5",
+   "1101-6"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 14,
+  "Spread_StorageMaxNumber": 14,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "main_dive_chest_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "1403-5",
+   "1402-4"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 9,
+  "Spread_StorageMaxNumber": 9,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "gift_prudence_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2602-2",
+   "2603-2",
+   "905-2",
+   "906-2",
+   "2502-2",
+   "2503-1",
+   "level_down_piece_1-1",
+   "level_up_piece_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 13,
+  "Spread_StorageMaxNumber": 13,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fog_1"
+ },
+ {
+  "Type": "property_bubble_1"
+ },
+ {
+  "Type": "main_anni_cake_a_1",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2601-4",
+   "2401-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 5,
+  "Transform_Weight": [
+   "main_anni_cake_b_1-10"
+  ],
+  "Spread_ItemMaxNumber": 5,
+  "Spread_StorageMaxNumber": 5,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "main_anni_cake_b_1",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2601-4",
+   "2401-1",
+   "2501-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 6,
+  "Transform_Weight": [
+   "main_anni_cake_c_1-10"
+  ],
+  "Spread_ItemMaxNumber": 6,
+  "Spread_StorageMaxNumber": 6,
+  "Spread_CostEnergy": 0,
+  "Spread_InitDuration": 14400,
+  "Spread_InitSpeedUpCost": 98
+ },
+ {
+  "Type": "main_anni_cake_c_1",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2601-4",
+   "2401-2",
+   "2501-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 7,
+  "Transform_Weight": [
+   "main_anni_cake_d_1-10"
+  ],
+  "Spread_ItemMaxNumber": 7,
+  "Spread_StorageMaxNumber": 7,
+  "Spread_CostEnergy": 0,
+  "Spread_InitDuration": 28800,
+  "Spread_InitSpeedUpCost": 98
+ },
+ {
+  "Type": "main_anni_cake_d_1",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2601-4",
+   "2401-2",
+   "2501-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 7,
+  "Transform_Weight": [
+   "main_anni_cake_e_1-10"
+  ],
+  "Spread_ItemMaxNumber": 7,
+  "Spread_StorageMaxNumber": 7,
+  "Spread_CostEnergy": 0,
+  "Spread_InitDuration": 43200,
+  "Spread_InitSpeedUpCost": 98
+ },
+ {
+  "Type": "main_anni_cake_e_1",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2601-4",
+   "2401-3",
+   "2501-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 9,
+  "Transform_Weight": [
+   "main_anni_cake_f_1-10"
+  ],
+  "Spread_ItemMaxNumber": 9,
+  "Spread_StorageMaxNumber": 9,
+  "Spread_CostEnergy": 0,
+  "Spread_InitDuration": 57600,
+  "Spread_InitSpeedUpCost": 98
+ },
+ {
+  "Type": "main_anni_cake_f_1",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2601-4",
+   "2401-3",
+   "2501-3"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 10,
+  "Spread_StorageMaxNumber": 10,
+  "Spread_CostEnergy": 0,
+  "Spread_InitDuration": 86400,
+  "Spread_InitSpeedUpCost": 98
+ },
+ {
+  "Type": "main_energy_1",
+  "MergedType": "2601"
+ },
+ {
+  "Type": "gift_zephyrine_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2402-2",
+   "2403-2",
+   "2404-2",
+   "2405-2",
+   "2502-2",
+   "2503-1",
+   "level_down_piece_1-1",
+   "level_up_piece_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 13,
+  "Spread_StorageMaxNumber": 13,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "main_hallow_ball_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "205-10",
+   "206-20",
+   "303-10",
+   "304-20",
+   "505-10",
+   "506-20",
+   "603-10",
+   "604-20",
+   "904-13",
+   "905-27",
+   "1103-9",
+   "1305-13",
+   "1306-26",
+   "1403-9",
+   "1805-13",
+   "1806-27"
+  ],
+  "Spread_WeightType": 3,
+  "Spread_ItemMaxNumber": 225,
+  "Spread_StorageMaxNumber": 225,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "main_hallow_book_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "205-10",
+   "206-20",
+   "303-10",
+   "304-20",
+   "505-10",
+   "506-20",
+   "603-10",
+   "604-20",
+   "904-13",
+   "905-27",
+   "1103-9",
+   "1305-13",
+   "1306-26",
+   "1403-9",
+   "1805-13",
+   "1806-27"
+  ],
+  "Spread_WeightType": 3,
+  "Spread_ItemMaxNumber": 225,
+  "Spread_StorageMaxNumber": 225,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "locked_1"
+ },
+ {
+  "Type": "main_crystal_ball_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "206-20",
+   "207-40",
+   "304-20",
+   "305-40",
+   "506-20",
+   "507-40",
+   "604-20",
+   "605-40",
+   "905-27",
+   "906-54",
+   "1104-20",
+   "1306-27",
+   "1307-54",
+   "1404-20",
+   "1806-27",
+   "1807-54"
+  ],
+  "Spread_WeightType": 3,
+  "Spread_ItemMaxNumber": 450,
+  "Spread_StorageMaxNumber": 450,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "main_pack_common_5_1",
+  "MergedType": "main_pack_common_5_2",
+  "ProtectLevel": 4
+ },
+ {
+  "Type": "main_pack_common_5_2",
+  "MergedType": "main_pack_common_5_3",
+  "ProtectLevel": 4
+ },
+ {
+  "Type": "main_pack_common_5_3",
+  "MergedType": "rb#pack_common_5",
+  "ProtectLevel": 4
+ },
+ {
+  "Type": "main_super_ball_1",
+  "Spread_Auto": 0,
+  "Spread_WeightType": 4,
+  "Spread_ItemMaxNumber": 450,
+  "Spread_StorageMaxNumber": 450,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "main_pack_common_3_1",
+  "MergedType": "main_pack_common_3_2",
+  "ProtectLevel": 3
+ },
+ {
+  "Type": "main_pack_common_3_2",
+  "MergedType": "rb#pack_common_3",
+  "ProtectLevel": 3
+ },
+ {
+  "Type": "main_xmas_cake_a_1",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2601-4",
+   "2401-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 6,
+  "Transform_Weight": [
+   "main_xmas_cake_b_1-10"
+  ],
+  "Spread_ItemMaxNumber": 6,
+  "Spread_StorageMaxNumber": 6,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "main_xmas_cake_b_1",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2601-4",
+   "2401-1",
+   "2402-1",
+   "2501-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 7,
+  "Transform_Weight": [
+   "main_xmas_cake_c_1-10"
+  ],
+  "Spread_ItemMaxNumber": 7,
+  "Spread_StorageMaxNumber": 7,
+  "Spread_CostEnergy": 0,
+  "Spread_InitDuration": 14400,
+  "Spread_InitSpeedUpCost": 98
+ },
+ {
+  "Type": "main_xmas_cake_c_1",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2601-3",
+   "2602-1",
+   "2401-2",
+   "2402-1",
+   "2501-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 9,
+  "Transform_Weight": [
+   "main_xmas_cake_d_1-10"
+  ],
+  "Spread_ItemMaxNumber": 9,
+  "Spread_StorageMaxNumber": 9,
+  "Spread_CostEnergy": 0,
+  "Spread_InitDuration": 28800,
+  "Spread_InitSpeedUpCost": 98
+ },
+ {
+  "Type": "main_xmas_cake_d_1",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2601-3",
+   "2602-1",
+   "2401-2",
+   "2402-1",
+   "2501-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 9,
+  "Transform_Weight": [
+   "main_xmas_cake_e_1-10"
+  ],
+  "Spread_ItemMaxNumber": 9,
+  "Spread_StorageMaxNumber": 9,
+  "Spread_CostEnergy": 0,
+  "Spread_InitDuration": 43200,
+  "Spread_InitSpeedUpCost": 98
+ },
+ {
+  "Type": "main_xmas_cake_e_1",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2601-2",
+   "2602-2",
+   "2401-1",
+   "2402-2",
+   "2501-3"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 10,
+  "Spread_StorageMaxNumber": 10,
+  "Spread_CostEnergy": 0,
+  "Spread_InitDuration": 57600,
+  "Spread_InitSpeedUpCost": 98
+ },
+ {
+  "Type": "main_cs_1_1",
+  "BubbleChance": 0,
+  "Choices": [
+   "main_fry_chest_1",
+   "main_tea_chest_1",
+   "main_dive_chest_1"
+  ]
+ },
+ {
+  "Type": "main_cs_2_1",
+  "BubbleChance": 0,
+  "Choices": [
+   "main_seafood_chest_1",
+   "main_orange_chest_1",
+   "main_order_chest_s_1"
+  ]
+ },
+ {
+  "Type": "main_gem_super_1",
+  "MergedType": "main_gem_super_2"
+ },
+ {
+  "Type": "main_gem_super_2",
+  "MergedType": "main_gem_super_3",
+  "CollectRewards": [
+   "gem-1"
+  ],
+  "SpecialType": 3
+ },
+ {
+  "Type": "main_gem_super_3",
+  "MergedType": "main_gem_super_4",
+  "CollectRewards": [
+   "gem-3"
+  ],
+  "SpecialType": 3
+ },
+ {
+  "Type": "main_gem_super_4",
+  "MergedType": "main_gem_super_5",
+  "CollectRewards": [
+   "gem-7"
+  ],
+  "SpecialType": 3
+ },
+ {
+  "Type": "main_gem_super_5",
+  "MergedType": "main_gem_super_6",
+  "CollectRewards": [
+   "gem-15"
+  ],
+  "SpecialType": 3
+ },
+ {
+  "Type": "main_gem_super_6",
+  "MergedType": "main_gem_super_7",
+  "CollectRewards": [
+   "gem-31"
+  ],
+  "SpecialType": 3
+ },
+ {
+  "Type": "main_gem_super_7",
+  "MergedType": "main_gem_super_8",
+  "CollectRewards": [
+   "gem-65"
+  ],
+  "SpecialType": 3
+ },
+ {
+  "Type": "main_gem_super_8",
+  "CollectRewards": [
+   "gem-150"
+  ],
+  "SpecialType": 3
+ },
+ {
+  "Type": "main_super_gem_1",
+  "MergedType": "main_super_gem_2"
+ },
+ {
+  "Type": "main_super_gem_2",
+  "MergedType": "main_super_gem_3",
+  "CollectRewards": [
+   "gem-1"
+  ],
+  "SpecialType": 3
+ },
+ {
+  "Type": "main_super_gem_3",
+  "MergedType": "main_super_gem_4",
+  "CollectRewards": [
+   "gem-3"
+  ],
+  "SpecialType": 3
+ },
+ {
+  "Type": "main_super_gem_4",
+  "MergedType": "main_super_gem_5",
+  "CollectRewards": [
+   "gem-7"
+  ],
+  "SpecialType": 3
+ },
+ {
+  "Type": "main_super_gem_5",
+  "MergedType": "main_super_gem_6",
+  "CollectRewards": [
+   "gem-15"
+  ],
+  "SpecialType": 3
+ },
+ {
+  "Type": "main_super_gem_6",
+  "MergedType": "main_super_gem_7",
+  "CollectRewards": [
+   "gem-31"
+  ],
+  "SpecialType": 3
+ },
+ {
+  "Type": "main_super_gem_7",
+  "MergedType": "main_super_gem_8",
+  "CollectRewards": [
+   "gem-65"
+  ],
+  "SpecialType": 3
+ },
+ {
+  "Type": "main_super_gem_8",
+  "CollectRewards": [
+   "gem-150"
+  ],
+  "SpecialType": 3
+ },
+ {
+  "Type": "gift_rosalind_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2601-2",
+   "2602-2",
+   "2603-2",
+   "2604-2",
+   "2502-2",
+   "2503-1",
+   "level_down_piece_1-1",
+   "level_up_piece_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 13,
+  "Spread_StorageMaxNumber": 13,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "main_super_energy_1",
+  "MergedType": "main_super_energy_2"
+ },
+ {
+  "Type": "main_super_energy_2",
+  "MergedType": "main_super_energy_3",
+  "CollectRewards": [
+   "energy-2"
+  ],
+  "SpecialType": 3
+ },
+ {
+  "Type": "main_super_energy_3",
+  "MergedType": "main_super_energy_4",
+  "CollectRewards": [
+   "energy-5"
+  ],
+  "SpecialType": 3
+ },
+ {
+  "Type": "main_super_energy_4",
+  "MergedType": "main_super_energy_5",
+  "CollectRewards": [
+   "energy-10"
+  ],
+  "SpecialType": 3
+ },
+ {
+  "Type": "main_super_energy_5",
+  "MergedType": "main_super_energy_6",
+  "CollectRewards": [
+   "energy-20"
+  ],
+  "SpecialType": 3
+ },
+ {
+  "Type": "main_super_energy_6",
+  "MergedType": "main_super_energy_7",
+  "CollectRewards": [
+   "energy-50"
+  ],
+  "SpecialType": 3
+ },
+ {
+  "Type": "main_super_energy_7",
+  "MergedType": "main_super_energy_8",
+  "CollectRewards": [
+   "energy-120"
+  ],
+  "SpecialType": 3
+ },
+ {
+  "Type": "main_super_energy_8",
+  "CollectRewards": [
+   "energy-300"
+  ],
+  "SpecialType": 3
+ },
+ {
+  "Type": "main_super_gold_1",
+  "MergedType": "main_super_gold_2"
+ },
+ {
+  "Type": "main_super_gold_2",
+  "MergedType": "main_super_gold_3",
+  "CollectRewards": [
+   "gold-1"
+  ],
+  "SpecialType": 3
+ },
+ {
+  "Type": "main_super_gold_3",
+  "MergedType": "main_super_gold_4",
+  "CollectRewards": [
+   "gold-3"
+  ],
+  "SpecialType": 3
+ },
+ {
+  "Type": "main_super_gold_4",
+  "MergedType": "main_super_gold_5",
+  "CollectRewards": [
+   "gold-6"
+  ],
+  "SpecialType": 3
+ },
+ {
+  "Type": "main_super_gold_5",
+  "MergedType": "main_super_gold_6",
+  "CollectRewards": [
+   "gold-15"
+  ],
+  "SpecialType": 3
+ },
+ {
+  "Type": "main_super_gold_6",
+  "MergedType": "main_super_gold_7",
+  "CollectRewards": [
+   "gold-35"
+  ],
+  "SpecialType": 3
+ },
+ {
+  "Type": "main_super_gold_7",
+  "MergedType": "main_super_gold_8",
+  "CollectRewards": [
+   "gold-85"
+  ],
+  "SpecialType": 3
+ },
+ {
+  "Type": "main_super_gold_8",
+  "CollectRewards": [
+   "gold-200"
+  ],
+  "SpecialType": 3
+ },
+ {
+  "Type": "main_e_chest_new_1",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2601-2",
+   "2602-1",
+   "2603-1",
+   "2604-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 5,
+  "Spread_StorageMaxNumber": 5,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "main_e_chest_new2_1",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2601-2",
+   "2602-1",
+   "2603-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 5,
+  "Spread_StorageMaxNumber": 5,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "main_g_chest_new_1",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2401-2",
+   "2402-3"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 5,
+  "Spread_StorageMaxNumber": 5,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "main_t_chest_new_1",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2401-2",
+   "2402-2",
+   "2501-2",
+   "2502-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 7,
+  "Spread_StorageMaxNumber": 7,
+  "Spread_CostEnergy": 0,
+  "Spread_OpenDuration": 120,
+  "Spread_OpenSpeedUpCost": 2
+ },
+ {
+  "Type": "main_smart_pot_a_1",
+  "Spread_Auto": 0,
+  "Spread_WeightType": 5,
+  "Spread_ItemMaxNumber": 35,
+  "Spread_StorageMaxNumber": 14,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "main_smart_pot_b_1",
+  "Spread_Auto": 0,
+  "Spread_WeightType": 5,
+  "Spread_ItemMaxNumber": 80,
+  "Spread_StorageMaxNumber": 27,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "main_smart_pot_c_1",
+  "Spread_Auto": 0,
+  "Spread_WeightType": 5,
+  "Spread_ItemMaxNumber": 150,
+  "Spread_StorageMaxNumber": 27,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "main_smart_pot_d_1",
+  "Spread_Auto": 0,
+  "Spread_WeightType": 5,
+  "Spread_ItemMaxNumber": 250,
+  "Spread_StorageMaxNumber": 42,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "main_smart_pot_e_1",
+  "Spread_Auto": 0,
+  "Spread_WeightType": 5,
+  "Spread_ItemMaxNumber": 400,
+  "Spread_StorageMaxNumber": 55,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "main_pack_laser_5_1",
+  "MergedType": "main_pack_laser_5_2",
+  "ProtectLevel": 4
+ },
+ {
+  "Type": "main_pack_laser_5_2",
+  "MergedType": "main_pack_laser_5_3",
+  "ProtectLevel": 4
+ },
+ {
+  "Type": "main_pack_laser_5_3",
+  "MergedType": "rb#pack_laser_5",
+  "ProtectLevel": 4
+ },
+ {
+  "Type": "main_pack_royal_5_1",
+  "MergedType": "main_pack_royal_5_2",
+  "ProtectLevel": 4
+ },
+ {
+  "Type": "main_pack_royal_5_2",
+  "MergedType": "main_pack_royal_5_3",
+  "ProtectLevel": 4
+ },
+ {
+  "Type": "main_pack_royal_5_3",
+  "MergedType": "rb#pack_royal_5",
+  "ProtectLevel": 4
+ },
+ {
+  "Type": "main_level_up_piece_1",
+  "MergedType": "main_level_up_piece_2",
+  "ProtectLevel": 4
+ },
+ {
+  "Type": "main_level_up_piece_2",
+  "MergedType": "main_level_up_piece_3",
+  "ProtectLevel": 4
+ },
+ {
+  "Type": "main_level_up_piece_3",
+  "MergedType": "rb#level_up_piece_1",
+  "ProtectLevel": 4
+ },
+ {
+  "Type": "main_wheel_annual_token_1",
+  "MergedType": "main_wheel_annual_token_2",
+  "CollectRewards": [
+   "annualWheelPackToken-3"
+  ],
+  "SpecialType": 3
+ },
+ {
+  "Type": "main_wheel_annual_token_2",
+  "MergedType": "main_wheel_annual_token_3",
+  "CollectRewards": [
+   "annualWheelPackToken-8"
+  ],
+  "SpecialType": 3
+ },
+ {
+  "Type": "main_wheel_annual_token_3",
+  "MergedType": "main_wheel_annual_token_4",
+  "CollectRewards": [
+   "annualWheelPackToken-20"
+  ],
+  "SpecialType": 3
+ },
+ {
+  "Type": "main_wheel_annual_token_4",
+  "CollectRewards": [
+   "annualWheelPackToken-50"
+  ],
+  "SpecialType": 3
+ },
+ {
+  "Type": "main_card_item_disco_s_1",
+  "MergedType": "main_card_item_disco_s_2",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "main_card_item_disco_s_2",
+  "MergedType": "main_card_item_disco_s_3",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_disco_s_3",
+  "CollectRewards": [
+   "boostcharge_disco_card_item_s_2-1"
+  ],
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_disco_m_1",
+  "MergedType": "main_card_item_disco_m_2",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "main_card_item_disco_m_2",
+  "MergedType": "main_card_item_disco_m_3",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_disco_m_3",
+  "CollectRewards": [
+   "boostcharge_disco_card_item_m_2-1"
+  ],
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_disco_b_1",
+  "MergedType": "main_card_item_disco_b_2",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "main_card_item_disco_b_2",
+  "MergedType": "main_card_item_disco_b_3",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_disco_b_3",
+  "CollectRewards": [
+   "boostcharge_disco_card_item_b_2-1"
+  ],
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_infi_e_s_1",
+  "MergedType": "main_card_item_infi_e_s_2",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "main_card_item_infi_e_s_2",
+  "MergedType": "main_card_item_infi_e_s_3",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_infi_e_s_3",
+  "CollectRewards": [
+   "infinite-60"
+  ],
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_infi_e_b_1",
+  "MergedType": "main_card_item_infi_e_b_2",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "main_card_item_infi_e_b_2",
+  "MergedType": "main_card_item_infi_e_b_3",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_infi_e_b_3",
+  "CollectRewards": [
+   "infinite-120"
+  ],
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_raccoon_s_1",
+  "MergedType": "main_card_item_raccoon_s_2",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "main_card_item_raccoon_s_2",
+  "MergedType": "main_card_item_raccoon_s_3",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_raccoon_s_3",
+  "CollectRewards": [
+   "raccoon_reward_card_item_s_2-1"
+  ],
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_raccoon_m_1",
+  "MergedType": "main_card_item_raccoon_m_2",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "main_card_item_raccoon_m_2",
+  "MergedType": "main_card_item_raccoon_m_3",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_raccoon_m_3",
+  "CollectRewards": [
+   "raccoon_reward_card_item_m_2-1"
+  ],
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_raccoon_b_1",
+  "MergedType": "main_card_item_raccoon_b_2",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "main_card_item_raccoon_b_2",
+  "MergedType": "main_card_item_raccoon_b_3",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_raccoon_b_3",
+  "CollectRewards": [
+   "raccoon_reward_card_item_b_2-1"
+  ],
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_smart_buff_1",
+  "MergedType": "main_card_item_smart_buff_2",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "main_card_item_smart_buff_2",
+  "MergedType": "main_card_item_smart_buff_3",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_smart_buff_3",
+  "CollectRewards": [
+   "buff_smart-14400"
+  ],
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_plane_s_1",
+  "MergedType": "main_card_item_plane_s_2",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "main_card_item_plane_s_2",
+  "MergedType": "main_card_item_plane_s_3",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_plane_s_3",
+  "CollectRewards": [
+   "plane_reward_card_item_s_2-1"
+  ],
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_plane_m_1",
+  "MergedType": "main_card_item_plane_m_2",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "main_card_item_plane_m_2",
+  "MergedType": "main_card_item_plane_m_3",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_plane_m_3",
+  "CollectRewards": [
+   "plane_reward_card_item_m_2-1"
+  ],
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_plane_b_1",
+  "MergedType": "main_card_item_plane_b_2",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "main_card_item_plane_b_2",
+  "MergedType": "main_card_item_plane_b_3",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_plane_b_3",
+  "CollectRewards": [
+   "plane_reward_card_item_b_2-1"
+  ],
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_raccoon_customer_1",
+  "MergedType": "main_card_item_raccoon_customer_2",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "main_card_item_raccoon_customer_2",
+  "MergedType": "main_card_item_raccoon_customer_3",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_raccoon_customer_3",
+  "CollectRewards": [
+   "customer_upgrade-1"
+  ],
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_cannon_s_1",
+  "MergedType": "main_card_item_cannon_s_2",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "main_card_item_cannon_s_2",
+  "MergedType": "main_card_item_cannon_s_3",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_cannon_s_3",
+  "CollectRewards": [
+   "cannon_reward-150"
+  ],
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_cannon_b_1",
+  "MergedType": "main_card_item_cannon_b_2",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "main_card_item_cannon_b_2",
+  "MergedType": "main_card_item_cannon_b_3",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_cannon_b_3",
+  "CollectRewards": [
+   "cannon_reward-250"
+  ],
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_gem_s_1",
+  "MergedType": "main_card_item_gem_s_2",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "main_card_item_gem_s_2",
+  "MergedType": "main_card_item_gem_s_3",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_gem_s_3",
+  "CollectRewards": [
+   "gem-10"
+  ],
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_gem_m_1",
+  "MergedType": "main_card_item_gem_m_2",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "main_card_item_gem_m_2",
+  "MergedType": "main_card_item_gem_m_3",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_gem_m_3",
+  "CollectRewards": [
+   "gem-25"
+  ],
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_gem_b_1",
+  "MergedType": "main_card_item_gem_b_2",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "main_card_item_gem_b_2",
+  "MergedType": "main_card_item_gem_b_3",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_gem_b_3",
+  "CollectRewards": [
+   "gem-50"
+  ],
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_energy_s_1",
+  "MergedType": "main_card_item_energy_s_2",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "main_card_item_energy_s_2",
+  "MergedType": "main_card_item_energy_s_3",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_energy_s_3",
+  "CollectRewards": [
+   "energy-100"
+  ],
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_energy_m_1",
+  "MergedType": "main_card_item_energy_m_2",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "main_card_item_energy_m_2",
+  "MergedType": "main_card_item_energy_m_3",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_energy_m_3",
+  "CollectRewards": [
+   "energy-150"
+  ],
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_energy_b_1",
+  "MergedType": "main_card_item_energy_b_2",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "main_card_item_energy_b_2",
+  "MergedType": "main_card_item_energy_b_3",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_energy_b_3",
+  "CollectRewards": [
+   "energy-250"
+  ],
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_levelup_1",
+  "MergedType": "main_card_item_levelup_2",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "main_card_item_levelup_2",
+  "MergedType": "main_card_item_levelup_3",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_levelup_3",
+  "CollectRewards": [
+   "level_up_piece_1-1"
+  ],
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_pot_s_1",
+  "MergedType": "main_card_item_pot_s_2",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "main_card_item_pot_s_2",
+  "MergedType": "main_card_item_pot_s_3",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_pot_s_3",
+  "CollectRewards": [
+   "main_smart_pot_c_1-1"
+  ],
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_pot_m_1",
+  "MergedType": "main_card_item_pot_m_2",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "main_card_item_pot_m_2",
+  "MergedType": "main_card_item_pot_m_3",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_pot_m_3",
+  "CollectRewards": [
+   "main_smart_pot_d_1-1"
+  ],
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_pot_b_1",
+  "MergedType": "main_card_item_pot_b_2",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "main_card_item_pot_b_2",
+  "MergedType": "main_card_item_pot_b_3",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_pot_b_3",
+  "CollectRewards": [
+   "main_smart_pot_e_1-1"
+  ],
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_superball_1",
+  "MergedType": "main_card_item_superball_2",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1
+ },
+ {
+  "Type": "main_card_item_superball_2",
+  "MergedType": "main_card_item_superball_3",
+  "SellingPrice": 0,
+  "Rare": 1,
+  "LevelUpPiece": 1,
+  "LevelDownPiece": 1
+ },
+ {
+  "Type": "main_card_item_superball_3",
+  "CollectRewards": [
+   "main_super_ball_1-1"
+  ],
+  "LevelDownPiece": 1
+ }
+]

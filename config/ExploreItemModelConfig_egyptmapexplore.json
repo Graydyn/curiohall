@@ -1,0 +1,349 @@
+[
+ {
+  "Type": "mpx_egypt_main_1",
+  "MergedType": "mpx_egypt_main_2",
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "mpx_egypt_main_2",
+  "MergedType": "mpx_egypt_main_3",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "mpx_egypt_main_3",
+  "MergedType": "mpx_egypt_main_4",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "mpx_egypt_main_4",
+  "MergedType": "mpx_egypt_main_5",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "mpx_egypt_main_5",
+  "MergedType": "mpx_egypt_main_6",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "mpx_map_energy_super_2-2",
+   "main_super_gold_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "mpx_egypt_main_6",
+  "MergedType": "mpx_egypt_main_7",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "mpx_map_energy_super_2-3",
+   "main_super_gold_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 4,
+  "Spread_StorageMaxNumber": 4,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "mpx_egypt_main_7",
+  "MergedType": "mpx_egypt_main_8",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "mpx_map_energy_super_3-2",
+   "main_super_gold_2-1",
+   "main_gem_super_1-1",
+   "mpx_egypt_sub_1_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 5,
+  "Spread_StorageMaxNumber": 5,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "mpx_egypt_main_8",
+  "MergedType": "mpx_egypt_main_9",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "mpx_map_energy_super_3-2",
+   "main_super_gold_2-1",
+   "main_gem_super_1-1",
+   "mpx_egypt_sub_1_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 5,
+  "Spread_StorageMaxNumber": 5,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "mpx_egypt_main_9",
+  "MergedType": "mpx_egypt_main_10",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "mpx_map_energy_super_3-2",
+   "mpx_map_energy_super_2-1",
+   "main_super_gold_2-1",
+   "main_gem_super_1-1",
+   "mpx_egypt_sub_1_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 6,
+  "Spread_StorageMaxNumber": 6,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "mpx_egypt_main_10",
+  "MergedType": "mpx_egypt_main_11",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "mpx_map_energy_super_3-3",
+   "main_super_gold_3-1",
+   "main_gem_super_2-1",
+   "mpx_egypt_sub_1_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 6,
+  "Spread_StorageMaxNumber": 6,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "mpx_egypt_main_11",
+  "MergedType": "mpx_egypt_main_12",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "mpx_map_energy_super_4-2",
+   "main_super_gold_2-3",
+   "main_gem_super_1-1",
+   "main_gem_super_2-1",
+   "mpx_egypt_sub_1_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 8,
+  "Spread_StorageMaxNumber": 8,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "mpx_egypt_main_12",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "mpx_map_energy_super_4-2",
+   "mpx_map_energy_super_3-1",
+   "main_super_gold_3-3",
+   "main_gem_super_3-2",
+   "mpx_egypt_sub_1_1-3"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 11,
+  "Spread_StorageMaxNumber": 11,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "mpx_egypt_sub_1_1",
+  "MergedType": "mpx_egypt_sub_1_2"
+ },
+ {
+  "Type": "mpx_egypt_sub_1_2",
+  "MergedType": "mpx_egypt_sub_1_3",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "mpx_egypt_sub_1_3",
+  "MergedType": "mpx_egypt_sub_1_4",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "mpx_egypt_sub_1_4",
+  "MergedType": "mpx_egypt_sub_1_5",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "mpx_egypt_sub_1_5",
+  "MergedType": "mpx_egypt_sub_1_6",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_gold_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "mpx_egypt_sub_1_6",
+  "MergedType": "mpx_egypt_sub_1_7",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_gold_1-1",
+   "main_gem_super_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 2,
+  "Spread_StorageMaxNumber": 2,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "mpx_egypt_sub_1_7",
+  "MergedType": "mpx_egypt_sub_1_8",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_gold_3-1",
+   "main_gem_super_3-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 2,
+  "Spread_StorageMaxNumber": 2,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "mpx_egypt_sub_1_8",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "main_super_gold_4-1",
+   "main_super_gold_3-1",
+   "main_super_gold_2-1",
+   "main_gem_super_3-3",
+   "main_gem_super_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 7,
+  "Spread_StorageMaxNumber": 7,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "mpx_egypt_sub_2_1",
+  "MergedType": "mpx_egypt_sub_2_2"
+ },
+ {
+  "Type": "mpx_egypt_sub_2_2",
+  "MergedType": "mpx_egypt_sub_2_3",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "mpx_egypt_sub_2_3",
+  "MergedType": "mpx_egypt_sub_2_4",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "mpx_egypt_sub_2_4",
+  "MergedType": "mpx_egypt_sub_2_5",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "mpx_egypt_sub_2_5",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "main_super_gold_3-3"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "mpx_egypt_sub_3_1",
+  "MergedType": "mpx_egypt_sub_3_2"
+ },
+ {
+  "Type": "mpx_egypt_sub_3_2",
+  "MergedType": "mpx_egypt_sub_3_3",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "mpx_egypt_sub_3_3",
+  "MergedType": "mpx_egypt_sub_3_4",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "mpx_egypt_sub_3_4",
+  "MergedType": "mpx_egypt_sub_3_5",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "mpx_egypt_sub_3_5",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "main_gem_super_3-6"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 6,
+  "Spread_StorageMaxNumber": 6,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "mpx_map_energy_super_1",
+  "MergedType": "mpx_map_energy_super_2",
+  "SpecialType": 3
+ },
+ {
+  "Type": "mpx_map_energy_super_2",
+  "MergedType": "mpx_map_energy_super_3",
+  "CollectRewards": [
+   "mapEnergy-2"
+  ],
+  "SpecialType": 3
+ },
+ {
+  "Type": "mpx_map_energy_super_3",
+  "MergedType": "mpx_map_energy_super_4",
+  "CollectRewards": [
+   "mapEnergy-5"
+  ],
+  "SpecialType": 3
+ },
+ {
+  "Type": "mpx_map_energy_super_4",
+  "MergedType": "mpx_map_energy_super_5",
+  "CollectRewards": [
+   "mapEnergy-12"
+  ],
+  "SpecialType": 3
+ },
+ {
+  "Type": "mpx_map_energy_super_5",
+  "MergedType": "mpx_map_energy_super_6",
+  "CollectRewards": [
+   "mapEnergy-25"
+  ],
+  "SpecialType": 3
+ },
+ {
+  "Type": "mpx_map_energy_super_6",
+  "MergedType": "mpx_map_energy_super_7",
+  "CollectRewards": [
+   "mapEnergy-55"
+  ],
+  "SpecialType": 3
+ },
+ {
+  "Type": "mpx_map_energy_super_7",
+  "MergedType": "mpx_map_energy_super_8",
+  "CollectRewards": [
+   "mapEnergy-120"
+  ],
+  "SpecialType": 3
+ },
+ {
+  "Type": "mpx_map_energy_super_8",
+  "CollectRewards": [
+   "mapEnergy-250"
+  ],
+  "SpecialType": 3
+ }
+]

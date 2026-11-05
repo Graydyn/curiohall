@@ -1,0 +1,385 @@
+[
+ {
+  "Type": "beat_spring_weapon_1",
+  "MergedType": "beat_spring_weapon_2",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "beat_spring_weapon_2",
+  "MergedType": "beat_spring_weapon_3",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "beat_spring_weapon_3",
+  "MergedType": "beat_spring_weapon_4",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "beat_spring_weapon_4",
+  "CollectRewards": [
+   "springBeat-420"
+  ],
+  "BubbleChance": 0
+ },
+ {
+  "Type": "beat_spring_chest_a_1",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "rb#truckbox_1-1",
+   "rb#os_1_1-1",
+   "2402-1",
+   "2401-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 4,
+  "Spread_StorageMaxNumber": 4,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "beat_spring_chest_b_1",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "rb#scratch_a_1-1",
+   "rb#3001-1",
+   "rb#pack_common_2-1",
+   "2401-1",
+   "2402-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 5,
+  "Spread_StorageMaxNumber": 5,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "beat_spring_chest_c_1",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "rb#truckbox_1-1",
+   "rb#4101-1",
+   "rb#ns_3_1-1",
+   "2402-1",
+   "2601-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 5,
+  "Spread_StorageMaxNumber": 5,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "beat_spring_chest_d_1",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "rb#level_down_piece_1-1",
+   "rb#3101-1",
+   "rb#pack_common_3-1",
+   "2401-1",
+   "2602-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 5,
+  "Spread_StorageMaxNumber": 5,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "beat_spring_chest_e_1",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "rb#scratch_a_1-1",
+   "rb#truckbox_2-1",
+   "rb#os_1_1-1",
+   "2401-2",
+   "2602-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 6,
+  "Spread_StorageMaxNumber": 6,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "beat_spring_chest_f_1",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "rb#scratch_a_1-1",
+   "rb#2901-1",
+   "rb#pack_common_4-1",
+   "2401-2",
+   "2602-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 6,
+  "Spread_StorageMaxNumber": 6,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "beat_spring_chest_g_1",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2503-1",
+   "2502-2",
+   "rb#2901-1",
+   "rb#pack_common_5-1",
+   "2402-1",
+   "2401-1",
+   "2602-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 8,
+  "Spread_StorageMaxNumber": 8,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "beat_spring_chest_infinite_1",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "rb#3001-1",
+   "rb#os_1_1-1",
+   "2601-2",
+   "2402-1",
+   "2401-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 6,
+  "Spread_StorageMaxNumber": 6,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "beat_spring_prop_1",
+  "MergedType": "beat_spring_prop_2",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "beat_spring_prop_2",
+  "MergedType": "beat_spring_prop_3",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "beat_spring_prop_3",
+  "MergedType": "beat_spring_prop_4",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "beat_spring_prop_4",
+  "MergedType": "beat_spring_prop_5",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "beat_spring_prop_5",
+  "MergedType": "beat_spring_prop_6",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "beat_spring_prop_6",
+  "MergedType": "beat_spring_prop_7",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "beat_spring_prop_7",
+  "MergedType": "beat_spring_prop_8",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "rb#scratch_a_1-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 2,
+  "Spread_StorageMaxNumber": 2,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "beat_spring_prop_8",
+  "MergedType": "beat_spring_prop_9",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "rb#rc_a_1-1",
+   "rb#scratch_a_1-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "beat_spring_prop_9",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "rb#level_up_piece_1-1",
+   "rb#level_down_piece_1-1",
+   "2502-5",
+   "2402-6",
+   "2602-6"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 19,
+  "Spread_StorageMaxNumber": 19,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "beat_spring_gift_a_1",
+  "MergedType": "beat_spring_gift_a_2",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "beat_spring_gift_a_2",
+  "MergedType": "beat_spring_gift_a_3",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "beat_spring_gift_a_3",
+  "MergedType": "beat_spring_gift_a_4",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "beat_spring_gift_a_4",
+  "MergedType": "beat_spring_gift_a_5",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "beat_spring_gift_a_5",
+  "MergedType": "beat_spring_gift_a_6",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "beat_spring_gift_a_6",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2501-1"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 6,
+  "Spread_StorageMaxNumber": 6,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "beat_spring_gift_b_1",
+  "MergedType": "beat_spring_gift_b_2",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "beat_spring_gift_b_2",
+  "MergedType": "beat_spring_gift_b_3",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "beat_spring_gift_b_3",
+  "MergedType": "beat_spring_gift_b_4",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "beat_spring_gift_b_4",
+  "MergedType": "beat_spring_gift_b_5",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "beat_spring_gift_b_5",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2601-1"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 6,
+  "Spread_StorageMaxNumber": 6,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "beat_spring_gift_c_1",
+  "MergedType": "beat_spring_gift_c_2",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "beat_spring_gift_c_2",
+  "MergedType": "beat_spring_gift_c_3",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "beat_spring_gift_c_3",
+  "MergedType": "beat_spring_gift_c_4",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "beat_spring_gift_c_4",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2401-1"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 7,
+  "Spread_StorageMaxNumber": 7,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "beat_spring_chick_1",
+  "MergedType": "beat_spring_chick_2",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "beat_spring_chick_2",
+  "MergedType": "beat_spring_chick_3",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "beat_spring_chick_3",
+  "MergedType": "beat_spring_chick_4",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "beat_spring_chick_4",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "beat_spring_egg_1-1"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 16,
+  "Spread_StorageMaxNumber": 16,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "beat_spring_egg_1",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2601-1"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "beat_spring_ball_1",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2601-1"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 12,
+  "Spread_StorageMaxNumber": 12,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "beat_spring_ring_1",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2501-1"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_ItemMaxNumber": 10,
+  "Spread_StorageMaxNumber": 10,
+  "Spread_CostEnergy": 0
+ }
+]

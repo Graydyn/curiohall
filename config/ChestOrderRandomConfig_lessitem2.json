@@ -1,0 +1,270 @@
+[
+ {
+  "Type": 1,
+  "RefreshTime": 3600,
+  "UnlockLevel": 3,
+  "Point": 5,
+  "Filters": [
+   {
+    "PlayerMin": null,
+    "PlayerMax": 15,
+    "FirstMax": 6,
+    "SecondMax": 5,
+    "ThirdMax": 3
+   },
+   {
+    "PlayerMin": 16,
+    "PlayerMax": null,
+    "FirstMax": 6,
+    "SecondMax": 6,
+    "ThirdMax": 3
+   }
+  ],
+  "ItemAmounts": {
+   "OneItemWeight": 35,
+   "TwoItemsWeight": 65,
+   "ThreeItemsWeight": 0
+  }
+ },
+ {
+  "Type": 2,
+  "RefreshTime": 1800,
+  "UnlockLevel": 3,
+  "Filters": [
+   {
+    "PlayerMin": null,
+    "PlayerMax": 15,
+    "FirstMin": 7,
+    "FirstMax": 7,
+    "SecondMax": 5,
+    "ThirdMax": 4
+   },
+   {
+    "PlayerMin": 16,
+    "PlayerMax": null,
+    "FirstMin": 6,
+    "FirstMax": 6,
+    "SecondMax": 3,
+    "ThirdMax": 3
+   }
+  ],
+  "ItemAmounts": {
+   "OneItemWeight": 100,
+   "TwoItemsWeight": 0,
+   "ThreeItemsWeight": 0
+  }
+ },
+ {
+  "Type": 3,
+  "RefreshTime": 900,
+  "UnlockLevel": 4,
+  "Filters": [
+   {
+    "PlayerMin": null,
+    "PlayerMax": 7,
+    "FirstMin": 6,
+    "FirstMax": 7,
+    "SecondMax": 5,
+    "ThirdMax": 3
+   },
+   {
+    "PlayerMin": 8,
+    "PlayerMax": 15,
+    "FirstMin": 7,
+    "FirstMax": 8,
+    "SecondMax": 5,
+    "ThirdMax": 3
+   },
+   {
+    "PlayerMin": 16,
+    "PlayerMax": 29,
+    "FirstMin": 8,
+    "FirstMax": 9,
+    "SecondMax": 7,
+    "ThirdMax": 6
+   },
+   {
+    "PlayerMin": 30,
+    "PlayerMax": 35,
+    "FirstMin": 8,
+    "FirstMax": 10,
+    "SecondMax": 8,
+    "ThirdMax": 6
+   },
+   {
+    "PlayerMin": 36,
+    "PlayerMax": 60,
+    "FirstMin": 9,
+    "FirstMax": 10,
+    "SecondMax": 9,
+    "ThirdMax": 6
+   },
+   {
+    "PlayerMin": 61,
+    "PlayerMax": null,
+    "FirstMin": 10,
+    "FirstMax": 10,
+    "SecondMax": 9,
+    "ThirdMax": 6
+   }
+  ],
+  "ItemAmounts": {
+   "OneItemWeight": 35,
+   "TwoItemsWeight": 65,
+   "ThreeItemsWeight": 0
+  }
+ },
+ {
+  "Type": 4,
+  "RefreshTime": 300,
+  "UnlockLevel": 5,
+  "Filters": [
+   {
+    "PlayerMin": null,
+    "PlayerMax": 7,
+    "FirstMin": 7,
+    "FirstMax": 8,
+    "SecondMax": 5,
+    "ThirdMax": 3
+   },
+   {
+    "PlayerMin": 8,
+    "PlayerMax": 15,
+    "FirstMin": 7,
+    "FirstMax": 9,
+    "SecondMax": 6,
+    "ThirdMax": 4
+   },
+   {
+    "PlayerMin": 16,
+    "PlayerMax": 29,
+    "FirstMin": 8,
+    "FirstMax": 10,
+    "SecondMax": 7,
+    "ThirdMax": 6
+   },
+   {
+    "PlayerMin": 30,
+    "PlayerMax": 50,
+    "FirstMin": 9,
+    "FirstMax": 11,
+    "SecondMax": 8,
+    "ThirdMax": 6
+   },
+   {
+    "PlayerMin": 51,
+    "PlayerMax": 80,
+    "FirstMin": 10,
+    "FirstMax": 11,
+    "SecondMax": 9,
+    "ThirdMax": 6
+   },
+   {
+    "PlayerMin": 81,
+    "PlayerMax": null,
+    "FirstMin": 11,
+    "FirstMax": 11,
+    "SecondMax": 10,
+    "ThirdMax": 6
+   }
+  ],
+  "ItemAmounts": {
+   "OneItemWeight": 35,
+   "TwoItemsWeight": 65,
+   "ThreeItemsWeight": 0
+  }
+ },
+ {
+  "Type": 9,
+  "RefreshTime": 1200,
+  "UnlockLevel": 10,
+  "Filters": [
+   {
+    "PlayerMin": null,
+    "PlayerMax": 15,
+    "FirstMin": 7,
+    "FirstMax": 8,
+    "SecondMax": 6,
+    "ThirdMax": 4
+   },
+   {
+    "PlayerMin": 16,
+    "PlayerMax": 29,
+    "FirstMin": 8,
+    "FirstMax": 8,
+    "SecondMax": 7,
+    "ThirdMax": 5
+   },
+   {
+    "PlayerMin": 30,
+    "PlayerMax": 60,
+    "FirstMin": 8,
+    "FirstMax": 9,
+    "SecondMax": 7,
+    "ThirdMax": 6
+   },
+   {
+    "PlayerMin": 61,
+    "PlayerMax": null,
+    "FirstMin": 9,
+    "FirstMax": 9,
+    "SecondMax": 8,
+    "ThirdMax": 6
+   }
+  ],
+  "ItemAmounts": {
+   "OneItemWeight": 35,
+   "TwoItemsWeight": 65,
+   "ThreeItemsWeight": 0
+  }
+ },
+ {
+  "Type": 12,
+  "RefreshTime": 3600,
+  "UnlockLevel": 14,
+  "Filters": [
+   {
+    "PlayerMin": null,
+    "PlayerMax": null,
+    "FirstMin": 6,
+    "FirstMax": 7,
+    "SecondMax": 5,
+    "ThirdMax": 5
+   }
+  ]
+ },
+ {
+  "Type": 15,
+  "RefreshTime": 1,
+  "UnlockLevel": 12,
+  "Filters": [
+   {
+    "PlayerMin": null,
+    "PlayerMax": null,
+    "FirstMin": 5,
+    "FirstMax": 7,
+    "SecondMin": 4,
+    "SecondMax": 5,
+    "ThirdMin": 3,
+    "ThirdMax": 4
+   }
+  ]
+ },
+ {
+  "Type": 16,
+  "RefreshTime": 1,
+  "UnlockLevel": 1,
+  "Filters": [
+   {
+    "PlayerMin": null,
+    "PlayerMax": null,
+    "FirstMin": null,
+    "FirstMax": null,
+    "SecondMin": null,
+    "SecondMax": null,
+    "ThirdMin": null,
+    "ThirdMax": null
+   }
+  ]
+ }
+]

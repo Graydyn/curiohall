@@ -1,0 +1,24 @@
+[
+ {
+  "index": 1,
+  "boardIndex": 0,
+  "leftTop": [
+   3,
+   3
+  ],
+  "rightBottom": [
+   4,
+   4
+  ],
+  "maxLevel": 8,
+  "reward": "cbitm_adventure_adv_dogpark_obs_tr_1-1",
+  "prefab": [
+   4,
+   4
+  ],
+  "toolIcon": [
+   4,
+   4
+  ]
+ }
+]

@@ -1,0 +1,6767 @@
+[
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_1_1",
+  "prefabName": "egyptMapExplore_prb_nmob_2",
+  "type": "ob_main_1",
+  "cost": [
+   {
+    "Amount": 5,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_2_1",
+  "prefabName": "egyptMapExplore_prb_nmob_4",
+  "type": "ob_main_2",
+  "cost": [
+   {
+    "Amount": 5,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_3_1",
+  "prefabName": "egyptMapExplore_prb_nmob_6",
+  "type": "ob_main_3",
+  "cost": [
+   {
+    "Amount": 8,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_4_1",
+  "prefabName": "egyptMapExplore_prb_nmob_6",
+  "type": "ob_main_4",
+  "cost": [
+   {
+    "Amount": 13,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 5,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_5_1",
+  "prefabName": "egyptMapExplore_prb_spob_2",
+  "type": "ob_main_5",
+  "cost": [
+   {
+    "Amount": 22,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "egyptMapExplore_cloth"
+   }
+  ],
+  "code": "ob_main_6_1",
+  "type": "ob_main_6",
+  "prefabName": "egyptMapExplore_prb_tool_1"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_7_1",
+  "prefabName": "egyptMapExplore_prb_nmob_8",
+  "type": "ob_main_7",
+  "cost": [
+   {
+    "Amount": 8,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_8_1",
+  "prefabName": "egyptMapExplore_prb_nmob_8",
+  "type": "ob_main_8",
+  "cost": [
+   {
+    "Amount": 8,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_9_1",
+  "prefabName": "egyptMapExplore_prb_nmob_6",
+  "type": "ob_main_9",
+  "cost": [
+   {
+    "Amount": 13,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_10_1",
+  "prefabName": "egyptMapExplore_prb_nmob_4",
+  "type": "ob_main_10",
+  "cost": [
+   {
+    "Amount": 5,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_11_1",
+  "prefabName": "egyptMapExplore_prb_nmob_4",
+  "type": "ob_main_11",
+  "cost": [
+   {
+    "Amount": 5,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "bubbleType": 1,
+  "code": "ob_main_12_1",
+  "type": "ob_main_12",
+  "characterAniName": "collect",
+  "cameraSize": 1,
+  "bubbleKey": "egyptMapExplore_bubble_task_2",
+  "prefabName": "egyptMapExplore_prb_bossob_1",
+  "cost": [
+   {
+    "Amount": 1,
+    "Currency": "egyptMapExplore_cloth"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_13_1",
+  "prefabName": "egyptMapExplore_prb_nmob_5",
+  "type": "ob_main_13",
+  "cost": [
+   {
+    "Amount": 5,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_14_1",
+  "prefabName": "egyptMapExplore_prb_nmob_5",
+  "type": "ob_main_14",
+  "cost": [
+   {
+    "Amount": 13,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 5,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_15_1",
+  "prefabName": "egyptMapExplore_prb_spob_1",
+  "type": "ob_main_15",
+  "cost": [
+   {
+    "Amount": 22,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_16_1",
+  "prefabName": "egyptMapExplore_prb_nmob_2",
+  "type": "ob_main_16",
+  "cost": [
+   {
+    "Amount": 13,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_17_1",
+  "prefabName": "egyptMapExplore_prb_nmob_8",
+  "type": "ob_main_17",
+  "cost": [
+   {
+    "Amount": 8,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_18_1",
+  "prefabName": "egyptMapExplore_prb_nmob_4",
+  "type": "ob_main_18",
+  "cost": [
+   {
+    "Amount": 8,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_19_1",
+  "prefabName": "egyptMapExplore_prb_nmob_2",
+  "type": "ob_main_19",
+  "cost": [
+   {
+    "Amount": 13,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "characterAniName": "clear",
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_sub_1_1"
+   }
+  ],
+  "code": "ob_main_20_1",
+  "prefabName": "egyptMapExplore_prb_subob_2",
+  "type": "ob_main_20",
+  "cost": [
+   {
+    "Amount": 23,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "characterAniName": "clear",
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_sub_1_1"
+   }
+  ],
+  "code": "ob_main_20_2",
+  "prefabName": "egyptMapExplore_prb_subob_2",
+  "type": "ob_main_20",
+  "cost": [
+   {
+    "Amount": 23,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_21_1",
+  "prefabName": "egyptMapExplore_prb_nmob_4",
+  "type": "ob_main_21",
+  "cost": [
+   {
+    "Amount": 13,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_22_1",
+  "prefabName": "egyptMapExplore_prb_nmob_2",
+  "type": "ob_main_22",
+  "cost": [
+   {
+    "Amount": 13,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 4,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_23_1",
+  "prefabName": "egyptMapExplore_prb_spob_2",
+  "type": "ob_main_23",
+  "cost": [
+   {
+    "Amount": 22,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 7,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_23_2",
+  "prefabName": "egyptMapExplore_prb_spob_2",
+  "type": "ob_main_23",
+  "cost": [
+   {
+    "Amount": 22,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_24_1",
+  "prefabName": "egyptMapExplore_prb_nmob_8",
+  "type": "ob_main_24",
+  "cost": [
+   {
+    "Amount": 13,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_25_1",
+  "prefabName": "egyptMapExplore_prb_nmob_6",
+  "type": "ob_main_25",
+  "cost": [
+   {
+    "Amount": 8,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 2,
+  "disposeSpineAniName": "idle_1",
+  "code": "ob_main_26_1",
+  "idleSpineAniName": "idle_1",
+  "type": "ob_main_26",
+  "characterAniName": "clear",
+  "disposeTime": 0.2,
+  "transformPrefab": "egyptMapExplore_prb_bossob_2",
+  "prefabName": "egyptMapExplore_prb_bossob_2",
+  "cost": [
+   {
+    "Amount": 39,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 2,
+  "disposeSpineAniName": "dispose_1",
+  "code": "ob_main_26_2",
+  "idleSpineAniName": "idle_1",
+  "type": "ob_main_26",
+  "characterAniName": "clear",
+  "cameraSize": 1,
+  "transformPrefab": "egyptMapExplore_prb_bossob_2",
+  "prefabName": "egyptMapExplore_prb_bossob_2",
+  "cost": [
+   {
+    "Amount": 39,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_27_1",
+  "prefabName": "egyptMapExplore_prb_nmob_1",
+  "type": "ob_main_27",
+  "cost": [
+   {
+    "Amount": 13,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_28_1",
+  "prefabName": "egyptMapExplore_prb_nmob_2",
+  "type": "ob_main_28",
+  "cost": [
+   {
+    "Amount": 22,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 5,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_31_1",
+  "prefabName": "egyptMapExplore_prb_spob_2",
+  "type": "ob_main_31",
+  "cost": [
+   {
+    "Amount": 30,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 4,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_main_31_2",
+  "prefabName": "egyptMapExplore_prb_spob_2",
+  "type": "ob_main_31",
+  "cost": [
+   {
+    "Amount": 30,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_30_1",
+  "prefabName": "egyptMapExplore_prb_nmob_8",
+  "type": "ob_main_30",
+  "cost": [
+   {
+    "Amount": 13,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_29_1",
+  "prefabName": "egyptMapExplore_prb_nmob_5",
+  "type": "ob_main_29",
+  "cost": [
+   {
+    "Amount": 17,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_32_1",
+  "prefabName": "egyptMapExplore_prb_nmob_4",
+  "type": "ob_main_32",
+  "cost": [
+   {
+    "Amount": 13,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_33_1",
+  "prefabName": "egyptMapExplore_prb_nmob_8",
+  "type": "ob_main_33",
+  "cost": [
+   {
+    "Amount": 17,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_34_1",
+  "prefabName": "egyptMapExplore_prb_nmob_3",
+  "type": "ob_main_34",
+  "cost": [
+   {
+    "Amount": 15,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_34_2",
+  "prefabName": "egyptMapExplore_prb_nmob_3",
+  "type": "ob_main_34",
+  "cost": [
+   {
+    "Amount": 15,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_35_1",
+  "prefabName": "egyptMapExplore_prb_nmob_6",
+  "type": "ob_main_35",
+  "cost": [
+   {
+    "Amount": 13,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_36_1",
+  "prefabName": "egyptMapExplore_prb_nmob_6",
+  "type": "ob_main_36",
+  "cost": [
+   {
+    "Amount": 17,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 5,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_37_1",
+  "prefabName": "egyptMapExplore_prb_spob_1",
+  "type": "ob_main_37",
+  "cost": [
+   {
+    "Amount": 27,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 4,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_main_37_2",
+  "prefabName": "egyptMapExplore_prb_spob_1",
+  "type": "ob_main_37",
+  "cost": [
+   {
+    "Amount": 27,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_38_1",
+  "prefabName": "egyptMapExplore_prb_nmob_2",
+  "type": "ob_main_38",
+  "cost": [
+   {
+    "Amount": 13,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_39_1",
+  "prefabName": "egyptMapExplore_prb_nmob_2",
+  "type": "ob_main_39",
+  "cost": [
+   {
+    "Amount": 17,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_40_1",
+  "prefabName": "egyptMapExplore_prb_nmob_1",
+  "type": "ob_main_40",
+  "cost": [
+   {
+    "Amount": 17,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_40_2",
+  "prefabName": "egyptMapExplore_prb_nmob_1",
+  "type": "ob_main_40",
+  "cost": [
+   {
+    "Amount": 17,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "disposeSpineAniName": "idle_1",
+  "code": "ob_main_41_1",
+  "idleSpineAniName": "idle_1",
+  "type": "ob_main_41",
+  "characterAniName": "clear",
+  "disposeTime": 0.2,
+  "prefabName": "egyptMapExplore_prb_bossob_3",
+  "cost": [
+   {
+    "Amount": 50,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "disposeSpineAniName": "dispose_1",
+  "code": "ob_main_41_2",
+  "idleSpineAniName": "idle_1",
+  "type": "ob_main_41",
+  "characterAniName": "clear",
+  "cameraSize": 1,
+  "prefabName": "egyptMapExplore_prb_bossob_3",
+  "cost": [
+   {
+    "Amount": 50,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_42_1",
+  "prefabName": "egyptMapExplore_prb_nmob_2",
+  "type": "ob_main_42",
+  "cost": [
+   {
+    "Amount": 22,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_43_1",
+  "prefabName": "egyptMapExplore_prb_nmob_4",
+  "type": "ob_main_43",
+  "cost": [
+   {
+    "Amount": 17,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 4,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_main_44_1",
+  "prefabName": "egyptMapExplore_prb_spob_1",
+  "type": "ob_main_44",
+  "cost": [
+   {
+    "Amount": 32,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_45_1",
+  "prefabName": "egyptMapExplore_prb_nmob_4",
+  "type": "ob_main_45",
+  "cost": [
+   {
+    "Amount": 17,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_46_1",
+  "prefabName": "egyptMapExplore_prb_nmob_2",
+  "type": "ob_main_46",
+  "cost": [
+   {
+    "Amount": 22,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_47_1",
+  "prefabName": "egyptMapExplore_prb_nmob_8",
+  "type": "ob_main_47",
+  "cost": [
+   {
+    "Amount": 28,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "characterAniName": "clear",
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_sub_1_1"
+   }
+  ],
+  "code": "ob_main_48_1",
+  "prefabName": "egyptMapExplore_prb_subob_2",
+  "type": "ob_main_48",
+  "cost": [
+   {
+    "Amount": 27,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "characterAniName": "clear",
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_sub_1_1"
+   }
+  ],
+  "code": "ob_main_48_2",
+  "prefabName": "egyptMapExplore_prb_subob_2",
+  "type": "ob_main_48",
+  "cost": [
+   {
+    "Amount": 27,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_49_1",
+  "prefabName": "egyptMapExplore_prb_nmob_2",
+  "type": "ob_main_49",
+  "cost": [
+   {
+    "Amount": 17,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_50_1",
+  "prefabName": "egyptMapExplore_prb_nmob_2",
+  "type": "ob_main_50",
+  "cost": [
+   {
+    "Amount": 28,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 2,
+  "bubbleType": 1,
+  "code": "ob_main_51_1",
+  "type": "ob_main_51",
+  "characterAniName": "collect",
+  "cameraSize": 1,
+  "bubbleKey": "egyptMapExplore_bubble_task_8",
+  "transformPrefab": "egyptMapExplore_prb_bossob_4",
+  "prefabName": "egyptMapExplore_prb_bossob_4",
+  "cost": [
+   {
+    "Amount": 1,
+    "Currency": "egyptMapExplore_scroll"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_t1_1_1",
+  "prefabName": "egyptMapExplore_prb_nmob_5",
+  "type": "ob_t1_1",
+  "cost": [
+   {
+    "Amount": 17,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_t1_2_1",
+  "prefabName": "egyptMapExplore_prb_nmob_4",
+  "type": "ob_t1_2",
+  "cost": [
+   {
+    "Amount": 28,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 8,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_t1_3_1",
+  "prefabName": "egyptMapExplore_prb_spob_1",
+  "type": "ob_t1_3",
+  "cost": [
+   {
+    "Amount": 38,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_t1_4_1",
+  "prefabName": "egyptMapExplore_prb_nmob_2",
+  "type": "ob_t1_4",
+  "cost": [
+   {
+    "Amount": 22,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_t1_5_1",
+  "prefabName": "egyptMapExplore_prb_nmob_6",
+  "type": "ob_t1_5",
+  "cost": [
+   {
+    "Amount": 32,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_t1_6_1",
+  "prefabName": "egyptMapExplore_prb_nmob_8",
+  "type": "ob_t1_6",
+  "cost": [
+   {
+    "Amount": 22,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_t1_6_2",
+  "prefabName": "egyptMapExplore_prb_nmob_8",
+  "type": "ob_t1_6",
+  "cost": [
+   {
+    "Amount": 22,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_t1_6_3",
+  "prefabName": "egyptMapExplore_prb_nmob_8",
+  "type": "ob_t1_6",
+  "cost": [
+   {
+    "Amount": 22,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_t1_7_1",
+  "prefabName": "egyptMapExplore_prb_nmob_2",
+  "type": "ob_t1_7",
+  "cost": [
+   {
+    "Amount": 17,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_t1_8_1",
+  "prefabName": "egyptMapExplore_prb_nmob_2",
+  "type": "ob_t1_8",
+  "cost": [
+   {
+    "Amount": 22,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "egyptMapExplore_scroll"
+   }
+  ],
+  "code": "ob_t1_9_1",
+  "type": "ob_t1_9",
+  "prefabName": "egyptMapExplore_prb_tool_4"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_52_1",
+  "prefabName": "egyptMapExplore_prb_nmob_6",
+  "type": "ob_main_52",
+  "cost": [
+   {
+    "Amount": 17,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_53_1",
+  "prefabName": "egyptMapExplore_prb_nmob_3",
+  "type": "ob_main_53",
+  "cost": [
+   {
+    "Amount": 20,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_53_2",
+  "prefabName": "egyptMapExplore_prb_nmob_3",
+  "type": "ob_main_53",
+  "cost": [
+   {
+    "Amount": 20,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 4,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_main_54_1",
+  "prefabName": "egyptMapExplore_prb_spob_2",
+  "type": "ob_main_54",
+  "cost": [
+   {
+    "Amount": 32,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_55_1",
+  "prefabName": "egyptMapExplore_prb_nmob_2",
+  "type": "ob_main_55",
+  "cost": [
+   {
+    "Amount": 22,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_56_1",
+  "prefabName": "egyptMapExplore_prb_nmob_8",
+  "type": "ob_main_56",
+  "cost": [
+   {
+    "Amount": 28,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 7,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_57_1",
+  "prefabName": "egyptMapExplore_prb_spob_2",
+  "type": "ob_main_57",
+  "cost": [
+   {
+    "Amount": 36,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 4,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_main_57_2",
+  "prefabName": "egyptMapExplore_prb_spob_2",
+  "type": "ob_main_57",
+  "cost": [
+   {
+    "Amount": 36,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_58_1",
+  "prefabName": "egyptMapExplore_prb_nmob_2",
+  "type": "ob_main_58",
+  "cost": [
+   {
+    "Amount": 22,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_59_1",
+  "prefabName": "egyptMapExplore_prb_nmob_4",
+  "type": "ob_main_59",
+  "cost": [
+   {
+    "Amount": 22,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_60_1",
+  "prefabName": "egyptMapExplore_prb_nmob_4",
+  "type": "ob_main_60",
+  "cost": [
+   {
+    "Amount": 17,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_61_1",
+  "prefabName": "egyptMapExplore_prb_nmob_6",
+  "type": "ob_main_61",
+  "cost": [
+   {
+    "Amount": 22,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_62_1",
+  "prefabName": "egyptMapExplore_prb_nmob_8",
+  "type": "ob_main_62",
+  "cost": [
+   {
+    "Amount": 22,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "characterAniName": "fix",
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_sub_3_1"
+   }
+  ],
+  "code": "ob_main_63_1",
+  "prefabName": "egyptMapExplore_prb_crystal_purple",
+  "type": "ob_main_63",
+  "cost": [
+   {
+    "Amount": 27,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "characterAniName": "fix",
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "cbitm_mapExplore_mpx_egypt_sub_3_1"
+   }
+  ],
+  "code": "ob_main_63_2",
+  "prefabName": "egyptMapExplore_prb_crystal_purple",
+  "type": "ob_main_63",
+  "cost": [
+   {
+    "Amount": 27,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_64_1",
+  "prefabName": "egyptMapExplore_prb_nmob_2",
+  "type": "ob_main_64",
+  "cost": [
+   {
+    "Amount": 17,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_65_1",
+  "prefabName": "egyptMapExplore_prb_nmob_2",
+  "type": "ob_main_65",
+  "cost": [
+   {
+    "Amount": 22,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 7,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_66_1",
+  "prefabName": "egyptMapExplore_prb_spob_2",
+  "type": "ob_main_66",
+  "cost": [
+   {
+    "Amount": 37,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 5,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_main_66_2",
+  "prefabName": "egyptMapExplore_prb_spob_2",
+  "type": "ob_main_66",
+  "cost": [
+   {
+    "Amount": 37,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_67_1",
+  "prefabName": "egyptMapExplore_prb_nmob_4",
+  "type": "ob_main_67",
+  "cost": [
+   {
+    "Amount": 22,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_68_1",
+  "prefabName": "egyptMapExplore_prb_nmob_6",
+  "type": "ob_main_68",
+  "cost": [
+   {
+    "Amount": 17,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_69_1",
+  "prefabName": "egyptMapExplore_prb_nmob_6",
+  "type": "ob_main_69",
+  "cost": [
+   {
+    "Amount": 22,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 7,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_70_1",
+  "prefabName": "egyptMapExplore_prb_spob_1",
+  "type": "ob_main_70",
+  "cost": [
+   {
+    "Amount": 37,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 5,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_main_70_2",
+  "prefabName": "egyptMapExplore_prb_spob_1",
+  "type": "ob_main_70",
+  "cost": [
+   {
+    "Amount": 37,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_71_1",
+  "prefabName": "egyptMapExplore_prb_nmob_2",
+  "type": "ob_main_71",
+  "cost": [
+   {
+    "Amount": 17,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_72_1",
+  "prefabName": "egyptMapExplore_prb_nmob_4",
+  "type": "ob_main_72",
+  "cost": [
+   {
+    "Amount": 22,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_73_1",
+  "prefabName": "egyptMapExplore_prb_nmob_4",
+  "type": "ob_main_73",
+  "cost": [
+   {
+    "Amount": 17,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "characterAniName": "fix",
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_sub_3_1"
+   }
+  ],
+  "code": "ob_main_74_1",
+  "prefabName": "egyptMapExplore_prb_crystal_purple",
+  "type": "ob_main_74",
+  "cost": [
+   {
+    "Amount": 27,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "characterAniName": "fix",
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "cbitm_mapExplore_mpx_egypt_sub_3_1"
+   }
+  ],
+  "code": "ob_main_74_2",
+  "prefabName": "egyptMapExplore_prb_crystal_purple",
+  "type": "ob_main_74",
+  "cost": [
+   {
+    "Amount": 27,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_75_1",
+  "prefabName": "egyptMapExplore_prb_nmob_2",
+  "type": "ob_main_75",
+  "cost": [
+   {
+    "Amount": 17,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_76_1",
+  "prefabName": "egyptMapExplore_prb_nmob_8",
+  "type": "ob_main_76",
+  "cost": [
+   {
+    "Amount": 22,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_77_1",
+  "prefabName": "egyptMapExplore_prb_nmob_7",
+  "type": "ob_main_77",
+  "cost": [
+   {
+    "Amount": 28,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_77_2",
+  "prefabName": "egyptMapExplore_prb_nmob_7",
+  "type": "ob_main_77",
+  "cost": [
+   {
+    "Amount": 28,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_77_3",
+  "prefabName": "egyptMapExplore_prb_nmob_7",
+  "type": "ob_main_77",
+  "cost": [
+   {
+    "Amount": 28,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "characterAniName": "fix",
+  "logicType": 2,
+  "cameraSize": 1,
+  "prefabName": "egyptMapExplore_prb_bossob_5",
+  "code": "ob_main_78_1",
+  "transformPrefab": "egyptMapExplore_prb_bossob_5",
+  "type": "ob_main_78",
+  "cost": [
+   {
+    "Amount": 55,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "characterAniName": "fix",
+  "logicType": 2,
+  "cameraSize": 1,
+  "prefabName": "egyptMapExplore_prb_bossob_5",
+  "code": "ob_main_78_2",
+  "transformPrefab": "egyptMapExplore_prb_bossob_5",
+  "type": "ob_main_78",
+  "cost": [
+   {
+    "Amount": 55,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "characterAniName": "fix",
+  "logicType": 2,
+  "cameraSize": 1,
+  "prefabName": "egyptMapExplore_prb_bossob_5",
+  "code": "ob_main_78_3",
+  "transformPrefab": "egyptMapExplore_prb_bossob_5",
+  "type": "ob_main_78",
+  "cost": [
+   {
+    "Amount": 55,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_79_1",
+  "prefabName": "egyptMapExplore_prb_nmob_4",
+  "type": "ob_main_79",
+  "cost": [
+   {
+    "Amount": 27,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_80_1",
+  "prefabName": "egyptMapExplore_prb_nmob_3",
+  "type": "ob_main_80",
+  "cost": [
+   {
+    "Amount": 32,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_81_1",
+  "prefabName": "egyptMapExplore_prb_nmob_5",
+  "type": "ob_main_81",
+  "cost": [
+   {
+    "Amount": 37,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_81_2",
+  "prefabName": "egyptMapExplore_prb_nmob_5",
+  "type": "ob_main_81",
+  "cost": [
+   {
+    "Amount": 37,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "characterAniName": "fix",
+  "produce": [
+   {
+    "Amount": 3,
+    "Currency": "cbitm_mapExplore_mpx_egypt_sub_2_1"
+   }
+  ],
+  "code": "ob_main_82_1",
+  "prefabName": "egyptMapExplore_prb_crystal_yellow",
+  "type": "ob_main_82",
+  "cost": [
+   {
+    "Amount": 38,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "characterAniName": "fix",
+  "produce": [
+   {
+    "Amount": 3,
+    "Currency": "cbitm_mapExplore_mpx_egypt_sub_2_1"
+   }
+  ],
+  "code": "ob_main_82_2",
+  "prefabName": "egyptMapExplore_prb_crystal_yellow",
+  "type": "ob_main_82",
+  "cost": [
+   {
+    "Amount": 38,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "characterAniName": "fix",
+  "produce": [
+   {
+    "Amount": 3,
+    "Currency": "cbitm_mapExplore_mpx_egypt_sub_2_1"
+   }
+  ],
+  "code": "ob_main_82_3",
+  "prefabName": "egyptMapExplore_prb_crystal_yellow",
+  "type": "ob_main_82",
+  "cost": [
+   {
+    "Amount": 38,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_83_1",
+  "prefabName": "egyptMapExplore_prb_nmob_1",
+  "type": "ob_main_83",
+  "cost": [
+   {
+    "Amount": 48,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 5,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_main_84_1",
+  "prefabName": "egyptMapExplore_prb_spob_2",
+  "type": "ob_main_84",
+  "cost": [
+   {
+    "Amount": 60,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 7,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_main_84_2",
+  "prefabName": "egyptMapExplore_prb_spob_2",
+  "type": "ob_main_84",
+  "cost": [
+   {
+    "Amount": 60,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_85_1",
+  "prefabName": "egyptMapExplore_prb_nmob_4",
+  "type": "ob_main_85",
+  "cost": [
+   {
+    "Amount": 38,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_t2_1_1",
+  "prefabName": "egyptMapExplore_prb_nmob_7",
+  "type": "ob_t2_1",
+  "cost": [
+   {
+    "Amount": 38,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "characterAniName": "clear",
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_sub_1_1"
+   }
+  ],
+  "code": "ob_t2_2_1",
+  "prefabName": "egyptMapExplore_prb_subob_2",
+  "type": "ob_t2_2",
+  "cost": [
+   {
+    "Amount": 46,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "characterAniName": "clear",
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_sub_1_1"
+   }
+  ],
+  "code": "ob_t2_2_2",
+  "prefabName": "egyptMapExplore_prb_subob_2",
+  "type": "ob_t2_2",
+  "cost": [
+   {
+    "Amount": 46,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_t2#1_1_1",
+  "prefabName": "egyptMapExplore_prb_nmob_6",
+  "type": "ob_t2#1_1",
+  "cost": [
+   {
+    "Amount": 37,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_t2#1_2_1",
+  "prefabName": "egyptMapExplore_prb_nmob_6",
+  "type": "ob_t2#1_2",
+  "cost": [
+   {
+    "Amount": 38,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_t2#1_3_1",
+  "prefabName": "egyptMapExplore_prb_nmob_5",
+  "type": "ob_t2#1_3",
+  "cost": [
+   {
+    "Amount": 48,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_t2#1_4_1",
+  "prefabName": "egyptMapExplore_prb_nmob_7",
+  "type": "ob_t2#1_4",
+  "cost": [
+   {
+    "Amount": 37,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_t2#1_4_2",
+  "prefabName": "egyptMapExplore_prb_nmob_7",
+  "type": "ob_t2#1_4",
+  "cost": [
+   {
+    "Amount": 37,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_t2#1_5_1",
+  "prefabName": "egyptMapExplore_prb_nmob_2",
+  "type": "ob_t2#1_5",
+  "cost": [
+   {
+    "Amount": 32,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "egyptMapExplore_coffin"
+   }
+  ],
+  "code": "ob_t2#1_6_1",
+  "type": "ob_t2#1_6",
+  "prefabName": "egyptMapExplore_prb_tool_6_1"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_t2#2_1_1",
+  "prefabName": "egyptMapExplore_prb_nmob_3",
+  "type": "ob_t2#2_1",
+  "cost": [
+   {
+    "Amount": 42,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 5,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_t2#2_2_1",
+  "prefabName": "egyptMapExplore_prb_spob_1",
+  "type": "ob_t2#2_2",
+  "cost": [
+   {
+    "Amount": 43,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 4,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_t2#2_2_2",
+  "prefabName": "egyptMapExplore_prb_spob_1",
+  "type": "ob_t2#2_2",
+  "cost": [
+   {
+    "Amount": 43,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 5,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_t2#2_2_3",
+  "prefabName": "egyptMapExplore_prb_spob_1",
+  "type": "ob_t2#2_2",
+  "cost": [
+   {
+    "Amount": 43,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_t2#2_3_1",
+  "prefabName": "egyptMapExplore_prb_nmob_8",
+  "type": "ob_t2#2_3",
+  "cost": [
+   {
+    "Amount": 32,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_t2#2_4_1",
+  "prefabName": "egyptMapExplore_prb_nmob_3",
+  "type": "ob_t2#2_4",
+  "cost": [
+   {
+    "Amount": 38,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_t2#2_5_1",
+  "prefabName": "egyptMapExplore_prb_nmob_3",
+  "type": "ob_t2#2_5",
+  "cost": [
+   {
+    "Amount": 42,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 5,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_t2#2_6_1",
+  "prefabName": "egyptMapExplore_prb_spob_2",
+  "type": "ob_t2#2_6",
+  "cost": [
+   {
+    "Amount": 60,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 7,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_t2#2_6_2",
+  "prefabName": "egyptMapExplore_prb_spob_2",
+  "type": "ob_t2#2_6",
+  "cost": [
+   {
+    "Amount": 60,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_t2#2_7_1",
+  "prefabName": "egyptMapExplore_prb_nmob_2",
+  "type": "ob_t2#2_7",
+  "cost": [
+   {
+    "Amount": 38,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_t2#2_8_1",
+  "prefabName": "egyptMapExplore_prb_nmob_1",
+  "type": "ob_t2#2_8",
+  "cost": [
+   {
+    "Amount": 48,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "egyptMapExplore_feather"
+   }
+  ],
+  "code": "ob_t2#2_9_1",
+  "type": "ob_t2#2_9",
+  "prefabName": "egyptMapExplore_prb_tool_6_2"
+ },
+ {
+  "logicType": 2,
+  "bubbleType": 1,
+  "code": "ob_main_86_1",
+  "type": "ob_main_86",
+  "characterAniName": "collect",
+  "bubbleKey": "egyptMapExplore_bubble_task_14",
+  "transformPrefab": "egyptMapExplore_prb_bossob_6",
+  "prefabName": "egyptMapExplore_prb_bossob_6",
+  "cost": [
+   {
+    "Amount": 1,
+    "Currency": "egyptMapExplore_coffin"
+   },
+   {
+    "Amount": 1,
+    "Currency": "egyptMapExplore_feather"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_87_1",
+  "prefabName": "egyptMapExplore_prb_nmob_8",
+  "type": "ob_main_87",
+  "cost": [
+   {
+    "Amount": 25,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_88_1",
+  "prefabName": "egyptMapExplore_prb_nmob_3",
+  "type": "ob_main_88",
+  "cost": [
+   {
+    "Amount": 50,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_89_1",
+  "prefabName": "egyptMapExplore_prb_nmob_5",
+  "type": "ob_main_89",
+  "cost": [
+   {
+    "Amount": 46,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_89_2",
+  "prefabName": "egyptMapExplore_prb_nmob_5",
+  "type": "ob_main_89",
+  "cost": [
+   {
+    "Amount": 46,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_90_1",
+  "prefabName": "egyptMapExplore_prb_nmob_1",
+  "type": "ob_main_90",
+  "cost": [
+   {
+    "Amount": 35,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_91_1",
+  "prefabName": "egyptMapExplore_prb_nmob_1",
+  "type": "ob_main_91",
+  "cost": [
+   {
+    "Amount": 57,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 5,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_main_92_1",
+  "prefabName": "egyptMapExplore_prb_spob_2",
+  "type": "ob_main_92",
+  "cost": [
+   {
+    "Amount": 67,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 8,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_main_92_2",
+  "prefabName": "egyptMapExplore_prb_spob_2",
+  "type": "ob_main_92",
+  "cost": [
+   {
+    "Amount": 67,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_93_1",
+  "prefabName": "egyptMapExplore_prb_nmob_6",
+  "type": "ob_main_93",
+  "cost": [
+   {
+    "Amount": 50,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_94_1",
+  "prefabName": "egyptMapExplore_prb_nmob_5",
+  "type": "ob_main_94",
+  "cost": [
+   {
+    "Amount": 35,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_95_1",
+  "prefabName": "egyptMapExplore_prb_nmob_5",
+  "type": "ob_main_95",
+  "cost": [
+   {
+    "Amount": 57,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_96_1",
+  "prefabName": "egyptMapExplore_prb_nmob_7",
+  "type": "ob_main_96",
+  "cost": [
+   {
+    "Amount": 54,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_96_2",
+  "prefabName": "egyptMapExplore_prb_nmob_7",
+  "type": "ob_main_96",
+  "cost": [
+   {
+    "Amount": 54,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_96_3",
+  "prefabName": "egyptMapExplore_prb_nmob_7",
+  "type": "ob_main_96",
+  "cost": [
+   {
+    "Amount": 54,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_97_1",
+  "prefabName": "egyptMapExplore_prb_nmob_3",
+  "type": "ob_main_97",
+  "cost": [
+   {
+    "Amount": 45,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_98_1",
+  "prefabName": "egyptMapExplore_prb_nmob_7",
+  "type": "ob_main_98",
+  "cost": [
+   {
+    "Amount": 55,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_99_1",
+  "prefabName": "egyptMapExplore_prb_nmob_3",
+  "type": "ob_main_99",
+  "cost": [
+   {
+    "Amount": 52,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_99_2",
+  "prefabName": "egyptMapExplore_prb_nmob_3",
+  "type": "ob_main_99",
+  "cost": [
+   {
+    "Amount": 52,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_100_1",
+  "prefabName": "egyptMapExplore_prb_nmob_5",
+  "type": "ob_main_100",
+  "cost": [
+   {
+    "Amount": 40,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_101_1",
+  "prefabName": "egyptMapExplore_prb_nmob_5",
+  "type": "ob_main_101",
+  "cost": [
+   {
+    "Amount": 63,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 6,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_102_1",
+  "prefabName": "egyptMapExplore_prb_spob_1",
+  "type": "ob_main_102",
+  "cost": [
+   {
+    "Amount": 57,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 5,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_main_102_2",
+  "prefabName": "egyptMapExplore_prb_spob_1",
+  "type": "ob_main_102",
+  "cost": [
+   {
+    "Amount": 57,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 5,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_main_102_3",
+  "prefabName": "egyptMapExplore_prb_spob_1",
+  "type": "ob_main_102",
+  "cost": [
+   {
+    "Amount": 57,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_103_1",
+  "prefabName": "egyptMapExplore_prb_nmob_1",
+  "type": "ob_main_103",
+  "cost": [
+   {
+    "Amount": 45,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_104_1",
+  "prefabName": "egyptMapExplore_prb_nmob_1",
+  "type": "ob_main_104",
+  "cost": [
+   {
+    "Amount": 45,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_t3_1_1",
+  "prefabName": "egyptMapExplore_prb_nmob_8",
+  "type": "ob_t3_1",
+  "cost": [
+   {
+    "Amount": 40,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "characterAniName": "clear",
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_sub_1_1"
+   }
+  ],
+  "code": "ob_t3_2_1",
+  "prefabName": "egyptMapExplore_prb_subob_1",
+  "type": "ob_t3_2",
+  "cost": [
+   {
+    "Amount": 53,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "characterAniName": "clear",
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "cbitm_mapExplore_mpx_egypt_sub_1_1"
+   }
+  ],
+  "code": "ob_t3_2_2",
+  "prefabName": "egyptMapExplore_prb_subob_1",
+  "type": "ob_t3_2",
+  "cost": [
+   {
+    "Amount": 53,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_t3_3_1",
+  "prefabName": "egyptMapExplore_prb_nmob_3",
+  "type": "ob_t3_3",
+  "cost": [
+   {
+    "Amount": 63,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "characterAniName": "fix",
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "cbitm_mapExplore_mpx_egypt_sub_3_1"
+   }
+  ],
+  "code": "ob_t3_4_1",
+  "prefabName": "egyptMapExplore_prb_crystal_purple",
+  "type": "ob_t3_4",
+  "cost": [
+   {
+    "Amount": 57,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "characterAniName": "fix",
+  "produce": [
+   {
+    "Amount": 4,
+    "Currency": "cbitm_mapExplore_mpx_egypt_sub_3_1"
+   }
+  ],
+  "code": "ob_t3_4_2",
+  "prefabName": "egyptMapExplore_prb_crystal_purple",
+  "type": "ob_t3_4",
+  "cost": [
+   {
+    "Amount": 57,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_t3_5_1",
+  "prefabName": "egyptMapExplore_prb_nmob_8",
+  "type": "ob_t3_5",
+  "cost": [
+   {
+    "Amount": 46,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "egyptMapExplore_mirror"
+   }
+  ],
+  "code": "ob_t3_6_1",
+  "type": "ob_t3_6",
+  "prefabName": "egyptMapExplore_prb_tool_7"
+ },
+ {
+  "logicType": 2,
+  "bubbleType": 1,
+  "code": "ob_main_105_1",
+  "type": "ob_main_105",
+  "characterAniName": "clear",
+  "bubbleKey": "egyptMapExplore_bubble_task_18",
+  "transformPrefab": "egyptMapExplore_prb_bossob_7",
+  "prefabName": "egyptMapExplore_prb_bossob_7",
+  "cost": [
+   {
+    "Amount": 1,
+    "Currency": "egyptMapExplore_mirror"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_106_1",
+  "prefabName": "egyptMapExplore_prb_nmob_1",
+  "type": "ob_main_106",
+  "cost": [
+   {
+    "Amount": 46,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_107_1",
+  "prefabName": "egyptMapExplore_prb_nmob_7",
+  "type": "ob_main_107",
+  "cost": [
+   {
+    "Amount": 50,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 4,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_main_108_1",
+  "prefabName": "egyptMapExplore_prb_spob_2",
+  "type": "ob_main_108",
+  "cost": [
+   {
+    "Amount": 63,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 5,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_main_108_2",
+  "prefabName": "egyptMapExplore_prb_spob_2",
+  "type": "ob_main_108",
+  "cost": [
+   {
+    "Amount": 63,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 7,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_main_108_3",
+  "prefabName": "egyptMapExplore_prb_spob_2",
+  "type": "ob_main_108",
+  "cost": [
+   {
+    "Amount": 63,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_109_1",
+  "prefabName": "egyptMapExplore_prb_nmob_3",
+  "type": "ob_main_109",
+  "cost": [
+   {
+    "Amount": 46,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_110_1",
+  "prefabName": "egyptMapExplore_prb_nmob_3",
+  "type": "ob_main_110",
+  "cost": [
+   {
+    "Amount": 46,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_111_1",
+  "prefabName": "egyptMapExplore_prb_nmob_5",
+  "type": "ob_main_111",
+  "cost": [
+   {
+    "Amount": 50,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "characterAniName": "fix",
+  "produce": [
+   {
+    "Amount": 5,
+    "Currency": "cbitm_mapExplore_mpx_egypt_sub_2_1"
+   }
+  ],
+  "code": "ob_main_112_1",
+  "prefabName": "egyptMapExplore_prb_crystal_yellow",
+  "type": "ob_main_112",
+  "cost": [
+   {
+    "Amount": 57,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "characterAniName": "fix",
+  "produce": [
+   {
+    "Amount": 6,
+    "Currency": "cbitm_mapExplore_mpx_egypt_sub_2_1"
+   }
+  ],
+  "code": "ob_main_112_2",
+  "prefabName": "egyptMapExplore_prb_crystal_yellow",
+  "type": "ob_main_112",
+  "cost": [
+   {
+    "Amount": 57,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "characterAniName": "fix",
+  "produce": [
+   {
+    "Amount": 6,
+    "Currency": "cbitm_mapExplore_mpx_egypt_sub_2_1"
+   }
+  ],
+  "code": "ob_main_112_3",
+  "prefabName": "egyptMapExplore_prb_crystal_yellow",
+  "type": "ob_main_112",
+  "cost": [
+   {
+    "Amount": 57,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_113_1",
+  "prefabName": "egyptMapExplore_prb_nmob_3",
+  "type": "ob_main_113",
+  "cost": [
+   {
+    "Amount": 40,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_114_1",
+  "prefabName": "egyptMapExplore_prb_nmob_7",
+  "type": "ob_main_114",
+  "cost": [
+   {
+    "Amount": 46,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "characterAniName": "clear",
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_sub_1_1"
+   }
+  ],
+  "code": "ob_main_115_1",
+  "prefabName": "egyptMapExplore_prb_subob_1",
+  "type": "ob_main_115",
+  "cost": [
+   {
+    "Amount": 55,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "characterAniName": "clear",
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_sub_1_1"
+   }
+  ],
+  "code": "ob_main_115_2",
+  "prefabName": "egyptMapExplore_prb_subob_1",
+  "type": "ob_main_115",
+  "cost": [
+   {
+    "Amount": 55,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_116_1",
+  "prefabName": "egyptMapExplore_prb_nmob_5",
+  "type": "ob_main_116",
+  "cost": [
+   {
+    "Amount": 47,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_116_2",
+  "prefabName": "egyptMapExplore_prb_nmob_5",
+  "type": "ob_main_116",
+  "cost": [
+   {
+    "Amount": 47,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_116_3",
+  "prefabName": "egyptMapExplore_prb_nmob_5",
+  "type": "ob_main_116",
+  "cost": [
+   {
+    "Amount": 47,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_117_1",
+  "prefabName": "egyptMapExplore_prb_nmob_1",
+  "type": "ob_main_117",
+  "cost": [
+   {
+    "Amount": 50,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_118_1",
+  "prefabName": "egyptMapExplore_prb_nmob_1",
+  "type": "ob_main_118",
+  "cost": [
+   {
+    "Amount": 50,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_119_1",
+  "prefabName": "egyptMapExplore_prb_nmob_3",
+  "type": "ob_main_119",
+  "cost": [
+   {
+    "Amount": 40,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_119_2",
+  "prefabName": "egyptMapExplore_prb_nmob_3",
+  "type": "ob_main_119",
+  "cost": [
+   {
+    "Amount": 40,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_119_3",
+  "prefabName": "egyptMapExplore_prb_nmob_3",
+  "type": "ob_main_119",
+  "cost": [
+   {
+    "Amount": 40,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_120_1",
+  "prefabName": "egyptMapExplore_prb_nmob_3",
+  "type": "ob_main_120",
+  "cost": [
+   {
+    "Amount": 67,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_121_1",
+  "prefabName": "egyptMapExplore_prb_nmob_1",
+  "type": "ob_main_121",
+  "cost": [
+   {
+    "Amount": 50,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_122_1",
+  "prefabName": "egyptMapExplore_prb_nmob_1",
+  "type": "ob_main_122",
+  "cost": [
+   {
+    "Amount": 50,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 4,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_main_123_1",
+  "prefabName": "egyptMapExplore_prb_spob_2",
+  "type": "ob_main_123",
+  "cost": [
+   {
+    "Amount": 67,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 5,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_main_123_2",
+  "prefabName": "egyptMapExplore_prb_spob_2",
+  "type": "ob_main_123",
+  "cost": [
+   {
+    "Amount": 67,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 7,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_main_123_3",
+  "prefabName": "egyptMapExplore_prb_spob_2",
+  "type": "ob_main_123",
+  "cost": [
+   {
+    "Amount": 67,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_124_1",
+  "prefabName": "egyptMapExplore_prb_nmob_3",
+  "type": "ob_main_124",
+  "cost": [
+   {
+    "Amount": 50,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_125_1",
+  "prefabName": "egyptMapExplore_prb_nmob_5",
+  "type": "ob_main_125",
+  "cost": [
+   {
+    "Amount": 55,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_126_1",
+  "prefabName": "egyptMapExplore_prb_nmob_3",
+  "type": "ob_main_126",
+  "cost": [
+   {
+    "Amount": 47,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_126_2",
+  "prefabName": "egyptMapExplore_prb_nmob_3",
+  "type": "ob_main_126",
+  "cost": [
+   {
+    "Amount": 47,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_127_1",
+  "prefabName": "egyptMapExplore_prb_nmob_7",
+  "type": "ob_main_127",
+  "cost": [
+   {
+    "Amount": 50,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_main_128_1",
+  "prefabName": "egyptMapExplore_prb_nmob_5",
+  "type": "ob_main_128",
+  "cost": [
+   {
+    "Amount": 50,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 4,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_main_129_1",
+  "prefabName": "egyptMapExplore_prb_spob_1",
+  "type": "ob_main_129",
+  "cost": [
+   {
+    "Amount": 67,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 5,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_main_129_2",
+  "prefabName": "egyptMapExplore_prb_spob_1",
+  "type": "ob_main_129",
+  "cost": [
+   {
+    "Amount": 67,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 7,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_main_129_3",
+  "prefabName": "egyptMapExplore_prb_spob_1",
+  "type": "ob_main_129",
+  "cost": [
+   {
+    "Amount": 67,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_main_130_1",
+  "prefabName": "egyptMapExplore_prb_nmob_3",
+  "type": "ob_main_130",
+  "cost": [
+   {
+    "Amount": 55,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_131_1",
+  "prefabName": "egyptMapExplore_prb_nmob_1",
+  "type": "ob_main_131",
+  "cost": [
+   {
+    "Amount": 50,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_main_132_1",
+  "prefabName": "egyptMapExplore_prb_nmob_3",
+  "type": "ob_main_132",
+  "cost": [
+   {
+    "Amount": 55,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_main_133_1",
+  "prefabName": "egyptMapExplore_prb_nmob_3",
+  "type": "ob_main_133",
+  "cost": [
+   {
+    "Amount": 50,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 2,
+  "bubbleType": 1,
+  "code": "ob_main_134_1",
+  "idleSpineAniName": "idle_1",
+  "type": "ob_main_134",
+  "characterAniName": "collect",
+  "disposeSpineAniName": "dispose_1",
+  "cameraSize": 1,
+  "bubbleKey": "egyptMapExplore_bubble_task_22",
+  "transformPrefab": "egyptMapExplore_prb_bossob_final",
+  "prefabName": "egyptMapExplore_prb_bossob_final",
+  "cost": [
+   {
+    "Amount": 1,
+    "Currency": "egyptMapExplore_scarab"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_t4_1_1",
+  "prefabName": "egyptMapExplore_prb_nmob_1",
+  "type": "ob_t4_1",
+  "cost": [
+   {
+    "Amount": 40,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_t4_2_1",
+  "prefabName": "egyptMapExplore_prb_nmob_8",
+  "type": "ob_t4_2",
+  "cost": [
+   {
+    "Amount": 45,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "characterAniName": "clear",
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_sub_1_1"
+   }
+  ],
+  "code": "ob_t4_3_1",
+  "prefabName": "egyptMapExplore_prb_subob_2",
+  "type": "ob_t4_3",
+  "cost": [
+   {
+    "Amount": 60,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "characterAniName": "clear",
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "cbitm_mapExplore_mpx_egypt_sub_1_1"
+   }
+  ],
+  "code": "ob_t4_3_2",
+  "prefabName": "egyptMapExplore_prb_subob_2",
+  "type": "ob_t4_3",
+  "cost": [
+   {
+    "Amount": 60,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_t4_4_1",
+  "prefabName": "egyptMapExplore_prb_nmob_7",
+  "type": "ob_t4_4",
+  "cost": [
+   {
+    "Amount": 40,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_t4_5_1",
+  "prefabName": "egyptMapExplore_prb_nmob_2",
+  "type": "ob_t4_5",
+  "cost": [
+   {
+    "Amount": 47,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_t4_6_1",
+  "prefabName": "egyptMapExplore_prb_nmob_1",
+  "type": "ob_t4_6",
+  "cost": [
+   {
+    "Amount": 45,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "characterAniName": "collect",
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "egyptMapExplore_scarab"
+   }
+  ],
+  "code": "ob_t4_7_1",
+  "prefabName": "egyptMapExplore_prb_tool_8",
+  "type": "ob_t4_7",
+  "cost": [
+   {
+    "Amount": 10,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s1_1_1",
+  "prefabName": "egyptMapExplore_prb_nmob_5",
+  "type": "ob_s1_1",
+  "cost": [
+   {
+    "Amount": 42,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_s1_2_1",
+  "prefabName": "egyptMapExplore_prb_nmob_6",
+  "type": "ob_s1_2",
+  "cost": [
+   {
+    "Amount": 32,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_s1_3_1",
+  "prefabName": "egyptMapExplore_prb_nmob_8",
+  "type": "ob_s1_3",
+  "cost": [
+   {
+    "Amount": 30,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_s1_4_1",
+  "prefabName": "egyptMapExplore_prb_nmob_3",
+  "type": "ob_s1_4",
+  "cost": [
+   {
+    "Amount": 37,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_s1_5_1",
+  "prefabName": "egyptMapExplore_prb_nmob_8",
+  "type": "ob_s1_5",
+  "cost": [
+   {
+    "Amount": 32,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_s1_6_1",
+  "prefabName": "egyptMapExplore_prb_nmob_5",
+  "type": "ob_s1_6",
+  "cost": [
+   {
+    "Amount": 40,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s1_7_1",
+  "prefabName": "egyptMapExplore_prb_nmob_1",
+  "type": "ob_s1_7",
+  "cost": [
+   {
+    "Amount": 32,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_s1_8_1",
+  "prefabName": "egyptMapExplore_prb_nmob_7",
+  "type": "ob_s1_8",
+  "cost": [
+   {
+    "Amount": 42,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_s1_9_1",
+  "prefabName": "egyptMapExplore_prb_nmob_8",
+  "type": "ob_s1_9",
+  "cost": [
+   {
+    "Amount": 35,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_s1_10_1",
+  "prefabName": "egyptMapExplore_prb_nmob_3",
+  "type": "ob_s1_10",
+  "cost": [
+   {
+    "Amount": 42,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "code": "ob_s1_11_1",
+  "logicType": 1,
+  "type": "ob_s1_11",
+  "prefabName": "egyptMapExplore_prb_xmas_1"
+ },
+ {
+  "logicType": 1,
+  "characterAniName": "fix",
+  "produce": [
+   {
+    "Amount": 5,
+    "Currency": "cbitm_mapExplore_mpx_egypt_sub_2_1"
+   }
+  ],
+  "code": "ob_s1_12_1",
+  "prefabName": "egyptMapExplore_prb_crystal_yellow",
+  "type": "ob_s1_12",
+  "cost": [
+   {
+    "Amount": 51,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "characterAniName": "fix",
+  "produce": [
+   {
+    "Amount": 6,
+    "Currency": "cbitm_mapExplore_mpx_egypt_sub_2_1"
+   }
+  ],
+  "code": "ob_s1_12_2",
+  "prefabName": "egyptMapExplore_prb_crystal_yellow",
+  "type": "ob_s1_12",
+  "cost": [
+   {
+    "Amount": 51,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "characterAniName": "fix",
+  "produce": [
+   {
+    "Amount": 7,
+    "Currency": "cbitm_mapExplore_mpx_egypt_sub_2_1"
+   }
+  ],
+  "code": "ob_s1_12_3",
+  "prefabName": "egyptMapExplore_prb_crystal_yellow",
+  "type": "ob_s1_12",
+  "cost": [
+   {
+    "Amount": 51,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_s1_13_1",
+  "prefabName": "egyptMapExplore_prb_nmob_1",
+  "type": "ob_s1_13",
+  "cost": [
+   {
+    "Amount": 42,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "code": "ob_s1_14_1",
+  "logicType": 1,
+  "type": "ob_s1_14",
+  "prefabName": "egyptMapExplore_prb_xmas_3"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 7,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_s1#1_1_1",
+  "prefabName": "egyptMapExplore_prb_spob_2",
+  "type": "ob_s1#1_1",
+  "cost": [
+   {
+    "Amount": 48,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 6,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_s1#1_2_1",
+  "prefabName": "egyptMapExplore_prb_spob_2",
+  "type": "ob_s1#1_2",
+  "cost": [
+   {
+    "Amount": 42,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s1#1_3_1",
+  "prefabName": "egyptMapExplore_prb_nmob_3",
+  "type": "ob_s1#1_3",
+  "cost": [
+   {
+    "Amount": 32,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 5,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_s1#1_4_1",
+  "prefabName": "egyptMapExplore_prb_spob_2",
+  "type": "ob_s1#1_4",
+  "cost": [
+   {
+    "Amount": 38,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s1#1_5_1",
+  "prefabName": "egyptMapExplore_prb_nmob_3",
+  "type": "ob_s1#1_5",
+  "cost": [
+   {
+    "Amount": 42,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "characterAniName": "fix",
+  "produce": [
+   {
+    "Amount": 3,
+    "Currency": "cbitm_mapExplore_mpx_egypt_sub_3_1"
+   }
+  ],
+  "code": "ob_s1#1_6_1",
+  "prefabName": "egyptMapExplore_prb_crystal_purple",
+  "type": "ob_s1#1_6",
+  "cost": [
+   {
+    "Amount": 50,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "characterAniName": "fix",
+  "produce": [
+   {
+    "Amount": 3,
+    "Currency": "cbitm_mapExplore_mpx_egypt_sub_3_1"
+   }
+  ],
+  "code": "ob_s1#1_6_2",
+  "prefabName": "egyptMapExplore_prb_crystal_purple",
+  "type": "ob_s1#1_6",
+  "cost": [
+   {
+    "Amount": 50,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "code": "ob_s1#1_7_1",
+  "logicType": 1,
+  "type": "ob_s1#1_7",
+  "prefabName": "egyptMapExplore_prb_xmas_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_s2_1_1",
+  "prefabName": "egyptMapExplore_prb_nmob_7",
+  "type": "ob_s2_1",
+  "cost": [
+   {
+    "Amount": 38,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_s2_2_1",
+  "prefabName": "egyptMapExplore_prb_nmob_1",
+  "type": "ob_s2_2",
+  "cost": [
+   {
+    "Amount": 42,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_s2_3_1",
+  "prefabName": "egyptMapExplore_prb_nmob_1",
+  "type": "ob_s2_3",
+  "cost": [
+   {
+    "Amount": 32,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_s2_4_1",
+  "prefabName": "egyptMapExplore_prb_nmob_2",
+  "type": "ob_s2_4",
+  "cost": [
+   {
+    "Amount": 38,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s2_5_1",
+  "prefabName": "egyptMapExplore_prb_nmob_7",
+  "type": "ob_s2_5",
+  "cost": [
+   {
+    "Amount": 55,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s2_6_1",
+  "prefabName": "egyptMapExplore_prb_nmob_5",
+  "type": "ob_s2_6",
+  "cost": [
+   {
+    "Amount": 55,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s2_7_1",
+  "prefabName": "egyptMapExplore_prb_nmob_5",
+  "type": "ob_s2_7",
+  "cost": [
+   {
+    "Amount": 55,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s2_8_1",
+  "prefabName": "egyptMapExplore_prb_nmob_5",
+  "type": "ob_s2_8",
+  "cost": [
+   {
+    "Amount": 55,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "mapExplore_key"
+   }
+  ],
+  "code": "ob_s2_9_1",
+  "type": "ob_s2_9",
+  "prefabName": "egyptMapExplore_prb_key"
+ },
+ {
+  "logicType": 2,
+  "characterAniName": "collect",
+  "prefabName": "egyptMapExplore_prb_door_2",
+  "code": "ob_s10_1_1",
+  "transformPrefab": "egyptMapExplore_prb_door_2",
+  "type": "ob_s10_1",
+  "cost": [
+   {
+    "Amount": 1,
+    "Currency": "mapExplore_key"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s3_1_1",
+  "prefabName": "egyptMapExplore_prb_nmob_8",
+  "type": "ob_s3_1",
+  "cost": [
+   {
+    "Amount": 32,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s3_2_1",
+  "prefabName": "egyptMapExplore_prb_nmob_7",
+  "type": "ob_s3_2",
+  "cost": [
+   {
+    "Amount": 48,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s3_3_1",
+  "prefabName": "egyptMapExplore_prb_nmob_5",
+  "type": "ob_s3_3",
+  "cost": [
+   {
+    "Amount": 55,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s3_4_1",
+  "prefabName": "egyptMapExplore_prb_nmob_5",
+  "type": "ob_s3_4",
+  "cost": [
+   {
+    "Amount": 42,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s3_5_1",
+  "prefabName": "egyptMapExplore_prb_nmob_5",
+  "type": "ob_s3_5",
+  "cost": [
+   {
+    "Amount": 42,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s3_6_1",
+  "prefabName": "egyptMapExplore_prb_nmob_2",
+  "type": "ob_s3_6",
+  "cost": [
+   {
+    "Amount": 48,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 2,
+  "characterAniName": "collect",
+  "prefabName": "egyptMapExplore_prb_door_2",
+  "code": "ob_s3_7_1",
+  "transformPrefab": "egyptMapExplore_prb_door_2",
+  "type": "ob_s3_7",
+  "cost": [
+   {
+    "Amount": 1,
+    "Currency": "mapExplore_key"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 7,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s4_1_1",
+  "prefabName": "egyptMapExplore_prb_spob_2",
+  "type": "ob_s4_1",
+  "cost": [
+   {
+    "Amount": 48,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s4_2_1",
+  "prefabName": "egyptMapExplore_prb_nmob_2",
+  "type": "ob_s4_2",
+  "cost": [
+   {
+    "Amount": 55,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 5,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s4_3_1",
+  "prefabName": "egyptMapExplore_prb_spob_2",
+  "type": "ob_s4_3",
+  "cost": [
+   {
+    "Amount": 48,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s4_4_1",
+  "prefabName": "egyptMapExplore_prb_nmob_4",
+  "type": "ob_s4_4",
+  "cost": [
+   {
+    "Amount": 42,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s4_5_1",
+  "prefabName": "egyptMapExplore_prb_nmob_5",
+  "type": "ob_s4_5",
+  "cost": [
+   {
+    "Amount": 48,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s4_6_1",
+  "prefabName": "egyptMapExplore_prb_nmob_1",
+  "type": "ob_s4_6",
+  "cost": [
+   {
+    "Amount": 42,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s4_7_1",
+  "prefabName": "egyptMapExplore_prb_nmob_1",
+  "type": "ob_s4_7",
+  "cost": [
+   {
+    "Amount": 55,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s4_8_1",
+  "prefabName": "egyptMapExplore_prb_nmob_2",
+  "type": "ob_s4_8",
+  "cost": [
+   {
+    "Amount": 42,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "mapExplore_key"
+   }
+  ],
+  "code": "ob_s4_9_1",
+  "type": "ob_s4_9",
+  "prefabName": "egyptMapExplore_prb_key"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s5_1_1",
+  "prefabName": "egyptMapExplore_prb_nmob_5",
+  "type": "ob_s5_1",
+  "cost": [
+   {
+    "Amount": 38,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "characterAniName": "clear",
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "cbitm_mapExplore_mpx_egypt_sub_1_1"
+   }
+  ],
+  "code": "ob_s5_2_1",
+  "prefabName": "egyptMapExplore_prb_subob_1",
+  "type": "ob_s5_2",
+  "cost": [
+   {
+    "Amount": 50,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "characterAniName": "clear",
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "cbitm_mapExplore_mpx_egypt_sub_1_1"
+   }
+  ],
+  "code": "ob_s5_2_2",
+  "prefabName": "egyptMapExplore_prb_subob_1",
+  "type": "ob_s5_2",
+  "cost": [
+   {
+    "Amount": 50,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s5_3_1",
+  "prefabName": "egyptMapExplore_prb_nmob_6",
+  "type": "ob_s5_3",
+  "cost": [
+   {
+    "Amount": 60,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 10,
+    "Currency": "mapEnergy"
+   }
+  ],
+  "code": "ob_s5_4_1",
+  "type": "ob_s5_4",
+  "prefabName": "egyptMapExplore_prb_mapEnergy_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s5_5_1",
+  "prefabName": "egyptMapExplore_prb_nmob_8",
+  "type": "ob_s5_5",
+  "cost": [
+   {
+    "Amount": 38,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s5_6_1",
+  "prefabName": "egyptMapExplore_prb_nmob_3",
+  "type": "ob_s5_6",
+  "cost": [
+   {
+    "Amount": 42,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 5,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s5_7_1",
+  "prefabName": "egyptMapExplore_prb_spob_2",
+  "type": "ob_s5_7",
+  "cost": [
+   {
+    "Amount": 48,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 7,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s5_8_1",
+  "prefabName": "egyptMapExplore_prb_spob_2",
+  "type": "ob_s5_8",
+  "cost": [
+   {
+    "Amount": 60,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "code": "ob_s5_9_1",
+  "logicType": 1,
+  "type": "ob_s5_9",
+  "prefabName": "egyptMapExplore_prb_treasure_1"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s5_10_1",
+  "prefabName": "egyptMapExplore_prb_nmob_8",
+  "type": "ob_s5_10",
+  "cost": [
+   {
+    "Amount": 38,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s5_11_1",
+  "prefabName": "egyptMapExplore_prb_nmob_1",
+  "type": "ob_s5_11",
+  "cost": [
+   {
+    "Amount": 42,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "characterAniName": "clear",
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "cbitm_mapExplore_mpx_egypt_sub_1_1"
+   }
+  ],
+  "code": "ob_s5_12_1",
+  "prefabName": "egyptMapExplore_prb_subob_1",
+  "type": "ob_s5_12",
+  "cost": [
+   {
+    "Amount": 50,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "characterAniName": "clear",
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "cbitm_mapExplore_mpx_egypt_sub_1_1"
+   }
+  ],
+  "code": "ob_s5_12_2",
+  "prefabName": "egyptMapExplore_prb_subob_1",
+  "type": "ob_s5_12",
+  "cost": [
+   {
+    "Amount": 50,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s5_13_1",
+  "prefabName": "egyptMapExplore_prb_nmob_2",
+  "type": "ob_s5_13",
+  "cost": [
+   {
+    "Amount": 60,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "code": "ob_s5_14_1",
+  "logicType": 1,
+  "type": "ob_s5_14",
+  "prefabName": "egyptMapExplore_prb_treasure_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 7,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s5#1_1_1",
+  "prefabName": "egyptMapExplore_prb_spob_1",
+  "type": "ob_s5#1_1",
+  "cost": [
+   {
+    "Amount": 48,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s5#1_2_1",
+  "prefabName": "egyptMapExplore_prb_nmob_3",
+  "type": "ob_s5#1_2",
+  "cost": [
+   {
+    "Amount": 48,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s5#1_3_1",
+  "prefabName": "egyptMapExplore_prb_nmob_5",
+  "type": "ob_s5#1_3",
+  "cost": [
+   {
+    "Amount": 48,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 5,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s5#1_4_1",
+  "prefabName": "egyptMapExplore_prb_spob_1",
+  "type": "ob_s5#1_4",
+  "cost": [
+   {
+    "Amount": 55,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s5#1_5_1",
+  "prefabName": "egyptMapExplore_prb_nmob_6",
+  "type": "ob_s5#1_5",
+  "cost": [
+   {
+    "Amount": 38,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "code": "ob_s5#1_6_1",
+  "logicType": 1,
+  "type": "ob_s5#1_6",
+  "prefabName": "egyptMapExplore_prb_treasure_3"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s5#2_1_1",
+  "prefabName": "egyptMapExplore_prb_nmob_1",
+  "type": "ob_s5#2_1",
+  "cost": [
+   {
+    "Amount": 48,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s5#2_2_1",
+  "prefabName": "egyptMapExplore_prb_nmob_6",
+  "type": "ob_s5#2_2",
+  "cost": [
+   {
+    "Amount": 42,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s5#2_3_1",
+  "prefabName": "egyptMapExplore_prb_nmob_4",
+  "type": "ob_s5#2_3",
+  "cost": [
+   {
+    "Amount": 42,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s5#2_4_1",
+  "prefabName": "egyptMapExplore_prb_nmob_4",
+  "type": "ob_s5#2_4",
+  "cost": [
+   {
+    "Amount": 48,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 7,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s5#2#1_1_1",
+  "prefabName": "egyptMapExplore_prb_spob_2",
+  "type": "ob_s5#2#1_1",
+  "cost": [
+   {
+    "Amount": 48,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s5#2#1_2_1",
+  "prefabName": "egyptMapExplore_prb_nmob_5",
+  "type": "ob_s5#2#1_2",
+  "cost": [
+   {
+    "Amount": 48,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s5#2#1_3_1",
+  "prefabName": "egyptMapExplore_prb_nmob_5",
+  "type": "ob_s5#2#1_3",
+  "cost": [
+   {
+    "Amount": 55,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 6,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s5#2#1_4_1",
+  "prefabName": "egyptMapExplore_prb_spob_2",
+  "type": "ob_s5#2#1_4",
+  "cost": [
+   {
+    "Amount": 48,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "code": "ob_s5#2#1_5_1",
+  "logicType": 1,
+  "type": "ob_s5#2#1_5",
+  "prefabName": "egyptMapExplore_prb_treasure_4"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s5#2#2_1_1",
+  "prefabName": "egyptMapExplore_prb_nmob_3",
+  "type": "ob_s5#2#2_1",
+  "cost": [
+   {
+    "Amount": 42,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s5#2#2_2_1",
+  "prefabName": "egyptMapExplore_prb_nmob_3",
+  "type": "ob_s5#2#2_2",
+  "cost": [
+   {
+    "Amount": 48,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s5#2#2_3_1",
+  "prefabName": "egyptMapExplore_prb_nmob_6",
+  "type": "ob_s5#2#2_3",
+  "cost": [
+   {
+    "Amount": 60,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "code": "ob_s5#2#2_4_1",
+  "logicType": 1,
+  "type": "ob_s5#2#2_4",
+  "prefabName": "egyptMapExplore_prb_treasure_5"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s6_1_1",
+  "prefabName": "egyptMapExplore_prb_nmob_1",
+  "type": "ob_s6_1",
+  "cost": [
+   {
+    "Amount": 42,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s6_2_1",
+  "prefabName": "egyptMapExplore_prb_nmob_5",
+  "type": "ob_s6_2",
+  "cost": [
+   {
+    "Amount": 48,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 2,
+  "characterAniName": "collect",
+  "prefabName": "egyptMapExplore_prb_door_1",
+  "code": "ob_s6_3_1",
+  "transformPrefab": "egyptMapExplore_prb_door_1",
+  "type": "ob_s6_3",
+  "cost": [
+   {
+    "Amount": 1,
+    "Currency": "mapExplore_key"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s7_1_1",
+  "prefabName": "egyptMapExplore_prb_nmob_3",
+  "type": "ob_s7_1",
+  "cost": [
+   {
+    "Amount": 48,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 10,
+    "Currency": "gold"
+   }
+  ],
+  "code": "ob_s7_2_1",
+  "type": "ob_s7_2",
+  "prefabName": "egyptMapExplore_prb_gold_1"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s7_3_1",
+  "prefabName": "egyptMapExplore_prb_nmob_3",
+  "type": "ob_s7_3",
+  "cost": [
+   {
+    "Amount": 43,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_2"
+   }
+  ],
+  "code": "ob_s7_4_1",
+  "prefabName": "egyptMapExplore_prb_nmob_7",
+  "type": "ob_s7_4",
+  "cost": [
+   {
+    "Amount": 48,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "mapExplore_key"
+   }
+  ],
+  "code": "ob_s7_5_1",
+  "type": "ob_s7_5",
+  "prefabName": "egyptMapExplore_prb_key"
+ },
+ {
+  "logicType": 2,
+  "characterAniName": "collect",
+  "prefabName": "egyptMapExplore_prb_door_1",
+  "code": "ob_s8_1_1",
+  "transformPrefab": "egyptMapExplore_prb_door_1",
+  "type": "ob_s8_1",
+  "cost": [
+   {
+    "Amount": 1,
+    "Currency": "mapExplore_key"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 1,
+    "Currency": "mapExplore_key"
+   }
+  ],
+  "code": "ob_s9_1_1",
+  "type": "ob_s9_1",
+  "prefabName": "egyptMapExplore_prb_key"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "gem"
+   }
+  ],
+  "code": "ob_r1_1_1",
+  "type": "ob_r1_1",
+  "prefabName": "egyptMapExplore_prb_gem_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 10,
+    "Currency": "gold"
+   }
+  ],
+  "code": "ob_r2_1_1",
+  "type": "ob_r2_1",
+  "prefabName": "egyptMapExplore_prb_gold_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 10,
+    "Currency": "gold"
+   }
+  ],
+  "code": "ob_r3_1_1",
+  "type": "ob_r3_1",
+  "prefabName": "egyptMapExplore_prb_gold_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 10,
+    "Currency": "gold"
+   }
+  ],
+  "code": "ob_r4_1_1",
+  "type": "ob_r4_1",
+  "prefabName": "egyptMapExplore_prb_gold_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 10,
+    "Currency": "gold"
+   }
+  ],
+  "code": "ob_r5_1_1",
+  "type": "ob_r5_1",
+  "prefabName": "egyptMapExplore_prb_gold_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "gem"
+   }
+  ],
+  "code": "ob_r6_1_1",
+  "type": "ob_r6_1",
+  "prefabName": "egyptMapExplore_prb_gem_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "gem"
+   }
+  ],
+  "code": "ob_r7_1_1",
+  "type": "ob_r7_1",
+  "prefabName": "egyptMapExplore_prb_gem_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "gem"
+   }
+  ],
+  "code": "ob_r8_1_1",
+  "type": "ob_r8_1",
+  "prefabName": "egyptMapExplore_prb_gem_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "gem"
+   }
+  ],
+  "code": "ob_r9_1_1",
+  "type": "ob_r9_1",
+  "prefabName": "egyptMapExplore_prb_gem_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 10,
+    "Currency": "gold"
+   }
+  ],
+  "code": "ob_r10_1_1",
+  "type": "ob_r10_1",
+  "prefabName": "egyptMapExplore_prb_gold_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 10,
+    "Currency": "gold"
+   }
+  ],
+  "code": "ob_r11_1_1",
+  "type": "ob_r11_1",
+  "prefabName": "egyptMapExplore_prb_gold_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 10,
+    "Currency": "gold"
+   }
+  ],
+  "code": "ob_r12_1_1",
+  "type": "ob_r12_1",
+  "prefabName": "egyptMapExplore_prb_gold_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 10,
+    "Currency": "gold"
+   }
+  ],
+  "code": "ob_r13_1_1",
+  "type": "ob_r13_1",
+  "prefabName": "egyptMapExplore_prb_gold_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 10,
+    "Currency": "gold"
+   }
+  ],
+  "code": "ob_r14_1_1",
+  "type": "ob_r14_1",
+  "prefabName": "egyptMapExplore_prb_gold_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 10,
+    "Currency": "gold"
+   }
+  ],
+  "code": "ob_r15_1_1",
+  "type": "ob_r15_1",
+  "prefabName": "egyptMapExplore_prb_gold_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 10,
+    "Currency": "mapEnergy"
+   }
+  ],
+  "code": "ob_r16_1_1",
+  "type": "ob_r16_1",
+  "prefabName": "egyptMapExplore_prb_mapEnergy_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 10,
+    "Currency": "mapEnergy"
+   }
+  ],
+  "code": "ob_r17_1_1",
+  "type": "ob_r17_1",
+  "prefabName": "egyptMapExplore_prb_mapEnergy_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 10,
+    "Currency": "mapEnergy"
+   }
+  ],
+  "code": "ob_r18_1_1",
+  "type": "ob_r18_1",
+  "prefabName": "egyptMapExplore_prb_mapEnergy_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 10,
+    "Currency": "mapEnergy"
+   }
+  ],
+  "code": "ob_r19_1_1",
+  "type": "ob_r19_1",
+  "prefabName": "egyptMapExplore_prb_mapEnergy_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 10,
+    "Currency": "mapEnergy"
+   }
+  ],
+  "code": "ob_r20_1_1",
+  "type": "ob_r20_1",
+  "prefabName": "egyptMapExplore_prb_mapEnergy_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 10,
+    "Currency": "mapEnergy"
+   }
+  ],
+  "code": "ob_r21_1_1",
+  "type": "ob_r21_1",
+  "prefabName": "egyptMapExplore_prb_mapEnergy_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 10,
+    "Currency": "mapEnergy"
+   }
+  ],
+  "code": "ob_r22_1_1",
+  "type": "ob_r22_1",
+  "prefabName": "egyptMapExplore_prb_mapEnergy_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 10,
+    "Currency": "mapEnergy"
+   }
+  ],
+  "code": "ob_r23_1_1",
+  "type": "ob_r23_1",
+  "prefabName": "egyptMapExplore_prb_mapEnergy_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 10,
+    "Currency": "mapEnergy"
+   }
+  ],
+  "code": "ob_r24_1_1",
+  "type": "ob_r24_1",
+  "prefabName": "egyptMapExplore_prb_mapEnergy_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 10,
+    "Currency": "mapEnergy"
+   }
+  ],
+  "code": "ob_r25_1_1",
+  "type": "ob_r25_1",
+  "prefabName": "egyptMapExplore_prb_mapEnergy_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 10,
+    "Currency": "mapEnergy"
+   }
+  ],
+  "code": "ob_r26_1_1",
+  "type": "ob_r26_1",
+  "prefabName": "egyptMapExplore_prb_mapEnergy_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 10,
+    "Currency": "mapEnergy"
+   }
+  ],
+  "code": "ob_r27_1_1",
+  "type": "ob_r27_1",
+  "prefabName": "egyptMapExplore_prb_mapEnergy_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 10,
+    "Currency": "mapEnergy"
+   }
+  ],
+  "code": "ob_r28_1_1",
+  "type": "ob_r28_1",
+  "prefabName": "egyptMapExplore_prb_mapEnergy_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 10,
+    "Currency": "mapEnergy"
+   }
+  ],
+  "code": "ob_r29_1_1",
+  "type": "ob_r29_1",
+  "prefabName": "egyptMapExplore_prb_mapEnergy_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 10,
+    "Currency": "mapEnergy"
+   }
+  ],
+  "code": "ob_r30_1_1",
+  "type": "ob_r30_1",
+  "prefabName": "egyptMapExplore_prb_mapEnergy_2"
+ },
+ {
+  "logicType": 1,
+  "characterAniName": "fix",
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "cbitm_mapExplore_mpx_egypt_sub_3_1"
+   }
+  ],
+  "code": "ob_r31_1_1",
+  "prefabName": "egyptMapExplore_prb_crystal_purple",
+  "type": "ob_r31_1",
+  "cost": [
+   {
+    "Amount": 32,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "characterAniName": "fix",
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "cbitm_mapExplore_mpx_egypt_sub_3_1"
+   }
+  ],
+  "code": "ob_r32_1_1",
+  "prefabName": "egyptMapExplore_prb_crystal_purple",
+  "type": "ob_r32_1",
+  "cost": [
+   {
+    "Amount": 32,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "characterAniName": "fix",
+  "produce": [
+   {
+    "Amount": 5,
+    "Currency": "cbitm_mapExplore_mpx_egypt_sub_2_1"
+   }
+  ],
+  "code": "ob_r33_1_1",
+  "prefabName": "egyptMapExplore_prb_crystal_yellow",
+  "type": "ob_r33_1",
+  "cost": [
+   {
+    "Amount": 32,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "characterAniName": "fix",
+  "produce": [
+   {
+    "Amount": 5,
+    "Currency": "cbitm_mapExplore_mpx_egypt_sub_2_1"
+   }
+  ],
+  "code": "ob_r34_1_1",
+  "prefabName": "egyptMapExplore_prb_crystal_yellow",
+  "type": "ob_r34_1",
+  "cost": [
+   {
+    "Amount": 32,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "characterAniName": "fix",
+  "produce": [
+   {
+    "Amount": 5,
+    "Currency": "cbitm_mapExplore_mpx_egypt_sub_2_1"
+   }
+  ],
+  "code": "ob_r35_1_1",
+  "prefabName": "egyptMapExplore_prb_crystal_yellow",
+  "type": "ob_r35_1",
+  "cost": [
+   {
+    "Amount": 32,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "characterAniName": "fix",
+  "produce": [
+   {
+    "Amount": 2,
+    "Currency": "cbitm_mapExplore_mpx_egypt_sub_3_1"
+   }
+  ],
+  "code": "ob_r36_1_1",
+  "prefabName": "egyptMapExplore_prb_crystal_purple",
+  "type": "ob_r36_1",
+  "cost": [
+   {
+    "Amount": 32,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "characterAniName": "fix",
+  "produce": [
+   {
+    "Amount": 3,
+    "Currency": "cbitm_mapExplore_mpx_egypt_sub_3_1"
+   }
+  ],
+  "code": "ob_r37_1_1",
+  "prefabName": "egyptMapExplore_prb_crystal_purple",
+  "type": "ob_r37_1",
+  "cost": [
+   {
+    "Amount": 32,
+    "Currency": "mapEnergy"
+   }
+  ]
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 30,
+    "Currency": "mapEnergy"
+   }
+  ],
+  "code": "ob_r38_1_1",
+  "type": "ob_r38_1",
+  "prefabName": "egyptMapExplore_prb_mapEnergy_3"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 30,
+    "Currency": "mapEnergy"
+   }
+  ],
+  "code": "ob_r39_1_1",
+  "type": "ob_r39_1",
+  "prefabName": "egyptMapExplore_prb_mapEnergy_3"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 30,
+    "Currency": "mapEnergy"
+   }
+  ],
+  "code": "ob_r40_1_1",
+  "type": "ob_r40_1",
+  "prefabName": "egyptMapExplore_prb_mapEnergy_3"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 30,
+    "Currency": "mapEnergy"
+   }
+  ],
+  "code": "ob_r41_1_1",
+  "type": "ob_r41_1",
+  "prefabName": "egyptMapExplore_prb_mapEnergy_3"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 30,
+    "Currency": "energy"
+   }
+  ],
+  "code": "ob_r42_1_1",
+  "type": "ob_r42_1",
+  "prefabName": "egyptMapExplore_prb_rwd_1"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 5,
+    "Currency": "gem"
+   }
+  ],
+  "code": "ob_r43_1_1",
+  "type": "ob_r43_1",
+  "prefabName": "egyptMapExplore_prb_rwd_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 30,
+    "Currency": "energy"
+   }
+  ],
+  "code": "ob_r44_1_1",
+  "type": "ob_r44_1",
+  "prefabName": "egyptMapExplore_prb_rwd_1"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 5,
+    "Currency": "gem"
+   }
+  ],
+  "code": "ob_r45_1_1",
+  "type": "ob_r45_1",
+  "prefabName": "egyptMapExplore_prb_rwd_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 30,
+    "Currency": "energy"
+   }
+  ],
+  "code": "ob_r46_1_1",
+  "type": "ob_r46_1",
+  "prefabName": "egyptMapExplore_prb_rwd_1"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 5,
+    "Currency": "gem"
+   }
+  ],
+  "code": "ob_r47_1_1",
+  "type": "ob_r47_1",
+  "prefabName": "egyptMapExplore_prb_rwd_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 20,
+    "Currency": "gold"
+   }
+  ],
+  "code": "ob_r48_1_1",
+  "type": "ob_r48_1",
+  "prefabName": "egyptMapExplore_prb_gold_3"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 20,
+    "Currency": "gold"
+   }
+  ],
+  "code": "ob_r49_1_1",
+  "type": "ob_r49_1",
+  "prefabName": "egyptMapExplore_prb_gold_3"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 20,
+    "Currency": "gold"
+   }
+  ],
+  "code": "ob_r50_1_1",
+  "type": "ob_r50_1",
+  "prefabName": "egyptMapExplore_prb_gold_3"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 20,
+    "Currency": "gold"
+   }
+  ],
+  "code": "ob_r51_1_1",
+  "type": "ob_r51_1",
+  "prefabName": "egyptMapExplore_prb_gold_3"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 20,
+    "Currency": "gold"
+   }
+  ],
+  "code": "ob_r52_1_1",
+  "type": "ob_r52_1",
+  "prefabName": "egyptMapExplore_prb_gold_3"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 20,
+    "Currency": "gold"
+   }
+  ],
+  "code": "ob_r53_1_1",
+  "type": "ob_r53_1",
+  "prefabName": "egyptMapExplore_prb_gold_3"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 10,
+    "Currency": "gold"
+   }
+  ],
+  "code": "ob_r54_1_1",
+  "type": "ob_r54_1",
+  "prefabName": "egyptMapExplore_prb_gold_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 10,
+    "Currency": "gold"
+   }
+  ],
+  "code": "ob_r55_1_1",
+  "type": "ob_r55_1",
+  "prefabName": "egyptMapExplore_prb_gold_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 10,
+    "Currency": "gold"
+   }
+  ],
+  "code": "ob_r56_1_1",
+  "type": "ob_r56_1",
+  "prefabName": "egyptMapExplore_prb_gold_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 20,
+    "Currency": "mapEnergy"
+   }
+  ],
+  "code": "ob_r57_1_1",
+  "type": "ob_r57_1",
+  "prefabName": "egyptMapExplore_prb_mapEnergy_3"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 10,
+    "Currency": "gold"
+   }
+  ],
+  "code": "ob_r58_1_1",
+  "type": "ob_r58_1",
+  "prefabName": "egyptMapExplore_prb_gold_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 10,
+    "Currency": "gold"
+   }
+  ],
+  "code": "ob_r59_1_1",
+  "type": "ob_r59_1",
+  "prefabName": "egyptMapExplore_prb_gold_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 20,
+    "Currency": "mapEnergy"
+   }
+  ],
+  "code": "ob_r60_1_1",
+  "type": "ob_r60_1",
+  "prefabName": "egyptMapExplore_prb_mapEnergy_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 10,
+    "Currency": "gold"
+   }
+  ],
+  "code": "ob_r61_1_1",
+  "type": "ob_r61_1",
+  "prefabName": "egyptMapExplore_prb_gold_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 20,
+    "Currency": "mapEnergy"
+   }
+  ],
+  "code": "ob_r62_1_1",
+  "type": "ob_r62_1",
+  "prefabName": "egyptMapExplore_prb_mapEnergy_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 10,
+    "Currency": "gold"
+   }
+  ],
+  "code": "ob_r63_1_1",
+  "type": "ob_r63_1",
+  "prefabName": "egyptMapExplore_prb_gold_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 20,
+    "Currency": "mapEnergy"
+   }
+  ],
+  "code": "ob_r64_1_1",
+  "type": "ob_r64_1",
+  "prefabName": "egyptMapExplore_prb_mapEnergy_3"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 20,
+    "Currency": "mapEnergy"
+   }
+  ],
+  "code": "ob_r65_1_1",
+  "type": "ob_r65_1",
+  "prefabName": "egyptMapExplore_prb_mapEnergy_3"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 3,
+    "Currency": "gem"
+   }
+  ],
+  "code": "ob_r66_1_1",
+  "type": "ob_r66_1",
+  "prefabName": "egyptMapExplore_prb_gem_3"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 3,
+    "Currency": "gem"
+   }
+  ],
+  "code": "ob_r67_1_1",
+  "type": "ob_r67_1",
+  "prefabName": "egyptMapExplore_prb_gem_3"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 10,
+    "Currency": "gold"
+   }
+  ],
+  "code": "ob_r68_1_1",
+  "type": "ob_r68_1",
+  "prefabName": "egyptMapExplore_prb_gold_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 10,
+    "Currency": "gold"
+   }
+  ],
+  "code": "ob_r69_1_1",
+  "type": "ob_r69_1",
+  "prefabName": "egyptMapExplore_prb_gold_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 20,
+    "Currency": "mapEnergy"
+   }
+  ],
+  "code": "ob_r70_1_1",
+  "type": "ob_r70_1",
+  "prefabName": "egyptMapExplore_prb_mapEnergy_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 20,
+    "Currency": "mapEnergy"
+   }
+  ],
+  "code": "ob_r71_1_1",
+  "type": "ob_r71_1",
+  "prefabName": "egyptMapExplore_prb_mapEnergy_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 20,
+    "Currency": "mapEnergy"
+   }
+  ],
+  "code": "ob_r72_1_1",
+  "type": "ob_r72_1",
+  "prefabName": "egyptMapExplore_prb_mapEnergy_3"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 10,
+    "Currency": "gold"
+   }
+  ],
+  "code": "ob_r73_1_1",
+  "type": "ob_r73_1",
+  "prefabName": "egyptMapExplore_prb_gold_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 10,
+    "Currency": "gold"
+   }
+  ],
+  "code": "ob_r74_1_1",
+  "type": "ob_r74_1",
+  "prefabName": "egyptMapExplore_prb_gold_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 20,
+    "Currency": "mapEnergy"
+   }
+  ],
+  "code": "ob_r75_1_1",
+  "type": "ob_r75_1",
+  "prefabName": "egyptMapExplore_prb_mapEnergy_3"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 20,
+    "Currency": "mapEnergy"
+   }
+  ],
+  "code": "ob_r76_1_1",
+  "type": "ob_r76_1",
+  "prefabName": "egyptMapExplore_prb_mapEnergy_3"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 20,
+    "Currency": "mapEnergy"
+   }
+  ],
+  "code": "ob_r77_1_1",
+  "type": "ob_r77_1",
+  "prefabName": "egyptMapExplore_prb_mapEnergy_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 20,
+    "Currency": "mapEnergy"
+   }
+  ],
+  "code": "ob_r78_1_1",
+  "type": "ob_r78_1",
+  "prefabName": "egyptMapExplore_prb_mapEnergy_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 20,
+    "Currency": "mapEnergy"
+   }
+  ],
+  "code": "ob_r79_1_1",
+  "type": "ob_r79_1",
+  "prefabName": "egyptMapExplore_prb_mapEnergy_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 20,
+    "Currency": "mapEnergy"
+   }
+  ],
+  "code": "ob_r80_1_1",
+  "type": "ob_r80_1",
+  "prefabName": "egyptMapExplore_prb_mapEnergy_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 20,
+    "Currency": "mapEnergy"
+   }
+  ],
+  "code": "ob_r81_1_1",
+  "type": "ob_r81_1",
+  "prefabName": "egyptMapExplore_prb_mapEnergy_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 10,
+    "Currency": "gold"
+   }
+  ],
+  "code": "ob_r82_1_1",
+  "type": "ob_r82_1",
+  "prefabName": "egyptMapExplore_prb_gold_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 10,
+    "Currency": "gold"
+   }
+  ],
+  "code": "ob_r83_1_1",
+  "type": "ob_r83_1",
+  "prefabName": "egyptMapExplore_prb_gold_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 10,
+    "Currency": "gold"
+   }
+  ],
+  "code": "ob_r84_1_1",
+  "type": "ob_r84_1",
+  "prefabName": "egyptMapExplore_prb_gold_2"
+ },
+ {
+  "logicType": 1,
+  "produce": [
+   {
+    "Amount": 10,
+    "Currency": "gold"
+   }
+  ],
+  "code": "ob_r85_1_1",
+  "type": "ob_r85_1",
+  "prefabName": "egyptMapExplore_prb_gold_2"
+ },
+ {
+  "code": "ob_r86_1_1",
+  "logicType": 1,
+  "type": "ob_r86_1",
+  "prefabName": "egyptMapExplore_prb_toy_1"
+ },
+ {
+  "code": "ob_r87_1_1",
+  "logicType": 1,
+  "type": "ob_r87_1",
+  "prefabName": "egyptMapExplore_prb_toy_2"
+ },
+ {
+  "code": "ob_r88_1_1",
+  "logicType": 1,
+  "type": "ob_r88_1",
+  "prefabName": "egyptMapExplore_prb_toy_3"
+ },
+ {
+  "code": "ob_r89_1_1",
+  "logicType": 1,
+  "type": "ob_r89_1",
+  "prefabName": "egyptMapExplore_prb_toy_4"
+ },
+ {
+  "code": "ob_r90_1_1",
+  "logicType": 1,
+  "type": "ob_r90_1",
+  "prefabName": "egyptMapExplore_prb_toy_5"
+ },
+ {
+  "code": "ob_r91_1_1",
+  "logicType": 1,
+  "type": "ob_r91_1",
+  "prefabName": "egyptMapExplore_prb_xmas_4"
+ },
+ {
+  "code": "ob_r92_1_1",
+  "logicType": 1,
+  "type": "ob_r92_1",
+  "prefabName": "egyptMapExplore_prb_xmas_5"
+ },
+ {
+  "logicType": 3,
+  "characterAniName": "clear",
+  "produce": [
+   {
+    "Amount": 5,
+    "Currency": "cbitm_mapExplore_mpx_egypt_main_1"
+   }
+  ],
+  "code": "ob_r999_1_1",
+  "prefabName": "egyptMapExplore_prb_ob_endless",
+  "type": "ob_r999_1",
+  "cost": [
+   {
+    "Amount": 100,
+    "Currency": "mapEnergy"
+   }
+  ]
+ }
+]

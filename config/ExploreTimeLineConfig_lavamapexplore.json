@@ -1,0 +1,592 @@
+[
+ {
+  "Index": 1,
+  "Id": 1,
+  "TrigCondition": "eventStart",
+  "Order": 1,
+  "Type": "cameraMove",
+  "Content": [
+   "(30016/24/0),0,0"
+  ]
+ },
+ {
+  "Index": 2,
+  "Id": 1,
+  "TrigCondition": "eventStart",
+  "Order": 2,
+  "Type": "illustration",
+  "Content": [
+   "lava_mapexplore_discover"
+  ]
+ },
+ {
+  "Index": 3,
+  "Id": 1,
+  "TrigCondition": "eventStart",
+  "Order": 3,
+  "Type": "cameraMove",
+  "Content": [
+   "(29420/-1176/0),0.5,0"
+  ]
+ },
+ {
+  "Index": 4,
+  "Id": 1,
+  "TrigCondition": "eventStart",
+  "Order": 3,
+  "Type": "cameraScale",
+  "Content": [
+   "1.35,0.5,0"
+  ]
+ },
+ {
+  "Index": 5,
+  "Id": 1,
+  "TrigCondition": "eventStart",
+  "Order": 4,
+  "Type": "plot",
+  "Content": [
+   "Estory_lavamap_1"
+  ]
+ },
+ {
+  "Index": 6,
+  "Id": 1,
+  "TrigCondition": "eventStart",
+  "Order": 5,
+  "Type": "cameraMove",
+  "Content": [
+   "(30556/1478/0),1,1.5"
+  ]
+ },
+ {
+  "Index": 7,
+  "Id": 1,
+  "TrigCondition": "eventStart",
+  "Order": 5,
+  "Type": "cameraScale",
+  "Content": [
+   "1.35,1,0.5"
+  ]
+ },
+ {
+  "Index": 8,
+  "Id": 1,
+  "TrigCondition": "eventStart",
+  "Order": 6,
+  "Type": "cameraMove",
+  "Content": [
+   "(29420/-1176/0),1,0"
+  ]
+ },
+ {
+  "Index": 9,
+  "Id": 2,
+  "TrigCondition": "main_task_1_1_finish",
+  "Order": 1,
+  "Type": "cameraMove",
+  "Content": [
+   "(29316/-1168/0),0,0"
+  ]
+ },
+ {
+  "Index": 10,
+  "Id": 2,
+  "TrigCondition": "main_task_1_1_finish",
+  "Order": 1,
+  "Type": "cameraScale",
+  "Content": [
+   "1.1,0.5,0"
+  ]
+ },
+ {
+  "Index": 11,
+  "Id": 2,
+  "TrigCondition": "main_task_1_1_finish",
+  "Order": 2,
+  "Type": "plot",
+  "Content": [
+   "Estory_lavamap_2"
+  ]
+ },
+ {
+  "Index": 12,
+  "Id": 3,
+  "TrigCondition": "main_task_2_1_finish",
+  "Order": 1,
+  "Type": "cameraMove",
+  "Content": [
+   "(29528/-1506/0),0.5,0"
+  ]
+ },
+ {
+  "Index": 13,
+  "Id": 3,
+  "TrigCondition": "main_task_2_1_finish",
+  "Order": 1,
+  "Type": "cameraScale",
+  "Content": [
+   "1,0.5,0"
+  ]
+ },
+ {
+  "Index": 14,
+  "Id": 3,
+  "TrigCondition": "main_task_2_1_finish",
+  "Order": 2,
+  "Type": "plot",
+  "Content": [
+   "Estory_lavamap_3"
+  ]
+ },
+ {
+  "Index": 15,
+  "Id": 4,
+  "TrigCondition": "main_task_3_1_finish",
+  "Order": 1,
+  "Type": "plot",
+  "Content": [
+   "Estory_lavamap_4"
+  ]
+ },
+ {
+  "Index": 16,
+  "Id": 5,
+  "TrigCondition": "main_task_4_1_finish",
+  "Order": 1,
+  "Type": "cameraScale",
+  "Content": [
+   "1,0.5,0"
+  ]
+ },
+ {
+  "Index": 17,
+  "Id": 5,
+  "TrigCondition": "main_task_4_1_finish",
+  "Order": 1,
+  "Type": "cameraMove",
+  "Content": [
+   "(30256/-1189/0),0.5,0"
+  ]
+ },
+ {
+  "Index": 18,
+  "Id": 5,
+  "TrigCondition": "main_task_4_1_finish",
+  "Order": 2,
+  "Type": "plot",
+  "Content": [
+   "Estory_lavamap_5"
+  ]
+ },
+ {
+  "Index": 19,
+  "Id": 5,
+  "TrigCondition": "main_task_4_1_finish",
+  "Order": 3,
+  "Type": "cameraScale",
+  "Content": [
+   "1.35,0.5,0"
+  ]
+ },
+ {
+  "Index": 20,
+  "Id": 6,
+  "TrigCondition": "main_task_6_1_finish",
+  "Order": 1,
+  "Type": "cameraMove",
+  "Content": [
+   "(30785/-920/0),0.5,0"
+  ]
+ },
+ {
+  "Index": 21,
+  "Id": 6,
+  "TrigCondition": "main_task_6_1_finish",
+  "Order": 1,
+  "Type": "cameraScale",
+  "Content": [
+   "1.2,0.5,0"
+  ]
+ },
+ {
+  "Index": 22,
+  "Id": 6,
+  "TrigCondition": "main_task_6_1_finish",
+  "Order": 2,
+  "Type": "plot",
+  "Content": [
+   "Estory_lavamap_6"
+  ]
+ },
+ {
+  "Index": 23,
+  "Id": 6,
+  "TrigCondition": "main_task_6_1_finish",
+  "Order": 3,
+  "Type": "cameraMove",
+  "Content": [
+   "(30771/-840/0),0.5,0"
+  ]
+ },
+ {
+  "Index": 24,
+  "Id": 6,
+  "TrigCondition": "main_task_6_1_finish",
+  "Order": 3,
+  "Type": "cameraScale",
+  "Content": [
+   "1.35,0.5,0"
+  ]
+ },
+ {
+  "Index": 25,
+  "Id": 7,
+  "TrigCondition": "main_task_7_1_finish",
+  "Order": 1,
+  "Type": "plot",
+  "Content": [
+   "Estory_lavamap_7"
+  ]
+ },
+ {
+  "Index": 26,
+  "Id": 7,
+  "TrigCondition": "main_task_7_1_finish",
+  "Order": 2,
+  "Type": "cameraScale",
+  "Content": [
+   "1.35,0.5,0"
+  ]
+ },
+ {
+  "Index": 27,
+  "Id": 8,
+  "TrigCondition": "main_task_8_1_finish",
+  "Order": 1,
+  "Type": "cameraMove",
+  "Content": [
+   "(30345/-404/0),0.5,0"
+  ]
+ },
+ {
+  "Index": 28,
+  "Id": 8,
+  "TrigCondition": "main_task_8_1_finish",
+  "Order": 1,
+  "Type": "cameraScale",
+  "Content": [
+   "1.2,0.5,0"
+  ]
+ },
+ {
+  "Index": 29,
+  "Id": 8,
+  "TrigCondition": "main_task_8_1_finish",
+  "Order": 2,
+  "Type": "plot",
+  "Content": [
+   "Estory_lavamap_8"
+  ]
+ },
+ {
+  "Index": 30,
+  "Id": 9,
+  "TrigCondition": "main_task_9_1_finish",
+  "Order": 1,
+  "Type": "plot",
+  "Content": [
+   "Estory_lavamap_9"
+  ]
+ },
+ {
+  "Index": 31,
+  "Id": 10,
+  "TrigCondition": "main_task_10_1_finish",
+  "Order": 1,
+  "Type": "plot",
+  "Content": [
+   "Estory_lavamap_21"
+  ]
+ },
+ {
+  "Index": 32,
+  "Id": 10,
+  "TrigCondition": "main_task_10_1_finish",
+  "Order": 2,
+  "Type": "cameraScale",
+  "Content": [
+   "1.35,0.5,0"
+  ]
+ },
+ {
+  "Index": 33,
+  "Id": 11,
+  "TrigCondition": "main_task_11_1_finish",
+  "Order": 1,
+  "Type": "cameraScale",
+  "Content": [
+   "1.2,1,0"
+  ]
+ },
+ {
+  "Index": 34,
+  "Id": 11,
+  "TrigCondition": "main_task_11_1_finish",
+  "Order": 1,
+  "Type": "cameraMove",
+  "Content": [
+   "(30785/430/0),0.5,0"
+  ]
+ },
+ {
+  "Index": 35,
+  "Id": 11,
+  "TrigCondition": "main_task_11_1_finish",
+  "Order": 2,
+  "Type": "plot",
+  "Content": [
+   "Estory_lavamap_10"
+  ]
+ },
+ {
+  "Index": 36,
+  "Id": 12,
+  "TrigCondition": "main_task_12_1_finish",
+  "Order": 1,
+  "Type": "plot",
+  "Content": [
+   "Estory_lavamap_11"
+  ]
+ },
+ {
+  "Index": 37,
+  "Id": 12,
+  "TrigCondition": "main_task_12_1_finish",
+  "Order": 2,
+  "Type": "cameraScale",
+  "Content": [
+   "1.35,0.5,0"
+  ]
+ },
+ {
+  "Index": 38,
+  "Id": 12,
+  "TrigCondition": "main_task_12_1_finish",
+  "Order": 2,
+  "Type": "cameraMove",
+  "Content": [
+   "(29816/-195/0),0.5,0"
+  ]
+ },
+ {
+  "Index": 39,
+  "Id": 13,
+  "TrigCondition": "main_task_13_1_finish",
+  "Order": 1,
+  "Type": "cameraMove",
+  "Content": [
+   "(30149/413/0),0.5,0"
+  ]
+ },
+ {
+  "Index": 40,
+  "Id": 13,
+  "TrigCondition": "main_task_13_1_finish",
+  "Order": 1,
+  "Type": "cameraScale",
+  "Content": [
+   "1.2,0.5,0"
+  ]
+ },
+ {
+  "Index": 41,
+  "Id": 13,
+  "TrigCondition": "main_task_13_1_finish",
+  "Order": 2,
+  "Type": "plot",
+  "Content": [
+   "Estory_lavamap_12"
+  ]
+ },
+ {
+  "Index": 42,
+  "Id": 14,
+  "TrigCondition": "main_task_14_1_finish",
+  "Order": 1,
+  "Type": "plot",
+  "Content": [
+   "Estory_lavamap_14a"
+  ]
+ },
+ {
+  "Index": 43,
+  "Id": 15,
+  "TrigCondition": "main_task_14_2_finish",
+  "Order": 1,
+  "Type": "plot",
+  "Content": [
+   "Estory_lavamap_14b"
+  ]
+ },
+ {
+  "Index": 44,
+  "Id": 16,
+  "TrigCondition": "main_task_15_1_finish",
+  "Order": 1,
+  "Type": "cameraMove",
+  "Content": [
+   "(30149/413/0),0.5,0"
+  ]
+ },
+ {
+  "Index": 45,
+  "Id": 16,
+  "TrigCondition": "main_task_15_1_finish",
+  "Order": 1,
+  "Type": "cameraScale",
+  "Content": [
+   "1.2,0.5,0"
+  ]
+ },
+ {
+  "Index": 46,
+  "Id": 16,
+  "TrigCondition": "main_task_15_1_finish",
+  "Order": 2,
+  "Type": "plot",
+  "Content": [
+   "Estory_lavamap_13"
+  ]
+ },
+ {
+  "Index": 47,
+  "Id": 17,
+  "TrigCondition": "main_task_16_1_finish",
+  "Order": 1,
+  "Type": "cameraMove",
+  "Content": [
+   "(29395/1074/0),0.5,0"
+  ]
+ },
+ {
+  "Index": 48,
+  "Id": 17,
+  "TrigCondition": "main_task_16_1_finish",
+  "Order": 1,
+  "Type": "cameraScale",
+  "Content": [
+   "1.2,0.5,0"
+  ]
+ },
+ {
+  "Index": 49,
+  "Id": 17,
+  "TrigCondition": "main_task_16_1_finish",
+  "Order": 2,
+  "Type": "plot",
+  "Content": [
+   "Estory_lavamap_15"
+  ]
+ },
+ {
+  "Index": 50,
+  "Id": 17,
+  "TrigCondition": "main_task_16_1_finish",
+  "Order": 3,
+  "Type": "cameraScale",
+  "Content": [
+   "1.35,0.5,0"
+  ]
+ },
+ {
+  "Index": 51,
+  "Id": 18,
+  "TrigCondition": "main_task_18_finish",
+  "Order": 1,
+  "Type": "plot",
+  "Content": [
+   "Estory_lavamap_16"
+  ]
+ },
+ {
+  "Index": 52,
+  "Id": 18,
+  "TrigCondition": "main_task_18_finish",
+  "Order": 2,
+  "Type": "cameraScale",
+  "Content": [
+   "1.35,0.5,0"
+  ]
+ },
+ {
+  "Index": 53,
+  "Id": 19,
+  "TrigCondition": "main_task_19_1_finish",
+  "Order": 1,
+  "Type": "cameraMove",
+  "Content": [
+   "(30523/1360/0),0.5,0"
+  ]
+ },
+ {
+  "Index": 54,
+  "Id": 19,
+  "TrigCondition": "main_task_19_1_finish",
+  "Order": 1,
+  "Type": "cameraScale",
+  "Content": [
+   "2,0.5,0"
+  ]
+ },
+ {
+  "Index": 55,
+  "Id": 19,
+  "TrigCondition": "main_task_19_1_finish",
+  "Order": 2,
+  "Type": "plot",
+  "Content": [
+   "Estory_lavamap_17"
+  ]
+ },
+ {
+  "Index": 56,
+  "Id": 20,
+  "TrigCondition": "main_task_20_1_finish",
+  "Order": 1,
+  "Type": "plot",
+  "Content": [
+   "Estory_lavamap_18"
+  ]
+ },
+ {
+  "Index": 57,
+  "Id": 21,
+  "TrigCondition": "main_task_21_1_finish",
+  "Order": 1,
+  "Type": "plot",
+  "Content": [
+   "Estory_lavamap_19"
+  ]
+ },
+ {
+  "Index": 58,
+  "Id": 21,
+  "TrigCondition": "main_task_21_1_finish",
+  "Order": 2,
+  "Type": "illustration",
+  "Content": [
+   "lava_mapexplore_truth"
+  ]
+ },
+ {
+  "Index": 59,
+  "Id": 21,
+  "TrigCondition": "main_task_21_1_finish",
+  "Order": 3,
+  "Type": "plot",
+  "Content": [
+   "Estory_lavamap_20"
+  ]
+ }
+]

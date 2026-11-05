@@ -1,0 +1,42 @@
+{
+ "ComeBack_6": {
+  "TitleKey": "push_come_back_6_title_new",
+  "DescKey": "push_come_back_6_desc_new"
+ },
+ "ComeBack_24": {
+  "TitleKey": "push_come_back_24_title_new",
+  "DescKey": "push_come_back_24_desc_new"
+ },
+ "ComeBack_48": {
+  "TitleKey": "push_come_back_48_title_new",
+  "DescKey": "push_come_back_48_desc_new"
+ },
+ "ComeBack_72": {
+  "TitleKey": "push_come_back_48_title_new",
+  "DescKey": "push_come_back_48_desc_new"
+ },
+ "ComeBack_168": {
+  "TitleKey": "push_come_back_168_title_new",
+  "DescKey": "push_come_back_168_desc_new"
+ },
+ "ComeBack_240": {
+  "TitleKey": "push_come_back_240_title_new",
+  "DescKey": "push_come_back_240_desc_new"
+ },
+ "EnergyRefill": {
+  "TitleKey": "push_energy_title_new",
+  "DescKey": "push_energy_desc_new"
+ },
+ "ItemCooldown": {
+  "TitleKey": "push_cooldown_title_new",
+  "DescKey": "push_cooldown_desc_new"
+ },
+ "CashDashStart": {
+  "TitleKey": "push_cash_dash_open_title_new",
+  "DescKey": "push_cash_dash_open_desc_new"
+ },
+ "CashDashEnd": {
+  "TitleKey": "push_cash_dash_end_title_new",
+  "DescKey": "push_cash_dash_end_desc_new"
+ }
+}

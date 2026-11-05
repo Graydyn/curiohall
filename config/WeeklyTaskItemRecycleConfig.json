@@ -1,0 +1,172 @@
+[
+ {
+  "Mode": 2,
+  "Code": "w_task_hat_e_1_1",
+  "TransformCode": "2601"
+ },
+ {
+  "Mode": 2,
+  "Code": "w_task_hat_e_2_1",
+  "TransformCode": "2601"
+ },
+ {
+  "Mode": 2,
+  "Code": "w_task_hat_e_3_1",
+  "TransformCode": "2601"
+ },
+ {
+  "Mode": 2,
+  "Code": "w_task_magicwand_1",
+  "TransformCode": "2601"
+ },
+ {
+  "Mode": 3,
+  "Code": "w_task_jar_e1_1_1",
+  "TransformCode": "2601"
+ },
+ {
+  "Mode": 3,
+  "Code": "w_task_jar_e1_2_1",
+  "TransformCode": "2601"
+ },
+ {
+  "Mode": 3,
+  "Code": "w_task_jar_e2_1_1",
+  "TransformCode": "2601"
+ },
+ {
+  "Mode": 3,
+  "Code": "w_task_jar_e2_2_1",
+  "TransformCode": "2601"
+ },
+ {
+  "Mode": 3,
+  "Code": "w_task_jar_e3_1_1",
+  "TransformCode": "2601"
+ },
+ {
+  "Mode": 3,
+  "Code": "w_task_jar_e3_2_1",
+  "TransformCode": "2601"
+ },
+ {
+  "Mode": 3,
+  "Code": "w_task_redjar_1_1",
+  "TransformCode": "2601"
+ },
+ {
+  "Mode": 3,
+  "Code": "w_task_redjar_2_1",
+  "TransformCode": "2601"
+ },
+ {
+  "Mode": 3,
+  "Code": "w_task_bluejar_1_1",
+  "TransformCode": "2602"
+ },
+ {
+  "Mode": 3,
+  "Code": "w_task_bluejar_2_1",
+  "TransformCode": "2602"
+ },
+ {
+  "Mode": 3,
+  "Code": "w_task_redpotion_1",
+  "TransformCode": "2601"
+ },
+ {
+  "Mode": 3,
+  "Code": "w_task_bluepotion_1",
+  "TransformCode": "2601"
+ },
+ {
+  "Mode": 3,
+  "Code": "w_task_purpotion_1",
+  "TransformCode": "2602"
+ },
+ {
+  "Mode": 4,
+  "Code": "w_task_flowerpot1_1_1",
+  "TransformCode": "2601"
+ },
+ {
+  "Mode": 4,
+  "Code": "w_task_flowerpot1_2_1",
+  "TransformCode": "2601"
+ },
+ {
+  "Mode": 4,
+  "Code": "w_task_flowerpot1_3_1",
+  "TransformCode": "2602"
+ },
+ {
+  "Mode": 4,
+  "Code": "w_task_flowerpot2_1_1",
+  "TransformCode": "2601"
+ },
+ {
+  "Mode": 4,
+  "Code": "w_task_flowerpot2_2_1",
+  "TransformCode": "2601"
+ },
+ {
+  "Mode": 4,
+  "Code": "w_task_flowerpot2_3_1",
+  "TransformCode": "2602"
+ },
+ {
+  "Mode": 4,
+  "Code": "w_task_flowerpot3_1_1",
+  "TransformCode": "2601"
+ },
+ {
+  "Mode": 4,
+  "Code": "w_task_flowerpot3_2_1",
+  "TransformCode": "2601"
+ },
+ {
+  "Mode": 4,
+  "Code": "w_task_flowerpot3_3_1",
+  "TransformCode": "2602"
+ },
+ {
+  "Mode": 4,
+  "Code": "w_task_watercan_1",
+  "TransformCode": "2601"
+ },
+ {
+  "Mode": 4,
+  "Code": "w_task_seed1_1",
+  "TransformCode": "2601"
+ },
+ {
+  "Mode": 4,
+  "Code": "w_task_flower1_1_1",
+  "TransformCode": "2601"
+ },
+ {
+  "Mode": 4,
+  "Code": "w_task_flower1_2_1",
+  "TransformCode": "2602"
+ },
+ {
+  "Mode": 4,
+  "Code": "w_task_flower1_3_1",
+  "TransformCode": "2601"
+ },
+ {
+  "Mode": 4,
+  "Code": "w_task_flower2_1_1",
+  "TransformCode": "2602"
+ },
+ {
+  "Mode": 4,
+  "Code": "w_task_flower2_2_1",
+  "TransformCode": "2601"
+ },
+ {
+  "Mode": 4,
+  "Code": "w_task_flower2_3_1",
+  "TransformCode": "2602"
+ }
+]

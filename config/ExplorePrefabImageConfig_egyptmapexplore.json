@@ -1,0 +1,30 @@
+[
+ {
+  "prefabName": "egyptMapExplore_prb_tool_1",
+  "taskImage": "egyptMapExplore_cloth_img"
+ },
+ {
+  "prefabName": "egyptMapExplore_prb_tool_4",
+  "taskImage": "egyptMapExplore_scroll_img"
+ },
+ {
+  "prefabName": "egyptMapExplore_prb_tool_6_1",
+  "taskImage": "egyptMapExplore_coffin_img"
+ },
+ {
+  "prefabName": "egyptMapExplore_prb_tool_6_2",
+  "taskImage": "egyptMapExplore_feather_img"
+ },
+ {
+  "prefabName": "egyptMapExplore_prb_tool_7",
+  "taskImage": "egyptMapExplore_mirror_img"
+ },
+ {
+  "prefabName": "egyptMapExplore_prb_tool_8",
+  "taskImage": "egyptMapExplore_scarab_img"
+ },
+ {
+  "prefabName": "egyptMapExplore_prb_door",
+  "taskImage": "egyptMapExplore_prb_door_pre_img"
+ }
+]

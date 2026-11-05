@@ -1,0 +1,2439 @@
+{
+ "AdventureBoardModelConfig_annual2026": {
+  "entries": 12,
+  "fields": []
+ },
+ "AdventureBoardModelConfig_annual2026_obs": {
+  "entries": 20,
+  "fields": []
+ },
+ "AdventureBoardModelConfig_annual2026_obswheel": {
+  "entries": 20,
+  "fields": []
+ },
+ "AdventureBoardModelConfig_annual2026_wheel": {
+  "entries": 12,
+  "fields": []
+ },
+ "AdventureBoardModelConfig_bandgirl": {
+  "entries": 12,
+  "fields": []
+ },
+ "AdventureBoardModelConfig_bandgirl_obs": {
+  "entries": 20,
+  "fields": []
+ },
+ "AdventureBoardModelConfig_dogpark": {
+  "entries": 12,
+  "fields": []
+ },
+ "AdventureBoardModelConfig_dogpark_obs": {
+  "entries": 20,
+  "fields": []
+ },
+ "AdventureBoardModelConfig_dogparkpure": {
+  "entries": 12,
+  "fields": []
+ },
+ "AdventureBoardObstacleConfig_annual2026": {
+  "entries": 0,
+  "fields": []
+ },
+ "AdventureBoardObstacleConfig_annual2026_obs": {
+  "entries": 1,
+  "fields": [
+   "index",
+   "boardIndex",
+   "leftTop",
+   "rightBottom",
+   "maxLevel",
+   "reward",
+   "prefab",
+   "toolIcon"
+  ]
+ },
+ "AdventureBoardObstacleConfig_bandgirl": {
+  "entries": 0,
+  "fields": []
+ },
+ "AdventureBoardObstacleConfig_bandgirl_obs": {
+  "entries": 1,
+  "fields": [
+   "index",
+   "boardIndex",
+   "leftTop",
+   "rightBottom",
+   "maxLevel",
+   "reward",
+   "prefab",
+   "toolIcon"
+  ]
+ },
+ "AdventureBoardObstacleConfig_dogpark": {
+  "entries": 0,
+  "fields": []
+ },
+ "AdventureBoardObstacleConfig_dogpark_obs": {
+  "entries": 1,
+  "fields": [
+   "index",
+   "boardIndex",
+   "leftTop",
+   "rightBottom",
+   "maxLevel",
+   "reward",
+   "prefab",
+   "toolIcon"
+  ]
+ },
+ "AdventureBoardObstacleConfig_dogparkpure": {
+  "entries": 0,
+  "fields": []
+ },
+ "AdventureBoardPaperRewardConfig_mother26": {
+  "entries": 12,
+  "fields": []
+ },
+ "AdventureBoardPaperRewardConfig_sewing": {
+  "entries": 12,
+  "fields": []
+ },
+ "AdventureBoardPaperRewardConfig_sewing_reward": {
+  "entries": 16,
+  "fields": []
+ },
+ "AdventureBoardPaperRewardConfig_sewing_web": {
+  "entries": 16,
+  "fields": []
+ },
+ "AdventureBoardScrollConfig_annual2026": {
+  "entries": 2,
+  "fields": [
+   "level",
+   "scrollRows"
+  ]
+ },
+ "AdventureBoardScrollConfig_annual2026_obs": {
+  "entries": 3,
+  "fields": [
+   "level",
+   "scrollRows"
+  ]
+ },
+ "AdventureBoardScrollConfig_bandgirl": {
+  "entries": 2,
+  "fields": [
+   "level",
+   "scrollRows"
+  ]
+ },
+ "AdventureBoardScrollConfig_bandgirl_obs": {
+  "entries": 3,
+  "fields": [
+   "level",
+   "scrollRows"
+  ]
+ },
+ "AdventureBoardScrollConfig_dogpark": {
+  "entries": 2,
+  "fields": [
+   "level",
+   "scrollRows"
+  ]
+ },
+ "AdventureBoardScrollConfig_dogpark_obs": {
+  "entries": 3,
+  "fields": [
+   "level",
+   "scrollRows"
+  ]
+ },
+ "AdventureBoardScrollConfig_dogparkpure": {
+  "entries": 2,
+  "fields": [
+   "level",
+   "scrollRows"
+  ]
+ },
+ "AdventureItemModelConfig_annual2026": {
+  "entries": 32,
+  "fields": [
+   "Type",
+   "MergedType",
+   "BubbleChance",
+   "Spread_Auto",
+   "Spread_Weight",
+   "Spread_WeightType",
+   "Spread_ItemMaxNumber",
+   "Spread_StorageMaxNumber",
+   "Spread_CostEnergy",
+   "ProtectLevel",
+   "Transform_Weight",
+   "Swallow_Weight1",
+   "Swallow_Number1",
+   "Spread_TransformNumber"
+  ]
+ },
+ "AdventureItemModelConfig_annual2026_obs": {
+  "entries": 33,
+  "fields": [
+   "Type",
+   "MergedType",
+   "BubbleChance",
+   "Spread_Auto",
+   "Spread_Weight",
+   "Spread_WeightType",
+   "Spread_ItemMaxNumber",
+   "Spread_StorageMaxNumber",
+   "Spread_CostEnergy",
+   "ProtectLevel",
+   "Transform_Weight",
+   "Swallow_Weight1",
+   "Swallow_Number1",
+   "Spread_TransformNumber"
+  ]
+ },
+ "AdventureItemModelConfig_annual2026_obswheel": {
+  "entries": 33,
+  "fields": [
+   "Type",
+   "MergedType",
+   "BubbleChance",
+   "Spread_Auto",
+   "Spread_Weight",
+   "Spread_WeightType",
+   "Spread_ItemMaxNumber",
+   "Spread_StorageMaxNumber",
+   "Spread_CostEnergy",
+   "ProtectLevel",
+   "Transform_Weight",
+   "Swallow_Weight1",
+   "Swallow_Number1",
+   "Spread_TransformNumber"
+  ]
+ },
+ "AdventureItemModelConfig_annual2026_wheel": {
+  "entries": 56,
+  "fields": [
+   "Type",
+   "MergedType",
+   "BubbleChance",
+   "Spread_Auto",
+   "Spread_Weight",
+   "Spread_WeightType",
+   "Spread_ItemMaxNumber",
+   "Spread_StorageMaxNumber",
+   "Spread_CostEnergy",
+   "ProtectLevel",
+   "Transform_Weight",
+   "Swallow_Weight1",
+   "Swallow_Number1",
+   "Spread_TransformNumber",
+   "CollectRewards",
+   "SpecialType"
+  ]
+ },
+ "AdventureItemModelConfig_bandgirl": {
+  "entries": 32,
+  "fields": [
+   "Type",
+   "MergedType",
+   "BubbleChance",
+   "Spread_Auto",
+   "Spread_Weight",
+   "Spread_WeightType",
+   "Spread_ItemMaxNumber",
+   "Spread_StorageMaxNumber",
+   "Spread_CostEnergy",
+   "ProtectLevel",
+   "Transform_Weight",
+   "Swallow_Weight1",
+   "Swallow_Number1",
+   "Spread_TransformNumber"
+  ]
+ },
+ "AdventureItemModelConfig_bandgirl_obs": {
+  "entries": 33,
+  "fields": [
+   "Type",
+   "MergedType",
+   "BubbleChance",
+   "Spread_Auto",
+   "Spread_Weight",
+   "Spread_WeightType",
+   "Spread_ItemMaxNumber",
+   "Spread_StorageMaxNumber",
+   "Spread_CostEnergy",
+   "ProtectLevel",
+   "Transform_Weight",
+   "Swallow_Weight1",
+   "Swallow_Number1",
+   "Spread_TransformNumber"
+  ]
+ },
+ "AdventureItemModelConfig_dogpark": {
+  "entries": 35,
+  "fields": [
+   "Type",
+   "MergedType",
+   "BubbleChance",
+   "Spread_Auto",
+   "Spread_Weight",
+   "Spread_WeightType",
+   "Spread_ItemMaxNumber",
+   "Spread_StorageMaxNumber",
+   "Spread_CostEnergy",
+   "ProtectLevel",
+   "Transform_Weight",
+   "Swallow_Weight1",
+   "Swallow_Number1",
+   "Spread_TransformNumber"
+  ]
+ },
+ "AdventureItemModelConfig_dogpark_obs": {
+  "entries": 33,
+  "fields": [
+   "Type",
+   "MergedType",
+   "BubbleChance",
+   "Spread_Auto",
+   "Spread_Weight",
+   "Spread_WeightType",
+   "Spread_ItemMaxNumber",
+   "Spread_StorageMaxNumber",
+   "Spread_CostEnergy",
+   "ProtectLevel",
+   "Transform_Weight",
+   "Swallow_Weight1",
+   "Swallow_Number1",
+   "Spread_TransformNumber"
+  ]
+ },
+ "AdventureItemModelConfig_dogparkpure": {
+  "entries": 35,
+  "fields": [
+   "Type",
+   "MergedType",
+   "BubbleChance",
+   "Spread_Auto",
+   "Spread_Weight",
+   "Spread_WeightType",
+   "Spread_ItemMaxNumber",
+   "Spread_StorageMaxNumber",
+   "Spread_CostEnergy",
+   "ProtectLevel",
+   "Transform_Weight",
+   "Swallow_Weight1",
+   "Swallow_Number1",
+   "Spread_TransformNumber"
+  ]
+ },
+ "AreaUnlockConfig": {
+  "entries": 1,
+  "fields": [
+   "id",
+   "level",
+   "condition"
+  ]
+ },
+ "BattleRobotConfig": {
+  "entries": 90,
+  "fields": [
+   "id",
+   "speed",
+   "round",
+   "groupId"
+  ]
+ },
+ "BattleRobotConfig_easy": {
+  "entries": 90,
+  "fields": [
+   "id",
+   "speed",
+   "round",
+   "groupId"
+  ]
+ },
+ "BeatBoardModelConfig_Spring": {
+  "entries": 6,
+  "fields": []
+ },
+ "BeatBoardModelConfig_Xmas": {
+  "entries": 6,
+  "fields": []
+ },
+ "BeatItemModelConfig_Spring": {
+  "entries": 43,
+  "fields": [
+   "Type",
+   "MergedType",
+   "BubbleChance",
+   "CollectRewards",
+   "Spread_Auto",
+   "Spread_Weight",
+   "Spread_WeightType",
+   "Spread_ItemMaxNumber",
+   "Spread_StorageMaxNumber",
+   "Spread_CostEnergy"
+  ]
+ },
+ "BeatItemModelConfig_Xmas": {
+  "entries": 43,
+  "fields": [
+   "Type",
+   "MergedType",
+   "BubbleChance",
+   "CollectRewards",
+   "Spread_Auto",
+   "Spread_Weight",
+   "Spread_WeightType",
+   "Spread_ItemMaxNumber",
+   "Spread_StorageMaxNumber",
+   "Spread_CostEnergy"
+  ]
+ },
+ "BoardModelConfig": {
+  "entries": 9,
+  "fields": []
+ },
+ "BoardPromptConfig": {
+  "entries": 24,
+  "fields": [
+   "Priority",
+   "Type",
+   "CloseCondition"
+  ]
+ },
+ "BottleDailyTextConfig": {
+  "entries": 3,
+  "fields": []
+ },
+ "BreakBoardModelConfig_Shopping": {
+  "entries": 7,
+  "fields": []
+ },
+ "BreakBoardModelConfig_Shopping_test": {
+  "entries": 7,
+  "fields": []
+ },
+ "BreakItemModelConfig_Shopping": {
+  "entries": 320,
+  "fields": [
+   "Type",
+   "MergedType",
+   "BubbleChance",
+   "CollectRewards",
+   "Spread_Auto",
+   "Spread_Weight",
+   "Spread_WeightType",
+   "Spread_ItemMaxNumber",
+   "Spread_StorageMaxNumber",
+   "Spread_CostEnergy",
+   "Transform_Weight",
+   "Swallow_AllowTap",
+   "Swallow_Weight1",
+   "Swallow_Number1",
+   "Static",
+   "Spread_TransformNumber",
+   "Dig_MaxLevel"
+  ]
+ },
+ "BundleConfig": {
+  "entries": 1,
+  "fields": [
+   "id",
+   "type",
+   "goods",
+   "purchaseId",
+   "condition",
+   "buyCount",
+   "lastDuration"
+  ]
+ },
+ "CardItemConfig": {
+  "entries": 26,
+  "fields": [
+   "ItemChain",
+   "UnlockLevel",
+   "Weight",
+   "Rarity"
+  ]
+ },
+ "CardItemConfig_more": {
+  "entries": 26,
+  "fields": [
+   "ItemChain",
+   "UnlockLevel",
+   "Weight",
+   "Rarity"
+  ]
+ },
+ "CardItemProduceConfig": {
+  "entries": 177,
+  "fields": [
+   "ItemType",
+   "Chance",
+   "LevelMin",
+   "LevelMax"
+  ]
+ },
+ "CardItemProduceConfig_more": {
+  "entries": 177,
+  "fields": [
+   "ItemType",
+   "Chance",
+   "LevelMin",
+   "LevelMax"
+  ]
+ },
+ "CharacterIntimacyCoinToGiftConfig": {
+  "entries": 4,
+  "fields": [
+   "MinCoin",
+   "MaxCoin",
+   "NumberRange"
+  ]
+ },
+ "CharacterIntimacyDialogConfig": {
+  "entries": 110,
+  "fields": [
+   "Character",
+   "Type",
+   "Chance",
+   "Pool",
+   "Periods"
+  ]
+ },
+ "CharacterIntimacyGiftConfig": {
+  "entries": 4,
+  "fields": [
+   "Id",
+   "Type",
+   "Intimacy",
+   "Coin",
+   "CoinIncreasementNum",
+   "CoinIncreasementCost",
+   "Gem"
+  ]
+ },
+ "CharacterIntimacyLevelConfig": {
+  "entries": 300,
+  "fields": [
+   "Character",
+   "Level",
+   "Intimacy",
+   "RewardType",
+   "Rewards",
+   "Gifts"
+  ]
+ },
+ "CharacterIntimacyListConfig": {
+  "entries": 11,
+  "fields": [
+   "Id",
+   "Name",
+   "Released",
+   "Background",
+   "PreferredGifts",
+   "UnlockRequirements"
+  ]
+ },
+ "CharacterIntimacyShopConfig": {
+  "entries": 6,
+  "fields": [
+   "Slot",
+   "Type",
+   "Number",
+   "Gifts"
+  ]
+ },
+ "ChestOrderRandomConfig": {
+  "entries": 8,
+  "fields": [
+   "Type",
+   "RefreshTime",
+   "UnlockLevel",
+   "Point",
+   "Filters",
+   "ItemAmounts"
+  ]
+ },
+ "ChestOrderRandomConfig_hard": {
+  "entries": 8,
+  "fields": [
+   "Type",
+   "RefreshTime",
+   "UnlockLevel",
+   "Point",
+   "Filters",
+   "ItemAmounts"
+  ]
+ },
+ "ChestOrderRandomConfig_lessitem": {
+  "entries": 8,
+  "fields": [
+   "Type",
+   "RefreshTime",
+   "UnlockLevel",
+   "Point",
+   "Filters",
+   "ItemAmounts"
+  ]
+ },
+ "ChestOrderRandomConfig_lessitem2": {
+  "entries": 8,
+  "fields": [
+   "Type",
+   "RefreshTime",
+   "UnlockLevel",
+   "Point",
+   "Filters",
+   "ItemAmounts"
+  ]
+ },
+ "ChestOrderRandomConfig_lessitem3": {
+  "entries": 8,
+  "fields": [
+   "Type",
+   "RefreshTime",
+   "UnlockLevel",
+   "Point",
+   "Filters",
+   "ItemAmounts"
+  ]
+ },
+ "ChestOrderRandomRecallConfig": {
+  "entries": 8,
+  "fields": [
+   "Type",
+   "RefreshTime",
+   "UnlockLevel",
+   "Point",
+   "Filters",
+   "ItemAmounts"
+  ]
+ },
+ "Dig2BoardModelConfig": {
+  "entries": 40,
+  "fields": []
+ },
+ "Dig2BoardModelConfig_superweb": {
+  "entries": 40,
+  "fields": []
+ },
+ "Dig2ItemModelConfig": {
+  "entries": 134,
+  "fields": [
+   "Type",
+   "Transform_Weight",
+   "Dig_MaxLevel",
+   "Spread_Auto",
+   "Spread_Weight",
+   "Spread_WeightType",
+   "Spread_TransformNumber",
+   "Spread_ItemMaxNumber",
+   "Spread_StorageMaxNumber",
+   "MergedType",
+   "CollectRewards",
+   "BubbleChance",
+   "ProtectLevel",
+   "Swallow_Weight1",
+   "Swallow_Number1"
+  ]
+ },
+ "Dig2ItemModelConfig_superweb": {
+  "entries": 132,
+  "fields": [
+   "Type",
+   "Transform_Weight",
+   "Dig_MaxLevel",
+   "Spread_Auto",
+   "Spread_Weight",
+   "Spread_WeightType",
+   "Spread_TransformNumber",
+   "Spread_ItemMaxNumber",
+   "Spread_StorageMaxNumber",
+   "MergedType",
+   "CollectRewards",
+   "BubbleChance",
+   "ProtectLevel",
+   "Swallow_Weight1",
+   "Swallow_Number1"
+  ]
+ },
+ "Dig2ItemModelConfig_wheel": {
+  "entries": 134,
+  "fields": [
+   "Type",
+   "Transform_Weight",
+   "Dig_MaxLevel",
+   "Spread_Auto",
+   "Spread_Weight",
+   "Spread_WeightType",
+   "Spread_TransformNumber",
+   "Spread_ItemMaxNumber",
+   "Spread_StorageMaxNumber",
+   "MergedType",
+   "CollectRewards",
+   "BubbleChance",
+   "ProtectLevel",
+   "Swallow_Weight1",
+   "Swallow_Number1"
+  ]
+ },
+ "DigBoardModelConfig": {
+  "entries": 40,
+  "fields": []
+ },
+ "DigBoardPaperRewardConfig_mineral": {
+  "entries": 40,
+  "fields": []
+ },
+ "DigBoardPaperRewardConfig_mineral2": {
+  "entries": 40,
+  "fields": []
+ },
+ "DigItemModelConfig": {
+  "entries": 134,
+  "fields": [
+   "Type",
+   "Transform_Weight",
+   "Dig_MaxLevel",
+   "Spread_Auto",
+   "Spread_Weight",
+   "Spread_WeightType",
+   "Spread_TransformNumber",
+   "Spread_ItemMaxNumber",
+   "Spread_StorageMaxNumber",
+   "MergedType",
+   "CollectRewards",
+   "BubbleChance",
+   "ProtectLevel",
+   "Swallow_Weight1",
+   "Swallow_Number1"
+  ]
+ },
+ "DigItemModelConfig_super500": {
+  "entries": 132,
+  "fields": [
+   "Type",
+   "Transform_Weight",
+   "Dig_MaxLevel",
+   "Spread_Auto",
+   "Spread_Weight",
+   "Spread_WeightType",
+   "Spread_TransformNumber",
+   "Spread_ItemMaxNumber",
+   "Spread_StorageMaxNumber",
+   "MergedType",
+   "CollectRewards",
+   "BubbleChance",
+   "ProtectLevel",
+   "Swallow_Weight1",
+   "Swallow_Number1"
+  ]
+ },
+ "EnergyBoostItemConfig": {
+  "entries": 38,
+  "fields": []
+ },
+ "ExploreBoardConfig_egyptmapexplore": {
+  "entries": 7,
+  "fields": []
+ },
+ "ExploreBoardConfig_lavamapexplore": {
+  "entries": 7,
+  "fields": []
+ },
+ "ExploreBoardScrollConfig_egyptmapexplore": {
+  "entries": 2,
+  "fields": [
+   "level",
+   "scrollRows"
+  ]
+ },
+ "ExploreBoardScrollConfig_lavamapexplore": {
+  "entries": 2,
+  "fields": [
+   "level",
+   "scrollRows"
+  ]
+ },
+ "ExploreCloudConfig_egyptmapexplore": {
+  "entries": 50,
+  "fields": [
+   "id",
+   "unlockSlot",
+   "prefabName"
+  ]
+ },
+ "ExploreCloudConfig_lavamapexplore": {
+  "entries": 49,
+  "fields": [
+   "id",
+   "unlockSlot",
+   "prefabName"
+  ]
+ },
+ "ExploreItemModelConfig_egyptmapexplore": {
+  "entries": 38,
+  "fields": [
+   "Type",
+   "MergedType",
+   "Spread_WeightType",
+   "Spread_ItemMaxNumber",
+   "Spread_StorageMaxNumber",
+   "Spread_CostEnergy",
+   "BubbleChance",
+   "Spread_Auto",
+   "Spread_Weight",
+   "SpecialType",
+   "CollectRewards"
+  ]
+ },
+ "ExploreItemModelConfig_lavamapexplore": {
+  "entries": 38,
+  "fields": [
+   "Type",
+   "MergedType",
+   "Spread_WeightType",
+   "Spread_ItemMaxNumber",
+   "Spread_StorageMaxNumber",
+   "Spread_CostEnergy",
+   "BubbleChance",
+   "Spread_Auto",
+   "Spread_Weight",
+   "SpecialType",
+   "CollectRewards"
+  ]
+ },
+ "ExploreMsicConfig_egyptmapexplore": {
+  "entries": 1,
+  "fields": []
+ },
+ "ExploreMsicConfig_lavamapexplore": {
+  "entries": 1,
+  "fields": []
+ },
+ "ExploreObstacleModelConfig_egyptmapexplore": {
+  "entries": 415,
+  "fields": [
+   "cost",
+   "code",
+   "logicType",
+   "produce",
+   "type",
+   "prefabName",
+   "cameraSize",
+   "bubbleType",
+   "characterAniName",
+   "bubbleKey",
+   "disposeTime",
+   "transformPrefab",
+   "disposeSpineAniName",
+   "idleSpineAniName"
+  ]
+ },
+ "ExploreObstacleModelConfig_egyptmapexplore_recover": {
+  "entries": 415,
+  "fields": [
+   "logicType",
+   "produce",
+   "code",
+   "prefabName",
+   "type",
+   "cost",
+   "bubbleType",
+   "characterAniName",
+   "cameraSize",
+   "bubbleKey",
+   "disposeSpineAniName",
+   "idleSpineAniName",
+   "disposeTime",
+   "transformPrefab"
+  ]
+ },
+ "ExploreObstacleModelConfig_lavamapexplore": {
+  "entries": 415,
+  "fields": [
+   "code",
+   "cost",
+   "logicType",
+   "prefabName",
+   "produce",
+   "type",
+   "bubbleKey",
+   "bubbleType",
+   "cameraSize",
+   "characterAniName",
+   "transformPrefab",
+   "idleSpineAniName",
+   "disposeSpineAniName",
+   "disposeTime"
+  ]
+ },
+ "ExploreObstacleModelConfig_lavamapexplore_recover": {
+  "entries": 415,
+  "fields": [
+   "code",
+   "cost",
+   "logicType",
+   "prefabName",
+   "produce",
+   "type",
+   "bubbleKey",
+   "bubbleType",
+   "cameraSize",
+   "characterAniName",
+   "transformPrefab",
+   "idleSpineAniName",
+   "disposeSpineAniName",
+   "disposeTime"
+  ]
+ },
+ "ExplorePathConfig_egyptmapexplore": {
+  "entries": 115,
+  "fields": [
+   "id",
+   "priority",
+   "num"
+  ]
+ },
+ "ExplorePathConfig_lavamapexplore": {
+  "entries": 114,
+  "fields": [
+   "id",
+   "priority",
+   "num"
+  ]
+ },
+ "ExplorePathUnlockConfig_egyptmapexplore": {
+  "entries": 113,
+  "fields": [
+   "id",
+   "unlockSlot"
+  ]
+ },
+ "ExplorePathUnlockConfig_lavamapexplore": {
+  "entries": 112,
+  "fields": [
+   "id",
+   "unlockSlot"
+  ]
+ },
+ "ExplorePrefabImageConfig_egyptmapexplore": {
+  "entries": 7,
+  "fields": [
+   "prefabName",
+   "taskImage"
+  ]
+ },
+ "ExplorePrefabImageConfig_lavamapexplore": {
+  "entries": 7,
+  "fields": [
+   "prefabName",
+   "taskImage"
+  ]
+ },
+ "ExplorePropertyConfig_egyptmapexplore": {
+  "entries": 6,
+  "fields": []
+ },
+ "ExplorePropertyConfig_lavamapexplore": {
+  "entries": 7,
+  "fields": []
+ },
+ "ExploreSlotObstacleRelationConfig_egyptmapexplore": {
+  "entries": 356,
+  "fields": [
+   "id",
+   "index",
+   "obstacle"
+  ]
+ },
+ "ExploreSlotObstacleRelationConfig_lavamapexplore": {
+  "entries": 356,
+  "fields": [
+   "id",
+   "index",
+   "obstacle"
+  ]
+ },
+ "ExploreStoryConfig_egyptmapexplore": {
+  "entries": 89,
+  "fields": [
+   "Id",
+   "Step",
+   "Speaker",
+   "Position",
+   "Animation",
+   "BubbleType",
+   "Content"
+  ]
+ },
+ "ExploreStoryConfig_lavamapexplore": {
+  "entries": 135,
+  "fields": [
+   "Id",
+   "Step",
+   "Speaker",
+   "Position",
+   "Animation",
+   "BubbleType",
+   "Content"
+  ]
+ },
+ "ExploreTimeLineConfig_egyptmapexplore": {
+  "entries": 54,
+  "fields": [
+   "Index",
+   "Id",
+   "TrigCondition",
+   "Order",
+   "Type",
+   "Content"
+  ]
+ },
+ "ExploreTimeLineConfig_lavamapexplore": {
+  "entries": 59,
+  "fields": [
+   "Index",
+   "Id",
+   "TrigCondition",
+   "Order",
+   "Type",
+   "Content"
+  ]
+ },
+ "FarmboardBoardModelConfig_pirate": {
+  "entries": 16,
+  "fields": []
+ },
+ "FarmboardBoardModelConfig_pirate_faster": {
+  "entries": 18,
+  "fields": []
+ },
+ "FarmboardBoardModelConfig_pirate_super": {
+  "entries": 16,
+  "fields": []
+ },
+ "FarmboardBoardModelConfig_unicorn": {
+  "entries": 16,
+  "fields": []
+ },
+ "FarmboardBoardModelConfig_unicorn_faster": {
+  "entries": 18,
+  "fields": []
+ },
+ "FarmboardBoardObstacleConfig_unicorn": {
+  "entries": 0,
+  "fields": []
+ },
+ "FarmboardBoardPaperRewardConfig_pat": {
+  "entries": 14,
+  "fields": []
+ },
+ "FarmboardBoardScrollConfig_pirate": {
+  "entries": 4,
+  "fields": [
+   "fogId",
+   "scrollRows"
+  ]
+ },
+ "FarmboardBoardScrollConfig_pirate_faster": {
+  "entries": 5,
+  "fields": [
+   "fogId",
+   "scrollRows"
+  ]
+ },
+ "FarmboardBoardScrollConfig_unicorn": {
+  "entries": 4,
+  "fields": [
+   "fogId",
+   "scrollRows"
+  ]
+ },
+ "FarmboardBoardScrollConfig_unicorn_faster": {
+  "entries": 5,
+  "fields": [
+   "fogId",
+   "scrollRows"
+  ]
+ },
+ "FarmboardFogModelConfig_pirate": {
+  "entries": 8,
+  "fields": [
+   "id",
+   "index",
+   "unlockByLevel"
+  ]
+ },
+ "FarmboardFogModelConfig_unicorn": {
+  "entries": 8,
+  "fields": [
+   "id",
+   "index",
+   "unlockByLevel"
+  ]
+ },
+ "FarmboardItemModelConfig_pirate": {
+  "entries": 36,
+  "fields": [
+   "Type",
+   "MergedType",
+   "BubbleChance",
+   "Spread_Auto",
+   "Spread_Weight",
+   "Spread_WeightType",
+   "Spread_ItemMaxNumber",
+   "Spread_StorageMaxNumber",
+   "Spread_CostEnergy",
+   "ProtectLevel",
+   "CommandOperation"
+  ]
+ },
+ "FarmboardItemModelConfig_pirate_faster": {
+  "entries": 36,
+  "fields": [
+   "Type",
+   "MergedType",
+   "BubbleChance",
+   "Spread_Auto",
+   "Spread_Weight",
+   "Spread_WeightType",
+   "Spread_ItemMaxNumber",
+   "Spread_StorageMaxNumber",
+   "Spread_CostEnergy",
+   "ProtectLevel",
+   "CommandOperation"
+  ]
+ },
+ "FarmboardItemModelConfig_pirate_super": {
+  "entries": 36,
+  "fields": [
+   "Type",
+   "MergedType",
+   "BubbleChance",
+   "Spread_Auto",
+   "Spread_Weight",
+   "Spread_WeightType",
+   "Spread_ItemMaxNumber",
+   "Spread_StorageMaxNumber",
+   "Spread_CostEnergy",
+   "ProtectLevel",
+   "CommandOperation"
+  ]
+ },
+ "FarmboardItemModelConfig_pirate_wheel": {
+  "entries": 36,
+  "fields": [
+   "Type",
+   "MergedType",
+   "BubbleChance",
+   "Spread_Auto",
+   "Spread_Weight",
+   "Spread_WeightType",
+   "Spread_ItemMaxNumber",
+   "Spread_StorageMaxNumber",
+   "Spread_CostEnergy",
+   "ProtectLevel",
+   "CommandOperation"
+  ]
+ },
+ "FarmboardItemModelConfig_unicorn": {
+  "entries": 36,
+  "fields": [
+   "Type",
+   "MergedType",
+   "BubbleChance",
+   "Spread_Auto",
+   "Spread_Weight",
+   "Spread_WeightType",
+   "Spread_ItemMaxNumber",
+   "Spread_StorageMaxNumber",
+   "Spread_CostEnergy",
+   "ProtectLevel",
+   "CommandOperation"
+  ]
+ },
+ "FarmboardItemModelConfig_unicorn_faster": {
+  "entries": 36,
+  "fields": [
+   "Type",
+   "MergedType",
+   "BubbleChance",
+   "Spread_Auto",
+   "Spread_Weight",
+   "Spread_WeightType",
+   "Spread_ItemMaxNumber",
+   "Spread_StorageMaxNumber",
+   "Spread_CostEnergy",
+   "ProtectLevel",
+   "CommandOperation"
+  ]
+ },
+ "FreefallBoardModelConfig_monster": {
+  "entries": 6,
+  "fields": []
+ },
+ "FreefallBoardModelConfig_ranger": {
+  "entries": 6,
+  "fields": []
+ },
+ "FreefallBoardSpawnConfig_monster": {
+  "entries": 5,
+  "fields": [
+   "Round",
+   "DropItems"
+  ]
+ },
+ "FreefallBoardSpawnConfig_monster_newboss": {
+  "entries": 5,
+  "fields": [
+   "Round",
+   "DropItems"
+  ]
+ },
+ "FreefallBoardSpawnConfig_ranger": {
+  "entries": 5,
+  "fields": [
+   "Round",
+   "DropItems"
+  ]
+ },
+ "FreefallBoardSpawnConfig_ranger_newboss": {
+  "entries": 5,
+  "fields": [
+   "Round",
+   "DropItems"
+  ]
+ },
+ "FreefallItemModelConfig_monster": {
+  "entries": 27,
+  "fields": [
+   "Type",
+   "MergedType",
+   "MergeRewards",
+   "CollectRewards",
+   "Spread_Auto",
+   "Spread_Weight",
+   "Spread_WeightType",
+   "Spread_ItemMaxNumber",
+   "Spread_StorageMaxNumber",
+   "Spread_CostEnergy"
+  ]
+ },
+ "FreefallItemModelConfig_ranger": {
+  "entries": 27,
+  "fields": [
+   "Type",
+   "MergedType",
+   "MergeRewards",
+   "CollectRewards",
+   "Spread_Auto",
+   "Spread_Weight",
+   "Spread_WeightType",
+   "Spread_ItemMaxNumber",
+   "Spread_StorageMaxNumber",
+   "Spread_CostEnergy"
+  ]
+ },
+ "FreefallMedalRewardConfig_monster": {
+  "entries": 8,
+  "fields": [
+   "Level",
+   "Rewards"
+  ]
+ },
+ "FreefallMedalRewardConfig_monster_super": {
+  "entries": 8,
+  "fields": [
+   "Level",
+   "Rewards"
+  ]
+ },
+ "FreefallMedalRewardConfig_ranger": {
+  "entries": 8,
+  "fields": [
+   "Level",
+   "Rewards"
+  ]
+ },
+ "FreefallMedalRewardConfig_ranger_super": {
+  "entries": 8,
+  "fields": [
+   "Level",
+   "Rewards"
+  ]
+ },
+ "FunctionEnableConfig": {
+  "entries": 3,
+  "fields": [
+   "name",
+   "enable",
+   "param"
+  ]
+ },
+ "GeneratorBoostItemModelConfig": {
+  "entries": 2,
+  "fields": []
+ },
+ "GeneratorBoostItemModelConfig_shell": {
+  "entries": 2,
+  "fields": []
+ },
+ "GeneratorBoostLuckyProduceConfig": {
+  "entries": 2,
+  "fields": []
+ },
+ "GeneratorBoostLuckyProduceConfig_shell": {
+  "entries": 2,
+  "fields": []
+ },
+ "HitBricksHalloweenConfig": {
+  "entries": 0,
+  "fields": []
+ },
+ "InventorySlotConfig": {
+  "entries": 3,
+  "fields": []
+ },
+ "ItemGenerateScore": {
+  "entries": 17,
+  "fields": []
+ },
+ "ItemModelConfig": {
+  "entries": 543,
+  "fields": [
+   "Type",
+   "MergedType",
+   "SellingPrice",
+   "ProtectLevel",
+   "Rare",
+   "BubbleChance",
+   "LevelDownPiece",
+   "Spread_Auto",
+   "Spread_Weight",
+   "Spread_WeightType",
+   "Spread_ItemMaxNumber",
+   "Spread_StorageMaxNumber",
+   "Spread_CostEnergy",
+   "Spread_ItemRecoveryDuration",
+   "Spread_StorageRecoveryDuration",
+   "Spread_ItemSpeedUpCost",
+   "Spread_StorageSpeedUpCost",
+   "LevelUpPiece",
+   "FirstLevelGeneratorChain",
+   "SecondLevelGeneratorChain",
+   "CollectRewards",
+   "Spread_OpenDuration",
+   "Spread_OpenSpeedUpCost",
+   "Choices",
+   "SpecialType",
+   "IsTemplate",
+   "Spread_TransformNumber",
+   "Transform_Weight",
+   "Spread_InitDuration",
+   "Spread_InitSpeedUpCost"
+  ]
+ },
+ "ItemModelConfig_carditem2": {
+  "entries": 543,
+  "fields": [
+   "Type",
+   "MergedType",
+   "SellingPrice",
+   "ProtectLevel",
+   "Rare",
+   "BubbleChance",
+   "LevelDownPiece",
+   "Spread_Auto",
+   "Spread_Weight",
+   "Spread_WeightType",
+   "Spread_ItemMaxNumber",
+   "Spread_StorageMaxNumber",
+   "Spread_CostEnergy",
+   "Spread_ItemRecoveryDuration",
+   "Spread_StorageRecoveryDuration",
+   "Spread_ItemSpeedUpCost",
+   "Spread_StorageSpeedUpCost",
+   "LevelUpPiece",
+   "FirstLevelGeneratorChain",
+   "SecondLevelGeneratorChain",
+   "CollectRewards",
+   "Spread_OpenDuration",
+   "Spread_OpenSpeedUpCost",
+   "Choices",
+   "SpecialType",
+   "IsTemplate",
+   "Spread_TransformNumber",
+   "Transform_Weight",
+   "Spread_InitDuration",
+   "Spread_InitSpeedUpCost"
+  ]
+ },
+ "ItemModelConfig_shell": {
+  "entries": 551,
+  "fields": [
+   "Type",
+   "MergedType",
+   "SellingPrice",
+   "ProtectLevel",
+   "Rare",
+   "BubbleChance",
+   "LevelDownPiece",
+   "Spread_Auto",
+   "Spread_Weight",
+   "Spread_WeightType",
+   "Spread_ItemMaxNumber",
+   "Spread_StorageMaxNumber",
+   "Spread_CostEnergy",
+   "Spread_ItemRecoveryDuration",
+   "Spread_StorageRecoveryDuration",
+   "Spread_ItemSpeedUpCost",
+   "Spread_StorageSpeedUpCost",
+   "LevelUpPiece",
+   "FirstLevelGeneratorChain",
+   "SecondLevelGeneratorChain",
+   "CollectRewards",
+   "Spread_OpenDuration",
+   "Spread_OpenSpeedUpCost",
+   "Choices",
+   "SpecialType",
+   "IsTemplate",
+   "Spread_TransformNumber",
+   "Transform_Weight",
+   "Spread_InitDuration",
+   "Spread_InitSpeedUpCost"
+  ]
+ },
+ "ItemPropertyConfig": {
+  "entries": 164,
+  "fields": [
+   "Type",
+   "ShopWeight",
+   "ShopCount",
+   "RareItem",
+   "Slot",
+   "CustomChain",
+   "Price",
+   "BubblePrice",
+   "BubblePriceSale",
+   "IsSpecial"
+  ]
+ },
+ "ItemPropertyConfig_shell": {
+  "entries": 172,
+  "fields": [
+   "Type",
+   "ShopWeight",
+   "ShopCount",
+   "RareItem",
+   "Slot",
+   "CustomChain",
+   "Price",
+   "BubblePrice",
+   "BubblePriceSale",
+   "IsSpecial"
+  ]
+ },
+ "ItemViewConfig": {
+  "entries": 806,
+  "fields": [
+   "Type",
+   "Image",
+   "DetailDescriptionKey",
+   "TutorialBoard",
+   "DigView",
+   "NormalDescriptionKey",
+   "PortalView",
+   "SwallowView",
+   "SpineName",
+   "TitleTextKey"
+  ]
+ },
+ "LevelConfig": {
+  "entries": 300,
+  "fields": [
+   "level",
+   "cost",
+   "rewards"
+  ]
+ },
+ "LuckyProduceConfig": {
+  "entries": 10,
+  "fields": [
+   "generator",
+   "lucky_chance",
+   "lucky_items",
+   "super_items",
+   "level_min",
+   "level_max"
+  ]
+ },
+ "LuckyProduceConfig_shell": {
+  "entries": 11,
+  "fields": [
+   "generator",
+   "lucky_chance",
+   "lucky_items",
+   "super_items",
+   "level_min",
+   "level_max"
+  ]
+ },
+ "LuckyProduceConfig_triple": {
+  "entries": 10,
+  "fields": [
+   "generator",
+   "lucky_chance",
+   "lucky_items",
+   "super_items",
+   "level_min",
+   "level_max"
+  ]
+ },
+ "LuckyProduceConfig_tripleshell": {
+  "entries": 11,
+  "fields": [
+   "generator",
+   "lucky_chance",
+   "lucky_items",
+   "super_items",
+   "level_min",
+   "level_max"
+  ]
+ },
+ "MainPaperboxExtraRewardConfig": {
+  "entries": 9,
+  "fields": []
+ },
+ "MainTaskConfig": {
+  "entries": 4107,
+  "fields": [
+   "day",
+   "id",
+   "area",
+   "cost",
+   "rewards",
+   "edit_pos",
+   "detail_icon",
+   "name",
+   "list_icon"
+  ]
+ },
+ "MainTaskConfig_fire": {
+  "entries": 3939,
+  "fields": [
+   "day",
+   "id",
+   "area",
+   "cost",
+   "rewards",
+   "edit_pos",
+   "detail_icon",
+   "name",
+   "list_icon"
+  ]
+ },
+ "MapBorderConfig": {
+  "entries": 7,
+  "fields": [
+   "Border",
+   "Task",
+   "AreaLabelList",
+   "SlotRemote",
+   "FixItemRemote"
+  ]
+ },
+ "MapSlotInCameraCheckPosConfig": {
+  "entries": 542,
+  "fields": []
+ },
+ "MergeItemScoreConfig": {
+  "entries": 159,
+  "fields": [
+   "item_id",
+   "bubble_score",
+   "shop_score",
+   "merge_score",
+   "merge_score_race"
+  ]
+ },
+ "MergeItemScoreConfig_shell": {
+  "entries": 166,
+  "fields": [
+   "item_id",
+   "bubble_score",
+   "shop_score",
+   "merge_score",
+   "merge_score_race"
+  ]
+ },
+ "MultiboardsBoardModelConfig_moon26_1": {
+  "entries": 5,
+  "fields": []
+ },
+ "MultiboardsBoardModelConfig_moon26_1_morestage": {
+  "entries": 5,
+  "fields": []
+ },
+ "MultiboardsBoardModelConfig_moon26_2": {
+  "entries": 8,
+  "fields": []
+ },
+ "MultiboardsBoardModelConfig_moon26_2_morestage": {
+  "entries": 8,
+  "fields": []
+ },
+ "MultiboardsBoardModelConfig_moon26_3": {
+  "entries": 8,
+  "fields": []
+ },
+ "MultiboardsBoardModelConfig_moon26_3_morestage": {
+  "entries": 8,
+  "fields": []
+ },
+ "MultiboardsBoardModelConfig_moon26_4": {
+  "entries": 8,
+  "fields": []
+ },
+ "MultiboardsBoardModelConfig_moon26_4_morestage": {
+  "entries": 8,
+  "fields": []
+ },
+ "MultiboardsBoardModelConfig_moon26_5_morestage": {
+  "entries": 8,
+  "fields": []
+ },
+ "MultiboardsBoardModelConfig_y2k_1": {
+  "entries": 5,
+  "fields": []
+ },
+ "MultiboardsBoardModelConfig_y2k_1_morestage": {
+  "entries": 5,
+  "fields": []
+ },
+ "MultiboardsBoardModelConfig_y2k_1_web": {
+  "entries": 5,
+  "fields": []
+ },
+ "MultiboardsBoardModelConfig_y2k_1_wheel": {
+  "entries": 5,
+  "fields": []
+ },
+ "MultiboardsBoardModelConfig_y2k_2": {
+  "entries": 8,
+  "fields": []
+ },
+ "MultiboardsBoardModelConfig_y2k_2_morestage": {
+  "entries": 8,
+  "fields": []
+ },
+ "MultiboardsBoardModelConfig_y2k_2_web": {
+  "entries": 8,
+  "fields": []
+ },
+ "MultiboardsBoardModelConfig_y2k_2_wheel": {
+  "entries": 8,
+  "fields": []
+ },
+ "MultiboardsBoardModelConfig_y2k_3": {
+  "entries": 8,
+  "fields": []
+ },
+ "MultiboardsBoardModelConfig_y2k_3_morestage": {
+  "entries": 8,
+  "fields": []
+ },
+ "MultiboardsBoardModelConfig_y2k_3_web": {
+  "entries": 8,
+  "fields": []
+ },
+ "MultiboardsBoardModelConfig_y2k_3_wheel": {
+  "entries": 8,
+  "fields": []
+ },
+ "MultiboardsBoardModelConfig_y2k_4": {
+  "entries": 8,
+  "fields": []
+ },
+ "MultiboardsBoardModelConfig_y2k_4_morestage": {
+  "entries": 8,
+  "fields": []
+ },
+ "MultiboardsBoardModelConfig_y2k_4_web": {
+  "entries": 8,
+  "fields": []
+ },
+ "MultiboardsBoardModelConfig_y2k_4_wheel": {
+  "entries": 8,
+  "fields": []
+ },
+ "MultiboardsBoardModelConfig_y2k_5_morestage": {
+  "entries": 8,
+  "fields": []
+ },
+ "MultiboardsBoardObstacleConfig_moon26": {
+  "entries": 0,
+  "fields": []
+ },
+ "MultiboardsBoardObstacleConfig_moon26_obs": {
+  "entries": 1,
+  "fields": [
+   "index",
+   "boardIndex",
+   "leftTop",
+   "rightBottom",
+   "maxLevel",
+   "reward",
+   "prefab",
+   "toolIcon"
+  ]
+ },
+ "MultiboardsBoardObstacleConfig_y2k": {
+  "entries": 0,
+  "fields": []
+ },
+ "MultiboardsBoardObstacleConfig_y2k_obs": {
+  "entries": 1,
+  "fields": [
+   "index",
+   "boardIndex",
+   "leftTop",
+   "rightBottom",
+   "maxLevel",
+   "reward",
+   "prefab",
+   "toolIcon"
+  ]
+ },
+ "MultiboardsBoardPaperRewardConfig_bird_1": {
+  "entries": 5,
+  "fields": []
+ },
+ "MultiboardsBoardPaperRewardConfig_bird_2": {
+  "entries": 8,
+  "fields": []
+ },
+ "MultiboardsBoardPaperRewardConfig_bird_3": {
+  "entries": 8,
+  "fields": []
+ },
+ "MultiboardsBoardPaperRewardConfig_bird_4": {
+  "entries": 8,
+  "fields": []
+ },
+ "MultiboardsItemModelConfig_moon26": {
+  "entries": 29,
+  "fields": [
+   "Type",
+   "MergedType",
+   "BubbleChance",
+   "Spread_Auto",
+   "Spread_Weight",
+   "Spread_WeightType",
+   "Spread_ItemMaxNumber",
+   "Spread_StorageMaxNumber",
+   "Spread_CostEnergy",
+   "Portal"
+  ]
+ },
+ "MultiboardsItemModelConfig_moon26_morestage": {
+  "entries": 30,
+  "fields": [
+   "Type",
+   "MergedType",
+   "BubbleChance",
+   "Spread_Auto",
+   "Spread_Weight",
+   "Spread_WeightType",
+   "Spread_ItemMaxNumber",
+   "Spread_StorageMaxNumber",
+   "Spread_CostEnergy",
+   "Portal"
+  ]
+ },
+ "MultiboardsItemModelConfig_y2k": {
+  "entries": 29,
+  "fields": [
+   "Type",
+   "MergedType",
+   "BubbleChance",
+   "Spread_Auto",
+   "Spread_Weight",
+   "Spread_WeightType",
+   "Spread_ItemMaxNumber",
+   "Spread_StorageMaxNumber",
+   "Spread_CostEnergy",
+   "Portal"
+  ]
+ },
+ "MultiboardsItemModelConfig_y2k_morestage": {
+  "entries": 30,
+  "fields": [
+   "Type",
+   "MergedType",
+   "BubbleChance",
+   "Spread_Auto",
+   "Spread_Weight",
+   "Spread_WeightType",
+   "Spread_ItemMaxNumber",
+   "Spread_StorageMaxNumber",
+   "Spread_CostEnergy",
+   "Portal"
+  ]
+ },
+ "MultiboardsItemModelConfig_y2k_web": {
+  "entries": 29,
+  "fields": [
+   "Type",
+   "MergedType",
+   "BubbleChance",
+   "Spread_Auto",
+   "Spread_Weight",
+   "Spread_WeightType",
+   "Spread_ItemMaxNumber",
+   "Spread_StorageMaxNumber",
+   "Spread_CostEnergy",
+   "Portal"
+  ]
+ },
+ "MultiboardsItemModelConfig_y2k_wheel": {
+  "entries": 29,
+  "fields": [
+   "Type",
+   "MergedType",
+   "BubbleChance",
+   "Spread_Auto",
+   "Spread_Weight",
+   "Spread_WeightType",
+   "Spread_ItemMaxNumber",
+   "Spread_StorageMaxNumber",
+   "Spread_CostEnergy",
+   "Portal"
+  ]
+ },
+ "NewItemOrderConfig": {
+  "entries": 0,
+  "fields": []
+ },
+ "NewItemOrderConfig_test": {
+  "entries": 15,
+  "fields": [
+   "id",
+   "Slot",
+   "UnlockItem",
+   "SkipItem",
+   "Requirement1"
+  ]
+ },
+ "NotificationTextConfig": {
+  "entries": 8,
+  "fields": [
+   "IsMatch",
+   "TitleKey",
+   "DescKey"
+  ]
+ },
+ "NotificationTextConfig_new": {
+  "entries": 10,
+  "fields": [
+   "TitleKey",
+   "DescKey"
+  ]
+ },
+ "OrderAvatarConfig": {
+  "entries": 9,
+  "fields": [
+   "101",
+   "102",
+   "103",
+   "104",
+   "105",
+   "106",
+   "201",
+   "202",
+   "203",
+   "401",
+   "601",
+   "801",
+   "802",
+   "901",
+   "1001",
+   "1002",
+   "1003",
+   "1004",
+   "2001"
+  ]
+ },
+ "OrderAvatarConfig_more": {
+  "entries": 9,
+  "fields": [
+   "101",
+   "102",
+   "103",
+   "104",
+   "105",
+   "106",
+   "201",
+   "202",
+   "203",
+   "401",
+   "601",
+   "801",
+   "802",
+   "901",
+   "1001",
+   "1002",
+   "1003",
+   "1004",
+   "2001"
+  ]
+ },
+ "OrderBranchConfig": {
+  "entries": 1,
+  "fields": [
+   "Id",
+   "Slot",
+   "BranchType",
+   "AvatarId",
+   "Requirement",
+   "GeneratorChain",
+   "EndTimeline",
+   "Rewards"
+  ]
+ },
+ "OrderFixedConfig": {
+  "entries": 16,
+  "fields": [
+   "Id",
+   "Slots",
+   "UnlockLevel",
+   "Requirement1",
+   "Requirement2",
+   "Requirement3"
+  ]
+ },
+ "OrderItemConfig": {
+  "entries": 74,
+  "fields": [
+   "Code",
+   "UnlockLevel",
+   "Price",
+   "Weight",
+   "DiffScore",
+   "WeightMultiple",
+   "ForbiddenSlot",
+   "RepeatWeightDecrease",
+   "ProgressUnlock",
+   "RecommendedNumber",
+   "RecommendedPrice",
+   "DifficultyLevel"
+  ]
+ },
+ "OrderItemConfig_hard": {
+  "entries": 74,
+  "fields": [
+   "Code",
+   "UnlockLevel",
+   "Price",
+   "Weight",
+   "DiffScore",
+   "WeightMultiple",
+   "ForbiddenSlot",
+   "RepeatWeightDecrease",
+   "ProgressUnlock",
+   "RecommendedNumber",
+   "RecommendedPrice",
+   "DifficultyLevel"
+  ]
+ },
+ "OrderItemConfig_nerf": {
+  "entries": 74,
+  "fields": [
+   "Code",
+   "UnlockLevel",
+   "Price",
+   "Weight",
+   "DiffScore",
+   "WeightMultiple",
+   "ForbiddenSlot",
+   "RepeatWeightDecrease",
+   "ProgressUnlock",
+   "RecommendedNumber",
+   "RecommendedPrice",
+   "DifficultyLevel"
+  ]
+ },
+ "OrderItemConfig_nerf_more": {
+  "entries": 74,
+  "fields": [
+   "Code",
+   "UnlockLevel",
+   "Price",
+   "Weight",
+   "DiffScore",
+   "WeightMultiple",
+   "ForbiddenSlot",
+   "RepeatWeightDecrease",
+   "ProgressUnlock",
+   "RecommendedNumber",
+   "RecommendedPrice",
+   "DifficultyLevel"
+  ]
+ },
+ "OrderItemConfig_shell": {
+  "entries": 80,
+  "fields": [
+   "Code",
+   "UnlockLevel",
+   "Price",
+   "Weight",
+   "DiffScore",
+   "WeightMultiple",
+   "ForbiddenSlot",
+   "RepeatWeightDecrease",
+   "ProgressUnlock",
+   "RecommendedNumber",
+   "RecommendedPrice",
+   "DifficultyLevel"
+  ]
+ },
+ "OrderItemNumberWeightConfig": {
+  "entries": 4,
+  "fields": [
+   "Level",
+   "OneItemWeight",
+   "TwoItemsWeight",
+   "ThreeItemsWeight"
+  ]
+ },
+ "OrderRandomConfig": {
+  "entries": 8,
+  "fields": [
+   "Type",
+   "RefreshTime",
+   "UnlockLevel",
+   "Point",
+   "Filters",
+   "ItemAmounts"
+  ]
+ },
+ "OrderRandomConfig_dynamic": {
+  "entries": 8,
+  "fields": [
+   "Type",
+   "RefreshTime",
+   "UnlockLevel",
+   "Point",
+   "Filters",
+   "ItemAmounts"
+  ]
+ },
+ "OrderRandomConfig_hard": {
+  "entries": 8,
+  "fields": [
+   "Type",
+   "RefreshTime",
+   "UnlockLevel",
+   "Point",
+   "Filters",
+   "ItemAmounts"
+  ]
+ },
+ "OrderRandomConfig_lessitem": {
+  "entries": 8,
+  "fields": [
+   "Type",
+   "RefreshTime",
+   "UnlockLevel",
+   "Point",
+   "Filters",
+   "ItemAmounts"
+  ]
+ },
+ "OrderRandomConfig_lessitem2": {
+  "entries": 8,
+  "fields": [
+   "Type",
+   "RefreshTime",
+   "UnlockLevel",
+   "Point",
+   "Filters",
+   "ItemAmounts"
+  ]
+ },
+ "OrderRandomConfig_lessitem3": {
+  "entries": 8,
+  "fields": [
+   "Type",
+   "RefreshTime",
+   "UnlockLevel",
+   "Point",
+   "Filters",
+   "ItemAmounts"
+  ]
+ },
+ "OrderRandomConfig_medium": {
+  "entries": 8,
+  "fields": [
+   "Type",
+   "RefreshTime",
+   "UnlockLevel",
+   "Point",
+   "Filters",
+   "ItemAmounts"
+  ]
+ },
+ "OrderRandomRecallConfig": {
+  "entries": 8,
+  "fields": [
+   "Type",
+   "RefreshTime",
+   "UnlockLevel",
+   "Point",
+   "Filters",
+   "ItemAmounts"
+  ]
+ },
+ "OrderRandomRecallConfig_easier": {
+  "entries": 8,
+  "fields": [
+   "Type",
+   "RefreshTime",
+   "UnlockLevel",
+   "Point",
+   "Filters",
+   "ItemAmounts"
+  ]
+ },
+ "OrderSpecialConfig": {
+  "entries": 6,
+  "fields": [
+   "Id",
+   "DescriptionKey",
+   "AvatarId",
+   "Requirement1",
+   "GeneratorChain",
+   "StartTimeline",
+   "EndTimeline",
+   "Trigger",
+   "FrameColor",
+   "AvatarImage",
+   "BigAvatarImage",
+   "Rewards",
+   "RewardImage",
+   "CompleteImage",
+   "StartReward",
+   "Requirement2"
+  ]
+ },
+ "PairupSeedMatch": {
+  "entries": 497,
+  "fields": [
+   "Track_num",
+   "Seed"
+  ]
+ },
+ "PlaneRewardItemConfig": {
+  "entries": 15,
+  "fields": [
+   "Item_type",
+   "Score"
+  ]
+ },
+ "PlaneRewardItemConfig_shell": {
+  "entries": 16,
+  "fields": [
+   "Item_type",
+   "Score"
+  ]
+ },
+ "PlaneRewardItemConfig_smart": {
+  "entries": 37,
+  "fields": [
+   "Item_type",
+   "Score"
+  ]
+ },
+ "PlaneRewardItemConfig_smartshell": {
+  "entries": 40,
+  "fields": [
+   "Item_type",
+   "Score"
+  ]
+ },
+ "PureboardBoardModelConfig_dogpark": {
+  "entries": 13,
+  "fields": []
+ },
+ "PureboardBoardPaperRewardConfig_dogpark": {
+  "entries": 13,
+  "fields": []
+ },
+ "PureboardBoardScrollConfig_dogpark": {
+  "entries": 1,
+  "fields": [
+   "level",
+   "scrollRows"
+  ]
+ },
+ "PureboardItemModelConfig_dogpark": {
+  "entries": 35,
+  "fields": [
+   "Type",
+   "MergedType",
+   "BubbleChance",
+   "Spread_Auto",
+   "Spread_Weight",
+   "Spread_WeightType",
+   "Spread_ItemMaxNumber",
+   "Spread_StorageMaxNumber",
+   "Spread_CostEnergy",
+   "ProtectLevel",
+   "Transform_Weight",
+   "Swallow_Weight1",
+   "Swallow_Number1",
+   "Spread_TransformNumber"
+  ]
+ },
+ "RaccoonRewardItemShowConfig": {
+  "entries": 58,
+  "fields": []
+ },
+ "RoleIdleConfig": {
+  "entries": 7,
+  "fields": [
+   "id",
+   "pos",
+   "moveTo",
+   "towards",
+   "unlock"
+  ]
+ },
+ "SceneCustomerConfig": {
+  "entries": 4,
+  "fields": [
+   "name",
+   "unlockTask"
+  ]
+ },
+ "ScoreRushItemScore_music": {
+  "entries": 17,
+  "fields": []
+ },
+ "ShopDailyDealsConfig": {
+  "entries": 3,
+  "fields": [
+   "id",
+   "itemCode",
+   "leftCount",
+   "weight",
+   "costType",
+   "costCount",
+   "ad"
+  ]
+ },
+ "ShopDailyDealsConfig_random": {
+  "entries": 7,
+  "fields": [
+   "id",
+   "itemCode",
+   "leftCount",
+   "weight",
+   "costType",
+   "costCount",
+   "ad"
+  ]
+ },
+ "ShopIAPConfig": {
+  "entries": 6,
+  "fields": [
+   "type",
+   "icon",
+   "goods",
+   "purchaseId"
+  ]
+ },
+ "ShopIAPConfigCN": {
+  "entries": 6,
+  "fields": [
+   "type",
+   "icon",
+   "goods",
+   "purchaseId"
+  ]
+ },
+ "ShopSlotConfig": {
+  "entries": 19,
+  "fields": [
+   "ChainId",
+   "Slot1Weight",
+   "Slot2Weight",
+   "Slot3Weight",
+   "Slot4Weight",
+   "Slot5Weight",
+   "Slot6Weight"
+  ]
+ },
+ "ShopSlotConfig_shell": {
+  "entries": 20,
+  "fields": [
+   "ChainId",
+   "Slot1Weight",
+   "Slot2Weight",
+   "Slot3Weight",
+   "Slot4Weight",
+   "Slot5Weight",
+   "Slot6Weight"
+  ]
+ },
+ "SkinConfig": {
+  "entries": 865,
+  "fields": [
+   "id",
+   "name",
+   "slot",
+   "timeline",
+   "area",
+   "item_id"
+  ]
+ },
+ "SlotConfig": {
+  "entries": 725,
+  "fields": [
+   "slot",
+   "move",
+   "luminance"
+  ]
+ },
+ "SlotPreLoadConfig": {
+  "entries": 1,
+  "fields": []
+ },
+ "StickerboardBoardModelConfig_winter_1": {
+  "entries": 7,
+  "fields": []
+ },
+ "StickerboardBoardModelConfig_winter_2": {
+  "entries": 7,
+  "fields": []
+ },
+ "StickerboardBoardModelConfig_winter_3": {
+  "entries": 7,
+  "fields": []
+ },
+ "StickerboardBoardModelConfig_winter_4": {
+  "entries": 7,
+  "fields": []
+ },
+ "StickerboardBoardModelConfig_winter_5": {
+  "entries": 7,
+  "fields": []
+ },
+ "StickerboardBoardModelConfig_winter_6": {
+  "entries": 7,
+  "fields": []
+ },
+ "StickerboardBoardModelConfig_winter_7": {
+  "entries": 7,
+  "fields": []
+ },
+ "StickerboardBoardModelConfig_winter_8": {
+  "entries": 7,
+  "fields": []
+ },
+ "StickerboardBoardModelConfig_winter_9": {
+  "entries": 7,
+  "fields": []
+ },
+ "StickerboardItemModelConfig_winter": {
+  "entries": 116,
+  "fields": [
+   "Type",
+   "Transform_Weight",
+   "Dig_MaxLevel",
+   "Spread_Auto",
+   "Spread_Weight",
+   "Spread_WeightType",
+   "Spread_TransformNumber",
+   "Spread_ItemMaxNumber",
+   "Spread_StorageMaxNumber",
+   "MergedType",
+   "ProtectLevel",
+   "Clear_ClearNum",
+   "Clear_Special",
+   "Swallow_Weight1",
+   "Swallow_Number1",
+   "Static",
+   "Portal"
+  ]
+ },
+ "StickerboardObstacleConfig_winter": {
+  "entries": 11,
+  "fields": [
+   "index",
+   "boardIndex",
+   "leftTop",
+   "rightBottom",
+   "maxLevel",
+   "stickerType"
+  ]
+ },
+ "StickerboardStickerConfig_winter": {
+  "entries": 9,
+  "fields": [
+   "stickerType",
+   "stickerImage",
+   "reward"
+  ]
+ },
+ "StoryRecapConfig": {
+  "entries": 309,
+  "fields": [
+   "Book",
+   "Task",
+   "Page",
+   "Type",
+   "Content"
+  ]
+ },
+ "StorySpeakerConfig": {
+  "entries": 76,
+  "fields": [
+   "Direction",
+   "NameplateColor",
+   "NameColor",
+   "BubbleColor",
+   "TutorialAvatarPos",
+   "SpeakerRBackColor",
+   "SpeakerRTextColor"
+  ]
+ },
+ "SystemConfig": {
+  "entries": 4,
+  "fields": [
+   "name",
+   "value",
+   "desc"
+  ]
+ },
+ "TeamRobotConfig": {
+  "entries": 120,
+  "fields": [
+   "id",
+   "speed",
+   "groupId"
+  ]
+ },
+ "WeeklyTaskItemRecycleConfig": {
+  "entries": 34,
+  "fields": [
+   "Mode",
+   "Code",
+   "TransformCode"
+  ]
+ }
+}

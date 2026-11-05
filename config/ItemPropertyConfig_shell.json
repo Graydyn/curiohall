@@ -1,0 +1,1792 @@
+[
+ {
+  "Type": "101",
+  "ShopWeight": 100,
+  "ShopCount": 1,
+  "RareItem": 1,
+  "Slot": [
+   6
+  ],
+  "CustomChain": "0",
+  "Price": 40,
+  "BubblePrice": 40
+ },
+ {
+  "Type": "203",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 1,
+  "BubblePrice": 1
+ },
+ {
+  "Type": "204",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 2,
+  "BubblePrice": 2
+ },
+ {
+  "Type": "205",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 4,
+  "BubblePrice": 4
+ },
+ {
+  "Type": "206",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 7,
+  "BubblePrice": 7
+ },
+ {
+  "Type": "207",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 13,
+  "BubblePrice": 13
+ },
+ {
+  "Type": "208",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   4,
+   5
+  ],
+  "Price": 25,
+  "BubblePrice": 25
+ },
+ {
+  "Type": "209",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   4,
+   5
+  ],
+  "Price": 47,
+  "BubblePrice": 47
+ },
+ {
+  "Type": "210",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   4,
+   5
+  ],
+  "Price": 89,
+  "BubblePrice": 89
+ },
+ {
+  "Type": "211",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   6
+  ],
+  "Price": 170,
+  "BubblePrice": 170
+ },
+ {
+  "Type": "212",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   6
+  ],
+  "Price": 320,
+  "BubblePrice": 320
+ },
+ {
+  "Type": "213",
+  "ShopWeight": 0,
+  "ShopCount": 5,
+  "Price": 610,
+  "BubblePrice": 610
+ },
+ {
+  "Type": "214",
+  "ShopWeight": 0,
+  "ShopCount": 5,
+  "Price": 1160,
+  "BubblePrice": 1160
+ },
+ {
+  "Type": "215",
+  "ShopWeight": 0,
+  "ShopCount": 5,
+  "Price": 2210,
+  "BubblePrice": 2210
+ },
+ {
+  "Type": "301",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 1,
+  "BubblePrice": 1
+ },
+ {
+  "Type": "302",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 2,
+  "BubblePrice": 2
+ },
+ {
+  "Type": "303",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   4,
+   5
+  ],
+  "Price": 4,
+  "BubblePrice": 4
+ },
+ {
+  "Type": "304",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   4,
+   5
+  ],
+  "Price": 7,
+  "BubblePrice": 7
+ },
+ {
+  "Type": "305",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   4,
+   5
+  ],
+  "Price": 14,
+  "BubblePrice": 14
+ },
+ {
+  "Type": "306",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   4,
+   5
+  ],
+  "Price": 25,
+  "BubblePrice": 25
+ },
+ {
+  "Type": "307",
+  "ShopWeight": 0,
+  "ShopCount": 5,
+  "Price": 48,
+  "BubblePrice": 48
+ },
+ {
+  "Type": "401",
+  "ShopWeight": 100,
+  "ShopCount": 1,
+  "RareItem": 1,
+  "Slot": [
+   6
+  ],
+  "CustomChain": "0",
+  "Price": 40,
+  "BubblePrice": 40
+ },
+ {
+  "Type": "503",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 1,
+  "BubblePrice": 1
+ },
+ {
+  "Type": "504",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 2,
+  "BubblePrice": 2
+ },
+ {
+  "Type": "505",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 4,
+  "BubblePrice": 4
+ },
+ {
+  "Type": "506",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 7,
+  "BubblePrice": 7
+ },
+ {
+  "Type": "507",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 13,
+  "BubblePrice": 13
+ },
+ {
+  "Type": "508",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   4,
+   5
+  ],
+  "Price": 25,
+  "BubblePrice": 25
+ },
+ {
+  "Type": "509",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   4,
+   5
+  ],
+  "Price": 47,
+  "BubblePrice": 47
+ },
+ {
+  "Type": "510",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   4,
+   5
+  ],
+  "Price": 89,
+  "BubblePrice": 89
+ },
+ {
+  "Type": "511",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   6
+  ],
+  "Price": 170,
+  "BubblePrice": 170
+ },
+ {
+  "Type": "512",
+  "ShopWeight": 0,
+  "ShopCount": 5,
+  "Price": 320,
+  "BubblePrice": 320
+ },
+ {
+  "Type": "513",
+  "ShopWeight": 0,
+  "ShopCount": 5,
+  "Price": 610,
+  "BubblePrice": 610
+ },
+ {
+  "Type": "514",
+  "ShopWeight": 0,
+  "ShopCount": 5,
+  "Price": 1160,
+  "BubblePrice": 1160
+ },
+ {
+  "Type": "601",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 1,
+  "BubblePrice": 1
+ },
+ {
+  "Type": "602",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 3,
+  "BubblePrice": 3
+ },
+ {
+  "Type": "603",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   4,
+   5
+  ],
+  "Price": 6,
+  "BubblePrice": 6
+ },
+ {
+  "Type": "604",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   4,
+   5
+  ],
+  "Price": 11,
+  "BubblePrice": 11
+ },
+ {
+  "Type": "605",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   4,
+   5
+  ],
+  "Price": 21,
+  "BubblePrice": 21
+ },
+ {
+  "Type": "606",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   4,
+   5
+  ],
+  "Price": 35,
+  "BubblePrice": 35
+ },
+ {
+  "Type": "607",
+  "ShopWeight": 0,
+  "ShopCount": 5,
+  "Price": 67,
+  "BubblePrice": 67
+ },
+ {
+  "Type": "701",
+  "ShopWeight": 100,
+  "ShopCount": 1,
+  "RareItem": 1,
+  "Slot": [
+   6
+  ],
+  "CustomChain": "0",
+  "Price": 80,
+  "BubblePrice": 80
+ },
+ {
+  "Type": "801",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 3,
+  "BubblePrice": 3
+ },
+ {
+  "Type": "802",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 6,
+  "BubblePrice": 6
+ },
+ {
+  "Type": "803",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 10,
+  "BubblePrice": 10
+ },
+ {
+  "Type": "804",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   4,
+   5
+  ],
+  "Price": 20,
+  "BubblePrice": 20,
+  "BubblePriceSale": 13
+ },
+ {
+  "Type": "805",
+  "ShopWeight": 0,
+  "ShopCount": 5,
+  "Price": 50,
+  "BubblePrice": 50,
+  "BubblePriceSale": 15
+ },
+ {
+  "Type": "901",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 6,
+  "BubblePrice": 6,
+  "BubblePriceSale": 2
+ },
+ {
+  "Type": "902",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 12,
+  "BubblePrice": 12,
+  "BubblePriceSale": 4
+ },
+ {
+  "Type": "903",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 23,
+  "BubblePrice": 23,
+  "BubblePriceSale": 6
+ },
+ {
+  "Type": "904",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   4,
+   5
+  ],
+  "Price": 43,
+  "BubblePrice": 43,
+  "BubblePriceSale": 10
+ },
+ {
+  "Type": "905",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   4,
+   5
+  ],
+  "Price": 82,
+  "BubblePrice": 82,
+  "BubblePriceSale": 18
+ },
+ {
+  "Type": "906",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   4,
+   5
+  ],
+  "Price": 160,
+  "BubblePrice": 160,
+  "BubblePriceSale": 32
+ },
+ {
+  "Type": "907",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   4,
+   5
+  ],
+  "Price": 300,
+  "BubblePrice": 300,
+  "BubblePriceSale": 45
+ },
+ {
+  "Type": "908",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   6
+  ],
+  "Price": 560,
+  "BubblePrice": 560,
+  "BubblePriceSale": 89
+ },
+ {
+  "Type": "909",
+  "ShopWeight": 0,
+  "ShopCount": 5,
+  "Price": 1070,
+  "BubblePrice": 1070,
+  "BubblePriceSale": 176
+ },
+ {
+  "Type": "910",
+  "ShopWeight": 0,
+  "ShopCount": 5,
+  "Price": 2040,
+  "BubblePrice": 2040,
+  "BubblePriceSale": 348
+ },
+ {
+  "Type": "1001",
+  "ShopWeight": 100,
+  "ShopCount": 1,
+  "RareItem": 1,
+  "Slot": [
+   6
+  ],
+  "CustomChain": "0",
+  "Price": 45,
+  "BubblePrice": 45
+ },
+ {
+  "Type": "1101",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 2,
+  "BubblePrice": 2
+ },
+ {
+  "Type": "1102",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 5,
+  "BubblePrice": 5
+ },
+ {
+  "Type": "1103",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 10,
+  "BubblePrice": 10
+ },
+ {
+  "Type": "1104",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   4,
+   5
+  ],
+  "Price": 18,
+  "BubblePrice": 18,
+  "BubblePriceSale": 15
+ },
+ {
+  "Type": "1105",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   4,
+   5
+  ],
+  "Price": 34,
+  "BubblePrice": 34,
+  "BubblePriceSale": 25
+ },
+ {
+  "Type": "1106",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   6
+  ],
+  "Price": 65,
+  "BubblePrice": 65,
+  "BubblePriceSale": 40
+ },
+ {
+  "Type": "1107",
+  "ShopWeight": 0,
+  "ShopCount": 5,
+  "Price": 118,
+  "BubblePrice": 118,
+  "BubblePriceSale": 70
+ },
+ {
+  "Type": "1201",
+  "ShopWeight": 100,
+  "ShopCount": 1,
+  "RareItem": 1,
+  "Slot": [
+   6
+  ],
+  "CustomChain": "0",
+  "Price": 45,
+  "BubblePrice": 45
+ },
+ {
+  "Type": "1302",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 1,
+  "BubblePrice": 1
+ },
+ {
+  "Type": "1303",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 2,
+  "BubblePrice": 2
+ },
+ {
+  "Type": "1304",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 4,
+  "BubblePrice": 4
+ },
+ {
+  "Type": "1305",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 7,
+  "BubblePrice": 7
+ },
+ {
+  "Type": "1306",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 14,
+  "BubblePrice": 14
+ },
+ {
+  "Type": "1307",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   4,
+   5
+  ],
+  "Price": 26,
+  "BubblePrice": 26,
+  "BubblePriceSale": 18
+ },
+ {
+  "Type": "1308",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   6
+  ],
+  "Price": 50,
+  "BubblePrice": 50,
+  "BubblePriceSale": 30
+ },
+ {
+  "Type": "1309",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   6
+  ],
+  "Price": 94,
+  "BubblePrice": 94,
+  "BubblePriceSale": 55
+ },
+ {
+  "Type": "1310",
+  "ShopWeight": 0,
+  "ShopCount": 5,
+  "Price": 180,
+  "BubblePrice": 180,
+  "BubblePriceSale": 96
+ },
+ {
+  "Type": "1311",
+  "ShopWeight": 0,
+  "ShopCount": 5,
+  "Price": 342,
+  "BubblePrice": 342,
+  "BubblePriceSale": 196
+ },
+ {
+  "Type": "1401",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 4,
+  "BubblePrice": 4,
+  "BubblePriceSale": 2
+ },
+ {
+  "Type": "1402",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 8,
+  "BubblePrice": 8,
+  "BubblePriceSale": 4
+ },
+ {
+  "Type": "1403",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 15,
+  "BubblePrice": 15,
+  "BubblePriceSale": 8
+ },
+ {
+  "Type": "1404",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   4,
+   5
+  ],
+  "Price": 29,
+  "BubblePrice": 29,
+  "BubblePriceSale": 15
+ },
+ {
+  "Type": "1405",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   4,
+   5
+  ],
+  "Price": 55,
+  "BubblePrice": 55,
+  "BubblePriceSale": 28
+ },
+ {
+  "Type": "1406",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   6
+  ],
+  "Price": 100,
+  "BubblePrice": 100,
+  "BubblePriceSale": 45
+ },
+ {
+  "Type": "1407",
+  "ShopWeight": 0,
+  "ShopCount": 5,
+  "Price": 200,
+  "BubblePrice": 200,
+  "BubblePriceSale": 67
+ },
+ {
+  "Type": "1501",
+  "ShopWeight": 0,
+  "ShopCount": 1,
+  "RareItem": 1,
+  "CustomChain": "0",
+  "Price": 60,
+  "BubblePrice": 60
+ },
+ {
+  "Type": "1602",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 5,
+  "BubblePrice": 5,
+  "IsSpecial": 1
+ },
+ {
+  "Type": "1603",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 10,
+  "BubblePrice": 10
+ },
+ {
+  "Type": "1604",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 19,
+  "BubblePrice": 19
+ },
+ {
+  "Type": "1605",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   4,
+   5
+  ],
+  "Price": 36,
+  "BubblePrice": 36
+ },
+ {
+  "Type": "1606",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   6
+  ],
+  "Price": 69,
+  "BubblePrice": 69
+ },
+ {
+  "Type": "1607",
+  "ShopWeight": 0,
+  "ShopCount": 5,
+  "Price": 130,
+  "BubblePrice": 130
+ },
+ {
+  "Type": "1608",
+  "ShopWeight": 0,
+  "ShopCount": 5,
+  "Price": 250,
+  "BubblePrice": 250
+ },
+ {
+  "Type": "1609",
+  "ShopWeight": 0,
+  "ShopCount": 5,
+  "Price": 470,
+  "BubblePrice": 470
+ },
+ {
+  "Type": "1701",
+  "ShopWeight": 100,
+  "ShopCount": 1,
+  "RareItem": 1,
+  "Slot": [
+   6
+  ],
+  "CustomChain": "0",
+  "Price": 45,
+  "BubblePrice": 45
+ },
+ {
+  "Type": "1801",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 1,
+  "BubblePrice": 1
+ },
+ {
+  "Type": "1802",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 3,
+  "BubblePrice": 3
+ },
+ {
+  "Type": "1803",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 6,
+  "BubblePrice": 6
+ },
+ {
+  "Type": "1804",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 11,
+  "BubblePrice": 11
+ },
+ {
+  "Type": "1805",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   4,
+   5
+  ],
+  "Price": 21,
+  "BubblePrice": 21
+ },
+ {
+  "Type": "1806",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   4,
+   5
+  ],
+  "Price": 39,
+  "BubblePrice": 39,
+  "BubblePriceSale": 23
+ },
+ {
+  "Type": "1807",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   4,
+   5
+  ],
+  "Price": 74,
+  "BubblePrice": 74,
+  "BubblePriceSale": 31
+ },
+ {
+  "Type": "1808",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   4,
+   5
+  ],
+  "Price": 140,
+  "BubblePrice": 140,
+  "BubblePriceSale": 39
+ },
+ {
+  "Type": "1809",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   6
+  ],
+  "Price": 270,
+  "BubblePrice": 270,
+  "BubblePriceSale": 75
+ },
+ {
+  "Type": "1810",
+  "ShopWeight": 0,
+  "ShopCount": 5,
+  "Price": 510,
+  "BubblePrice": 510,
+  "BubblePriceSale": 146
+ },
+ {
+  "Type": "1811",
+  "ShopWeight": 0,
+  "ShopCount": 5,
+  "Price": 970,
+  "BubblePrice": 970,
+  "BubblePriceSale": 285
+ },
+ {
+  "Type": "1812",
+  "ShopWeight": 0,
+  "ShopCount": 5,
+  "Price": 1840,
+  "BubblePrice": 1840,
+  "BubblePriceSale": 558
+ },
+ {
+  "Type": "1901",
+  "ShopWeight": 0,
+  "ShopCount": 1,
+  "RareItem": 1,
+  "CustomChain": "0",
+  "Price": 60,
+  "BubblePrice": 60
+ },
+ {
+  "Type": "2002",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 7,
+  "BubblePrice": 7,
+  "IsSpecial": 1
+ },
+ {
+  "Type": "2003",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 14,
+  "BubblePrice": 14
+ },
+ {
+  "Type": "2004",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 27,
+  "BubblePrice": 27
+ },
+ {
+  "Type": "2005",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   4,
+   5
+  ],
+  "Price": 51,
+  "BubblePrice": 51
+ },
+ {
+  "Type": "2006",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   6
+  ],
+  "Price": 96,
+  "BubblePrice": 96
+ },
+ {
+  "Type": "2007",
+  "ShopWeight": 0,
+  "ShopCount": 5,
+  "Price": 180,
+  "BubblePrice": 180
+ },
+ {
+  "Type": "2008",
+  "ShopWeight": 0,
+  "ShopCount": 5,
+  "Price": 350,
+  "BubblePrice": 350
+ },
+ {
+  "Type": "2009",
+  "ShopWeight": 0,
+  "ShopCount": 5,
+  "Price": 600,
+  "BubblePrice": 600
+ },
+ {
+  "Type": "8304",
+  "ShopWeight": 0,
+  "ShopCount": 1,
+  "Price": 24,
+  "BubblePrice": 24
+ },
+ {
+  "Type": "8305",
+  "ShopWeight": 0,
+  "ShopCount": 1,
+  "Price": 46,
+  "BubblePrice": 46
+ },
+ {
+  "Type": "8306",
+  "ShopWeight": 0,
+  "ShopCount": 1,
+  "Price": 88,
+  "BubblePrice": 88
+ },
+ {
+  "Type": "8307",
+  "ShopWeight": 0,
+  "ShopCount": 1,
+  "Price": 168,
+  "BubblePrice": 168
+ },
+ {
+  "Type": "8308",
+  "ShopWeight": 0,
+  "ShopCount": 1,
+  "Price": 320,
+  "BubblePrice": 320
+ },
+ {
+  "Type": "8309",
+  "ShopWeight": 0,
+  "ShopCount": 1,
+  "Price": 540,
+  "BubblePrice": 540
+ },
+ {
+  "Type": "8310",
+  "ShopWeight": 0,
+  "ShopCount": 1,
+  "Price": 1104,
+  "BubblePrice": 1104
+ },
+ {
+  "Type": "8311",
+  "ShopWeight": 0,
+  "ShopCount": 1,
+  "Price": 2006,
+  "BubblePrice": 2006
+ },
+ {
+  "Type": "8312",
+  "ShopWeight": 0,
+  "ShopCount": 1,
+  "Price": 3564,
+  "BubblePrice": 3564
+ },
+ {
+  "Type": "sp3_2_2",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 7,
+  "BubblePrice": 7,
+  "IsSpecial": 1
+ },
+ {
+  "Type": "sp3_2_3",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 14,
+  "BubblePrice": 14
+ },
+ {
+  "Type": "sp3_2_4",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 27,
+  "BubblePrice": 27
+ },
+ {
+  "Type": "sp3_2_5",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   4,
+   5
+  ],
+  "Price": 51,
+  "BubblePrice": 51
+ },
+ {
+  "Type": "sp3_2_6",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   6
+  ],
+  "Price": 96,
+  "BubblePrice": 96
+ },
+ {
+  "Type": "sp3_2_7",
+  "ShopWeight": 0,
+  "ShopCount": 5,
+  "Price": 180,
+  "BubblePrice": 180
+ },
+ {
+  "Type": "sp3_2_8",
+  "ShopWeight": 0,
+  "ShopCount": 5,
+  "Price": 350,
+  "BubblePrice": 350
+ },
+ {
+  "Type": "sp3_2_9",
+  "ShopWeight": 0,
+  "ShopCount": 5,
+  "Price": 600,
+  "BubblePrice": 600
+ },
+ {
+  "Type": "sp3_3_1",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 27,
+  "BubblePrice": 27,
+  "IsSpecial": 1
+ },
+ {
+  "Type": "sp3_3_2",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   4,
+   5
+  ],
+  "Price": 51,
+  "BubblePrice": 51
+ },
+ {
+  "Type": "sp3_3_3",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   6
+  ],
+  "Price": 96,
+  "BubblePrice": 96
+ },
+ {
+  "Type": "sp3_3_4",
+  "ShopWeight": 0,
+  "ShopCount": 5,
+  "Price": 180,
+  "BubblePrice": 180
+ },
+ {
+  "Type": "sp3_3_5",
+  "ShopWeight": 0,
+  "ShopCount": 5,
+  "Price": 350,
+  "BubblePrice": 350
+ },
+ {
+  "Type": "sp4_2_2",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 10,
+  "BubblePrice": 10,
+  "IsSpecial": 1
+ },
+ {
+  "Type": "sp4_2_3",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 19,
+  "BubblePrice": 19
+ },
+ {
+  "Type": "sp4_2_4",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 36,
+  "BubblePrice": 36
+ },
+ {
+  "Type": "sp4_3_2",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 12,
+  "BubblePrice": 12
+ },
+ {
+  "Type": "sp4_3_3",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 23,
+  "BubblePrice": 23
+ },
+ {
+  "Type": "sp4_3_4",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 43,
+  "BubblePrice": 43
+ },
+ {
+  "Type": "sp4_3_5",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   4,
+   5
+  ],
+  "Price": 82,
+  "BubblePrice": 82
+ },
+ {
+  "Type": "sp4_3_6",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   6
+  ],
+  "Price": 160,
+  "BubblePrice": 160
+ },
+ {
+  "Type": "sp4_3_7",
+  "ShopWeight": 100,
+  "ShopCount": 1,
+  "Price": 300,
+  "BubblePrice": 300
+ },
+ {
+  "Type": "sp4_3_8",
+  "ShopWeight": 100,
+  "ShopCount": 1,
+  "Price": 560,
+  "BubblePrice": 560
+ },
+ {
+  "Type": "sp4_3_9",
+  "ShopWeight": 100,
+  "ShopCount": 1,
+  "Price": 1070,
+  "BubblePrice": 1070
+ },
+ {
+  "Type": "sp5_2_2",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 10,
+  "BubblePrice": 10,
+  "IsSpecial": 1
+ },
+ {
+  "Type": "sp5_2_3",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 19,
+  "BubblePrice": 19
+ },
+ {
+  "Type": "sp5_2_4",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 36,
+  "BubblePrice": 36
+ },
+ {
+  "Type": "sp5_2_5",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   4,
+   5
+  ],
+  "Price": 69,
+  "BubblePrice": 69
+ },
+ {
+  "Type": "sp5_2_6",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   6
+  ],
+  "Price": 130,
+  "BubblePrice": 130
+ },
+ {
+  "Type": "sp5_2_7",
+  "ShopWeight": 100,
+  "ShopCount": 1,
+  "Price": 250,
+  "BubblePrice": 250
+ },
+ {
+  "Type": "sp5_2_8",
+  "ShopWeight": 100,
+  "ShopCount": 1,
+  "Price": 470,
+  "BubblePrice": 470
+ },
+ {
+  "Type": "sp5_2_9",
+  "ShopWeight": 100,
+  "ShopCount": 1,
+  "Price": 890,
+  "BubblePrice": 890
+ },
+ {
+  "Type": "sp6_2_2",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 10,
+  "BubblePrice": 10,
+  "IsSpecial": 1
+ },
+ {
+  "Type": "sp6_2_3",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 19,
+  "BubblePrice": 19
+ },
+ {
+  "Type": "sp6_2_4",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 36,
+  "BubblePrice": 36
+ },
+ {
+  "Type": "sp6_2_5",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   4,
+   5
+  ],
+  "Price": 69,
+  "BubblePrice": 69
+ },
+ {
+  "Type": "sp6_2_6",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   6
+  ],
+  "Price": 130,
+  "BubblePrice": 130
+ },
+ {
+  "Type": "sp6_2_7",
+  "ShopWeight": 100,
+  "ShopCount": 1,
+  "Price": 250,
+  "BubblePrice": 250
+ },
+ {
+  "Type": "sp6_2_8",
+  "ShopWeight": 100,
+  "ShopCount": 1,
+  "Price": 470,
+  "BubblePrice": 470
+ },
+ {
+  "Type": "sp6_2_9",
+  "ShopWeight": 100,
+  "ShopCount": 1,
+  "Price": 890,
+  "BubblePrice": 890
+ },
+ {
+  "Type": "speed_bubble_1",
+  "ShopWeight": 0,
+  "ShopCount": 1,
+  "Price": 9,
+  "BubblePrice": 9
+ },
+ {
+  "Type": "main_g_artifact_1",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 2,
+  "BubblePrice": 2,
+  "BubblePriceSale": 1
+ },
+ {
+  "Type": "main_g_artifact_2",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 4,
+  "BubblePrice": 4,
+  "BubblePriceSale": 2
+ },
+ {
+  "Type": "main_g_artifact_3",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   1,
+   2,
+   3
+  ],
+  "Price": 8,
+  "BubblePrice": 8,
+  "BubblePriceSale": 4
+ },
+ {
+  "Type": "main_g_artifact_4",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   4,
+   5
+  ],
+  "Price": 15,
+  "BubblePrice": 15,
+  "BubblePriceSale": 8
+ },
+ {
+  "Type": "main_g_artifact_5",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   4,
+   5
+  ],
+  "Price": 27,
+  "BubblePrice": 27,
+  "BubblePriceSale": 15
+ },
+ {
+  "Type": "main_g_artifact_6",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   6
+  ],
+  "Price": 48,
+  "BubblePrice": 48,
+  "BubblePriceSale": 28
+ },
+ {
+  "Type": "main_g_artifact_7",
+  "ShopWeight": 100,
+  "ShopCount": 5,
+  "Slot": [
+   6
+  ],
+  "Price": 92,
+  "BubblePrice": 92,
+  "BubblePriceSale": 45
+ },
+ {
+  "Type": "main_g_artifact_8",
+  "ShopWeight": 0,
+  "ShopCount": 5,
+  "Price": 178,
+  "BubblePrice": 178,
+  "BubblePriceSale": 67
+ }
+]

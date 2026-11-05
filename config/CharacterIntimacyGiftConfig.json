@@ -1,0 +1,38 @@
+[
+ {
+  "Id": 1,
+  "Type": "flower",
+  "Intimacy": 8,
+  "Coin": 40,
+  "CoinIncreasementNum": 4,
+  "CoinIncreasementCost": 20,
+  "Gem": 10
+ },
+ {
+  "Id": 2,
+  "Type": "chocolate",
+  "Intimacy": 10,
+  "Coin": 50,
+  "CoinIncreasementNum": 4,
+  "CoinIncreasementCost": 25,
+  "Gem": 12
+ },
+ {
+  "Id": 3,
+  "Type": "book",
+  "Intimacy": 10,
+  "Coin": 50,
+  "CoinIncreasementNum": 4,
+  "CoinIncreasementCost": 25,
+  "Gem": 12
+ },
+ {
+  "Id": 4,
+  "Type": "watch",
+  "Intimacy": 12,
+  "Coin": 60,
+  "CoinIncreasementNum": 4,
+  "CoinIncreasementCost": 30,
+  "Gem": 15
+ }
+]

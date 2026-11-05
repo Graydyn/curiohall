@@ -1,0 +1,15 @@
+[
+ {
+  "id": "starter_bundle_1",
+  "type": "StarterBundle",
+  "goods": [
+   "gem-510",
+   "energy-200",
+   "3601-2"
+  ],
+  "purchaseId": "starter_bundle_1",
+  "condition": "Level-3",
+  "buyCount": 1,
+  "lastDuration": 172800
+ }
+]

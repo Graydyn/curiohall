@@ -1,0 +1,59 @@
+[
+ {
+  "id": 1,
+  "itemCode": "level_down_piece_1",
+  "leftCount": 1,
+  "weight": 2,
+  "costType": "gem",
+  "costCount": 30
+ },
+ {
+  "id": 1,
+  "itemCode": "level_up_piece_1",
+  "leftCount": 1,
+  "weight": 4,
+  "costType": "gem",
+  "costCount": 150
+ },
+ {
+  "id": 1,
+  "itemCode": "pack_common_3",
+  "leftCount": 1,
+  "weight": 1,
+  "costType": "gem",
+  "costCount": 50
+ },
+ {
+  "id": 1,
+  "itemCode": "pack_common_4",
+  "leftCount": 1,
+  "weight": 1,
+  "costType": "gem",
+  "costCount": 100
+ },
+ {
+  "id": 1,
+  "itemCode": "pack_common_5",
+  "leftCount": 1,
+  "weight": 1,
+  "costType": "gem",
+  "costCount": 200
+ },
+ {
+  "id": 2,
+  "itemCode": "2901",
+  "leftCount": 1,
+  "weight": 1,
+  "costType": "gem",
+  "costCount": 10,
+  "ad": 1
+ },
+ {
+  "id": 3,
+  "itemCode": "ShopNewChest_1",
+  "leftCount": 1,
+  "weight": 1,
+  "costType": "gem",
+  "costCount": 0
+ }
+]

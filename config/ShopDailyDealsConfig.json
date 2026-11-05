@@ -1,0 +1,27 @@
+[
+ {
+  "id": 1,
+  "itemCode": "3101",
+  "leftCount": 1,
+  "weight": 1,
+  "costType": "gem",
+  "costCount": 25
+ },
+ {
+  "id": 2,
+  "itemCode": "2901",
+  "leftCount": 1,
+  "weight": 1,
+  "costType": "gem",
+  "costCount": 10,
+  "ad": 1
+ },
+ {
+  "id": 3,
+  "itemCode": "ShopNewChest_1",
+  "leftCount": 1,
+  "weight": 1,
+  "costType": "gem",
+  "costCount": 0
+ }
+]

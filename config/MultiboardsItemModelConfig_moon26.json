@@ -1,0 +1,323 @@
+[
+ {
+  "Type": "mtb_moon26_tar_1",
+  "MergedType": "mtb_moon26_tar_2"
+ },
+ {
+  "Type": "mtb_moon26_tar_2",
+  "MergedType": "mtb_moon26_tar_3",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "mtb_moon26_tar_3",
+  "MergedType": "mtb_moon26_tar_4",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "mtb_moon26_tar_4",
+  "MergedType": "mtb_moon26_tar_5",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "mtb_moon26_tar_5",
+  "MergedType": "mtb_moon26_tar_6",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_gold_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "mtb_moon26_tar_6",
+  "MergedType": "mtb_moon26_tar_7",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_gold_2-1",
+   "main_super_energy_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 2,
+  "Spread_StorageMaxNumber": 2,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "mtb_moon26_tar_7",
+  "MergedType": "mtb_moon26_tar_8",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_gold_2-1",
+   "main_super_gold_1-1",
+   "main_super_energy_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "mtb_moon26_tar_8",
+  "MergedType": "mtb_moon26_tar_9",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_gold_2-1",
+   "main_super_energy_2-1",
+   "mtb_moon26_byprod_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "mtb_moon26_tar_9",
+  "MergedType": "mtb_moon26_tar_10",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_gold_2-1",
+   "main_super_energy_2-1",
+   "main_super_gem_1-1",
+   "mtb_moon26_byprod_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 4,
+  "Spread_StorageMaxNumber": 4,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "mtb_moon26_tar_10",
+  "MergedType": "mtb_moon26_tar_11",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_gold_2-1",
+   "main_super_gold_1-1",
+   "main_super_energy_2-2",
+   "main_super_gem_2-1",
+   "mtb_moon26_byprod_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 6,
+  "Spread_StorageMaxNumber": 6,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "mtb_moon26_tar_11",
+  "MergedType": "mtb_moon26_tar_12",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_gold_2-2",
+   "main_super_energy_2-1",
+   "main_super_energy_3-1",
+   "main_super_gem_2-1",
+   "main_super_gem_1-1",
+   "mtb_moon26_byprod_1-2",
+   "main_level_up_piece_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 9,
+  "Spread_StorageMaxNumber": 9,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "mtb_moon26_tar_12",
+  "MergedType": "mtb_moon26_tar_13",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_gold_3-1",
+   "main_super_gold_2-1",
+   "main_super_energy_2-1",
+   "main_super_energy_3-1",
+   "main_super_gem_2-2",
+   "mtb_moon26_byprod_1-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 8,
+  "Spread_StorageMaxNumber": 8,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "mtb_moon26_tar_13",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "main_super_gold_3-3",
+   "main_super_gold_4-3",
+   "main_super_energy_4-4",
+   "main_super_energy_3-2",
+   "main_super_gem_3-3",
+   "main_super_gem_2-3",
+   "mtb_moon26_byprod_1-2",
+   "mtb_moon26_webchest_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 21,
+  "Spread_StorageMaxNumber": 21,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "mtb_moon26_byprod_1",
+  "MergedType": "mtb_moon26_byprod_2"
+ },
+ {
+  "Type": "mtb_moon26_byprod_2",
+  "MergedType": "mtb_moon26_byprod_3",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "mtb_moon26_byprod_3",
+  "MergedType": "mtb_moon26_byprod_4",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "mtb_moon26_letter_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "mtb_moon26_byprod_4",
+  "MergedType": "mtb_moon26_byprod_5",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "mtb_moon26_byprod_5",
+  "MergedType": "mtb_moon26_byprod_6",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_energy_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "mtb_moon26_byprod_6",
+  "MergedType": "mtb_moon26_byprod_7",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_energy_2-1",
+   "main_super_gold_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 2,
+  "Spread_StorageMaxNumber": 2,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "mtb_moon26_byprod_7",
+  "MergedType": "mtb_moon26_byprod_8",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "rb#truckbox_1-1",
+   "main_super_energy_2-1",
+   "main_super_gem_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "mtb_moon26_byprod_8",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "rb#truckbox_1-1",
+   "rb#level_down_piece_1-1",
+   "main_super_gem_3-4",
+   "main_super_energy_4-2",
+   "main_super_energy_3-4",
+   "main_super_gold_4-4"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 16,
+  "Spread_StorageMaxNumber": 16,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "mtb_moon26_portal_1",
+  "Portal": 1
+ },
+ {
+  "Type": "mtb_moon26_goldchest_1",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "main_super_gold_2-6"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 6,
+  "Spread_StorageMaxNumber": 6,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "mtb_moon26_energychest_1",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "main_super_energy_2-6"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 6,
+  "Spread_StorageMaxNumber": 6,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "mtb_moon26_letter_1",
+  "MergedType": "mtb_moon26_letter_2"
+ },
+ {
+  "Type": "mtb_moon26_letter_2",
+  "MergedType": "mtb_moon26_letter_3"
+ },
+ {
+  "Type": "mtb_moon26_letter_3",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "main_pack_laser_5_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "mtb_moon26_letter_box_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "mtb_moon26_letter_1-5"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 5,
+  "Spread_StorageMaxNumber": 5,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "mtb_moon26_webchest_1",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "c#mtb_moon26_tar_9-4"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 4,
+  "Spread_StorageMaxNumber": 4,
+  "Spread_CostEnergy": 0
+ }
+]

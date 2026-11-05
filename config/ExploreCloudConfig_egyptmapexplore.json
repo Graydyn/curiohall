@@ -1,0 +1,252 @@
+[
+ {
+  "id": "cloud_1",
+  "unlockSlot": "m_6",
+  "prefabName": "cloud_simple"
+ },
+ {
+  "id": "cloud_2",
+  "unlockSlot": "m_11",
+  "prefabName": "cloud_simple"
+ },
+ {
+  "id": "cloud_3",
+  "unlockSlot": "m_12",
+  "prefabName": "cloud_simple"
+ },
+ {
+  "id": "cloud_4",
+  "unlockSlot": "m_17",
+  "prefabName": "cloud_simple"
+ },
+ {
+  "id": "cloud_5",
+  "unlockSlot": "m_26",
+  "prefabName": "cloud_simple"
+ },
+ {
+  "id": "cloud_6",
+  "unlockSlot": "m_28",
+  "prefabName": "cloud_simple"
+ },
+ {
+  "id": "cloud_7",
+  "unlockSlot": "m_33",
+  "prefabName": "cloud_simple"
+ },
+ {
+  "id": "cloud_8",
+  "unlockSlot": "m_37",
+  "prefabName": "cloud_simple"
+ },
+ {
+  "id": "cloud_10",
+  "unlockSlot": "m_41",
+  "prefabName": "cloud_simple"
+ },
+ {
+  "id": "cloud_11",
+  "unlockSlot": "m_50",
+  "prefabName": "cloud_simple"
+ },
+ {
+  "id": "cloud_13",
+  "unlockSlot": "t1_1",
+  "prefabName": "cloud_simple"
+ },
+ {
+  "id": "cloud_56",
+  "unlockSlot": "t1_4",
+  "prefabName": "cloud_simple"
+ },
+ {
+  "id": "cloud_14",
+  "unlockSlot": "m_51",
+  "prefabName": "cloud_simple"
+ },
+ {
+  "id": "cloud_15",
+  "unlockSlot": "m_58",
+  "prefabName": "cloud_simple"
+ },
+ {
+  "id": "cloud_16",
+  "unlockSlot": "m_63",
+  "prefabName": "cloud_simple"
+ },
+ {
+  "id": "cloud_17",
+  "unlockSlot": "m_70",
+  "prefabName": "cloud_simple"
+ },
+ {
+  "id": "cloud_18",
+  "unlockSlot": "m_78",
+  "prefabName": "cloud_simple"
+ },
+ {
+  "id": "cloud_19",
+  "unlockSlot": "m_85",
+  "prefabName": "cloud_simple"
+ },
+ {
+  "id": "cloud_20",
+  "unlockSlot": "t2_1",
+  "prefabName": "cloud_simple"
+ },
+ {
+  "id": "cloud_21",
+  "unlockSlot": "t2#1_1",
+  "prefabName": "cloud_simple"
+ },
+ {
+  "id": "cloud_22",
+  "unlockSlot": "t2#2_2",
+  "prefabName": "cloud_simple"
+ },
+ {
+  "id": "cloud_24",
+  "unlockSlot": "m_86",
+  "prefabName": "cloud_simple"
+ },
+ {
+  "id": "cloud_25",
+  "unlockSlot": "m_89",
+  "prefabName": "cloud_simple"
+ },
+ {
+  "id": "cloud_26",
+  "unlockSlot": "s3_1",
+  "prefabName": "cloud_simple"
+ },
+ {
+  "id": "cloud_52",
+  "unlockSlot": "s3_6",
+  "prefabName": "cloud_simple"
+ },
+ {
+  "id": "cloud_27",
+  "unlockSlot": "m_93",
+  "prefabName": "cloud_simple"
+ },
+ {
+  "id": "cloud_28",
+  "unlockSlot": "m_98",
+  "prefabName": "cloud_simple"
+ },
+ {
+  "id": "cloud_29",
+  "unlockSlot": "m_104",
+  "prefabName": "cloud_simple"
+ },
+ {
+  "id": "cloud_30",
+  "unlockSlot": "t3_1",
+  "prefabName": "cloud_simple"
+ },
+ {
+  "id": "cloud_31",
+  "unlockSlot": "m_105",
+  "prefabName": "cloud_simple"
+ },
+ {
+  "id": "cloud_32",
+  "unlockSlot": "m_108",
+  "prefabName": "cloud_simple"
+ },
+ {
+  "id": "cloud_33",
+  "unlockSlot": "m_114",
+  "prefabName": "cloud_simple"
+ },
+ {
+  "id": "cloud_57",
+  "unlockSlot": "s6_1",
+  "prefabName": "cloud_simple"
+ },
+ {
+  "id": "cloud_34",
+  "unlockSlot": "m_121",
+  "prefabName": "cloud_simple"
+ },
+ {
+  "id": "cloud_36",
+  "unlockSlot": "m_128",
+  "prefabName": "cloud_simple"
+ },
+ {
+  "id": "cloud_54",
+  "unlockSlot": "m_133",
+  "prefabName": "cloud_simple"
+ },
+ {
+  "id": "cloud_37",
+  "unlockSlot": "s2_1",
+  "prefabName": "cloud_simple"
+ },
+ {
+  "id": "cloud_38",
+  "unlockSlot": "s2_4",
+  "prefabName": "cloud_simple"
+ },
+ {
+  "id": "cloud_39",
+  "unlockSlot": "s1_1",
+  "prefabName": "cloud_simple"
+ },
+ {
+  "id": "cloud_40",
+  "unlockSlot": "s1_11",
+  "prefabName": "cloud_simple"
+ },
+ {
+  "id": "cloud_41",
+  "unlockSlot": "s1#1_1",
+  "prefabName": "cloud_simple"
+ },
+ {
+  "id": "cloud_44",
+  "unlockSlot": "t4_1",
+  "prefabName": "cloud_simple"
+ },
+ {
+  "id": "cloud_45",
+  "unlockSlot": "s7_1",
+  "prefabName": "cloud_simple"
+ },
+ {
+  "id": "cloud_46",
+  "unlockSlot": "s5_1",
+  "prefabName": "cloud_simple"
+ },
+ {
+  "id": "cloud_47",
+  "unlockSlot": "s5_9",
+  "prefabName": "cloud_simple"
+ },
+ {
+  "id": "cloud_48",
+  "unlockSlot": "s5_14",
+  "prefabName": "cloud_simple"
+ },
+ {
+  "id": "cloud_49",
+  "unlockSlot": "s5#1_1",
+  "prefabName": "cloud_simple"
+ },
+ {
+  "id": "cloud_50",
+  "unlockSlot": "s5#2_1",
+  "prefabName": "cloud_simple"
+ },
+ {
+  "id": "cloud_51",
+  "unlockSlot": "s5#2_4",
+  "prefabName": "cloud_simple"
+ },
+ {
+  "id": "cloud_55",
+  "unlockSlot": "s5#2#1_1",
+  "prefabName": "cloud_simple"
+ }
+]

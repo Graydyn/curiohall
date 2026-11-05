@@ -1,0 +1,3803 @@
+[
+ {
+  "Type": "break_shopping_feed_1",
+  "MergedType": "break_shopping_feed_2"
+ },
+ {
+  "Type": "break_shopping_feed_2",
+  "MergedType": "break_shopping_feed_3",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "break_shopping_feed_3",
+  "MergedType": "break_shopping_feed_4",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "break_shopping_feed_4",
+  "MergedType": "break_shopping_feed_5",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "break_shopping_feed_5",
+  "MergedType": "break_shopping_feed_6",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "break_shopping_feed_6",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "break_shopping_tar_1",
+  "MergedType": "break_shopping_tar_2"
+ },
+ {
+  "Type": "break_shopping_tar_2",
+  "MergedType": "break_shopping_tar_3",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "break_shopping_tar_3",
+  "MergedType": "break_shopping_tar_4",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "break_shopping_tar_4",
+  "MergedType": "break_shopping_tar_5",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "break_shopping_tar_5",
+  "MergedType": "break_shopping_tar_6",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "break_shopping_tar_6",
+  "CollectRewards": [
+   "ShoppingBreakScore-1"
+  ],
+  "BubbleChance": 0
+ },
+ {
+  "Type": "break_shopping_item1_1",
+  "MergedType": "break_shopping_item1_2"
+ },
+ {
+  "Type": "break_shopping_item1_2",
+  "MergedType": "break_shopping_item1_3",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "break_shopping_item1_3",
+  "MergedType": "break_shopping_item1_4",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "break_shopping_item1_4",
+  "MergedType": "break_shopping_item1_5",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "break_shopping_item1_5",
+  "MergedType": "break_shopping_item1_6",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "break_shopping_item1_6",
+  "MergedType": "break_shopping_item1_7",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "break_shopping_item1_7",
+  "MergedType": "break_shopping_item1_8",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "break_shopping_item1_8",
+  "MergedType": "break_shopping_item1_9",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "break_shopping_item1_9",
+  "MergedType": "break_shopping_item1_10",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "break_shopping_item1_10",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2403-4",
+   "2502-4",
+   "2603-4"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 12,
+  "Spread_StorageMaxNumber": 12,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "break_shopping_item2_1",
+  "MergedType": "break_shopping_item2_2"
+ },
+ {
+  "Type": "break_shopping_item2_2",
+  "MergedType": "break_shopping_item2_3",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "break_shopping_item2_3",
+  "MergedType": "break_shopping_item2_4",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "break_shopping_item2_4",
+  "MergedType": "break_shopping_item2_5",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "break_shopping_item2_5",
+  "MergedType": "break_shopping_item2_6",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "break_shopping_item2_6",
+  "MergedType": "break_shopping_item2_7",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "break_shopping_item2_7",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2402-4",
+   "2501-4",
+   "2602-4"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 12,
+  "Spread_StorageMaxNumber": 12,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "break_shopping_item3_1",
+  "MergedType": "break_shopping_item3_2"
+ },
+ {
+  "Type": "break_shopping_item3_2",
+  "MergedType": "break_shopping_item3_3",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "break_shopping_item3_3",
+  "MergedType": "break_shopping_item3_4",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "break_shopping_item3_4",
+  "MergedType": "break_shopping_item3_5",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "break_shopping_item3_5",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2401-4",
+   "2501-2",
+   "2601-4"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 10,
+  "Spread_StorageMaxNumber": 10,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "break_shopping_box1_1",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "break_shopping_tar_1-2",
+   "break_shopping_tar_3-1",
+   "2501-2",
+   "2402-4",
+   "2602-4"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 13,
+  "Spread_StorageMaxNumber": 13,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "break_shopping_box2_1",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "break_shopping_item1_4-4",
+   "break_shopping_item1_1-3",
+   "2403-6"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 13,
+  "Spread_StorageMaxNumber": 13,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "break_shopping_1_swa_e1_1",
+  "BubbleChance": 0,
+  "Transform_Weight": [
+   "break_shopping_1_swa_f1_1-1"
+  ],
+  "Swallow_AllowTap": 1,
+  "Swallow_Weight1": [
+   "break_shopping_feed_6-10"
+  ],
+  "Swallow_Number1": 1,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_1_swa_f1_1",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_1_gift_b20_111-1",
+   "break_shopping_1_gift_m1_111-1",
+   "break_shopping_1_gift_m6_111-1",
+   "break_shopping_1_gift_s2_111-3",
+   "break_shopping_feed_5-1",
+   "break_shopping_feed_4-1",
+   "break_shopping_feed_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 9,
+  "Transform_Weight": [
+   "break_shopping_1_swa_e2_1-1"
+  ],
+  "Spread_ItemMaxNumber": 9,
+  "Spread_StorageMaxNumber": 9,
+  "Spread_CostEnergy": 0,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_1_swa_e2_1",
+  "BubbleChance": 0,
+  "Transform_Weight": [
+   "break_shopping_1_swa_f2_1-1"
+  ],
+  "Swallow_AllowTap": 1,
+  "Swallow_Weight1": [
+   "break_shopping_feed_6-10"
+  ],
+  "Swallow_Number1": 1,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_1_swa_f2_1",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_1_gift_b21_211-1",
+   "break_shopping_1_gift_m7_211-2",
+   "break_shopping_1_gift_m1_111-2",
+   "break_shopping_1_gift_s7_111-3",
+   "break_shopping_1_gift_s3_111-4",
+   "break_shopping_feed_5-1",
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 14,
+  "Transform_Weight": [
+   "break_shopping_1_swa_e3_1-1"
+  ],
+  "Spread_ItemMaxNumber": 14,
+  "Spread_StorageMaxNumber": 14,
+  "Spread_CostEnergy": 0,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_1_swa_e3_1",
+  "BubbleChance": 0,
+  "Transform_Weight": [
+   "break_shopping_1_swa_f3_1-1"
+  ],
+  "Swallow_AllowTap": 1,
+  "Swallow_Weight1": [
+   "break_shopping_feed_6-10"
+  ],
+  "Swallow_Number1": 1,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_1_swa_f3_1",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_1_gift_b22_311-1",
+   "break_shopping_1_gift_m7_211-3",
+   "break_shopping_1_gift_m3_211-4",
+   "break_shopping_1_gift_s7_111-3",
+   "break_shopping_1_gift_s8_111-4",
+   "break_shopping_feed_4-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 16,
+  "Transform_Weight": [
+   "break_shopping_1_swa_e4_1-1"
+  ],
+  "Spread_ItemMaxNumber": 16,
+  "Spread_StorageMaxNumber": 16,
+  "Spread_CostEnergy": 0,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_1_swa_e4_1",
+  "BubbleChance": 0,
+  "Transform_Weight": [
+   "break_shopping_1_swa_f4_1-1"
+  ],
+  "Swallow_AllowTap": 1,
+  "Swallow_Weight1": [
+   "break_shopping_feed_6-10"
+  ],
+  "Swallow_Number1": 1,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_1_swa_f4_1",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_1_gift_b24_311-1",
+   "break_shopping_1_gift_m7_211-2",
+   "break_shopping_1_gift_m1_111-2",
+   "break_shopping_1_gift_s7_111-5",
+   "break_shopping_1_gift_s3_111-3",
+   "break_shopping_feed_4-1",
+   "break_shopping_feed_3-1",
+   "break_shopping_feed_2-1",
+   "break_shopping_feed_1-1",
+   "break_shopping_box1_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 18,
+  "Transform_Weight": [
+   "break_shopping_1_swa_e5_1-1"
+  ],
+  "Spread_ItemMaxNumber": 18,
+  "Spread_StorageMaxNumber": 18,
+  "Spread_CostEnergy": 0,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_1_swa_e5_1",
+  "BubbleChance": 0,
+  "Transform_Weight": [
+   "break_shopping_1_swa_f5_1-1"
+  ],
+  "Swallow_AllowTap": 1,
+  "Swallow_Weight1": [
+   "break_shopping_feed_6-10"
+  ],
+  "Swallow_Number1": 1,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_1_swa_f5_1",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_1_gift_b25_311-2",
+   "break_shopping_1_gift_m7_211-3",
+   "break_shopping_1_gift_m3_211-5",
+   "break_shopping_1_gift_s7_111-8",
+   "break_shopping_feed_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 19,
+  "Transform_Weight": [
+   "break_shopping_1_swa_e6_1-1"
+  ],
+  "Spread_ItemMaxNumber": 19,
+  "Spread_StorageMaxNumber": 19,
+  "Spread_CostEnergy": 0,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_1_swa_e6_1",
+  "BubbleChance": 0,
+  "Transform_Weight": [
+   "break_shopping_1_swa_f6_1-1"
+  ],
+  "Swallow_AllowTap": 1,
+  "Swallow_Weight1": [
+   "break_shopping_feed_6-10"
+  ],
+  "Swallow_Number1": 1,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_1_swa_f6_1",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_1_gift_b22_311-1",
+   "break_shopping_1_gift_m7_211-1",
+   "break_shopping_1_gift_m1_111-1",
+   "break_shopping_1_gift_m17_111-2",
+   "break_shopping_1_gift_s7_111-3",
+   "break_shopping_1_gift_s8_111-4",
+   "break_shopping_feed_5-1",
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 14,
+  "Transform_Weight": [
+   "break_shopping_1_swa_e7_1-1"
+  ],
+  "Spread_ItemMaxNumber": 14,
+  "Spread_StorageMaxNumber": 14,
+  "Spread_CostEnergy": 0,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_1_swa_e7_1",
+  "BubbleChance": 0,
+  "Transform_Weight": [
+   "break_shopping_1_swa_f7_1-1"
+  ],
+  "Swallow_AllowTap": 1,
+  "Swallow_Weight1": [
+   "break_shopping_feed_6-10"
+  ],
+  "Swallow_Number1": 1,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_1_swa_f7_1",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_1_gift_b24_311-1",
+   "break_shopping_1_gift_m10_211-3",
+   "break_shopping_1_gift_m3_211-5",
+   "break_shopping_1_gift_s7_111-7",
+   "break_shopping_feed_3-1",
+   "break_shopping_feed_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 18,
+  "Transform_Weight": [
+   "break_shopping_1_swa_e8_1-1"
+  ],
+  "Spread_ItemMaxNumber": 18,
+  "Spread_StorageMaxNumber": 18,
+  "Spread_CostEnergy": 0,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_1_swa_e8_1",
+  "BubbleChance": 0,
+  "Transform_Weight": [
+   "break_shopping_1_swa_f8_1-1"
+  ],
+  "Swallow_AllowTap": 1,
+  "Swallow_Weight1": [
+   "break_shopping_feed_6-10"
+  ],
+  "Swallow_Number1": 1,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_1_swa_f8_1",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_1_gift_b22_311-1",
+   "break_shopping_1_gift_m10_211-1",
+   "break_shopping_1_gift_m17_111-1",
+   "break_shopping_1_gift_m18_111-3",
+   "break_shopping_1_gift_s2_111-2",
+   "break_shopping_1_gift_s8_111-4",
+   "break_shopping_feed_5-1",
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 14,
+  "Transform_Weight": [
+   "break_shopping_1_swa_e9_1-1"
+  ],
+  "Spread_ItemMaxNumber": 14,
+  "Spread_StorageMaxNumber": 14,
+  "Spread_CostEnergy": 0,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_1_swa_e9_1",
+  "BubbleChance": 0,
+  "Transform_Weight": [
+   "break_shopping_1_swa_f9_1-1"
+  ],
+  "Swallow_AllowTap": 1,
+  "Swallow_Weight1": [
+   "break_shopping_feed_6-10"
+  ],
+  "Swallow_Number1": 1,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_1_swa_f9_1",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_1_gift_b25_311-2",
+   "break_shopping_1_gift_m12_211-4",
+   "break_shopping_1_gift_m9_211-5",
+   "break_shopping_1_gift_s7_111-6",
+   "break_shopping_feed_2-1",
+   "break_shopping_box1_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 19,
+  "Transform_Weight": [
+   "break_shopping_1_swa_e10_1-1"
+  ],
+  "Spread_ItemMaxNumber": 19,
+  "Spread_StorageMaxNumber": 19,
+  "Spread_CostEnergy": 0,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_1_swa_e10_1",
+  "BubbleChance": 0,
+  "Transform_Weight": [
+   "break_shopping_1_swa_f10_1-1"
+  ],
+  "Swallow_AllowTap": 1,
+  "Swallow_Weight1": [
+   "break_shopping_feed_6-10"
+  ],
+  "Swallow_Number1": 1,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_1_swa_f10_1",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_1_gift_b24_311-1",
+   "break_shopping_1_gift_m12_211-3",
+   "break_shopping_1_gift_m9_211-5",
+   "break_shopping_1_gift_s7_111-7",
+   "break_shopping_feed_3-1",
+   "break_shopping_feed_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 18,
+  "Transform_Weight": [
+   "break_shopping_1_swa_e11_1-1"
+  ],
+  "Spread_ItemMaxNumber": 18,
+  "Spread_StorageMaxNumber": 18,
+  "Spread_CostEnergy": 0,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_1_swa_e11_1",
+  "BubbleChance": 0,
+  "Transform_Weight": [
+   "break_shopping_1_swa_f11_1-1"
+  ],
+  "Swallow_AllowTap": 1,
+  "Swallow_Weight1": [
+   "break_shopping_feed_6-10"
+  ],
+  "Swallow_Number1": 1,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_1_swa_f11_1",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_1_gift_b23_211-1",
+   "break_shopping_1_gift_m1_111-1",
+   "break_shopping_1_gift_m13_111-1",
+   "break_shopping_1_gift_s2_111-3",
+   "break_shopping_feed_5-1",
+   "break_shopping_feed_4-1",
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 9,
+  "Transform_Weight": [
+   "break_shopping_1_swa_e12_1-1"
+  ],
+  "Spread_ItemMaxNumber": 9,
+  "Spread_StorageMaxNumber": 9,
+  "Spread_CostEnergy": 0,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_1_swa_e12_1",
+  "BubbleChance": 0,
+  "Transform_Weight": [
+   "break_shopping_1_swa_f12_1-1"
+  ],
+  "Swallow_AllowTap": 1,
+  "Swallow_Weight1": [
+   "break_shopping_feed_6-10"
+  ],
+  "Swallow_Number1": 1,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_1_swa_f12_1",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_1_gift_b24_311-1",
+   "break_shopping_1_gift_m17_111-5",
+   "break_shopping_1_gift_s7_111-3",
+   "break_shopping_1_gift_s3_111-4",
+   "break_shopping_feed_5-1",
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 15,
+  "Transform_Weight": [
+   "break_shopping_1_swa_e13_1-1"
+  ],
+  "Spread_ItemMaxNumber": 15,
+  "Spread_StorageMaxNumber": 15,
+  "Spread_CostEnergy": 0,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_1_swa_e13_1",
+  "BubbleChance": 0,
+  "Transform_Weight": [
+   "break_shopping_1_swa_f13_1-1"
+  ],
+  "Swallow_AllowTap": 1,
+  "Swallow_Weight1": [
+   "break_shopping_feed_6-10"
+  ],
+  "Swallow_Number1": 1,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_1_swa_f13_1",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_1_gift_b22_311-1",
+   "break_shopping_1_gift_m12_211-8",
+   "break_shopping_1_gift_s7_111-4",
+   "break_shopping_1_gift_s8_111-3",
+   "break_shopping_feed_3-1",
+   "break_shopping_feed_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 18,
+  "Transform_Weight": [
+   "break_shopping_1_swa_e14_1-1"
+  ],
+  "Spread_ItemMaxNumber": 18,
+  "Spread_StorageMaxNumber": 18,
+  "Spread_CostEnergy": 0,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_1_swa_e14_1",
+  "BubbleChance": 0,
+  "Transform_Weight": [
+   "break_shopping_1_swa_f14_1-1"
+  ],
+  "Swallow_AllowTap": 1,
+  "Swallow_Weight1": [
+   "break_shopping_feed_6-10"
+  ],
+  "Swallow_Number1": 1,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_1_swa_f14_1",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_1_gift_b24_311-1",
+   "break_shopping_1_gift_m17_111-5",
+   "break_shopping_1_gift_s7_111-3",
+   "break_shopping_1_gift_s3_111-4",
+   "break_shopping_feed_5-1",
+   "break_shopping_feed_1-1",
+   "break_shopping_box2_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 16,
+  "Transform_Weight": [
+   "break_shopping_1_swa_e15_1-1"
+  ],
+  "Spread_ItemMaxNumber": 16,
+  "Spread_StorageMaxNumber": 16,
+  "Spread_CostEnergy": 0,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_1_swa_e15_1",
+  "BubbleChance": 0,
+  "Transform_Weight": [
+   "break_shopping_1_swa_f15_1-1"
+  ],
+  "Swallow_AllowTap": 1,
+  "Swallow_Weight1": [
+   "break_shopping_feed_6-10"
+  ],
+  "Swallow_Number1": 1,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_1_swa_f15_1",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_1_gift_b22_311-1",
+   "break_shopping_1_gift_m10_211-10",
+   "break_shopping_1_gift_s7_111-4",
+   "break_shopping_1_gift_s8_111-3",
+   "break_shopping_feed_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 19,
+  "Transform_Weight": [
+   "break_shopping_1_swa_e16_1-1"
+  ],
+  "Spread_ItemMaxNumber": 19,
+  "Spread_StorageMaxNumber": 19,
+  "Spread_CostEnergy": 0,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_1_swa_e16_1",
+  "BubbleChance": 0,
+  "Transform_Weight": [
+   "break_shopping_1_swa_f16_1-1"
+  ],
+  "Swallow_AllowTap": 1,
+  "Swallow_Weight1": [
+   "break_shopping_feed_6-10"
+  ],
+  "Swallow_Number1": 1,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_1_swa_f16_1",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_1_gift_b23_211-1",
+   "break_shopping_1_gift_m13_111-4",
+   "break_shopping_1_gift_s7_111-3",
+   "break_shopping_feed_5-1",
+   "break_shopping_feed_3-1",
+   "break_shopping_feed_2-1",
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 12,
+  "Transform_Weight": [
+   "break_shopping_1_swa_e17_1-1"
+  ],
+  "Spread_ItemMaxNumber": 12,
+  "Spread_StorageMaxNumber": 12,
+  "Spread_CostEnergy": 0,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_1_swa_e17_1",
+  "BubbleChance": 0,
+  "Transform_Weight": [
+   "break_shopping_1_swa_f17_1-1"
+  ],
+  "Swallow_AllowTap": 1,
+  "Swallow_Weight1": [
+   "break_shopping_feed_6-10"
+  ],
+  "Swallow_Number1": 1,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_1_swa_f17_1",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_1_gift_b25_311-1",
+   "break_shopping_1_gift_s7_111-2",
+   "break_shopping_1_gift_s3_111-8",
+   "break_shopping_1_gift_s2_111-7",
+   "break_shopping_feed_4-1",
+   "break_shopping_feed_3-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 20,
+  "Transform_Weight": [
+   "break_shopping_1_swa_e18_1-1"
+  ],
+  "Spread_ItemMaxNumber": 20,
+  "Spread_StorageMaxNumber": 20,
+  "Spread_CostEnergy": 0,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_1_swa_e18_1",
+  "BubbleChance": 0,
+  "Transform_Weight": [
+   "break_shopping_1_swa_f18_1-1"
+  ],
+  "Swallow_AllowTap": 1,
+  "Swallow_Weight1": [
+   "break_shopping_feed_6-10"
+  ],
+  "Swallow_Number1": 1,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_1_swa_f18_1",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_1_gift_b21_211-1",
+   "break_shopping_1_gift_s7_111-2",
+   "break_shopping_1_gift_s3_111-8",
+   "break_shopping_1_gift_s2_111-8",
+   "break_shopping_feed_4-1",
+   "break_shopping_feed_3-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 21,
+  "Transform_Weight": [
+   "break_shopping_1_swa_e17_1-1"
+  ],
+  "Spread_ItemMaxNumber": 21,
+  "Spread_StorageMaxNumber": 21,
+  "Spread_CostEnergy": 0,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_1_gift_s1_111",
+  "Transform_Weight": [
+   "break_shopping_1_gift_s1_112-1"
+  ],
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_1_gift_s1_112",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "main_energy_1-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_1_gift_s2_111",
+  "Transform_Weight": [
+   "break_shopping_1_gift_s2_112-1"
+  ],
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_1_gift_s2_112",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "2601-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_1_gift_s3_111",
+  "Transform_Weight": [
+   "break_shopping_1_gift_s3_112-1"
+  ],
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_1_gift_s3_112",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "2401-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_1_gift_s4_111",
+  "Transform_Weight": [
+   "break_shopping_1_gift_s4_112-1"
+  ],
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_1_gift_s4_112",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "2501-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_1_gift_s5_111",
+  "Transform_Weight": [
+   "break_shopping_1_gift_s5_112-1"
+  ],
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_1_gift_s5_112",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "main_nugget_1-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_1_gift_s6_111",
+  "Transform_Weight": [
+   "break_shopping_1_gift_s6_112-1"
+  ],
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_1_gift_s6_112",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "main_gem_1-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_1_gift_s7_111",
+  "Transform_Weight": [
+   "break_shopping_1_gift_s7_112-1"
+  ],
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_1_gift_s7_112",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "2402-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_1_gift_s8_111",
+  "Transform_Weight": [
+   "break_shopping_1_gift_s8_112-1"
+  ],
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_1_gift_s8_112",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "2602-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_1_gift_m1_111",
+  "Transform_Weight": [
+   "break_shopping_1_gift_m1_112-1"
+  ],
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_1_gift_m1_112",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_tar_1-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_1_gift_m2_111",
+  "Transform_Weight": [
+   "break_shopping_1_gift_m2_112-1"
+  ],
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_1_gift_m2_112",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_item3_1-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_1_gift_m3_211",
+  "Transform_Weight": [
+   "break_shopping_1_gift_m3_212-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_1_gift_m3_212",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_1_gift_m3_221-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_1_gift_m3_221",
+  "Transform_Weight": [
+   "break_shopping_1_gift_m3_222-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_1_gift_m3_222",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_tar_1-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_1_gift_m4_211",
+  "Transform_Weight": [
+   "break_shopping_1_gift_m4_212-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_1_gift_m4_212",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_1_gift_m4_221-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_1_gift_m4_221",
+  "Transform_Weight": [
+   "break_shopping_1_gift_m4_222-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_1_gift_m4_222",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_item3_1-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_1_gift_m5_311",
+  "Transform_Weight": [
+   "break_shopping_1_gift_m5_312-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_1_gift_m5_312",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_1_gift_m5_321-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_1_gift_m5_321",
+  "Transform_Weight": [
+   "break_shopping_1_gift_m5_322-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_1_gift_m5_322",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_1_gift_m5_331-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_1_gift_m5_331",
+  "Transform_Weight": [
+   "break_shopping_1_gift_m5_332-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_1_gift_m5_332",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_item2_1-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_1_gift_m6_111",
+  "Transform_Weight": [
+   "break_shopping_1_gift_m6_112-1"
+  ],
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_1_gift_m6_112",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_item2_1-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_1_gift_m7_211",
+  "Transform_Weight": [
+   "break_shopping_1_gift_m7_212-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_1_gift_m7_212",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_1_gift_m7_221-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_1_gift_m7_221",
+  "Transform_Weight": [
+   "break_shopping_1_gift_m7_222-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_1_gift_m7_222",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_item2_2-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_1_gift_m8_111",
+  "Transform_Weight": [
+   "break_shopping_1_gift_m8_112-1"
+  ],
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_1_gift_m8_112",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_tar_2-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_1_gift_m9_211",
+  "Transform_Weight": [
+   "break_shopping_1_gift_m9_212-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_1_gift_m9_212",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_1_gift_m9_221-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_1_gift_m9_221",
+  "Transform_Weight": [
+   "break_shopping_1_gift_m9_222-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_1_gift_m9_222",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_tar_3-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_1_gift_m10_211",
+  "Transform_Weight": [
+   "break_shopping_1_gift_m10_212-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_1_gift_m10_212",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_1_gift_m10_221-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_1_gift_m10_221",
+  "Transform_Weight": [
+   "break_shopping_1_gift_m10_222-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_1_gift_m10_222",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_item1_1-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_1_gift_m11_211",
+  "Transform_Weight": [
+   "break_shopping_1_gift_m11_212-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_1_gift_m11_212",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_1_gift_m11_221-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_1_gift_m11_221",
+  "Transform_Weight": [
+   "break_shopping_1_gift_m11_222-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_1_gift_m11_222",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_item1_2-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_1_gift_m12_211",
+  "Transform_Weight": [
+   "break_shopping_1_gift_m12_212-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_1_gift_m12_212",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_1_gift_m12_221-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_1_gift_m12_221",
+  "Transform_Weight": [
+   "break_shopping_1_gift_m12_222-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_1_gift_m12_222",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_item1_4-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_1_gift_m13_111",
+  "Transform_Weight": [
+   "break_shopping_1_gift_m13_112-1"
+  ],
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_1_gift_m13_112",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_item1_4-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_1_gift_m14_211",
+  "Transform_Weight": [
+   "break_shopping_1_gift_m14_212-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_1_gift_m14_212",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_1_gift_m14_221-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_1_gift_m14_221",
+  "Transform_Weight": [
+   "break_shopping_1_gift_m14_222-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_1_gift_m14_222",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_item1_3-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_1_gift_m15_111",
+  "Transform_Weight": [
+   "break_shopping_1_gift_m15_112-1"
+  ],
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_1_gift_m15_112",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_item1_3-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_1_gift_m16_111",
+  "Transform_Weight": [
+   "break_shopping_1_gift_m16_112-1"
+  ],
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_1_gift_m16_112",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_item1_2-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_1_gift_m17_111",
+  "Transform_Weight": [
+   "break_shopping_1_gift_m17_112-1"
+  ],
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_1_gift_m17_112",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_item1_1-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_1_gift_m18_111",
+  "Transform_Weight": [
+   "break_shopping_1_gift_m18_112-1"
+  ],
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_1_gift_m18_112",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_tar_3-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_1_gift_b9_311",
+  "Transform_Weight": [
+   "break_shopping_1_gift_b9_312-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_1_gift_b9_312",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_1_gift_b9_321-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_1_gift_b9_321",
+  "Transform_Weight": [
+   "break_shopping_1_gift_b9_322-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_1_gift_b9_322",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_1_gift_b9_331-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_1_gift_b9_331",
+  "Transform_Weight": [
+   "break_shopping_1_gift_b9_332-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_1_gift_b9_332",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "2503-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_1_gift_b20_111",
+  "Transform_Weight": [
+   "break_shopping_1_gift_b20_112-1"
+  ],
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_1_gift_b20_112",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "2604-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_1_gift_b21_211",
+  "Transform_Weight": [
+   "break_shopping_1_gift_b21_212-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_1_gift_b21_212",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_1_gift_b21_221-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_1_gift_b21_221",
+  "Transform_Weight": [
+   "break_shopping_1_gift_b21_222-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_1_gift_b21_222",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "2503-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_1_gift_b22_311",
+  "Transform_Weight": [
+   "break_shopping_1_gift_b22_312-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_1_gift_b22_312",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_1_gift_b22_321-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_1_gift_b22_321",
+  "Transform_Weight": [
+   "break_shopping_1_gift_b22_322-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_1_gift_b22_322",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_1_gift_b22_331-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_1_gift_b22_331",
+  "Transform_Weight": [
+   "break_shopping_1_gift_b22_332-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_1_gift_b22_332",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "2605-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_1_gift_b23_211",
+  "Transform_Weight": [
+   "break_shopping_1_gift_b23_212-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_1_gift_b23_212",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_1_gift_b23_221-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_1_gift_b23_221",
+  "Transform_Weight": [
+   "break_shopping_1_gift_b23_222-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_1_gift_b23_222",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "2605-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_1_gift_b24_311",
+  "Transform_Weight": [
+   "break_shopping_1_gift_b24_312-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_1_gift_b24_312",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_1_gift_b24_321-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_1_gift_b24_321",
+  "Transform_Weight": [
+   "break_shopping_1_gift_b24_322-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_1_gift_b24_322",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_1_gift_b24_331-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_1_gift_b24_331",
+  "Transform_Weight": [
+   "break_shopping_1_gift_b24_332-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_1_gift_b24_332",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "2504-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_1_gift_b25_311",
+  "Transform_Weight": [
+   "break_shopping_1_gift_b25_312-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_1_gift_b25_312",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_1_gift_b25_321-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_1_gift_b25_321",
+  "Transform_Weight": [
+   "break_shopping_1_gift_b25_322-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_1_gift_b25_322",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_1_gift_b25_331-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_1_gift_b25_331",
+  "Transform_Weight": [
+   "break_shopping_1_gift_b25_332-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_1_gift_b25_332",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "2604-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_swa_e1_1",
+  "BubbleChance": 0,
+  "Transform_Weight": [
+   "break_shopping_swa_f1_1-1"
+  ],
+  "Swallow_AllowTap": 1,
+  "Swallow_Weight1": [
+   "break_shopping_feed_6-10"
+  ],
+  "Swallow_Number1": 1,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_swa_f1_1",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_gift_b20_111-1",
+   "break_shopping_gift_m1_111-1",
+   "break_shopping_gift_m6_111-1",
+   "break_shopping_gift_s2_111-3",
+   "break_shopping_feed_5-1",
+   "break_shopping_feed_4-1",
+   "break_shopping_feed_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 9,
+  "Transform_Weight": [
+   "break_shopping_swa_e2_1-1"
+  ],
+  "Spread_ItemMaxNumber": 9,
+  "Spread_StorageMaxNumber": 9,
+  "Spread_CostEnergy": 0,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_swa_e2_1",
+  "BubbleChance": 0,
+  "Transform_Weight": [
+   "break_shopping_swa_f2_1-1"
+  ],
+  "Swallow_AllowTap": 1,
+  "Swallow_Weight1": [
+   "break_shopping_feed_6-10"
+  ],
+  "Swallow_Number1": 1,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_swa_f2_1",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_gift_b21_211-1",
+   "break_shopping_gift_m7_211-2",
+   "break_shopping_gift_m1_111-2",
+   "break_shopping_gift_s7_111-3",
+   "break_shopping_gift_s3_111-4",
+   "break_shopping_feed_5-1",
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 14,
+  "Transform_Weight": [
+   "break_shopping_swa_e3_1-1"
+  ],
+  "Spread_ItemMaxNumber": 14,
+  "Spread_StorageMaxNumber": 14,
+  "Spread_CostEnergy": 0,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_swa_e3_1",
+  "BubbleChance": 0,
+  "Transform_Weight": [
+   "break_shopping_swa_f3_1-1"
+  ],
+  "Swallow_AllowTap": 1,
+  "Swallow_Weight1": [
+   "break_shopping_feed_6-10"
+  ],
+  "Swallow_Number1": 1,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_swa_f3_1",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_gift_b22_311-1",
+   "break_shopping_gift_m7_211-3",
+   "break_shopping_gift_m3_211-4",
+   "break_shopping_gift_s7_111-3",
+   "break_shopping_gift_s8_111-4",
+   "break_shopping_feed_4-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 16,
+  "Transform_Weight": [
+   "break_shopping_swa_e4_1-1"
+  ],
+  "Spread_ItemMaxNumber": 16,
+  "Spread_StorageMaxNumber": 16,
+  "Spread_CostEnergy": 0,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_swa_e4_1",
+  "BubbleChance": 0,
+  "Transform_Weight": [
+   "break_shopping_swa_f4_1-1"
+  ],
+  "Swallow_AllowTap": 1,
+  "Swallow_Weight1": [
+   "break_shopping_feed_6-10"
+  ],
+  "Swallow_Number1": 1,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_swa_f4_1",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_gift_b24_311-1",
+   "break_shopping_gift_m7_211-2",
+   "break_shopping_gift_m1_111-2",
+   "break_shopping_gift_s7_111-5",
+   "break_shopping_gift_s3_111-3",
+   "break_shopping_feed_4-1",
+   "break_shopping_feed_3-1",
+   "break_shopping_feed_2-1",
+   "break_shopping_feed_1-1",
+   "break_shopping_box1_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 18,
+  "Transform_Weight": [
+   "break_shopping_swa_e5_1-1"
+  ],
+  "Spread_ItemMaxNumber": 18,
+  "Spread_StorageMaxNumber": 18,
+  "Spread_CostEnergy": 0,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_swa_e5_1",
+  "BubbleChance": 0,
+  "Transform_Weight": [
+   "break_shopping_swa_f5_1-1"
+  ],
+  "Swallow_AllowTap": 1,
+  "Swallow_Weight1": [
+   "break_shopping_feed_6-10"
+  ],
+  "Swallow_Number1": 1,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_swa_f5_1",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_gift_b25_311-2",
+   "break_shopping_gift_m7_211-3",
+   "break_shopping_gift_m3_211-5",
+   "break_shopping_gift_s7_111-8",
+   "break_shopping_feed_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 19,
+  "Transform_Weight": [
+   "break_shopping_swa_e6_1-1"
+  ],
+  "Spread_ItemMaxNumber": 19,
+  "Spread_StorageMaxNumber": 19,
+  "Spread_CostEnergy": 0,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_swa_e6_1",
+  "BubbleChance": 0,
+  "Transform_Weight": [
+   "break_shopping_swa_f6_1-1"
+  ],
+  "Swallow_AllowTap": 1,
+  "Swallow_Weight1": [
+   "break_shopping_feed_6-10"
+  ],
+  "Swallow_Number1": 1,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_swa_f6_1",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_gift_b22_311-1",
+   "break_shopping_gift_m7_211-1",
+   "break_shopping_gift_m1_111-1",
+   "break_shopping_gift_m17_111-2",
+   "break_shopping_gift_s7_111-3",
+   "break_shopping_gift_s8_111-4",
+   "break_shopping_feed_5-1",
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 14,
+  "Transform_Weight": [
+   "break_shopping_swa_e7_1-1"
+  ],
+  "Spread_ItemMaxNumber": 14,
+  "Spread_StorageMaxNumber": 14,
+  "Spread_CostEnergy": 0,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_swa_e7_1",
+  "BubbleChance": 0,
+  "Transform_Weight": [
+   "break_shopping_swa_f7_1-1"
+  ],
+  "Swallow_AllowTap": 1,
+  "Swallow_Weight1": [
+   "break_shopping_feed_6-10"
+  ],
+  "Swallow_Number1": 1,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_swa_f7_1",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_gift_b24_311-1",
+   "break_shopping_gift_m10_211-3",
+   "break_shopping_gift_m3_211-5",
+   "break_shopping_gift_s7_111-7",
+   "break_shopping_feed_3-1",
+   "break_shopping_feed_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 18,
+  "Transform_Weight": [
+   "break_shopping_swa_e8_1-1"
+  ],
+  "Spread_ItemMaxNumber": 18,
+  "Spread_StorageMaxNumber": 18,
+  "Spread_CostEnergy": 0,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_swa_e8_1",
+  "BubbleChance": 0,
+  "Transform_Weight": [
+   "break_shopping_swa_f8_1-1"
+  ],
+  "Swallow_AllowTap": 1,
+  "Swallow_Weight1": [
+   "break_shopping_feed_6-10"
+  ],
+  "Swallow_Number1": 1,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_swa_f8_1",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_gift_b22_311-1",
+   "break_shopping_gift_m10_211-1",
+   "break_shopping_gift_m17_111-1",
+   "break_shopping_gift_m18_111-3",
+   "break_shopping_gift_s2_111-2",
+   "break_shopping_gift_s8_111-4",
+   "break_shopping_feed_5-1",
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 14,
+  "Transform_Weight": [
+   "break_shopping_swa_e9_1-1"
+  ],
+  "Spread_ItemMaxNumber": 14,
+  "Spread_StorageMaxNumber": 14,
+  "Spread_CostEnergy": 0,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_swa_e9_1",
+  "BubbleChance": 0,
+  "Transform_Weight": [
+   "break_shopping_swa_f9_1-1"
+  ],
+  "Swallow_AllowTap": 1,
+  "Swallow_Weight1": [
+   "break_shopping_feed_6-10"
+  ],
+  "Swallow_Number1": 1,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_swa_f9_1",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_gift_b25_311-2",
+   "break_shopping_gift_m12_211-4",
+   "break_shopping_gift_m9_211-5",
+   "break_shopping_gift_s7_111-6",
+   "break_shopping_feed_2-1",
+   "break_shopping_box1_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 19,
+  "Transform_Weight": [
+   "break_shopping_swa_e10_1-1"
+  ],
+  "Spread_ItemMaxNumber": 19,
+  "Spread_StorageMaxNumber": 19,
+  "Spread_CostEnergy": 0,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_swa_e10_1",
+  "BubbleChance": 0,
+  "Transform_Weight": [
+   "break_shopping_swa_f10_1-1"
+  ],
+  "Swallow_AllowTap": 1,
+  "Swallow_Weight1": [
+   "break_shopping_feed_6-10"
+  ],
+  "Swallow_Number1": 1,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_swa_f10_1",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_gift_b24_311-1",
+   "break_shopping_gift_m12_211-3",
+   "break_shopping_gift_m9_211-5",
+   "break_shopping_gift_s7_111-7",
+   "break_shopping_feed_3-1",
+   "break_shopping_feed_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 18,
+  "Transform_Weight": [
+   "break_shopping_swa_e11_1-1"
+  ],
+  "Spread_ItemMaxNumber": 18,
+  "Spread_StorageMaxNumber": 18,
+  "Spread_CostEnergy": 0,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_swa_e11_1",
+  "BubbleChance": 0,
+  "Transform_Weight": [
+   "break_shopping_swa_f11_1-1"
+  ],
+  "Swallow_AllowTap": 1,
+  "Swallow_Weight1": [
+   "break_shopping_feed_6-10"
+  ],
+  "Swallow_Number1": 1,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_swa_f11_1",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_gift_b23_211-1",
+   "break_shopping_gift_m1_111-1",
+   "break_shopping_gift_m13_111-1",
+   "break_shopping_gift_s2_111-3",
+   "break_shopping_feed_5-1",
+   "break_shopping_feed_4-1",
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 9,
+  "Transform_Weight": [
+   "break_shopping_swa_e12_1-1"
+  ],
+  "Spread_ItemMaxNumber": 9,
+  "Spread_StorageMaxNumber": 9,
+  "Spread_CostEnergy": 0,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_swa_e12_1",
+  "BubbleChance": 0,
+  "Transform_Weight": [
+   "break_shopping_swa_f12_1-1"
+  ],
+  "Swallow_AllowTap": 1,
+  "Swallow_Weight1": [
+   "break_shopping_feed_6-10"
+  ],
+  "Swallow_Number1": 1,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_swa_f12_1",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_gift_b24_311-1",
+   "break_shopping_gift_m17_111-5",
+   "break_shopping_gift_s7_111-3",
+   "break_shopping_gift_s3_111-4",
+   "break_shopping_feed_5-1",
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 15,
+  "Transform_Weight": [
+   "break_shopping_swa_e13_1-1"
+  ],
+  "Spread_ItemMaxNumber": 15,
+  "Spread_StorageMaxNumber": 15,
+  "Spread_CostEnergy": 0,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_swa_e13_1",
+  "BubbleChance": 0,
+  "Transform_Weight": [
+   "break_shopping_swa_f13_1-1"
+  ],
+  "Swallow_AllowTap": 1,
+  "Swallow_Weight1": [
+   "break_shopping_feed_6-10"
+  ],
+  "Swallow_Number1": 1,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_swa_f13_1",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_gift_b22_311-1",
+   "break_shopping_gift_m12_211-8",
+   "break_shopping_gift_s7_111-4",
+   "break_shopping_gift_s8_111-3",
+   "break_shopping_feed_3-1",
+   "break_shopping_feed_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 18,
+  "Transform_Weight": [
+   "break_shopping_swa_e14_1-1"
+  ],
+  "Spread_ItemMaxNumber": 18,
+  "Spread_StorageMaxNumber": 18,
+  "Spread_CostEnergy": 0,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_swa_e14_1",
+  "BubbleChance": 0,
+  "Transform_Weight": [
+   "break_shopping_swa_f14_1-1"
+  ],
+  "Swallow_AllowTap": 1,
+  "Swallow_Weight1": [
+   "break_shopping_feed_6-10"
+  ],
+  "Swallow_Number1": 1,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_swa_f14_1",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_gift_b24_311-1",
+   "break_shopping_gift_m17_111-5",
+   "break_shopping_gift_s7_111-3",
+   "break_shopping_gift_s3_111-4",
+   "break_shopping_feed_5-1",
+   "break_shopping_feed_1-1",
+   "break_shopping_box2_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 16,
+  "Transform_Weight": [
+   "break_shopping_swa_e15_1-1"
+  ],
+  "Spread_ItemMaxNumber": 16,
+  "Spread_StorageMaxNumber": 16,
+  "Spread_CostEnergy": 0,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_swa_e15_1",
+  "BubbleChance": 0,
+  "Transform_Weight": [
+   "break_shopping_swa_f15_1-1"
+  ],
+  "Swallow_AllowTap": 1,
+  "Swallow_Weight1": [
+   "break_shopping_feed_6-10"
+  ],
+  "Swallow_Number1": 1,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_swa_f15_1",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_gift_b22_311-1",
+   "break_shopping_gift_m10_211-10",
+   "break_shopping_gift_s7_111-4",
+   "break_shopping_gift_s8_111-3",
+   "break_shopping_feed_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 19,
+  "Transform_Weight": [
+   "break_shopping_swa_e16_1-1"
+  ],
+  "Spread_ItemMaxNumber": 19,
+  "Spread_StorageMaxNumber": 19,
+  "Spread_CostEnergy": 0,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_swa_e16_1",
+  "BubbleChance": 0,
+  "Transform_Weight": [
+   "break_shopping_swa_f16_1-1"
+  ],
+  "Swallow_AllowTap": 1,
+  "Swallow_Weight1": [
+   "break_shopping_feed_6-10"
+  ],
+  "Swallow_Number1": 1,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_swa_f16_1",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_gift_b23_211-1",
+   "break_shopping_gift_m13_111-4",
+   "break_shopping_gift_s7_111-3",
+   "break_shopping_feed_5-1",
+   "break_shopping_feed_3-1",
+   "break_shopping_feed_2-1",
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 12,
+  "Transform_Weight": [
+   "break_shopping_swa_e17_1-1"
+  ],
+  "Spread_ItemMaxNumber": 12,
+  "Spread_StorageMaxNumber": 12,
+  "Spread_CostEnergy": 0,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_swa_e17_1",
+  "BubbleChance": 0,
+  "Transform_Weight": [
+   "break_shopping_swa_f17_1-1"
+  ],
+  "Swallow_AllowTap": 1,
+  "Swallow_Weight1": [
+   "break_shopping_feed_6-10"
+  ],
+  "Swallow_Number1": 1,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_swa_f17_1",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_gift_b25_311-1",
+   "break_shopping_gift_s7_111-2",
+   "break_shopping_gift_s3_111-8",
+   "break_shopping_gift_s2_111-7",
+   "break_shopping_feed_4-1",
+   "break_shopping_feed_3-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 20,
+  "Transform_Weight": [
+   "break_shopping_swa_e18_1-1"
+  ],
+  "Spread_ItemMaxNumber": 20,
+  "Spread_StorageMaxNumber": 20,
+  "Spread_CostEnergy": 0,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_swa_e18_1",
+  "BubbleChance": 0,
+  "Transform_Weight": [
+   "break_shopping_swa_f18_1-1"
+  ],
+  "Swallow_AllowTap": 1,
+  "Swallow_Weight1": [
+   "break_shopping_feed_6-10"
+  ],
+  "Swallow_Number1": 1,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_swa_f18_1",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_gift_b21_211-1",
+   "break_shopping_gift_s7_111-2",
+   "break_shopping_gift_s3_111-8",
+   "break_shopping_gift_s2_111-8",
+   "break_shopping_feed_4-1",
+   "break_shopping_feed_3-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 21,
+  "Transform_Weight": [
+   "break_shopping_swa_e17_1-1"
+  ],
+  "Spread_ItemMaxNumber": 21,
+  "Spread_StorageMaxNumber": 21,
+  "Spread_CostEnergy": 0,
+  "Static": 1
+ },
+ {
+  "Type": "break_shopping_gift_s1_111",
+  "Transform_Weight": [
+   "break_shopping_gift_s1_112-1"
+  ],
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_gift_s1_112",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "main_energy_1-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_gift_s2_111",
+  "Transform_Weight": [
+   "break_shopping_gift_s2_112-1"
+  ],
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_gift_s2_112",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "2601-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_gift_s3_111",
+  "Transform_Weight": [
+   "break_shopping_gift_s3_112-1"
+  ],
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_gift_s3_112",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "2401-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_gift_s4_111",
+  "Transform_Weight": [
+   "break_shopping_gift_s4_112-1"
+  ],
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_gift_s4_112",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "2501-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_gift_s5_111",
+  "Transform_Weight": [
+   "break_shopping_gift_s5_112-1"
+  ],
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_gift_s5_112",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "main_nugget_1-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_gift_s6_111",
+  "Transform_Weight": [
+   "break_shopping_gift_s6_112-1"
+  ],
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_gift_s6_112",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "main_gem_1-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_gift_s7_111",
+  "Transform_Weight": [
+   "break_shopping_gift_s7_112-1"
+  ],
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_gift_s7_112",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "2402-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_gift_s8_111",
+  "Transform_Weight": [
+   "break_shopping_gift_s8_112-1"
+  ],
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_gift_s8_112",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "2602-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_gift_m1_111",
+  "Transform_Weight": [
+   "break_shopping_gift_m1_112-1"
+  ],
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_gift_m1_112",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_tar_1-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_gift_m2_111",
+  "Transform_Weight": [
+   "break_shopping_gift_m2_112-1"
+  ],
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_gift_m2_112",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_item3_1-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_gift_m3_211",
+  "Transform_Weight": [
+   "break_shopping_gift_m3_212-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_gift_m3_212",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_gift_m3_221-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_gift_m3_221",
+  "Transform_Weight": [
+   "break_shopping_gift_m3_222-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_gift_m3_222",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_tar_1-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_gift_m4_211",
+  "Transform_Weight": [
+   "break_shopping_gift_m4_212-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_gift_m4_212",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_gift_m4_221-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_gift_m4_221",
+  "Transform_Weight": [
+   "break_shopping_gift_m4_222-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_gift_m4_222",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_item3_1-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_gift_m5_311",
+  "Transform_Weight": [
+   "break_shopping_gift_m5_312-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_gift_m5_312",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_gift_m5_321-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_gift_m5_321",
+  "Transform_Weight": [
+   "break_shopping_gift_m5_322-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_gift_m5_322",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_gift_m5_331-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_gift_m5_331",
+  "Transform_Weight": [
+   "break_shopping_gift_m5_332-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_gift_m5_332",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_item2_1-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_gift_m6_111",
+  "Transform_Weight": [
+   "break_shopping_gift_m6_112-1"
+  ],
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_gift_m6_112",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_item2_1-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_gift_m7_211",
+  "Transform_Weight": [
+   "break_shopping_gift_m7_212-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_gift_m7_212",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_gift_m7_221-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_gift_m7_221",
+  "Transform_Weight": [
+   "break_shopping_gift_m7_222-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_gift_m7_222",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_item2_2-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_gift_m8_111",
+  "Transform_Weight": [
+   "break_shopping_gift_m8_112-1"
+  ],
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_gift_m8_112",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_tar_2-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_gift_m9_211",
+  "Transform_Weight": [
+   "break_shopping_gift_m9_212-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_gift_m9_212",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_gift_m9_221-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_gift_m9_221",
+  "Transform_Weight": [
+   "break_shopping_gift_m9_222-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_gift_m9_222",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_tar_3-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_gift_m10_211",
+  "Transform_Weight": [
+   "break_shopping_gift_m10_212-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_gift_m10_212",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_gift_m10_221-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_gift_m10_221",
+  "Transform_Weight": [
+   "break_shopping_gift_m10_222-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_gift_m10_222",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_item1_1-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_gift_m11_211",
+  "Transform_Weight": [
+   "break_shopping_gift_m11_212-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_gift_m11_212",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_gift_m11_221-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_gift_m11_221",
+  "Transform_Weight": [
+   "break_shopping_gift_m11_222-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_gift_m11_222",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_item1_2-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_gift_m12_211",
+  "Transform_Weight": [
+   "break_shopping_gift_m12_212-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_gift_m12_212",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_gift_m12_221-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_gift_m12_221",
+  "Transform_Weight": [
+   "break_shopping_gift_m12_222-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_gift_m12_222",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_item1_4-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_gift_m13_111",
+  "Transform_Weight": [
+   "break_shopping_gift_m13_112-1"
+  ],
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_gift_m13_112",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_item1_4-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_gift_m14_211",
+  "Transform_Weight": [
+   "break_shopping_gift_m14_212-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_gift_m14_212",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_gift_m14_221-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_gift_m14_221",
+  "Transform_Weight": [
+   "break_shopping_gift_m14_222-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_gift_m14_222",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_item1_3-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_gift_m15_111",
+  "Transform_Weight": [
+   "break_shopping_gift_m15_112-1"
+  ],
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_gift_m15_112",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_item1_3-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_gift_m16_111",
+  "Transform_Weight": [
+   "break_shopping_gift_m16_112-1"
+  ],
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_gift_m16_112",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_item1_2-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_gift_m17_111",
+  "Transform_Weight": [
+   "break_shopping_gift_m17_112-1"
+  ],
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_gift_m17_112",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_item1_1-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_gift_m18_111",
+  "Transform_Weight": [
+   "break_shopping_gift_m18_112-1"
+  ],
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_gift_m18_112",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_tar_3-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_gift_b9_311",
+  "Transform_Weight": [
+   "break_shopping_gift_b9_312-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_gift_b9_312",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_gift_b9_321-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_gift_b9_321",
+  "Transform_Weight": [
+   "break_shopping_gift_b9_322-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_gift_b9_322",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_gift_b9_331-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_gift_b9_331",
+  "Transform_Weight": [
+   "break_shopping_gift_b9_332-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_gift_b9_332",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "2503-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_gift_b20_111",
+  "Transform_Weight": [
+   "break_shopping_gift_b20_112-1"
+  ],
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_gift_b20_112",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "2604-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "break_shopping_gift_b21_211",
+  "Transform_Weight": [
+   "break_shopping_gift_b21_212-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_gift_b21_212",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_gift_b21_221-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_gift_b21_221",
+  "Transform_Weight": [
+   "break_shopping_gift_b21_222-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_gift_b21_222",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "2503-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_gift_b22_311",
+  "Transform_Weight": [
+   "break_shopping_gift_b22_312-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_gift_b22_312",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_gift_b22_321-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_gift_b22_321",
+  "Transform_Weight": [
+   "break_shopping_gift_b22_322-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_gift_b22_322",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_gift_b22_331-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_gift_b22_331",
+  "Transform_Weight": [
+   "break_shopping_gift_b22_332-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_gift_b22_332",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "2605-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_gift_b23_211",
+  "Transform_Weight": [
+   "break_shopping_gift_b23_212-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_gift_b23_212",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_gift_b23_221-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_gift_b23_221",
+  "Transform_Weight": [
+   "break_shopping_gift_b23_222-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_gift_b23_222",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "2605-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "break_shopping_gift_b24_311",
+  "Transform_Weight": [
+   "break_shopping_gift_b24_312-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_gift_b24_312",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_gift_b24_321-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_gift_b24_321",
+  "Transform_Weight": [
+   "break_shopping_gift_b24_322-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_gift_b24_322",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_gift_b24_331-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_gift_b24_331",
+  "Transform_Weight": [
+   "break_shopping_gift_b24_332-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_gift_b24_332",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "2504-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_gift_b25_311",
+  "Transform_Weight": [
+   "break_shopping_gift_b25_312-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_gift_b25_312",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_gift_b25_321-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_gift_b25_321",
+  "Transform_Weight": [
+   "break_shopping_gift_b25_322-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_gift_b25_322",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "break_shopping_gift_b25_331-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_gift_b25_331",
+  "Transform_Weight": [
+   "break_shopping_gift_b25_332-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "break_shopping_gift_b25_332",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "break_shopping_feed_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 1,
+  "Transform_Weight": [
+   "2604-1"
+  ],
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Dig_MaxLevel": 3
+ }
+]

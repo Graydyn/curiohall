@@ -1,0 +1,1542 @@
+[
+ {
+  "Character": "Cornelia",
+  "Type": "idle",
+  "Chance": 10,
+  "Pool": [
+   "character_intimacy_cornelia_idle_1",
+   "character_intimacy_cornelia_idle_2",
+   "character_intimacy_cornelia_idle_3",
+   "character_intimacy_cornelia_idle_4",
+   "character_intimacy_cornelia_idle_5",
+   "character_intimacy_cornelia_idle_6"
+  ]
+ },
+ {
+  "Character": "Cornelia",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "Pool": [
+   "character_intimacy_cornelia_hello_morning_1",
+   "character_intimacy_cornelia_hello_morning_2",
+   "character_intimacy_cornelia_hello_morning_3"
+  ]
+ },
+ {
+  "Character": "Cornelia",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   11,
+   12,
+   13,
+   14,
+   15
+  ],
+  "Pool": [
+   "character_intimacy_cornelia_hello_afternoon_1",
+   "character_intimacy_cornelia_hello_afternoon_2",
+   "character_intimacy_cornelia_hello_afternoon_3"
+  ]
+ },
+ {
+  "Character": "Cornelia",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   16,
+   17,
+   18,
+   19
+  ],
+  "Pool": [
+   "character_intimacy_cornelia_hello_evening_1",
+   "character_intimacy_cornelia_hello_evening_2",
+   "character_intimacy_cornelia_hello_evening_3"
+  ]
+ },
+ {
+  "Character": "Cornelia",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   20,
+   21,
+   22,
+   23
+  ],
+  "Pool": [
+   "character_intimacy_cornelia_hello_night_1",
+   "character_intimacy_cornelia_hello_night_2",
+   "character_intimacy_cornelia_hello_night_3"
+  ]
+ },
+ {
+  "Character": "Cornelia",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   0,
+   1,
+   2,
+   3,
+   4
+  ],
+  "Pool": [
+   "character_intimacy_cornelia_hello_midnight_1",
+   "character_intimacy_cornelia_hello_midnight_2",
+   "character_intimacy_cornelia_hello_midnight_3"
+  ]
+ },
+ {
+  "Character": "Cornelia",
+  "Type": "gift",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_cornelia_gift_1",
+   "character_intimacy_cornelia_gift_2",
+   "character_intimacy_cornelia_gift_3",
+   "character_intimacy_cornelia_gift_4",
+   "character_intimacy_cornelia_gift_5",
+   "character_intimacy_cornelia_gift_6"
+  ]
+ },
+ {
+  "Character": "Cornelia",
+  "Type": "gift_special",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_cornelia_gift_special_1",
+   "character_intimacy_cornelia_gift_special_2",
+   "character_intimacy_cornelia_gift_special_3",
+   "character_intimacy_cornelia_gift_special_4",
+   "character_intimacy_cornelia_gift_special_5"
+  ]
+ },
+ {
+  "Character": "Cornelia",
+  "Type": "level_up",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_cornelia_level_up_1",
+   "character_intimacy_cornelia_level_up_2",
+   "character_intimacy_cornelia_level_up_3",
+   "character_intimacy_cornelia_level_up_4",
+   "character_intimacy_cornelia_level_up_5"
+  ]
+ },
+ {
+  "Character": "Cornelia",
+  "Type": "return_gift",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_cornelia_gift_ready_1",
+   "character_intimacy_cornelia_gift_ready_2",
+   "character_intimacy_cornelia_gift_ready_3"
+  ]
+ },
+ {
+  "Character": "Cornelia",
+  "Type": "return_gift_finish",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_cornelia_gift_opened_1",
+   "character_intimacy_cornelia_gift_opened_2",
+   "character_intimacy_cornelia_gift_opened_3"
+  ]
+ },
+ {
+  "Character": "Barnaby",
+  "Type": "idle",
+  "Chance": 10,
+  "Pool": [
+   "character_intimacy_barnaby_idle_1",
+   "character_intimacy_barnaby_idle_2",
+   "character_intimacy_barnaby_idle_3",
+   "character_intimacy_barnaby_idle_4",
+   "character_intimacy_barnaby_idle_5",
+   "character_intimacy_barnaby_idle_6"
+  ]
+ },
+ {
+  "Character": "Barnaby",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "Pool": [
+   "character_intimacy_barnaby_hello_morning_1",
+   "character_intimacy_barnaby_hello_morning_2",
+   "character_intimacy_barnaby_hello_morning_3"
+  ]
+ },
+ {
+  "Character": "Barnaby",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   11,
+   12,
+   13,
+   14,
+   15
+  ],
+  "Pool": [
+   "character_intimacy_barnaby_hello_afternoon_1",
+   "character_intimacy_barnaby_hello_afternoon_2",
+   "character_intimacy_barnaby_hello_afternoon_3"
+  ]
+ },
+ {
+  "Character": "Barnaby",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   16,
+   17,
+   18,
+   19
+  ],
+  "Pool": [
+   "character_intimacy_barnaby_hello_evening_1",
+   "character_intimacy_barnaby_hello_evening_2",
+   "character_intimacy_barnaby_hello_evening_3"
+  ]
+ },
+ {
+  "Character": "Barnaby",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   20,
+   21,
+   22,
+   23
+  ],
+  "Pool": [
+   "character_intimacy_barnaby_hello_night_1",
+   "character_intimacy_barnaby_hello_night_2",
+   "character_intimacy_barnaby_hello_night_3"
+  ]
+ },
+ {
+  "Character": "Barnaby",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   0,
+   1,
+   2,
+   3,
+   4
+  ],
+  "Pool": [
+   "character_intimacy_barnaby_hello_midnight_1",
+   "character_intimacy_barnaby_hello_midnight_2",
+   "character_intimacy_barnaby_hello_midnight_3"
+  ]
+ },
+ {
+  "Character": "Barnaby",
+  "Type": "gift",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_barnaby_gift_1",
+   "character_intimacy_barnaby_gift_2",
+   "character_intimacy_barnaby_gift_3",
+   "character_intimacy_barnaby_gift_4",
+   "character_intimacy_barnaby_gift_5",
+   "character_intimacy_barnaby_gift_6"
+  ]
+ },
+ {
+  "Character": "Barnaby",
+  "Type": "gift_special",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_barnaby_gift_special_1",
+   "character_intimacy_barnaby_gift_special_2",
+   "character_intimacy_barnaby_gift_special_3",
+   "character_intimacy_barnaby_gift_special_4",
+   "character_intimacy_barnaby_gift_special_5"
+  ]
+ },
+ {
+  "Character": "Barnaby",
+  "Type": "level_up",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_barnaby_level_up_1",
+   "character_intimacy_barnaby_level_up_2",
+   "character_intimacy_barnaby_level_up_3",
+   "character_intimacy_barnaby_level_up_4",
+   "character_intimacy_barnaby_level_up_5"
+  ]
+ },
+ {
+  "Character": "Barnaby",
+  "Type": "return_gift",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_barnaby_gift_ready_1",
+   "character_intimacy_barnaby_gift_ready_2",
+   "character_intimacy_barnaby_gift_ready_3"
+  ]
+ },
+ {
+  "Character": "Barnaby",
+  "Type": "return_gift_finish",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_barnaby_gift_opened_1",
+   "character_intimacy_barnaby_gift_opened_2",
+   "character_intimacy_barnaby_gift_opened_3"
+  ]
+ },
+ {
+  "Character": "Aldous",
+  "Type": "idle",
+  "Chance": 10,
+  "Pool": [
+   "character_intimacy_aldous_idle_1",
+   "character_intimacy_aldous_idle_2",
+   "character_intimacy_aldous_idle_3",
+   "character_intimacy_aldous_idle_4",
+   "character_intimacy_aldous_idle_5",
+   "character_intimacy_aldous_idle_6"
+  ]
+ },
+ {
+  "Character": "Aldous",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "Pool": [
+   "character_intimacy_aldous_hello_morning_1",
+   "character_intimacy_aldous_hello_morning_2",
+   "character_intimacy_aldous_hello_morning_3"
+  ]
+ },
+ {
+  "Character": "Aldous",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   11,
+   12,
+   13,
+   14,
+   15
+  ],
+  "Pool": [
+   "character_intimacy_aldous_hello_afternoon_1",
+   "character_intimacy_aldous_hello_afternoon_2",
+   "character_intimacy_aldous_hello_afternoon_3"
+  ]
+ },
+ {
+  "Character": "Aldous",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   16,
+   17,
+   18,
+   19
+  ],
+  "Pool": [
+   "character_intimacy_aldous_hello_evening_1",
+   "character_intimacy_aldous_hello_evening_2",
+   "character_intimacy_aldous_hello_evening_3"
+  ]
+ },
+ {
+  "Character": "Aldous",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   20,
+   21,
+   22,
+   23
+  ],
+  "Pool": [
+   "character_intimacy_aldous_hello_night_1",
+   "character_intimacy_aldous_hello_night_2",
+   "character_intimacy_aldous_hello_night_3"
+  ]
+ },
+ {
+  "Character": "Aldous",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   0,
+   1,
+   2,
+   3,
+   4
+  ],
+  "Pool": [
+   "character_intimacy_aldous_hello_midnight_1",
+   "character_intimacy_aldous_hello_midnight_2",
+   "character_intimacy_aldous_hello_midnight_3"
+  ]
+ },
+ {
+  "Character": "Aldous",
+  "Type": "gift",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_aldous_gift_1",
+   "character_intimacy_aldous_gift_2",
+   "character_intimacy_aldous_gift_3",
+   "character_intimacy_aldous_gift_4",
+   "character_intimacy_aldous_gift_5",
+   "character_intimacy_aldous_gift_6"
+  ]
+ },
+ {
+  "Character": "Aldous",
+  "Type": "gift_special",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_aldous_gift_special_1",
+   "character_intimacy_aldous_gift_special_2",
+   "character_intimacy_aldous_gift_special_3",
+   "character_intimacy_aldous_gift_special_4",
+   "character_intimacy_aldous_gift_special_5"
+  ]
+ },
+ {
+  "Character": "Aldous",
+  "Type": "level_up",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_aldous_level_up_1",
+   "character_intimacy_aldous_level_up_2",
+   "character_intimacy_aldous_level_up_3",
+   "character_intimacy_aldous_level_up_4",
+   "character_intimacy_aldous_level_up_5"
+  ]
+ },
+ {
+  "Character": "Aldous",
+  "Type": "return_gift",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_aldous_gift_ready_1",
+   "character_intimacy_aldous_gift_ready_2",
+   "character_intimacy_aldous_gift_ready_3"
+  ]
+ },
+ {
+  "Character": "Aldous",
+  "Type": "return_gift_finish",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_aldous_gift_opened_1",
+   "character_intimacy_aldous_gift_opened_2",
+   "character_intimacy_aldous_gift_opened_3"
+  ]
+ },
+ {
+  "Character": "Sam",
+  "Type": "idle",
+  "Chance": 10,
+  "Pool": [
+   "character_intimacy_sam_idle_1",
+   "character_intimacy_sam_idle_2",
+   "character_intimacy_sam_idle_3",
+   "character_intimacy_sam_idle_4",
+   "character_intimacy_sam_idle_5",
+   "character_intimacy_sam_idle_6"
+  ]
+ },
+ {
+  "Character": "Sam",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "Pool": [
+   "character_intimacy_sam_hello_morning_1",
+   "character_intimacy_sam_hello_morning_2",
+   "character_intimacy_sam_hello_morning_3"
+  ]
+ },
+ {
+  "Character": "Sam",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   11,
+   12,
+   13,
+   14,
+   15
+  ],
+  "Pool": [
+   "character_intimacy_sam_hello_afternoon_1",
+   "character_intimacy_sam_hello_afternoon_2",
+   "character_intimacy_sam_hello_afternoon_3"
+  ]
+ },
+ {
+  "Character": "Sam",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   16,
+   17,
+   18,
+   19
+  ],
+  "Pool": [
+   "character_intimacy_sam_hello_evening_1",
+   "character_intimacy_sam_hello_evening_2",
+   "character_intimacy_sam_hello_evening_3"
+  ]
+ },
+ {
+  "Character": "Sam",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   20,
+   21,
+   22,
+   23
+  ],
+  "Pool": [
+   "character_intimacy_sam_hello_night_1",
+   "character_intimacy_sam_hello_night_2",
+   "character_intimacy_sam_hello_night_3"
+  ]
+ },
+ {
+  "Character": "Sam",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   0,
+   1,
+   2,
+   3,
+   4
+  ],
+  "Pool": [
+   "character_intimacy_sam_hello_midnight_1",
+   "character_intimacy_sam_hello_midnight_2",
+   "character_intimacy_sam_hello_midnight_3"
+  ]
+ },
+ {
+  "Character": "Sam",
+  "Type": "gift",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_sam_gift_1",
+   "character_intimacy_sam_gift_2",
+   "character_intimacy_sam_gift_3",
+   "character_intimacy_sam_gift_4",
+   "character_intimacy_sam_gift_5",
+   "character_intimacy_sam_gift_6"
+  ]
+ },
+ {
+  "Character": "Sam",
+  "Type": "gift_special",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_sam_gift_special_1",
+   "character_intimacy_sam_gift_special_2",
+   "character_intimacy_sam_gift_special_3",
+   "character_intimacy_sam_gift_special_4",
+   "character_intimacy_sam_gift_special_5"
+  ]
+ },
+ {
+  "Character": "Sam",
+  "Type": "level_up",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_sam_level_up_1",
+   "character_intimacy_sam_level_up_2",
+   "character_intimacy_sam_level_up_3",
+   "character_intimacy_sam_level_up_4",
+   "character_intimacy_sam_level_up_5"
+  ]
+ },
+ {
+  "Character": "Sam",
+  "Type": "return_gift",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_sam_idle_4",
+   "character_intimacy_sam_level_up_1",
+   "character_intimacy_sam_idle_5"
+  ]
+ },
+ {
+  "Character": "Sam",
+  "Type": "return_gift_finish",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_sam_gift_4",
+   "character_intimacy_sam_level_up_2",
+   "character_intimacy_sam_level_up_3"
+  ]
+ },
+ {
+  "Character": "Mark",
+  "Type": "idle",
+  "Chance": 10,
+  "Pool": [
+   "character_intimacy_mark_idle_1",
+   "character_intimacy_mark_idle_2",
+   "character_intimacy_mark_idle_3",
+   "character_intimacy_mark_idle_4",
+   "character_intimacy_mark_idle_5",
+   "character_intimacy_mark_idle_6"
+  ]
+ },
+ {
+  "Character": "Mark",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "Pool": [
+   "character_intimacy_mark_hello_morning_1",
+   "character_intimacy_mark_hello_morning_2",
+   "character_intimacy_mark_hello_morning_3"
+  ]
+ },
+ {
+  "Character": "Mark",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   11,
+   12,
+   13,
+   14,
+   15
+  ],
+  "Pool": [
+   "character_intimacy_mark_hello_afternoon_1",
+   "character_intimacy_mark_hello_afternoon_2",
+   "character_intimacy_mark_hello_afternoon_3"
+  ]
+ },
+ {
+  "Character": "Mark",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   16,
+   17,
+   18,
+   19
+  ],
+  "Pool": [
+   "character_intimacy_mark_hello_evening_1",
+   "character_intimacy_mark_hello_evening_2",
+   "character_intimacy_mark_hello_evening_3"
+  ]
+ },
+ {
+  "Character": "Mark",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   20,
+   21,
+   22,
+   23
+  ],
+  "Pool": [
+   "character_intimacy_mark_hello_night_1",
+   "character_intimacy_mark_hello_night_2",
+   "character_intimacy_mark_hello_night_3"
+  ]
+ },
+ {
+  "Character": "Mark",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   0,
+   1,
+   2,
+   3,
+   4
+  ],
+  "Pool": [
+   "character_intimacy_mark_hello_midnight_1",
+   "character_intimacy_mark_hello_midnight_2",
+   "character_intimacy_mark_hello_midnight_3"
+  ]
+ },
+ {
+  "Character": "Mark",
+  "Type": "gift",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_mark_gift_1",
+   "character_intimacy_mark_gift_2",
+   "character_intimacy_mark_gift_3",
+   "character_intimacy_mark_gift_4",
+   "character_intimacy_mark_gift_5",
+   "character_intimacy_mark_gift_6"
+  ]
+ },
+ {
+  "Character": "Mark",
+  "Type": "gift_special",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_mark_gift_special_1",
+   "character_intimacy_mark_gift_special_2",
+   "character_intimacy_mark_gift_special_3",
+   "character_intimacy_mark_gift_special_4",
+   "character_intimacy_mark_gift_special_5"
+  ]
+ },
+ {
+  "Character": "Mark",
+  "Type": "level_up",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_mark_level_up_1",
+   "character_intimacy_mark_level_up_2",
+   "character_intimacy_mark_level_up_3",
+   "character_intimacy_mark_level_up_4",
+   "character_intimacy_mark_level_up_5"
+  ]
+ },
+ {
+  "Character": "Mark",
+  "Type": "return_gift",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_mark_gift_ready_1",
+   "character_intimacy_mark_gift_ready_2",
+   "character_intimacy_mark_gift_ready_3"
+  ]
+ },
+ {
+  "Character": "Mark",
+  "Type": "return_gift_finish",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_mark_gift_opened_1",
+   "character_intimacy_mark_gift_opened_2",
+   "character_intimacy_mark_gift_opened_3"
+  ]
+ },
+ {
+  "Character": "Anjali",
+  "Type": "idle",
+  "Chance": 10,
+  "Pool": [
+   "character_intimacy_anjali_idle_1",
+   "character_intimacy_anjali_idle_2",
+   "character_intimacy_anjali_idle_3",
+   "character_intimacy_anjali_idle_4",
+   "character_intimacy_anjali_idle_5",
+   "character_intimacy_anjali_idle_6"
+  ]
+ },
+ {
+  "Character": "Anjali",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "Pool": [
+   "character_intimacy_anjali_hello_morning_1",
+   "character_intimacy_anjali_hello_morning_2",
+   "character_intimacy_anjali_hello_morning_3"
+  ]
+ },
+ {
+  "Character": "Anjali",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   11,
+   12,
+   13,
+   14,
+   15
+  ],
+  "Pool": [
+   "character_intimacy_anjali_hello_afternoon_1",
+   "character_intimacy_anjali_hello_afternoon_2",
+   "character_intimacy_anjali_hello_afternoon_3"
+  ]
+ },
+ {
+  "Character": "Anjali",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   16,
+   17,
+   18,
+   19
+  ],
+  "Pool": [
+   "character_intimacy_anjali_hello_evening_1",
+   "character_intimacy_anjali_hello_evening_2",
+   "character_intimacy_anjali_hello_evening_3"
+  ]
+ },
+ {
+  "Character": "Anjali",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   20,
+   21,
+   22,
+   23
+  ],
+  "Pool": [
+   "character_intimacy_anjali_hello_night_1",
+   "character_intimacy_anjali_hello_night_2",
+   "character_intimacy_anjali_hello_night_3"
+  ]
+ },
+ {
+  "Character": "Anjali",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   0,
+   1,
+   2,
+   3,
+   4
+  ],
+  "Pool": [
+   "character_intimacy_anjali_hello_midnight_1",
+   "character_intimacy_anjali_hello_midnight_2",
+   "character_intimacy_anjali_hello_midnight_3"
+  ]
+ },
+ {
+  "Character": "Anjali",
+  "Type": "gift",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_anjali_gift_1",
+   "character_intimacy_anjali_gift_2",
+   "character_intimacy_anjali_gift_3",
+   "character_intimacy_anjali_gift_4",
+   "character_intimacy_anjali_gift_5",
+   "character_intimacy_anjali_gift_6"
+  ]
+ },
+ {
+  "Character": "Anjali",
+  "Type": "gift_special",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_anjali_gift_prefer_1",
+   "character_intimacy_anjali_gift_prefer_2",
+   "character_intimacy_anjali_gift_prefer_3",
+   "character_intimacy_anjali_gift_prefer_4",
+   "character_intimacy_anjali_gift_prefer_5"
+  ]
+ },
+ {
+  "Character": "Anjali",
+  "Type": "level_up",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_anjali_level_up_1",
+   "character_intimacy_anjali_level_up_2",
+   "character_intimacy_anjali_level_up_3",
+   "character_intimacy_anjali_level_up_4",
+   "character_intimacy_anjali_level_up_5"
+  ]
+ },
+ {
+  "Character": "Anjali",
+  "Type": "return_gift",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_anjali_gift_ready_1",
+   "character_intimacy_anjali_gift_ready_2",
+   "character_intimacy_anjali_gift_ready_3"
+  ]
+ },
+ {
+  "Character": "Anjali",
+  "Type": "return_gift_finish",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_anjali_gift_open_1",
+   "character_intimacy_anjali_gift_open_2",
+   "character_intimacy_anjali_gift_open_3"
+  ]
+ },
+ {
+  "Character": "Hugo",
+  "Type": "idle",
+  "Chance": 10,
+  "Pool": [
+   "character_intimacy_hugo_idle_1",
+   "character_intimacy_hugo_idle_2",
+   "character_intimacy_hugo_idle_3",
+   "character_intimacy_hugo_idle_4",
+   "character_intimacy_hugo_idle_5",
+   "character_intimacy_hugo_idle_6"
+  ]
+ },
+ {
+  "Character": "Hugo",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "Pool": [
+   "character_intimacy_hugo_hello_morning_1",
+   "character_intimacy_hugo_hello_morning_2",
+   "character_intimacy_hugo_hello_morning_3"
+  ]
+ },
+ {
+  "Character": "Hugo",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   11,
+   12,
+   13,
+   14,
+   15
+  ],
+  "Pool": [
+   "character_intimacy_hugo_hello_afternoon_1",
+   "character_intimacy_hugo_hello_afternoon_2",
+   "character_intimacy_hugo_hello_afternoon_3"
+  ]
+ },
+ {
+  "Character": "Hugo",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   16,
+   17,
+   18,
+   19
+  ],
+  "Pool": [
+   "character_intimacy_hugo_hello_evening_1",
+   "character_intimacy_hugo_hello_evening_2",
+   "character_intimacy_hugo_hello_evening_3"
+  ]
+ },
+ {
+  "Character": "Hugo",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   20,
+   21,
+   22,
+   23
+  ],
+  "Pool": [
+   "character_intimacy_hugo_hello_night_1",
+   "character_intimacy_hugo_hello_night_2",
+   "character_intimacy_hugo_hello_night_3"
+  ]
+ },
+ {
+  "Character": "Hugo",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   0,
+   1,
+   2,
+   3,
+   4
+  ],
+  "Pool": [
+   "character_intimacy_hugo_hello_midnight_1",
+   "character_intimacy_hugo_hello_midnight_2",
+   "character_intimacy_hugo_hello_midnight_3"
+  ]
+ },
+ {
+  "Character": "Hugo",
+  "Type": "gift",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_hugo_gift_1",
+   "character_intimacy_hugo_gift_2",
+   "character_intimacy_hugo_gift_3",
+   "character_intimacy_hugo_gift_4",
+   "character_intimacy_hugo_gift_5",
+   "character_intimacy_hugo_gift_6"
+  ]
+ },
+ {
+  "Character": "Hugo",
+  "Type": "gift_special",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_hugo_gift_prefer_1",
+   "character_intimacy_hugo_gift_prefer_2",
+   "character_intimacy_hugo_gift_prefer_3",
+   "character_intimacy_hugo_gift_prefer_4",
+   "character_intimacy_hugo_gift_prefer_5"
+  ]
+ },
+ {
+  "Character": "Hugo",
+  "Type": "level_up",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_hugo_level_up_1",
+   "character_intimacy_hugo_level_up_2",
+   "character_intimacy_hugo_level_up_3",
+   "character_intimacy_hugo_level_up_4",
+   "character_intimacy_hugo_level_up_5"
+  ]
+ },
+ {
+  "Character": "Hugo",
+  "Type": "return_gift",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_hugo_gift_ready_1",
+   "character_intimacy_hugo_gift_ready_2",
+   "character_intimacy_hugo_gift_ready_3"
+  ]
+ },
+ {
+  "Character": "Hugo",
+  "Type": "return_gift_finish",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_hugo_gift_open_1",
+   "character_intimacy_hugo_gift_open_2",
+   "character_intimacy_hugo_gift_open_3"
+  ]
+ },
+ {
+  "Character": "Prudence",
+  "Type": "idle",
+  "Chance": 10,
+  "Pool": [
+   "character_intimacy_prudence_idle_1",
+   "character_intimacy_prudence_idle_2",
+   "character_intimacy_prudence_idle_3",
+   "character_intimacy_prudence_idle_4",
+   "character_intimacy_prudence_idle_5",
+   "character_intimacy_prudence_idle_6"
+  ]
+ },
+ {
+  "Character": "Prudence",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "Pool": [
+   "character_intimacy_prudence_hello_morning_1",
+   "character_intimacy_prudence_hello_morning_2",
+   "character_intimacy_prudence_hello_morning_3"
+  ]
+ },
+ {
+  "Character": "Prudence",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   11,
+   12,
+   13,
+   14,
+   15
+  ],
+  "Pool": [
+   "character_intimacy_prudence_hello_afternoon_1",
+   "character_intimacy_prudence_hello_afternoon_2",
+   "character_intimacy_prudence_hello_afternoon_3"
+  ]
+ },
+ {
+  "Character": "Prudence",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   16,
+   17,
+   18,
+   19
+  ],
+  "Pool": [
+   "character_intimacy_prudence_hello_evening_1",
+   "character_intimacy_prudence_hello_evening_2",
+   "character_intimacy_prudence_hello_evening_3"
+  ]
+ },
+ {
+  "Character": "Prudence",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   20,
+   21,
+   22,
+   23
+  ],
+  "Pool": [
+   "character_intimacy_prudence_hello_night_1",
+   "character_intimacy_prudence_hello_night_2",
+   "character_intimacy_prudence_hello_night_3"
+  ]
+ },
+ {
+  "Character": "Prudence",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   0,
+   1,
+   2,
+   3,
+   4
+  ],
+  "Pool": [
+   "character_intimacy_prudence_hello_midnight_1",
+   "character_intimacy_prudence_hello_midnight_2",
+   "character_intimacy_prudence_hello_midnight_3"
+  ]
+ },
+ {
+  "Character": "Prudence",
+  "Type": "gift",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_prudence_gift_1",
+   "character_intimacy_prudence_gift_2",
+   "character_intimacy_prudence_gift_3",
+   "character_intimacy_prudence_gift_4",
+   "character_intimacy_prudence_gift_5",
+   "character_intimacy_prudence_gift_6"
+  ]
+ },
+ {
+  "Character": "Prudence",
+  "Type": "gift_special",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_prudence_gift_prefer_1",
+   "character_intimacy_prudence_gift_prefer_2",
+   "character_intimacy_prudence_gift_prefer_3",
+   "character_intimacy_prudence_gift_prefer_4",
+   "character_intimacy_prudence_gift_prefer_5"
+  ]
+ },
+ {
+  "Character": "Prudence",
+  "Type": "level_up",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_prudence_level_up_1",
+   "character_intimacy_prudence_level_up_2",
+   "character_intimacy_prudence_level_up_3",
+   "character_intimacy_prudence_level_up_4",
+   "character_intimacy_prudence_level_up_5"
+  ]
+ },
+ {
+  "Character": "Prudence",
+  "Type": "return_gift",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_prudence_gift_ready_1",
+   "character_intimacy_prudence_gift_ready_2",
+   "character_intimacy_prudence_gift_ready_3"
+  ]
+ },
+ {
+  "Character": "Prudence",
+  "Type": "return_gift_finish",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_prudence_gift_open_1",
+   "character_intimacy_prudence_gift_open_2",
+   "character_intimacy_prudence_gift_open_3"
+  ]
+ },
+ {
+  "Character": "Zephyrine",
+  "Type": "idle",
+  "Chance": 10,
+  "Pool": [
+   "character_intimacy_zephyrine_idle_1",
+   "character_intimacy_zephyrine_idle_2",
+   "character_intimacy_zephyrine_idle_3",
+   "character_intimacy_zephyrine_idle_4",
+   "character_intimacy_zephyrine_idle_5",
+   "character_intimacy_zephyrine_idle_6"
+  ]
+ },
+ {
+  "Character": "Zephyrine",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "Pool": [
+   "character_intimacy_zephyrine_hello_morning_1",
+   "character_intimacy_zephyrine_hello_morning_2",
+   "character_intimacy_zephyrine_hello_morning_3"
+  ]
+ },
+ {
+  "Character": "Zephyrine",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   11,
+   12,
+   13,
+   14,
+   15
+  ],
+  "Pool": [
+   "character_intimacy_zephyrine_hello_afternoon_1",
+   "character_intimacy_zephyrine_hello_afternoon_2",
+   "character_intimacy_zephyrine_hello_afternoon_3"
+  ]
+ },
+ {
+  "Character": "Zephyrine",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   16,
+   17,
+   18,
+   19
+  ],
+  "Pool": [
+   "character_intimacy_zephyrine_hello_evening_1",
+   "character_intimacy_zephyrine_hello_evening_2",
+   "character_intimacy_zephyrine_hello_evening_3"
+  ]
+ },
+ {
+  "Character": "Zephyrine",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   20,
+   21,
+   22,
+   23
+  ],
+  "Pool": [
+   "character_intimacy_zephyrine_hello_night_1",
+   "character_intimacy_zephyrine_hello_night_2",
+   "character_intimacy_zephyrine_hello_night_3"
+  ]
+ },
+ {
+  "Character": "Zephyrine",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   0,
+   1,
+   2,
+   3,
+   4
+  ],
+  "Pool": [
+   "character_intimacy_zephyrine_hello_midnight_1",
+   "character_intimacy_zephyrine_hello_midnight_2",
+   "character_intimacy_zephyrine_hello_midnight_3"
+  ]
+ },
+ {
+  "Character": "Zephyrine",
+  "Type": "gift",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_zephyrine_gift_1",
+   "character_intimacy_zephyrine_gift_2",
+   "character_intimacy_zephyrine_gift_3",
+   "character_intimacy_zephyrine_gift_4",
+   "character_intimacy_zephyrine_gift_5",
+   "character_intimacy_zephyrine_gift_6"
+  ]
+ },
+ {
+  "Character": "Zephyrine",
+  "Type": "gift_special",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_zephyrine_gift_prefer_1",
+   "character_intimacy_zephyrine_gift_prefer_2",
+   "character_intimacy_zephyrine_gift_prefer_3",
+   "character_intimacy_zephyrine_gift_prefer_4",
+   "character_intimacy_zephyrine_gift_prefer_5"
+  ]
+ },
+ {
+  "Character": "Zephyrine",
+  "Type": "level_up",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_zephyrine_level_up_1",
+   "character_intimacy_zephyrine_level_up_2",
+   "character_intimacy_zephyrine_level_up_3",
+   "character_intimacy_zephyrine_level_up_4",
+   "character_intimacy_zephyrine_level_up_5"
+  ]
+ },
+ {
+  "Character": "Zephyrine",
+  "Type": "return_gift",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_zephyrine_gift_ready_1",
+   "character_intimacy_zephyrine_gift_ready_2",
+   "character_intimacy_zephyrine_gift_ready_3"
+  ]
+ },
+ {
+  "Character": "Zephyrine",
+  "Type": "return_gift_finish",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_zephyrine_gift_open_1",
+   "character_intimacy_zephyrine_gift_open_2",
+   "character_intimacy_zephyrine_gift_open_3"
+  ]
+ },
+ {
+  "Character": "Rosalind",
+  "Type": "idle",
+  "Chance": 10,
+  "Pool": [
+   "character_intimacy_rosalind_idle_1",
+   "character_intimacy_rosalind_idle_2",
+   "character_intimacy_rosalind_idle_3",
+   "character_intimacy_rosalind_idle_4",
+   "character_intimacy_rosalind_idle_5",
+   "character_intimacy_rosalind_idle_6"
+  ]
+ },
+ {
+  "Character": "Rosalind",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "Pool": [
+   "character_intimacy_rosalind_hello_morning_1",
+   "character_intimacy_rosalind_hello_morning_2",
+   "character_intimacy_rosalind_hello_morning_3"
+  ]
+ },
+ {
+  "Character": "Rosalind",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   11,
+   12,
+   13,
+   14,
+   15
+  ],
+  "Pool": [
+   "character_intimacy_rosalind_hello_afternoon_1",
+   "character_intimacy_rosalind_hello_afternoon_2",
+   "character_intimacy_rosalind_hello_afternoon_3"
+  ]
+ },
+ {
+  "Character": "Rosalind",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   16,
+   17,
+   18,
+   19
+  ],
+  "Pool": [
+   "character_intimacy_rosalind_hello_evening_1",
+   "character_intimacy_rosalind_hello_evening_2",
+   "character_intimacy_rosalind_hello_evening_3"
+  ]
+ },
+ {
+  "Character": "Rosalind",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   20,
+   21,
+   22,
+   23
+  ],
+  "Pool": [
+   "character_intimacy_rosalind_hello_night_1",
+   "character_intimacy_rosalind_hello_night_2",
+   "character_intimacy_rosalind_hello_night_3"
+  ]
+ },
+ {
+  "Character": "Rosalind",
+  "Type": "hello",
+  "Chance": 100,
+  "Periods": [
+   0,
+   1,
+   2,
+   3,
+   4
+  ],
+  "Pool": [
+   "character_intimacy_rosalind_hello_midnight_1",
+   "character_intimacy_rosalind_hello_midnight_2",
+   "character_intimacy_rosalind_hello_midnight_3"
+  ]
+ },
+ {
+  "Character": "Rosalind",
+  "Type": "gift",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_rosalind_gift_1",
+   "character_intimacy_rosalind_gift_2",
+   "character_intimacy_rosalind_gift_3",
+   "character_intimacy_rosalind_gift_4",
+   "character_intimacy_rosalind_gift_5",
+   "character_intimacy_rosalind_gift_6"
+  ]
+ },
+ {
+  "Character": "Rosalind",
+  "Type": "gift_special",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_rosalind_gift_prefer_1",
+   "character_intimacy_rosalind_gift_prefer_2",
+   "character_intimacy_rosalind_gift_prefer_3",
+   "character_intimacy_rosalind_gift_prefer_4",
+   "character_intimacy_rosalind_gift_prefer_5"
+  ]
+ },
+ {
+  "Character": "Rosalind",
+  "Type": "level_up",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_rosalind_level_up_1",
+   "character_intimacy_rosalind_level_up_2",
+   "character_intimacy_rosalind_level_up_3",
+   "character_intimacy_rosalind_level_up_4",
+   "character_intimacy_rosalind_level_up_5"
+  ]
+ },
+ {
+  "Character": "Rosalind",
+  "Type": "return_gift",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_rosalind_gift_ready_1",
+   "character_intimacy_rosalind_gift_ready_2",
+   "character_intimacy_rosalind_gift_ready_3"
+  ]
+ },
+ {
+  "Character": "Rosalind",
+  "Type": "return_gift_finish",
+  "Chance": 100,
+  "Pool": [
+   "character_intimacy_rosalind_gift_open_1",
+   "character_intimacy_rosalind_gift_open_2",
+   "character_intimacy_rosalind_gift_open_3"
+  ]
+ }
+]

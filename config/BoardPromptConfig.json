@@ -1,0 +1,104 @@
+[
+ {
+  "Priority": "<closure>",
+  "Type": "FreefallChainLevelUpItem"
+ },
+ {
+  "Priority": "<closure>",
+  "Type": "FreefallRandomLevelUpItem"
+ },
+ {
+  "Priority": "<closure>",
+  "Type": "FreefallCollectMaxLevelActivityItmes"
+ },
+ {
+  "Priority": "<closure>",
+  "Type": "TapRewardBubbleItem"
+ },
+ {
+  "Priority": "<closure>",
+  "Type": "FarmboardTapBlockKeyItem"
+ },
+ {
+  "Priority": "<closure>",
+  "Type": "FarmboardAnimalProduce"
+ },
+ {
+  "Priority": "<closure>",
+  "Type": "FarmboardActivateAnimal"
+ },
+ {
+  "Priority": "<closure>",
+  "Type": "TapStickerboardClearToolItem"
+ },
+ {
+  "Priority": "<closure>",
+  "Type": "TapPortalItem"
+ },
+ {
+  "Priority": "<closure>",
+  "Type": "FinishOrder",
+  "CloseCondition": "6"
+ },
+ {
+  "Priority": "<closure>",
+  "Type": "FinishTask",
+  "CloseCondition": "5"
+ },
+ {
+  "Priority": "<closure>",
+  "Type": "SwallowItemsDisallowTap"
+ },
+ {
+  "Priority": "<closure>",
+  "Type": "SwallowItems"
+ },
+ {
+  "Priority": "<closure>",
+  "Type": "TapCacheItems",
+  "CloseCondition": "5"
+ },
+ {
+  "Priority": "<closure>",
+  "Type": "DigCollectItem"
+ },
+ {
+  "Priority": "<closure>",
+  "Type": "GeneratorFactory"
+ },
+ {
+  "Priority": "<closure>",
+  "Type": "MergeItems"
+ },
+ {
+  "Priority": "<closure>",
+  "Type": "DigCollectLowLevelItem"
+ },
+ {
+  "Priority": "<closure>",
+  "Type": "FarmboardBlockProduce"
+ },
+ {
+  "Priority": "<closure>",
+  "Type": "OpenChest",
+  "CloseCondition": "7"
+ },
+ {
+  "Priority": "<closure>",
+  "Type": "StoreItem"
+ },
+ {
+  "Priority": "<closure>",
+  "Type": "TapDisposableSpreadItem",
+  "CloseCondition": "7"
+ },
+ {
+  "Priority": "<closure>",
+  "Type": "TapNonDisposableSpreadItem",
+  "CloseCondition": "7"
+ },
+ {
+  "Priority": "<closure>",
+  "Type": "DigItem"
+ }
+]

@@ -1,0 +1,5311 @@
+[
+ {
+  "Type": "101",
+  "Image": [
+   "GroceryBag01"
+  ]
+ },
+ {
+  "Type": "102",
+  "Image": [
+   "GroceryBag02"
+  ]
+ },
+ {
+  "Type": "103",
+  "Image": [
+   "GroceryBag03"
+  ]
+ },
+ {
+  "Type": "104",
+  "Image": [
+   "GroceryBag04"
+  ]
+ },
+ {
+  "Type": "105",
+  "Image": [
+   "GroceryBag05"
+  ]
+ },
+ {
+  "Type": "106",
+  "Image": [
+   "GroceryBag06"
+  ]
+ },
+ {
+  "Type": "107",
+  "Image": [
+   "GroceryBag07"
+  ]
+ },
+ {
+  "Type": "108",
+  "Image": [
+   "GroceryBag08"
+  ]
+ },
+ {
+  "Type": "109",
+  "Image": [
+   "GroceryBag09"
+  ]
+ },
+ {
+  "Type": "110",
+  "Image": [
+   "GroceryBag10"
+  ]
+ },
+ {
+  "Type": "111",
+  "Image": [
+   "GroceryBag11"
+  ]
+ },
+ {
+  "Type": "201",
+  "Image": [
+   "Flour01"
+  ]
+ },
+ {
+  "Type": "202",
+  "Image": [
+   "Flour02"
+  ]
+ },
+ {
+  "Type": "203",
+  "Image": [
+   "Flour03"
+  ]
+ },
+ {
+  "Type": "204",
+  "Image": [
+   "Flour04"
+  ]
+ },
+ {
+  "Type": "205",
+  "Image": [
+   "Flour05"
+  ]
+ },
+ {
+  "Type": "206",
+  "Image": [
+   "Flour06"
+  ]
+ },
+ {
+  "Type": "207",
+  "Image": [
+   "Flour07"
+  ]
+ },
+ {
+  "Type": "208",
+  "Image": [
+   "Flour08"
+  ]
+ },
+ {
+  "Type": "209",
+  "Image": [
+   "Flour09"
+  ]
+ },
+ {
+  "Type": "210",
+  "Image": [
+   "Flour10"
+  ]
+ },
+ {
+  "Type": "211",
+  "Image": [
+   "Flour11"
+  ]
+ },
+ {
+  "Type": "212",
+  "Image": [
+   "Flour12"
+  ]
+ },
+ {
+  "Type": "213",
+  "Image": [
+   "Flour13"
+  ]
+ },
+ {
+  "Type": "214",
+  "Image": [
+   "Flour14"
+  ]
+ },
+ {
+  "Type": "215",
+  "Image": [
+   "Flour15"
+  ]
+ },
+ {
+  "Type": "301",
+  "Image": [
+   "Potato01"
+  ]
+ },
+ {
+  "Type": "302",
+  "Image": [
+   "Potato02"
+  ]
+ },
+ {
+  "Type": "303",
+  "Image": [
+   "Potato03"
+  ]
+ },
+ {
+  "Type": "304",
+  "Image": [
+   "Potato04"
+  ]
+ },
+ {
+  "Type": "305",
+  "Image": [
+   "Potato05"
+  ]
+ },
+ {
+  "Type": "306",
+  "Image": [
+   "Potato06"
+  ]
+ },
+ {
+  "Type": "307",
+  "Image": [
+   "Potato07"
+  ]
+ },
+ {
+  "Type": "401",
+  "Image": [
+   "CoffeeMachine01"
+  ]
+ },
+ {
+  "Type": "402",
+  "Image": [
+   "CoffeeMachine02"
+  ]
+ },
+ {
+  "Type": "403",
+  "Image": [
+   "CoffeeMachine03"
+  ]
+ },
+ {
+  "Type": "404",
+  "Image": [
+   "CoffeeMachine04"
+  ]
+ },
+ {
+  "Type": "405",
+  "Image": [
+   "CoffeeMachine05"
+  ]
+ },
+ {
+  "Type": "406",
+  "Image": [
+   "CoffeeMachine06"
+  ]
+ },
+ {
+  "Type": "407",
+  "Image": [
+   "CoffeeMachine07"
+  ]
+ },
+ {
+  "Type": "408",
+  "Image": [
+   "CoffeeMachine08"
+  ]
+ },
+ {
+  "Type": "409",
+  "Image": [
+   "CoffeeMachine09"
+  ]
+ },
+ {
+  "Type": "410",
+  "Image": [
+   "CoffeeMachine10"
+  ]
+ },
+ {
+  "Type": "411",
+  "Image": [
+   "CoffeeMachine11"
+  ]
+ },
+ {
+  "Type": "501",
+  "Image": [
+   "Coffee01"
+  ]
+ },
+ {
+  "Type": "502",
+  "Image": [
+   "Coffee02"
+  ]
+ },
+ {
+  "Type": "503",
+  "Image": [
+   "Coffee03"
+  ]
+ },
+ {
+  "Type": "504",
+  "Image": [
+   "Coffee04"
+  ]
+ },
+ {
+  "Type": "505",
+  "Image": [
+   "Coffee05"
+  ]
+ },
+ {
+  "Type": "506",
+  "Image": [
+   "Coffee06"
+  ]
+ },
+ {
+  "Type": "507",
+  "Image": [
+   "Coffee07"
+  ]
+ },
+ {
+  "Type": "508",
+  "Image": [
+   "Coffee08"
+  ]
+ },
+ {
+  "Type": "509",
+  "Image": [
+   "Coffee09"
+  ]
+ },
+ {
+  "Type": "510",
+  "Image": [
+   "Coffee10"
+  ]
+ },
+ {
+  "Type": "511",
+  "Image": [
+   "Coffee11"
+  ]
+ },
+ {
+  "Type": "512",
+  "Image": [
+   "Coffee12"
+  ]
+ },
+ {
+  "Type": "513",
+  "Image": [
+   "Coffee13"
+  ]
+ },
+ {
+  "Type": "514",
+  "Image": [
+   "Coffee14"
+  ]
+ },
+ {
+  "Type": "601",
+  "Image": [
+   "Tea01"
+  ]
+ },
+ {
+  "Type": "602",
+  "Image": [
+   "Tea02"
+  ]
+ },
+ {
+  "Type": "603",
+  "Image": [
+   "Tea03"
+  ]
+ },
+ {
+  "Type": "604",
+  "Image": [
+   "Tea04"
+  ]
+ },
+ {
+  "Type": "605",
+  "Image": [
+   "Tea05"
+  ]
+ },
+ {
+  "Type": "606",
+  "Image": [
+   "Tea06"
+  ]
+ },
+ {
+  "Type": "607",
+  "Image": [
+   "Tea07"
+  ]
+ },
+ {
+  "Type": "701",
+  "Image": [
+   "Fishing01"
+  ]
+ },
+ {
+  "Type": "702",
+  "Image": [
+   "Fishing02"
+  ]
+ },
+ {
+  "Type": "703",
+  "Image": [
+   "Fishing03"
+  ]
+ },
+ {
+  "Type": "704",
+  "Image": [
+   "Fishing04"
+  ]
+ },
+ {
+  "Type": "705",
+  "Image": [
+   "Fishing05"
+  ]
+ },
+ {
+  "Type": "706",
+  "Image": [
+   "Fishing06"
+  ]
+ },
+ {
+  "Type": "707",
+  "Image": [
+   "Fishing07"
+  ]
+ },
+ {
+  "Type": "708",
+  "Image": [
+   "Fishing08"
+  ]
+ },
+ {
+  "Type": "709",
+  "Image": [
+   "Fishing09"
+  ]
+ },
+ {
+  "Type": "710",
+  "Image": [
+   "Fishing10"
+  ]
+ },
+ {
+  "Type": "711",
+  "Image": [
+   "Fishing11"
+  ]
+ },
+ {
+  "Type": "801",
+  "Image": [
+   "RawFish01"
+  ]
+ },
+ {
+  "Type": "802",
+  "Image": [
+   "RawFish02"
+  ]
+ },
+ {
+  "Type": "803",
+  "Image": [
+   "RawFish03"
+  ]
+ },
+ {
+  "Type": "804",
+  "Image": [
+   "RawFish04"
+  ]
+ },
+ {
+  "Type": "805",
+  "Image": [
+   "RawFish05"
+  ]
+ },
+ {
+  "Type": "901",
+  "Image": [
+   "Seafood01"
+  ]
+ },
+ {
+  "Type": "902",
+  "Image": [
+   "Seafood02"
+  ]
+ },
+ {
+  "Type": "903",
+  "Image": [
+   "Seafood03"
+  ]
+ },
+ {
+  "Type": "904",
+  "Image": [
+   "Seafood04"
+  ]
+ },
+ {
+  "Type": "905",
+  "Image": [
+   "Seafood05"
+  ]
+ },
+ {
+  "Type": "906",
+  "Image": [
+   "Seafood06"
+  ]
+ },
+ {
+  "Type": "907",
+  "Image": [
+   "Seafood07"
+  ]
+ },
+ {
+  "Type": "908",
+  "Image": [
+   "Seafood08"
+  ]
+ },
+ {
+  "Type": "909",
+  "Image": [
+   "Seafood09"
+  ]
+ },
+ {
+  "Type": "910",
+  "Image": [
+   "Seafood10"
+  ]
+ },
+ {
+  "Type": "1001",
+  "Image": [
+   "OrangeTree01"
+  ]
+ },
+ {
+  "Type": "1002",
+  "Image": [
+   "OrangeTree02"
+  ]
+ },
+ {
+  "Type": "1003",
+  "Image": [
+   "OrangeTree03"
+  ]
+ },
+ {
+  "Type": "1004",
+  "Image": [
+   "OrangeTree04"
+  ]
+ },
+ {
+  "Type": "1005",
+  "Image": [
+   "OrangeTree05"
+  ]
+ },
+ {
+  "Type": "1006",
+  "Image": [
+   "OrangeTree06"
+  ]
+ },
+ {
+  "Type": "1007",
+  "Image": [
+   "OrangeTree07"
+  ]
+ },
+ {
+  "Type": "1008",
+  "Image": [
+   "OrangeTree08"
+  ]
+ },
+ {
+  "Type": "1009",
+  "Image": [
+   "OrangeTree09"
+  ]
+ },
+ {
+  "Type": "1010",
+  "Image": [
+   "OrangeTree10"
+  ]
+ },
+ {
+  "Type": "1101",
+  "Image": [
+   "Orange01"
+  ]
+ },
+ {
+  "Type": "1102",
+  "Image": [
+   "Orange02"
+  ]
+ },
+ {
+  "Type": "1103",
+  "Image": [
+   "Orange03"
+  ]
+ },
+ {
+  "Type": "1104",
+  "Image": [
+   "Orange04"
+  ]
+ },
+ {
+  "Type": "1105",
+  "Image": [
+   "Orange05"
+  ]
+ },
+ {
+  "Type": "1106",
+  "Image": [
+   "Orange06"
+  ]
+ },
+ {
+  "Type": "1107",
+  "Image": [
+   "Orange07"
+  ]
+ },
+ {
+  "Type": "1201",
+  "Image": [
+   "PoolStorage01"
+  ]
+ },
+ {
+  "Type": "1202",
+  "Image": [
+   "PoolStorage02"
+  ]
+ },
+ {
+  "Type": "1203",
+  "Image": [
+   "PoolStorage03"
+  ]
+ },
+ {
+  "Type": "1204",
+  "Image": [
+   "PoolStorage04"
+  ]
+ },
+ {
+  "Type": "1205",
+  "Image": [
+   "PoolStorage05"
+  ]
+ },
+ {
+  "Type": "1206",
+  "Image": [
+   "PoolStorage06"
+  ]
+ },
+ {
+  "Type": "1207",
+  "Image": [
+   "PoolStorage07"
+  ]
+ },
+ {
+  "Type": "1208",
+  "Image": [
+   "PoolStorage08"
+  ]
+ },
+ {
+  "Type": "1209",
+  "Image": [
+   "PoolStorage09"
+  ]
+ },
+ {
+  "Type": "1210",
+  "Image": [
+   "PoolStorage10"
+  ]
+ },
+ {
+  "Type": "1211",
+  "Image": [
+   "PoolStorage11"
+  ]
+ },
+ {
+  "Type": "1301",
+  "Image": [
+   "SwimmingRing01"
+  ]
+ },
+ {
+  "Type": "1302",
+  "Image": [
+   "SwimmingRing02"
+  ]
+ },
+ {
+  "Type": "1303",
+  "Image": [
+   "SwimmingRing03"
+  ]
+ },
+ {
+  "Type": "1304",
+  "Image": [
+   "SwimmingRing04"
+  ]
+ },
+ {
+  "Type": "1305",
+  "Image": [
+   "SwimmingRing05"
+  ]
+ },
+ {
+  "Type": "1306",
+  "Image": [
+   "SwimmingRing06"
+  ]
+ },
+ {
+  "Type": "1307",
+  "Image": [
+   "SwimmingRing07"
+  ]
+ },
+ {
+  "Type": "1308",
+  "Image": [
+   "SwimmingRing08"
+  ]
+ },
+ {
+  "Type": "1309",
+  "Image": [
+   "SwimmingRing09"
+  ]
+ },
+ {
+  "Type": "1310",
+  "Image": [
+   "SwimmingRing10"
+  ]
+ },
+ {
+  "Type": "1311",
+  "Image": [
+   "SwimmingRing11"
+  ]
+ },
+ {
+  "Type": "1401",
+  "Image": [
+   "DiveGear01"
+  ]
+ },
+ {
+  "Type": "1402",
+  "Image": [
+   "DiveGear02"
+  ]
+ },
+ {
+  "Type": "1403",
+  "Image": [
+   "DiveGear03"
+  ]
+ },
+ {
+  "Type": "1404",
+  "Image": [
+   "DiveGear04"
+  ]
+ },
+ {
+  "Type": "1405",
+  "Image": [
+   "DiveGear05"
+  ]
+ },
+ {
+  "Type": "1406",
+  "Image": [
+   "DiveGear06"
+  ]
+ },
+ {
+  "Type": "1407",
+  "Image": [
+   "DiveGear07"
+  ]
+ },
+ {
+  "Type": "1501",
+  "Image": [
+   "DogHouse01"
+  ]
+ },
+ {
+  "Type": "1502",
+  "Image": [
+   "DogHouse02"
+  ]
+ },
+ {
+  "Type": "1503",
+  "Image": [
+   "DogHouse03"
+  ]
+ },
+ {
+  "Type": "1504",
+  "Image": [
+   "DogHouse04"
+  ]
+ },
+ {
+  "Type": "1505",
+  "Image": [
+   "DogHouse05"
+  ]
+ },
+ {
+  "Type": "1506",
+  "Image": [
+   "DogHouse06"
+  ]
+ },
+ {
+  "Type": "1507",
+  "Image": [
+   "DogHouse07"
+  ]
+ },
+ {
+  "Type": "1601",
+  "Image": [
+   "Dog01"
+  ]
+ },
+ {
+  "Type": "1602",
+  "Image": [
+   "Dog02"
+  ]
+ },
+ {
+  "Type": "1603",
+  "Image": [
+   "Dog03"
+  ]
+ },
+ {
+  "Type": "1604",
+  "Image": [
+   "Dog04"
+  ]
+ },
+ {
+  "Type": "1605",
+  "Image": [
+   "Dog05"
+  ]
+ },
+ {
+  "Type": "1606",
+  "Image": [
+   "Dog06"
+  ]
+ },
+ {
+  "Type": "1607",
+  "Image": [
+   "Dog07"
+  ]
+ },
+ {
+  "Type": "1608",
+  "Image": [
+   "Dog08"
+  ]
+ },
+ {
+  "Type": "1609",
+  "Image": [
+   "Dog09"
+  ]
+ },
+ {
+  "Type": "1610",
+  "Image": [
+   "Dog10"
+  ]
+ },
+ {
+  "Type": "1701",
+  "Image": [
+   "Coral01"
+  ]
+ },
+ {
+  "Type": "1702",
+  "Image": [
+   "Coral02"
+  ]
+ },
+ {
+  "Type": "1703",
+  "Image": [
+   "Coral03"
+  ]
+ },
+ {
+  "Type": "1704",
+  "Image": [
+   "Coral04"
+  ]
+ },
+ {
+  "Type": "1705",
+  "Image": [
+   "Coral05"
+  ]
+ },
+ {
+  "Type": "1706",
+  "Image": [
+   "Coral06"
+  ]
+ },
+ {
+  "Type": "1707",
+  "Image": [
+   "Coral07"
+  ]
+ },
+ {
+  "Type": "1708",
+  "Image": [
+   "Coral08"
+  ]
+ },
+ {
+  "Type": "1709",
+  "Image": [
+   "Coral09"
+  ]
+ },
+ {
+  "Type": "1710",
+  "Image": [
+   "Coral10"
+  ]
+ },
+ {
+  "Type": "1711",
+  "Image": [
+   "Coral11"
+  ]
+ },
+ {
+  "Type": "1801",
+  "Image": [
+   "Seashell01"
+  ]
+ },
+ {
+  "Type": "1802",
+  "Image": [
+   "Seashell02"
+  ]
+ },
+ {
+  "Type": "1803",
+  "Image": [
+   "Seashell03"
+  ]
+ },
+ {
+  "Type": "1804",
+  "Image": [
+   "Seashell04"
+  ]
+ },
+ {
+  "Type": "1805",
+  "Image": [
+   "Seashell05"
+  ]
+ },
+ {
+  "Type": "1806",
+  "Image": [
+   "Seashell06"
+  ]
+ },
+ {
+  "Type": "1807",
+  "Image": [
+   "Seashell07"
+  ]
+ },
+ {
+  "Type": "1808",
+  "Image": [
+   "Seashell08"
+  ]
+ },
+ {
+  "Type": "1809",
+  "Image": [
+   "Seashell09"
+  ]
+ },
+ {
+  "Type": "1810",
+  "Image": [
+   "Seashell10"
+  ]
+ },
+ {
+  "Type": "1811",
+  "Image": [
+   "Seashell11"
+  ]
+ },
+ {
+  "Type": "1812",
+  "Image": [
+   "Seashell12"
+  ]
+ },
+ {
+  "Type": "1901",
+  "Image": [
+   "LegoBox01"
+  ]
+ },
+ {
+  "Type": "1902",
+  "Image": [
+   "LegoBox02"
+  ]
+ },
+ {
+  "Type": "1903",
+  "Image": [
+   "LegoBox03"
+  ]
+ },
+ {
+  "Type": "1904",
+  "Image": [
+   "LegoBox04"
+  ]
+ },
+ {
+  "Type": "1905",
+  "Image": [
+   "LegoBox05"
+  ]
+ },
+ {
+  "Type": "1906",
+  "Image": [
+   "LegoBox06"
+  ]
+ },
+ {
+  "Type": "2001",
+  "Image": [
+   "LegoBrick01"
+  ]
+ },
+ {
+  "Type": "2002",
+  "Image": [
+   "LegoBrick02"
+  ]
+ },
+ {
+  "Type": "2003",
+  "Image": [
+   "LegoBrick03"
+  ]
+ },
+ {
+  "Type": "2004",
+  "Image": [
+   "LegoBrick04"
+  ]
+ },
+ {
+  "Type": "2005",
+  "Image": [
+   "LegoBrick05"
+  ]
+ },
+ {
+  "Type": "2006",
+  "Image": [
+   "LegoBrick06"
+  ]
+ },
+ {
+  "Type": "2007",
+  "Image": [
+   "LegoBrick07"
+  ]
+ },
+ {
+  "Type": "2008",
+  "Image": [
+   "LegoBrick08"
+  ]
+ },
+ {
+  "Type": "2009",
+  "Image": [
+   "LegoBrick09"
+  ]
+ },
+ {
+  "Type": "2010",
+  "Image": [
+   "LegoBrick10"
+  ]
+ },
+ {
+  "Type": "2401",
+  "Image": [
+   "Coin01"
+  ]
+ },
+ {
+  "Type": "2402",
+  "Image": [
+   "Coin02"
+  ]
+ },
+ {
+  "Type": "2403",
+  "Image": [
+   "Coin03"
+  ]
+ },
+ {
+  "Type": "2404",
+  "Image": [
+   "Coin04"
+  ]
+ },
+ {
+  "Type": "2405",
+  "Image": [
+   "Coin05"
+  ]
+ },
+ {
+  "Type": "2501",
+  "Image": [
+   "Gem01"
+  ]
+ },
+ {
+  "Type": "2502",
+  "Image": [
+   "Gem02"
+  ]
+ },
+ {
+  "Type": "2503",
+  "Image": [
+   "Gem03"
+  ]
+ },
+ {
+  "Type": "2504",
+  "Image": [
+   "Gem04"
+  ]
+ },
+ {
+  "Type": "2601",
+  "Image": [
+   "Energy01"
+  ]
+ },
+ {
+  "Type": "2602",
+  "Image": [
+   "Energy02"
+  ]
+ },
+ {
+  "Type": "2603",
+  "Image": [
+   "Energy03"
+  ]
+ },
+ {
+  "Type": "2604",
+  "Image": [
+   "Energy04"
+  ]
+ },
+ {
+  "Type": "2605",
+  "Image": [
+   "Energy05"
+  ]
+ },
+ {
+  "Type": "2701",
+  "Image": [
+   "RedChest01"
+  ]
+ },
+ {
+  "Type": "2702",
+  "Image": [
+   "RedChest02"
+  ]
+ },
+ {
+  "Type": "2801",
+  "Image": [
+   "GreenChest01"
+  ]
+ },
+ {
+  "Type": "2802",
+  "Image": [
+   "GreenChest02"
+  ]
+ },
+ {
+  "Type": "2901",
+  "Image": [
+   "EnergyChest"
+  ]
+ },
+ {
+  "Type": "3001",
+  "Image": [
+   "FreeChest"
+  ]
+ },
+ {
+  "Type": "3101",
+  "Image": [
+   "CoinChest"
+  ]
+ },
+ {
+  "Type": "3201",
+  "Image": [
+   "Sand01",
+   "Sand02",
+   "Sand03",
+   "Sand04",
+   "Sand05",
+   "Sand06"
+  ]
+ },
+ {
+  "Type": "3301",
+  "Image": [
+   "SandHalf"
+  ]
+ },
+ {
+  "Type": "3501",
+  "Image": [
+   "TutorialChest"
+  ]
+ },
+ {
+  "Type": "3601",
+  "Image": [
+   "StarterChest"
+  ]
+ },
+ {
+  "Type": "3701",
+  "Image": [
+   "DailyChest01"
+  ]
+ },
+ {
+  "Type": "3801",
+  "Image": [
+   "DailyChest02"
+  ]
+ },
+ {
+  "Type": "3901",
+  "Image": [
+   "DailyChest03"
+  ]
+ },
+ {
+  "Type": "4001",
+  "Image": [
+   "MotherSelectChest"
+  ],
+  "DetailDescriptionKey": "item_4001_detaildesc"
+ },
+ {
+  "Type": "4101",
+  "Image": [
+   "NormalSelectChest"
+  ],
+  "DetailDescriptionKey": "item_4101_detaildesc"
+ },
+ {
+  "Type": "4201",
+  "Image": [
+   "GeneratorSelectChest"
+  ],
+  "DetailDescriptionKey": "item_4001_detaildesc"
+ },
+ {
+  "Type": "8301",
+  "Image": [
+   "Bird01"
+  ]
+ },
+ {
+  "Type": "8302",
+  "Image": [
+   "Bird02"
+  ]
+ },
+ {
+  "Type": "8303",
+  "Image": [
+   "Bird03"
+  ]
+ },
+ {
+  "Type": "8304",
+  "Image": [
+   "Bird04"
+  ]
+ },
+ {
+  "Type": "8305",
+  "Image": [
+   "Bird05"
+  ]
+ },
+ {
+  "Type": "8306",
+  "Image": [
+   "Bird06"
+  ]
+ },
+ {
+  "Type": "8307",
+  "Image": [
+   "Bird07"
+  ]
+ },
+ {
+  "Type": "8308",
+  "Image": [
+   "Bird08"
+  ]
+ },
+ {
+  "Type": "8309",
+  "Image": [
+   "Bird09"
+  ]
+ },
+ {
+  "Type": "8310",
+  "Image": [
+   "Bird10"
+  ]
+ },
+ {
+  "Type": "8311",
+  "Image": [
+   "Bird11"
+  ]
+ },
+ {
+  "Type": "8312",
+  "Image": [
+   "Bird12"
+  ]
+ },
+ {
+  "Type": "8313",
+  "Image": [
+   "Bird13"
+  ]
+ },
+ {
+  "Type": "md_hw_gift_1",
+  "Image": [
+   "EventActivityGift2"
+  ]
+ },
+ {
+  "Type": "md_hw_gift_2",
+  "Image": [
+   "EventActivityGift3"
+  ]
+ },
+ {
+  "Type": "level_up_piece_1",
+  "Image": [
+   "level_up_piece_1"
+  ],
+  "TutorialBoard": "TutorialBoardLevelUpItem"
+ },
+ {
+  "Type": "level_down_piece_1",
+  "Image": [
+   "level_down_piece_1"
+  ],
+  "TutorialBoard": "TutorialBoardLevelDownItem"
+ },
+ {
+  "Type": "BPob_gift_1",
+  "Image": [
+   "BPsp_gift_1"
+  ]
+ },
+ {
+  "Type": "BPob_gift_2",
+  "Image": [
+   "BPsp_gift_2"
+  ]
+ },
+ {
+  "Type": "BPob_gift_3",
+  "Image": [
+   "BPsp_gift_3"
+  ]
+ },
+ {
+  "Type": "BP_gift_1",
+  "Image": [
+   "BPsp_gift_1"
+  ]
+ },
+ {
+  "Type": "BP_gift_2",
+  "Image": [
+   "BPsp_gift_2"
+  ]
+ },
+ {
+  "Type": "BP_gift_3",
+  "Image": [
+   "BPsp_gift_3"
+  ]
+ },
+ {
+  "Type": "time_skip_1",
+  "Image": [
+   "time_skip_1"
+  ],
+  "TutorialBoard": "TutorialBoardTimeSkipItem1"
+ },
+ {
+  "Type": "time_skip_2",
+  "Image": [
+   "time_skip_2"
+  ],
+  "TutorialBoard": "TutorialBoardTimeSkipItem2"
+ },
+ {
+  "Type": "time_skip_3",
+  "Image": [
+   "time_skip_3"
+  ],
+  "TutorialBoard": "TutorialBoardTimeSkipItem3"
+ },
+ {
+  "Type": "time_skip_4",
+  "Image": [
+   "time_skip_4"
+  ],
+  "TutorialBoard": "TutorialBoardTimeSkipItem4"
+ },
+ {
+  "Type": "time_skip_5",
+  "Image": [
+   "time_skip_5"
+  ],
+  "TutorialBoard": "TutorialBoardTimeSkipItem5"
+ },
+ {
+  "Type": "daily_task_chestA_1",
+  "Image": [
+   "daily_task_chestA"
+  ]
+ },
+ {
+  "Type": "daily_task_chestB_1",
+  "Image": [
+   "daily_task_chestA"
+  ]
+ },
+ {
+  "Type": "daily_task_chestC_1",
+  "Image": [
+   "daily_task_chestA"
+  ]
+ },
+ {
+  "Type": "infi_ene_1",
+  "Image": [
+   "infi_ene_1"
+  ],
+  "DetailDescriptionKey": "item_infi_ene_1_detaildesc"
+ },
+ {
+  "Type": "infi_ene_2",
+  "Image": [
+   "infi_ene_2"
+  ],
+  "DetailDescriptionKey": "item_infi_ene_2_detaildesc"
+ },
+ {
+  "Type": "infi_ene_3",
+  "Image": [
+   "infi_ene_3"
+  ],
+  "DetailDescriptionKey": "item_infi_ene_3_detaildesc"
+ },
+ {
+  "Type": "infi_ene_4",
+  "Image": [
+   "infi_ene_4"
+  ],
+  "DetailDescriptionKey": "item_infi_ene_4_detaildesc"
+ },
+ {
+  "Type": "infi_ene_5",
+  "Image": [
+   "infi_ene_5"
+  ],
+  "DetailDescriptionKey": "item_infi_ene_5_detaildesc"
+ },
+ {
+  "Type": "deco_event_gift_s_1",
+  "Image": [
+   "EventActivityGift2"
+  ]
+ },
+ {
+  "Type": "deco_event_gift_b_1",
+  "Image": [
+   "EventActivityGift3"
+  ]
+ },
+ {
+  "Type": "speed_bubble_1",
+  "Image": [
+   "speed_bubble_1"
+  ]
+ },
+ {
+  "Type": "ns_2_1",
+  "Image": [
+   "ns_2_1"
+  ],
+  "DetailDescriptionKey": "item_ns_2_1_detaildesc"
+ },
+ {
+  "Type": "ns_3_1",
+  "Image": [
+   "ns_3_1"
+  ],
+  "DetailDescriptionKey": "item_4101_detaildesc"
+ },
+ {
+  "Type": "ns_4_1",
+  "Image": [
+   "ns_4_1"
+  ],
+  "DetailDescriptionKey": "item_ns_2_1_detaildesc"
+ },
+ {
+  "Type": "os_1_1",
+  "Image": [
+   "os_1_1"
+  ],
+  "DetailDescriptionKey": "item_os_1_1_detaildesc"
+ },
+ {
+  "Type": "os_2_1",
+  "Image": [
+   "os_2_1"
+  ],
+  "DetailDescriptionKey": "item_os_2_1_detaildesc"
+ },
+ {
+  "Type": "main_cs_1_1",
+  "Image": [
+   "main_cs_1_1"
+  ],
+  "DetailDescriptionKey": "item_main_cs_1_1_detaildesc"
+ },
+ {
+  "Type": "main_cs_2_1",
+  "Image": [
+   "main_cs_2_1"
+  ],
+  "DetailDescriptionKey": "item_main_cs_2_1_detaildesc"
+ },
+ {
+  "Type": "fish_trophy_b_1",
+  "Image": [
+   "fish_trophy_a_1"
+  ]
+ },
+ {
+  "Type": "fish_trophy_c_1",
+  "Image": [
+   "fish_trophy_a_1"
+  ]
+ },
+ {
+  "Type": "main_e_chest_new_1",
+  "Image": [
+   "EnergyChest"
+  ]
+ },
+ {
+  "Type": "main_e_chest_new2_1",
+  "Image": [
+   "EnergyChest"
+  ]
+ },
+ {
+  "Type": "main_g_chest_new_1",
+  "Image": [
+   "CoinChest"
+  ]
+ },
+ {
+  "Type": "main_t_chest_new_1",
+  "Image": [
+   "TutorialChest"
+  ]
+ },
+ {
+  "Type": "main_super_gem_1",
+  "Image": [
+   "main_gem_super_1"
+  ]
+ },
+ {
+  "Type": "main_super_gem_2",
+  "Image": [
+   "main_gem_super_2"
+  ]
+ },
+ {
+  "Type": "main_super_gem_3",
+  "Image": [
+   "main_gem_super_3"
+  ]
+ },
+ {
+  "Type": "main_super_gem_4",
+  "Image": [
+   "main_gem_super_4"
+  ]
+ },
+ {
+  "Type": "main_super_gem_5",
+  "Image": [
+   "main_gem_super_5"
+  ]
+ },
+ {
+  "Type": "main_super_gem_6",
+  "Image": [
+   "main_gem_super_6"
+  ]
+ },
+ {
+  "Type": "main_super_gem_7",
+  "Image": [
+   "main_gem_super_7"
+  ]
+ },
+ {
+  "Type": "main_super_gem_8",
+  "Image": [
+   "main_gem_super_8"
+  ]
+ },
+ {
+  "Type": "mineralDig_mine_1_111",
+  "Image": [
+   "mineralDig_mine_1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_1_112",
+  "Image": [
+   "mineralDig_mine_1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_1_211",
+  "Image": [
+   "mineralDig_mine_1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_1_212",
+  "Image": [
+   "mineralDig_mine_1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_1_221",
+  "Image": [
+   "mineralDig_mine_1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_1_222",
+  "Image": [
+   "mineralDig_mine_1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_1_311",
+  "Image": [
+   "mineralDig_mine_1_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_1_312",
+  "Image": [
+   "mineralDig_mine_1_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_1_321",
+  "Image": [
+   "mineralDig_mine_1_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_1_322",
+  "Image": [
+   "mineralDig_mine_1_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_1_331",
+  "Image": [
+   "mineralDig_mine_1_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_1_332",
+  "Image": [
+   "mineralDig_mine_1_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_2_111",
+  "Image": [
+   "mineralDig_mine_2_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_2_112",
+  "Image": [
+   "mineralDig_mine_2_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_2_211",
+  "Image": [
+   "mineralDig_mine_2_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_2_212",
+  "Image": [
+   "mineralDig_mine_2_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_2_221",
+  "Image": [
+   "mineralDig_mine_2_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_2_222",
+  "Image": [
+   "mineralDig_mine_2_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_2_311",
+  "Image": [
+   "mineralDig_mine_2_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_2_312",
+  "Image": [
+   "mineralDig_mine_2_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_2_321",
+  "Image": [
+   "mineralDig_mine_2_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_2_322",
+  "Image": [
+   "mineralDig_mine_2_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_2_331",
+  "Image": [
+   "mineralDig_mine_2_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_2_332",
+  "Image": [
+   "mineralDig_mine_2_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_3_111",
+  "Image": [
+   "mineralDig_mine_3_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_3_112",
+  "Image": [
+   "mineralDig_mine_3_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_3_211",
+  "Image": [
+   "mineralDig_mine_3_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_3_212",
+  "Image": [
+   "mineralDig_mine_3_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_3_221",
+  "Image": [
+   "mineralDig_mine_3_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_3_222",
+  "Image": [
+   "mineralDig_mine_3_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_3_311",
+  "Image": [
+   "mineralDig_mine_3_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_3_312",
+  "Image": [
+   "mineralDig_mine_3_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_3_321",
+  "Image": [
+   "mineralDig_mine_3_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_3_322",
+  "Image": [
+   "mineralDig_mine_3_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_3_331",
+  "Image": [
+   "mineralDig_mine_3_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_3_332",
+  "Image": [
+   "mineralDig_mine_3_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_subEndless_001",
+  "Image": [
+   "mineralDig_mine_subEndless_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_subEndless_002",
+  "Image": [
+   "mineralDig_mine_subEndless_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_sub_111",
+  "Image": [
+   "mineralDig_mine_sub_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_sub_112",
+  "Image": [
+   "mineralDig_mine_sub_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_sub_211",
+  "Image": [
+   "mineralDig_mine_sub_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_sub_212",
+  "Image": [
+   "mineralDig_mine_sub_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_sub_221",
+  "Image": [
+   "mineralDig_mine_sub_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_sub_222",
+  "Image": [
+   "mineralDig_mine_sub_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_sub_311",
+  "Image": [
+   "mineralDig_mine_sub_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_sub_312",
+  "Image": [
+   "mineralDig_mine_sub_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_sub_321",
+  "Image": [
+   "mineralDig_mine_sub_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_sub_322",
+  "Image": [
+   "mineralDig_mine_sub_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_sub_331",
+  "Image": [
+   "mineralDig_mine_sub_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_sub_332",
+  "Image": [
+   "mineralDig_mine_sub_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_gold_111",
+  "Image": [
+   "mineralDig_mine_gold_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_gold_112",
+  "Image": [
+   "mineralDig_mine_gold_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_gold_211",
+  "Image": [
+   "mineralDig_mine_gold_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_gold_212",
+  "Image": [
+   "mineralDig_mine_gold_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_gold_221",
+  "Image": [
+   "mineralDig_mine_gold_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_gold_222",
+  "Image": [
+   "mineralDig_mine_gold_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_gold_311",
+  "Image": [
+   "mineralDig_mine_gold_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_gold_312",
+  "Image": [
+   "mineralDig_mine_gold_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_gold_321",
+  "Image": [
+   "mineralDig_mine_gold_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_gold_322",
+  "Image": [
+   "mineralDig_mine_gold_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_gold_331",
+  "Image": [
+   "mineralDig_mine_gold_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_gold_332",
+  "Image": [
+   "mineralDig_mine_gold_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_buriedGift1_311",
+  "Image": [
+   "mineralDig_mine_buriedGift1_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_buriedGift1_312",
+  "Image": [
+   "mineralDig_mine_buriedGift1_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_buriedGift1_321",
+  "Image": [
+   "mineralDig_mine_buriedGift1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_buriedGift1_322",
+  "Image": [
+   "mineralDig_mine_buriedGift1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_buriedGift1_331",
+  "Image": [
+   "mineralDig_mine_buriedGift1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_buriedGift1_332",
+  "Image": [
+   "mineralDig_mine_buriedGift1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_buriedGift2_311",
+  "Image": [
+   "mineralDig_mine_buriedGift2_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_buriedGift2_312",
+  "Image": [
+   "mineralDig_mine_buriedGift2_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_buriedGift2_321",
+  "Image": [
+   "mineralDig_mine_buriedGift2_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_buriedGift2_322",
+  "Image": [
+   "mineralDig_mine_buriedGift2_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_buriedGift2_331",
+  "Image": [
+   "mineralDig_mine_buriedGift2_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_mine_buriedGift2_332",
+  "Image": [
+   "mineralDig_mine_buriedGift2_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig_locked_gift_3_1",
+  "Image": [
+   "mineralDig_locked_gift_2_1"
+  ]
+ },
+ {
+  "Type": "mineralDig_locked_gift_5_1",
+  "Image": [
+   "mineralDig_locked_gift_4_1"
+  ]
+ },
+ {
+  "Type": "mineralDig_locked_gift_7_1",
+  "Image": [
+   "mineralDig_locked_gift_6_1"
+  ]
+ },
+ {
+  "Type": "mineralDig_bonus_box_b_1",
+  "Image": [
+   "mineralDig_bonus_box_a_1"
+  ]
+ },
+ {
+  "Type": "mineralDig_bonus_box_c_1",
+  "Image": [
+   "mineralDig_bonus_box_a_1"
+  ]
+ },
+ {
+  "Type": "mineralDig2_mine_1_111",
+  "Image": [
+   "mineralDig2_mine_1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_1_112",
+  "Image": [
+   "mineralDig2_mine_1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_1_211",
+  "Image": [
+   "mineralDig2_mine_1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_1_212",
+  "Image": [
+   "mineralDig2_mine_1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_1_221",
+  "Image": [
+   "mineralDig2_mine_1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_1_222",
+  "Image": [
+   "mineralDig2_mine_1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_1_311",
+  "Image": [
+   "mineralDig2_mine_1_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_1_312",
+  "Image": [
+   "mineralDig2_mine_1_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_1_321",
+  "Image": [
+   "mineralDig2_mine_1_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_1_322",
+  "Image": [
+   "mineralDig2_mine_1_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_1_331",
+  "Image": [
+   "mineralDig2_mine_1_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_1_332",
+  "Image": [
+   "mineralDig2_mine_1_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_2_111",
+  "Image": [
+   "mineralDig2_mine_2_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_2_112",
+  "Image": [
+   "mineralDig2_mine_2_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_2_211",
+  "Image": [
+   "mineralDig2_mine_2_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_2_212",
+  "Image": [
+   "mineralDig2_mine_2_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_2_221",
+  "Image": [
+   "mineralDig2_mine_2_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_2_222",
+  "Image": [
+   "mineralDig2_mine_2_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_2_311",
+  "Image": [
+   "mineralDig2_mine_2_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_2_312",
+  "Image": [
+   "mineralDig2_mine_2_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_2_321",
+  "Image": [
+   "mineralDig2_mine_2_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_2_322",
+  "Image": [
+   "mineralDig2_mine_2_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_2_331",
+  "Image": [
+   "mineralDig2_mine_2_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_2_332",
+  "Image": [
+   "mineralDig2_mine_2_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_3_111",
+  "Image": [
+   "mineralDig2_mine_3_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_3_112",
+  "Image": [
+   "mineralDig2_mine_3_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_3_211",
+  "Image": [
+   "mineralDig2_mine_3_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_3_212",
+  "Image": [
+   "mineralDig2_mine_3_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_3_221",
+  "Image": [
+   "mineralDig2_mine_3_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_3_222",
+  "Image": [
+   "mineralDig2_mine_3_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_3_311",
+  "Image": [
+   "mineralDig2_mine_3_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_3_312",
+  "Image": [
+   "mineralDig2_mine_3_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_3_321",
+  "Image": [
+   "mineralDig2_mine_3_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_3_322",
+  "Image": [
+   "mineralDig2_mine_3_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_3_331",
+  "Image": [
+   "mineralDig2_mine_3_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_3_332",
+  "Image": [
+   "mineralDig2_mine_3_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_subEndless_001",
+  "Image": [
+   "mineralDig2_mine_subEndless_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_subEndless_002",
+  "Image": [
+   "mineralDig2_mine_subEndless_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_sub_111",
+  "Image": [
+   "mineralDig2_mine_sub_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_sub_112",
+  "Image": [
+   "mineralDig2_mine_sub_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_sub_211",
+  "Image": [
+   "mineralDig2_mine_sub_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_sub_212",
+  "Image": [
+   "mineralDig2_mine_sub_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_sub_221",
+  "Image": [
+   "mineralDig2_mine_sub_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_sub_222",
+  "Image": [
+   "mineralDig2_mine_sub_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_sub_311",
+  "Image": [
+   "mineralDig2_mine_sub_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_sub_312",
+  "Image": [
+   "mineralDig2_mine_sub_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_sub_321",
+  "Image": [
+   "mineralDig2_mine_sub_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_sub_322",
+  "Image": [
+   "mineralDig2_mine_sub_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_sub_331",
+  "Image": [
+   "mineralDig2_mine_sub_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_sub_332",
+  "Image": [
+   "mineralDig2_mine_sub_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_gold_111",
+  "Image": [
+   "mineralDig2_mine_gold_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_gold_112",
+  "Image": [
+   "mineralDig2_mine_gold_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_gold_211",
+  "Image": [
+   "mineralDig2_mine_gold_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_gold_212",
+  "Image": [
+   "mineralDig2_mine_gold_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_gold_221",
+  "Image": [
+   "mineralDig2_mine_gold_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_gold_222",
+  "Image": [
+   "mineralDig2_mine_gold_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_gold_311",
+  "Image": [
+   "mineralDig2_mine_gold_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_gold_312",
+  "Image": [
+   "mineralDig2_mine_gold_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_gold_321",
+  "Image": [
+   "mineralDig2_mine_gold_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_gold_322",
+  "Image": [
+   "mineralDig2_mine_gold_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_gold_331",
+  "Image": [
+   "mineralDig2_mine_gold_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_gold_332",
+  "Image": [
+   "mineralDig2_mine_gold_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_buriedGift1_311",
+  "Image": [
+   "mineralDig2_mine_buriedGift1_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_buriedGift1_312",
+  "Image": [
+   "mineralDig2_mine_buriedGift1_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_buriedGift1_321",
+  "Image": [
+   "mineralDig2_mine_buriedGift1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_buriedGift1_322",
+  "Image": [
+   "mineralDig2_mine_buriedGift1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_buriedGift1_331",
+  "Image": [
+   "mineralDig2_mine_buriedGift1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_buriedGift1_332",
+  "Image": [
+   "mineralDig2_mine_buriedGift1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_buriedGift2_311",
+  "Image": [
+   "mineralDig2_mine_buriedGift2_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_buriedGift2_312",
+  "Image": [
+   "mineralDig2_mine_buriedGift2_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_buriedGift2_321",
+  "Image": [
+   "mineralDig2_mine_buriedGift2_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_buriedGift2_322",
+  "Image": [
+   "mineralDig2_mine_buriedGift2_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_buriedGift2_331",
+  "Image": [
+   "mineralDig2_mine_buriedGift2_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_mine_buriedGift2_332",
+  "Image": [
+   "mineralDig2_mine_buriedGift2_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mineralDig2_locked_gift_3_1",
+  "Image": [
+   "mineralDig2_locked_gift_2_1"
+  ]
+ },
+ {
+  "Type": "mineralDig2_locked_gift_5_1",
+  "Image": [
+   "mineralDig2_locked_gift_4_1"
+  ]
+ },
+ {
+  "Type": "mineralDig2_locked_gift_7_1",
+  "Image": [
+   "mineralDig2_locked_gift_6_1"
+  ]
+ },
+ {
+  "Type": "mineralDig2_bonus_box_b_1",
+  "Image": [
+   "mineralDig2_bonus_box_a_1"
+  ]
+ },
+ {
+  "Type": "mineralDig2_bonus_box_c_1",
+  "Image": [
+   "mineralDig2_bonus_box_a_1"
+  ]
+ },
+ {
+  "Type": "main_order_chest_s_1",
+  "Image": [
+   "main_order_chest_s_1"
+  ],
+  "NormalDescriptionKey": "order_item_chest_desc"
+ },
+ {
+  "Type": "main_order_chest_m_1",
+  "Image": [
+   "main_order_chest_m_1"
+  ],
+  "NormalDescriptionKey": "order_item_chest_desc"
+ },
+ {
+  "Type": "main_order_chest_b_1",
+  "Image": [
+   "main_order_chest_b_1"
+  ],
+  "NormalDescriptionKey": "order_item_chest_desc"
+ },
+ {
+  "Type": "main_hallow_ball_1",
+  "Image": [
+   "main_hallow_ball_1"
+  ],
+  "NormalDescriptionKey": "order_item_chest_desc"
+ },
+ {
+  "Type": "main_hallow_book_1",
+  "Image": [
+   "main_hallow_book_1"
+  ],
+  "NormalDescriptionKey": "order_item_chest_desc"
+ },
+ {
+  "Type": "break_shopping_1_swa_e1_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_1_swa_f1_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_1_swa_e2_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_1_swa_f2_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_1_swa_e3_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_1_swa_f3_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_1_swa_e4_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_1_swa_f4_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_1_swa_e5_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_1_swa_f5_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_1_swa_e6_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_1_swa_f6_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_1_swa_e7_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_1_swa_f7_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_1_swa_e8_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_1_swa_f8_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_1_swa_e9_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_1_swa_f9_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_1_swa_e10_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_1_swa_f10_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_1_swa_e11_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_1_swa_f11_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_1_swa_e12_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_1_swa_f12_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_1_swa_e13_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_1_swa_f13_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_1_swa_e14_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_1_swa_f14_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_1_swa_e15_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_1_swa_f15_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_1_swa_e16_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_1_swa_f16_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_1_swa_e17_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_1_swa_f17_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_1_swa_e18_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_1_swa_f18_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_1_gift_s1_111",
+  "Image": [
+   "break_shopping_gift_s1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_s1_112",
+  "Image": [
+   "break_shopping_gift_s1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_s2_111",
+  "Image": [
+   "break_shopping_box_energy1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_s2_112",
+  "Image": [
+   "break_shopping_box_energy1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_s3_111",
+  "Image": [
+   "break_shopping_box_gold1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_s3_112",
+  "Image": [
+   "break_shopping_box_gold1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_s4_111",
+  "Image": [
+   "break_shopping_gift_s1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_s4_112",
+  "Image": [
+   "break_shopping_gift_s1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_s5_111",
+  "Image": [
+   "break_shopping_gift_s1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_s5_112",
+  "Image": [
+   "break_shopping_gift_s1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_s6_111",
+  "Image": [
+   "break_shopping_gift_s1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_s6_112",
+  "Image": [
+   "break_shopping_gift_s1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_s8_111",
+  "Image": [
+   "break_shopping_box_energy2_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_s8_112",
+  "Image": [
+   "break_shopping_box_energy2_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m1_111",
+  "Image": [
+   "break_shopping_box_tar1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m1_112",
+  "Image": [
+   "break_shopping_box_tar1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m2_111",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m2_112",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m3_211",
+  "Image": [
+   "break_shopping_box_tar1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m3_212",
+  "Image": [
+   "break_shopping_box_tar1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m3_221",
+  "Image": [
+   "break_shopping_box_tar1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m3_222",
+  "Image": [
+   "break_shopping_box_tar1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m4_211",
+  "Image": [
+   "break_shopping_gift_m1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m4_212",
+  "Image": [
+   "break_shopping_gift_m1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m4_221",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m4_222",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m5_311",
+  "Image": [
+   "break_shopping_gift_m1_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m5_312",
+  "Image": [
+   "break_shopping_gift_m1_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m5_321",
+  "Image": [
+   "break_shopping_gift_m1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m5_322",
+  "Image": [
+   "break_shopping_gift_m1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m5_331",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m5_332",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m6_111",
+  "Image": [
+   "break_shopping_box_item201_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m6_112",
+  "Image": [
+   "break_shopping_box_item201_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m7_211",
+  "Image": [
+   "break_shopping_box_item202_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m7_212",
+  "Image": [
+   "break_shopping_box_item202_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m7_221",
+  "Image": [
+   "break_shopping_box_item202_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m7_222",
+  "Image": [
+   "break_shopping_box_item202_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m8_111",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m8_112",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m9_211",
+  "Image": [
+   "break_shopping_box_tar3_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m9_212",
+  "Image": [
+   "break_shopping_box_tar3_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m9_221",
+  "Image": [
+   "break_shopping_box_tar3_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m9_222",
+  "Image": [
+   "break_shopping_box_tar3_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m10_211",
+  "Image": [
+   "break_shopping_box_item101_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m10_212",
+  "Image": [
+   "break_shopping_box_item101_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m10_221",
+  "Image": [
+   "break_shopping_box_item101_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m10_222",
+  "Image": [
+   "break_shopping_box_item101_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m11_211",
+  "Image": [
+   "break_shopping_gift_m1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m11_212",
+  "Image": [
+   "break_shopping_gift_m1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m11_221",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m11_222",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m12_211",
+  "Image": [
+   "break_shopping_box_item104_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m12_212",
+  "Image": [
+   "break_shopping_box_item104_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m12_221",
+  "Image": [
+   "break_shopping_box_item104_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m12_222",
+  "Image": [
+   "break_shopping_box_item104_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m13_111",
+  "Image": [
+   "break_shopping_box_item104_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m13_112",
+  "Image": [
+   "break_shopping_box_item104_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m14_211",
+  "Image": [
+   "break_shopping_gift_m1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m14_212",
+  "Image": [
+   "break_shopping_gift_m1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m14_221",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m14_222",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m15_111",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m15_112",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m16_111",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m16_112",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_b9_311",
+  "Image": [
+   "break_shopping_gift_b1_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_b9_312",
+  "Image": [
+   "break_shopping_gift_b1_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_b9_321",
+  "Image": [
+   "break_shopping_gift_b1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_b9_322",
+  "Image": [
+   "break_shopping_gift_b1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_b9_331",
+  "Image": [
+   "break_shopping_gift_b1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_b9_332",
+  "Image": [
+   "break_shopping_gift_b1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_s7_111",
+  "Image": [
+   "break_shopping_box_gold2_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_s7_112",
+  "Image": [
+   "break_shopping_box_gold2_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m17_111",
+  "Image": [
+   "break_shopping_box_item101_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m17_112",
+  "Image": [
+   "break_shopping_box_item101_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m18_111",
+  "Image": [
+   "break_shopping_box_tar3_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_m18_112",
+  "Image": [
+   "break_shopping_box_tar3_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_b20_111",
+  "Image": [
+   "break_shopping_box_energy4_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_b20_112",
+  "Image": [
+   "break_shopping_box_energy4_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_b21_211",
+  "Image": [
+   "break_shopping_box_gem3_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_b21_212",
+  "Image": [
+   "break_shopping_box_gem3_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_b21_221",
+  "Image": [
+   "break_shopping_box_gem3_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_b21_222",
+  "Image": [
+   "break_shopping_box_gem3_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_b22_311",
+  "Image": [
+   "break_shopping_box_energy5_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_b22_312",
+  "Image": [
+   "break_shopping_box_energy5_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_b22_321",
+  "Image": [
+   "break_shopping_box_energy5_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_b22_322",
+  "Image": [
+   "break_shopping_box_energy5_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_b22_331",
+  "Image": [
+   "break_shopping_box_energy5_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_b22_332",
+  "Image": [
+   "break_shopping_box_energy5_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_b23_211",
+  "Image": [
+   "break_shopping_box_energy5_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_b23_212",
+  "Image": [
+   "break_shopping_box_energy5_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_b23_221",
+  "Image": [
+   "break_shopping_box_energy5_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_b23_222",
+  "Image": [
+   "break_shopping_box_energy5_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_b24_311",
+  "Image": [
+   "break_shopping_box_gem4_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_b24_312",
+  "Image": [
+   "break_shopping_box_gem4_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_b24_321",
+  "Image": [
+   "break_shopping_box_gem4_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_b24_322",
+  "Image": [
+   "break_shopping_box_gem4_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_b24_331",
+  "Image": [
+   "break_shopping_box_gem4_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_b24_332",
+  "Image": [
+   "break_shopping_box_gem4_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_b25_311",
+  "Image": [
+   "break_shopping_box_energy4_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_b25_312",
+  "Image": [
+   "break_shopping_box_energy4_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_b25_321",
+  "Image": [
+   "break_shopping_box_energy4_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_b25_322",
+  "Image": [
+   "break_shopping_box_energy4_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_b25_331",
+  "Image": [
+   "break_shopping_box_energy4_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_1_gift_b25_332",
+  "Image": [
+   "break_shopping_box_energy4_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_swa_e1_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_swa_f1_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_swa_e2_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_swa_f2_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_swa_e3_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_swa_f3_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_swa_e4_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_swa_f4_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_swa_e5_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_swa_f5_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_swa_e6_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_swa_f6_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_swa_e7_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_swa_f7_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_swa_e8_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_swa_f8_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_swa_e9_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_swa_f9_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_swa_e10_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_swa_f10_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_swa_e11_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_swa_f11_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_swa_e12_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_swa_f12_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_swa_e13_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_swa_f13_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_swa_e14_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_swa_f14_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_swa_e15_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_swa_f15_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_swa_e16_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_swa_f16_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_swa_e17_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_swa_f17_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_swa_e18_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_swa_f18_1",
+  "Image": [
+   "break_shopping_swa_1"
+  ]
+ },
+ {
+  "Type": "break_shopping_gift_s1_111",
+  "Image": [
+   "break_shopping_gift_s1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_s1_112",
+  "Image": [
+   "break_shopping_gift_s1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_s2_111",
+  "Image": [
+   "break_shopping_gift_s1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_s2_112",
+  "Image": [
+   "break_shopping_gift_s1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_s3_111",
+  "Image": [
+   "break_shopping_gift_s1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_s3_112",
+  "Image": [
+   "break_shopping_gift_s1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_s4_111",
+  "Image": [
+   "break_shopping_gift_s1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_s4_112",
+  "Image": [
+   "break_shopping_gift_s1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_s5_111",
+  "Image": [
+   "break_shopping_gift_s1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_s5_112",
+  "Image": [
+   "break_shopping_gift_s1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_s6_111",
+  "Image": [
+   "break_shopping_gift_s1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_s6_112",
+  "Image": [
+   "break_shopping_gift_s1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m1_111",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m1_112",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m2_111",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m2_112",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m3_211",
+  "Image": [
+   "break_shopping_gift_m1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m3_212",
+  "Image": [
+   "break_shopping_gift_m1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m3_221",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m3_222",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m4_211",
+  "Image": [
+   "break_shopping_gift_m1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m4_212",
+  "Image": [
+   "break_shopping_gift_m1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m4_221",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m4_222",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m5_311",
+  "Image": [
+   "break_shopping_gift_m1_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m5_312",
+  "Image": [
+   "break_shopping_gift_m1_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m5_321",
+  "Image": [
+   "break_shopping_gift_m1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m5_322",
+  "Image": [
+   "break_shopping_gift_m1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m5_331",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m5_332",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m6_111",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m6_112",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m7_211",
+  "Image": [
+   "break_shopping_gift_m1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m7_212",
+  "Image": [
+   "break_shopping_gift_m1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m7_221",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m7_222",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m8_111",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m8_112",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m9_211",
+  "Image": [
+   "break_shopping_gift_m1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m9_212",
+  "Image": [
+   "break_shopping_gift_m1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m9_221",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m9_222",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m10_211",
+  "Image": [
+   "break_shopping_gift_m1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m10_212",
+  "Image": [
+   "break_shopping_gift_m1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m10_221",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m10_222",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m11_211",
+  "Image": [
+   "break_shopping_gift_m1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m11_212",
+  "Image": [
+   "break_shopping_gift_m1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m11_221",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m11_222",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m12_211",
+  "Image": [
+   "break_shopping_gift_m1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m12_212",
+  "Image": [
+   "break_shopping_gift_m1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m12_221",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m12_222",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m13_111",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m13_112",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m14_211",
+  "Image": [
+   "break_shopping_gift_m1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m14_212",
+  "Image": [
+   "break_shopping_gift_m1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m14_221",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m14_222",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m15_111",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m15_112",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m16_111",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m16_112",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_b9_311",
+  "Image": [
+   "break_shopping_gift_b1_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_b9_312",
+  "Image": [
+   "break_shopping_gift_b1_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_b9_321",
+  "Image": [
+   "break_shopping_gift_b1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_b9_322",
+  "Image": [
+   "break_shopping_gift_b1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_b9_331",
+  "Image": [
+   "break_shopping_gift_b1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_b9_332",
+  "Image": [
+   "break_shopping_gift_b1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_s7_111",
+  "Image": [
+   "break_shopping_gift_s1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_s7_112",
+  "Image": [
+   "break_shopping_gift_s1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_s8_111",
+  "Image": [
+   "break_shopping_gift_s1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_s8_112",
+  "Image": [
+   "break_shopping_gift_s1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m17_111",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m17_112",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m18_111",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_m18_112",
+  "Image": [
+   "break_shopping_gift_m1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_b20_111",
+  "Image": [
+   "break_shopping_gift_b1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_b20_112",
+  "Image": [
+   "break_shopping_gift_b1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_b21_211",
+  "Image": [
+   "break_shopping_gift_b1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_b21_212",
+  "Image": [
+   "break_shopping_gift_b1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_b21_221",
+  "Image": [
+   "break_shopping_gift_b1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_b21_222",
+  "Image": [
+   "break_shopping_gift_b1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_b22_311",
+  "Image": [
+   "break_shopping_gift_b1_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_b22_312",
+  "Image": [
+   "break_shopping_gift_b1_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_b22_321",
+  "Image": [
+   "break_shopping_gift_b1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_b22_322",
+  "Image": [
+   "break_shopping_gift_b1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_b22_331",
+  "Image": [
+   "break_shopping_gift_b1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_b22_332",
+  "Image": [
+   "break_shopping_gift_b1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_b23_211",
+  "Image": [
+   "break_shopping_gift_b1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_b23_212",
+  "Image": [
+   "break_shopping_gift_b1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_b23_221",
+  "Image": [
+   "break_shopping_gift_b1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_b23_222",
+  "Image": [
+   "break_shopping_gift_b1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_b24_311",
+  "Image": [
+   "break_shopping_gift_b1_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_b24_312",
+  "Image": [
+   "break_shopping_gift_b1_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_b24_321",
+  "Image": [
+   "break_shopping_gift_b1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_b24_322",
+  "Image": [
+   "break_shopping_gift_b1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_b24_331",
+  "Image": [
+   "break_shopping_gift_b1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_b24_332",
+  "Image": [
+   "break_shopping_gift_b1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_b25_311",
+  "Image": [
+   "break_shopping_gift_b1_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_b25_312",
+  "Image": [
+   "break_shopping_gift_b1_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_b25_321",
+  "Image": [
+   "break_shopping_gift_b1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_b25_322",
+  "Image": [
+   "break_shopping_gift_b1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_b25_331",
+  "Image": [
+   "break_shopping_gift_b1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "break_shopping_gift_b25_332",
+  "Image": [
+   "break_shopping_gift_b1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_tool_111",
+  "Image": [
+   "stickerboard_winter_mine_tool_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_tool_112",
+  "Image": [
+   "stickerboard_winter_mine_tool_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_tool_211",
+  "Image": [
+   "stickerboard_winter_mine_tool_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_tool_212",
+  "Image": [
+   "stickerboard_winter_mine_tool_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_tool_221",
+  "Image": [
+   "stickerboard_winter_mine_tool_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_tool_222",
+  "Image": [
+   "stickerboard_winter_mine_tool_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_tool_311",
+  "Image": [
+   "stickerboard_winter_mine_tool_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_tool_312",
+  "Image": [
+   "stickerboard_winter_mine_tool_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_tool_321",
+  "Image": [
+   "stickerboard_winter_mine_tool_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_tool_322",
+  "Image": [
+   "stickerboard_winter_mine_tool_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_tool_331",
+  "Image": [
+   "stickerboard_winter_mine_tool_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_tool_332",
+  "Image": [
+   "stickerboard_winter_mine_tool_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_main_111",
+  "Image": [
+   "stickerboard_winter_mine_main_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_main_112",
+  "Image": [
+   "stickerboard_winter_mine_main_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_main_211",
+  "Image": [
+   "stickerboard_winter_mine_main_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_main_212",
+  "Image": [
+   "stickerboard_winter_mine_main_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_main_221",
+  "Image": [
+   "stickerboard_winter_mine_main_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_main_222",
+  "Image": [
+   "stickerboard_winter_mine_main_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_main_311",
+  "Image": [
+   "stickerboard_winter_mine_main_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_main_312",
+  "Image": [
+   "stickerboard_winter_mine_main_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_main_321",
+  "Image": [
+   "stickerboard_winter_mine_main_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_main_322",
+  "Image": [
+   "stickerboard_winter_mine_main_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_main_331",
+  "Image": [
+   "stickerboard_winter_mine_main_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_main_332",
+  "Image": [
+   "stickerboard_winter_mine_main_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_main_411",
+  "Image": [
+   "stickerboard_winter_mine_main_4"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_main_412",
+  "Image": [
+   "stickerboard_winter_mine_main_4"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_main_421",
+  "Image": [
+   "stickerboard_winter_mine_main_4"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_main_422",
+  "Image": [
+   "stickerboard_winter_mine_main_4"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_main_431",
+  "Image": [
+   "stickerboard_winter_mine_main_4"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_main_432",
+  "Image": [
+   "stickerboard_winter_mine_main_4"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_main_441",
+  "Image": [
+   "stickerboard_winter_mine_main_4"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_main_442",
+  "Image": [
+   "stickerboard_winter_mine_main_4"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_gold_111",
+  "Image": [
+   "stickerboard_winter_mine_gold_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_gold_112",
+  "Image": [
+   "stickerboard_winter_mine_gold_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_gold_211",
+  "Image": [
+   "stickerboard_winter_mine_gold_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_gold_212",
+  "Image": [
+   "stickerboard_winter_mine_gold_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_gold_221",
+  "Image": [
+   "stickerboard_winter_mine_gold_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_gold_222",
+  "Image": [
+   "stickerboard_winter_mine_gold_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_gold_311",
+  "Image": [
+   "stickerboard_winter_mine_gold_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_gold_312",
+  "Image": [
+   "stickerboard_winter_mine_gold_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_gold_321",
+  "Image": [
+   "stickerboard_winter_mine_gold_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_gold_322",
+  "Image": [
+   "stickerboard_winter_mine_gold_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_gold_331",
+  "Image": [
+   "stickerboard_winter_mine_gold_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_gold_332",
+  "Image": [
+   "stickerboard_winter_mine_gold_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_buriedGift1_311",
+  "Image": [
+   "stickerboard_winter_mine_buriedGift1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_buriedGift1_312",
+  "Image": [
+   "stickerboard_winter_mine_buriedGift1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_buriedGift1_321",
+  "Image": [
+   "stickerboard_winter_mine_buriedGift1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_buriedGift1_322",
+  "Image": [
+   "stickerboard_winter_mine_buriedGift1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_buriedGift1_331",
+  "Image": [
+   "stickerboard_winter_mine_buriedGift1_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_buriedGift1_332",
+  "Image": [
+   "stickerboard_winter_mine_buriedGift1_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_buriedGift2_311",
+  "Image": [
+   "stickerboard_winter_mine_buriedGift2_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_buriedGift2_312",
+  "Image": [
+   "stickerboard_winter_mine_buriedGift2_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_buriedGift2_321",
+  "Image": [
+   "stickerboard_winter_mine_buriedGift2_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_buriedGift2_322",
+  "Image": [
+   "stickerboard_winter_mine_buriedGift2_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_buriedGift2_331",
+  "Image": [
+   "stickerboard_winter_mine_buriedGift2_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_buriedGift2_332",
+  "Image": [
+   "stickerboard_winter_mine_buriedGift2_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_buriedGift3_311",
+  "Image": [
+   "stickerboard_winter_mine_buriedGift1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_buriedGift3_312",
+  "Image": [
+   "stickerboard_winter_mine_buriedGift1_1"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_buriedGift3_321",
+  "Image": [
+   "stickerboard_winter_mine_buriedGift1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_buriedGift3_322",
+  "Image": [
+   "stickerboard_winter_mine_buriedGift1_2"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_buriedGift3_331",
+  "Image": [
+   "stickerboard_winter_mine_buriedGift1_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_buriedGift3_332",
+  "Image": [
+   "stickerboard_winter_mine_buriedGift1_3"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_endless_001",
+  "Image": [
+   "stickerboard_winter_mine_main_4"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_mine_endless_002",
+  "Image": [
+   "stickerboard_winter_mine_main_4"
+  ],
+  "DigView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_open_portal_1",
+  "Image": [
+   "stickerboard_winter_open_portal_1"
+  ],
+  "PortalView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "stickerboard_winter_chest_c_1",
+  "Image": [
+   "stickerboard_winter_chest_a_1"
+  ]
+ },
+ {
+  "Type": "stickerboard_winter_buried_gift3_1",
+  "Image": [
+   "stickerboard_winter_buried_gift1_1"
+  ]
+ },
+ {
+  "Type": "stickerboard_winter_locked_mine_1",
+  "Image": [
+   "stickerboard_winter_locked_portal_1"
+  ]
+ },
+ {
+  "Type": "stickerboard_winter_spread_portal_1",
+  "Image": [
+   "stickerboard_winter_open_portal_1"
+  ]
+ },
+ {
+  "Type": "mtb_y2k_portal_1",
+  "Image": [
+   "ImageFileConfigName",
+   "ImageFileConfigName"
+  ],
+  "PortalView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "mtb_moon26_portal_1",
+  "Image": [
+   "ImageFileConfigName",
+   "ImageFileConfigName"
+  ],
+  "PortalView": "UIPrefabConfigName"
+ },
+ {
+  "Type": "pb_dogpark_baby_1",
+  "Image": [
+   "pb_dogpark_baby_1"
+  ],
+  "SwallowView": "UIPrefabConfigName",
+  "SpineName": "adv_dogpark_baby_1",
+  "TitleTextKey": "pb_dogpark_shot_title"
+ },
+ {
+  "Type": "pb_dogpark_baby_a_1",
+  "Image": [
+   "pb_dogpark_baby_a_1"
+  ],
+  "SwallowView": "UIPrefabConfigName",
+  "SpineName": "adv_dogpark_baby_a_1",
+  "TitleTextKey": "pb_dogpark_shot_title"
+ },
+ {
+  "Type": "pb_dogpark_baby_b_1",
+  "Image": [
+   "pb_dogpark_baby_b_1"
+  ],
+  "SwallowView": "UIPrefabConfigName",
+  "SpineName": "adv_dogpark_baby_b_1",
+  "TitleTextKey": "pb_dogpark_shot_title"
+ },
+ {
+  "Type": "pb_dogpark_baby_c_1",
+  "Image": [
+   "pb_dogpark_baby_c_1"
+  ],
+  "SwallowView": "UIPrefabConfigName",
+  "SpineName": "adv_dogpark_baby_c_1",
+  "TitleTextKey": "pb_dogpark_shot_title"
+ }
+]

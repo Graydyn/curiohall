@@ -1,0 +1,191 @@
+[
+ {
+  "Type": "ff_monster_a_1",
+  "MergedType": "ff_monster_a_2",
+  "MergeRewards": [
+   "freefall_monster_token_1-1"
+  ]
+ },
+ {
+  "Type": "ff_monster_a_2",
+  "MergedType": "ff_monster_a_3",
+  "MergeRewards": [
+   "freefall_monster_token_1-2"
+  ]
+ },
+ {
+  "Type": "ff_monster_a_3",
+  "MergedType": "ff_monster_a_4",
+  "MergeRewards": [
+   "freefall_monster_token_1-3"
+  ]
+ },
+ {
+  "Type": "ff_monster_a_4",
+  "MergedType": "ff_monster_a_5",
+  "MergeRewards": [
+   "freefall_monster_token_1-4"
+  ]
+ },
+ {
+  "Type": "ff_monster_a_5",
+  "MergedType": "ff_monster_a_6",
+  "MergeRewards": [
+   "freefall_monster_token_1-5"
+  ]
+ },
+ {
+  "Type": "ff_monster_a_6",
+  "MergedType": "ff_monster_a_7",
+  "MergeRewards": [
+   "freefall_monster_token_1-6"
+  ]
+ },
+ {
+  "Type": "ff_monster_a_7",
+  "CollectRewards": [
+   "freefall_monster_token_1-15"
+  ]
+ },
+ {
+  "Type": "ff_monster_b_1",
+  "MergedType": "ff_monster_b_2",
+  "MergeRewards": [
+   "freefall_monster_token_2-1"
+  ]
+ },
+ {
+  "Type": "ff_monster_b_2",
+  "MergedType": "ff_monster_b_3",
+  "MergeRewards": [
+   "freefall_monster_token_2-2"
+  ]
+ },
+ {
+  "Type": "ff_monster_b_3",
+  "MergedType": "ff_monster_b_4",
+  "MergeRewards": [
+   "freefall_monster_token_2-3"
+  ]
+ },
+ {
+  "Type": "ff_monster_b_4",
+  "MergedType": "ff_monster_b_5",
+  "MergeRewards": [
+   "freefall_monster_token_2-4"
+  ]
+ },
+ {
+  "Type": "ff_monster_b_5",
+  "MergedType": "ff_monster_b_6",
+  "MergeRewards": [
+   "freefall_monster_token_2-5"
+  ]
+ },
+ {
+  "Type": "ff_monster_b_6",
+  "MergedType": "ff_monster_b_7",
+  "MergeRewards": [
+   "freefall_monster_token_2-6"
+  ]
+ },
+ {
+  "Type": "ff_monster_b_7",
+  "MergedType": "ff_monster_b_8",
+  "MergeRewards": [
+   "freefall_monster_token_2-10"
+  ]
+ },
+ {
+  "Type": "ff_monster_b_8",
+  "CollectRewards": [
+   "freefall_monster_token_2-25"
+  ]
+ },
+ {
+  "Type": "ff_monster_c_1",
+  "MergedType": "ff_monster_c_2",
+  "MergeRewards": [
+   "freefall_monster_token_3-1"
+  ]
+ },
+ {
+  "Type": "ff_monster_c_2",
+  "MergedType": "ff_monster_c_3",
+  "MergeRewards": [
+   "freefall_monster_token_3-2"
+  ]
+ },
+ {
+  "Type": "ff_monster_c_3",
+  "MergedType": "ff_monster_c_4",
+  "MergeRewards": [
+   "freefall_monster_token_3-3"
+  ]
+ },
+ {
+  "Type": "ff_monster_c_4",
+  "MergedType": "ff_monster_c_5",
+  "MergeRewards": [
+   "freefall_monster_token_3-4"
+  ]
+ },
+ {
+  "Type": "ff_monster_c_5",
+  "MergedType": "ff_monster_c_6",
+  "MergeRewards": [
+   "freefall_monster_token_3-5"
+  ]
+ },
+ {
+  "Type": "ff_monster_c_6",
+  "MergedType": "ff_monster_c_7",
+  "MergeRewards": [
+   "freefall_monster_token_3-6"
+  ]
+ },
+ {
+  "Type": "ff_monster_c_7",
+  "CollectRewards": [
+   "freefall_monster_token_3-15"
+  ]
+ },
+ {
+  "Type": "ff_monster_chain_levelup_1"
+ },
+ {
+  "Type": "ff_monster_random_levelup_1"
+ },
+ {
+  "Type": "ff_monster_rainbow_s_1",
+  "CollectRewards": [
+   "freefall_monster_token_1-15",
+   "freefall_monster_token_2-15",
+   "freefall_monster_token_3-15"
+  ]
+ },
+ {
+  "Type": "ff_monster_rainbow_b_1",
+  "CollectRewards": [
+   "freefall_monster_token_1-25",
+   "freefall_monster_token_2-25",
+   "freefall_monster_token_3-25"
+  ]
+ },
+ {
+  "Type": "ff_monster_medal_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "rb#truckbox_1-4",
+   "rb#level_down_piece_1-1",
+   "rb#3101-1",
+   "rb#os_1_1-1",
+   "rb#time_skip_3-1",
+   "rb#2901-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 9,
+  "Spread_StorageMaxNumber": 9,
+  "Spread_CostEnergy": 0
+ }
+]

@@ -1,0 +1,1064 @@
+[
+ {
+  "ItemType": "203",
+  "Chance": 65,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "204",
+  "Chance": 130,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "205",
+  "Chance": 195,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "206",
+  "Chance": 260,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "207",
+  "Chance": 325,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "208",
+  "Chance": 390,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "209",
+  "Chance": 455,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "210",
+  "Chance": 520,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "211",
+  "Chance": 585,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "212",
+  "Chance": 650,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "213",
+  "Chance": 714,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "214",
+  "Chance": 780,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "303",
+  "Chance": 65,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "304",
+  "Chance": 130,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "305",
+  "Chance": 195,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "306",
+  "Chance": 260,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "503",
+  "Chance": 65,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "504",
+  "Chance": 130,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "505",
+  "Chance": 195,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "506",
+  "Chance": 260,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "507",
+  "Chance": 325,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "508",
+  "Chance": 390,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "509",
+  "Chance": 455,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "510",
+  "Chance": 520,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "511",
+  "Chance": 585,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "512",
+  "Chance": 650,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "513",
+  "Chance": 714,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "603",
+  "Chance": 65,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "604",
+  "Chance": 130,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "605",
+  "Chance": 195,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "606",
+  "Chance": 260,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "903",
+  "Chance": 65,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "904",
+  "Chance": 130,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "905",
+  "Chance": 195,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "906",
+  "Chance": 260,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "907",
+  "Chance": 325,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "908",
+  "Chance": 390,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "909",
+  "Chance": 455,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "1303",
+  "Chance": 65,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "1304",
+  "Chance": 130,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "1305",
+  "Chance": 195,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "1306",
+  "Chance": 260,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "1307",
+  "Chance": 325,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "1308",
+  "Chance": 390,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "1309",
+  "Chance": 455,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "1310",
+  "Chance": 520,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "1403",
+  "Chance": 65,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "1404",
+  "Chance": 130,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "1405",
+  "Chance": 195,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "1406",
+  "Chance": 260,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "1803",
+  "Chance": 65,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "1804",
+  "Chance": 130,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "1805",
+  "Chance": 195,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "1806",
+  "Chance": 260,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "1807",
+  "Chance": 325,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "1808",
+  "Chance": 390,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "1809",
+  "Chance": 455,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "1810",
+  "Chance": 520,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "1811",
+  "Chance": 585,
+  "LevelMin": 1,
+  "LevelMax": 60
+ },
+ {
+  "ItemType": "203",
+  "Chance": 53,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "204",
+  "Chance": 106,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "205",
+  "Chance": 159,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "206",
+  "Chance": 212,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "207",
+  "Chance": 265,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "208",
+  "Chance": 318,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "209",
+  "Chance": 371,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "210",
+  "Chance": 424,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "211",
+  "Chance": 477,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "212",
+  "Chance": 530,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "213",
+  "Chance": 583,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "214",
+  "Chance": 636,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "303",
+  "Chance": 53,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "304",
+  "Chance": 106,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "305",
+  "Chance": 159,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "306",
+  "Chance": 212,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "503",
+  "Chance": 53,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "504",
+  "Chance": 106,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "505",
+  "Chance": 159,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "506",
+  "Chance": 212,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "507",
+  "Chance": 265,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "508",
+  "Chance": 318,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "509",
+  "Chance": 371,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "510",
+  "Chance": 424,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "511",
+  "Chance": 477,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "512",
+  "Chance": 530,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "513",
+  "Chance": 583,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "603",
+  "Chance": 53,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "604",
+  "Chance": 106,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "605",
+  "Chance": 159,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "606",
+  "Chance": 212,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "903",
+  "Chance": 53,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "904",
+  "Chance": 106,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "905",
+  "Chance": 159,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "906",
+  "Chance": 212,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "907",
+  "Chance": 265,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "908",
+  "Chance": 318,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "909",
+  "Chance": 371,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "1303",
+  "Chance": 53,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "1304",
+  "Chance": 106,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "1305",
+  "Chance": 159,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "1306",
+  "Chance": 212,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "1307",
+  "Chance": 265,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "1308",
+  "Chance": 318,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "1309",
+  "Chance": 371,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "1310",
+  "Chance": 424,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "1403",
+  "Chance": 53,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "1404",
+  "Chance": 106,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "1405",
+  "Chance": 159,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "1406",
+  "Chance": 212,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "1803",
+  "Chance": 53,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "1804",
+  "Chance": 106,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "1805",
+  "Chance": 159,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "1806",
+  "Chance": 212,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "1807",
+  "Chance": 265,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "1808",
+  "Chance": 318,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "1809",
+  "Chance": 371,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "1810",
+  "Chance": 424,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "1811",
+  "Chance": 477,
+  "LevelMin": 61,
+  "LevelMax": 120
+ },
+ {
+  "ItemType": "203",
+  "Chance": 35,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "204",
+  "Chance": 70,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "205",
+  "Chance": 105,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "206",
+  "Chance": 140,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "207",
+  "Chance": 175,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "208",
+  "Chance": 210,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "209",
+  "Chance": 245,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "210",
+  "Chance": 280,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "211",
+  "Chance": 315,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "212",
+  "Chance": 350,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "213",
+  "Chance": 385,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "214",
+  "Chance": 420,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "303",
+  "Chance": 35,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "304",
+  "Chance": 70,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "305",
+  "Chance": 105,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "306",
+  "Chance": 140,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "503",
+  "Chance": 35,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "504",
+  "Chance": 70,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "505",
+  "Chance": 105,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "506",
+  "Chance": 140,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "507",
+  "Chance": 175,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "508",
+  "Chance": 210,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "509",
+  "Chance": 245,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "510",
+  "Chance": 280,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "511",
+  "Chance": 315,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "512",
+  "Chance": 350,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "513",
+  "Chance": 385,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "603",
+  "Chance": 35,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "604",
+  "Chance": 70,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "605",
+  "Chance": 105,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "606",
+  "Chance": 140,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "903",
+  "Chance": 35,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "904",
+  "Chance": 70,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "905",
+  "Chance": 105,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "906",
+  "Chance": 140,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "907",
+  "Chance": 175,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "908",
+  "Chance": 210,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "909",
+  "Chance": 245,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "1303",
+  "Chance": 35,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "1304",
+  "Chance": 70,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "1305",
+  "Chance": 105,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "1306",
+  "Chance": 140,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "1307",
+  "Chance": 175,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "1308",
+  "Chance": 210,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "1309",
+  "Chance": 245,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "1310",
+  "Chance": 280,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "1403",
+  "Chance": 35,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "1404",
+  "Chance": 70,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "1405",
+  "Chance": 105,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "1406",
+  "Chance": 140,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "1803",
+  "Chance": 35,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "1804",
+  "Chance": 70,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "1805",
+  "Chance": 105,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "1806",
+  "Chance": 140,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "1807",
+  "Chance": 175,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "1808",
+  "Chance": 210,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "1809",
+  "Chance": 245,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "1810",
+  "Chance": 280,
+  "LevelMin": 121,
+  "LevelMax": 999
+ },
+ {
+  "ItemType": "1811",
+  "Chance": 315,
+  "LevelMin": 121,
+  "LevelMax": 999
+ }
+]

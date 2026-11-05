@@ -1,0 +1,1217 @@
+[
+ {
+  "Id": "Estory_lavamap_1",
+  "Step": 1,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "shock",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_1_1"
+ },
+ {
+  "Id": "Estory_lavamap_1",
+  "Step": 2,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "sad",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_1_2"
+ },
+ {
+  "Id": "Estory_lavamap_1",
+  "Step": 3,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "shock",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_1_3"
+ },
+ {
+  "Id": "Estory_lavamap_1",
+  "Step": 4,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "sad",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_1_4"
+ },
+ {
+  "Id": "Estory_lavamap_1",
+  "Step": 5,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "serious",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_1_5"
+ },
+ {
+  "Id": "Estory_lavamap_1",
+  "Step": 6,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "sad",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_1_6"
+ },
+ {
+  "Id": "Estory_lavamap_2",
+  "Step": 1,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "thinking02",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_2_1"
+ },
+ {
+  "Id": "Estory_lavamap_2",
+  "Step": 2,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "passionate",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_2_2"
+ },
+ {
+  "Id": "Estory_lavamap_2",
+  "Step": 3,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "shock",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_2_3"
+ },
+ {
+  "Id": "Estory_lavamap_2",
+  "Step": 4,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "confused",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_2_4"
+ },
+ {
+  "Id": "Estory_lavamap_2",
+  "Step": 5,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "shock",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_2_5"
+ },
+ {
+  "Id": "Estory_lavamap_2",
+  "Step": 6,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "happy",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_2_6"
+ },
+ {
+  "Id": "Estory_lavamap_3",
+  "Step": 1,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "happy",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_3_1"
+ },
+ {
+  "Id": "Estory_lavamap_3",
+  "Step": 2,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "shock",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_3_2"
+ },
+ {
+  "Id": "Estory_lavamap_3",
+  "Step": 3,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "serious",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_3_3"
+ },
+ {
+  "Id": "Estory_lavamap_3",
+  "Step": 4,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "surprised",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_3_4"
+ },
+ {
+  "Id": "Estory_lavamap_3",
+  "Step": 5,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "happy",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_3_5"
+ },
+ {
+  "Id": "Estory_lavamap_4",
+  "Step": 1,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "happy",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_4_1"
+ },
+ {
+  "Id": "Estory_lavamap_4",
+  "Step": 2,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "thinking02",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_4_2"
+ },
+ {
+  "Id": "Estory_lavamap_4",
+  "Step": 3,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "confused",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_4_3"
+ },
+ {
+  "Id": "Estory_lavamap_4",
+  "Step": 4,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "shock",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_4_4"
+ },
+ {
+  "Id": "Estory_lavamap_4",
+  "Step": 5,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "sad",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_4_5"
+ },
+ {
+  "Id": "Estory_lavamap_4",
+  "Step": 6,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "serious",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_4_6"
+ },
+ {
+  "Id": "Estory_lavamap_5",
+  "Step": 1,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "serious",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_5_1"
+ },
+ {
+  "Id": "Estory_lavamap_5",
+  "Step": 2,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "sad",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_5_2"
+ },
+ {
+  "Id": "Estory_lavamap_5",
+  "Step": 3,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "happy",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_5_3"
+ },
+ {
+  "Id": "Estory_lavamap_5",
+  "Step": 4,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "confused",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_5_4"
+ },
+ {
+  "Id": "Estory_lavamap_6",
+  "Step": 1,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "serious",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_6_1"
+ },
+ {
+  "Id": "Estory_lavamap_6",
+  "Step": 2,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "thinking02",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_6_2"
+ },
+ {
+  "Id": "Estory_lavamap_6",
+  "Step": 3,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "serious",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_6_3"
+ },
+ {
+  "Id": "Estory_lavamap_6",
+  "Step": 4,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "sad",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_6_4"
+ },
+ {
+  "Id": "Estory_lavamap_6",
+  "Step": 5,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "happy",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_6_5"
+ },
+ {
+  "Id": "Estory_lavamap_6",
+  "Step": 6,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "thinking02",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_6_6"
+ },
+ {
+  "Id": "Estory_lavamap_7",
+  "Step": 1,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "happy",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_7_1"
+ },
+ {
+  "Id": "Estory_lavamap_7",
+  "Step": 2,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "confused",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_7_2"
+ },
+ {
+  "Id": "Estory_lavamap_7",
+  "Step": 3,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "thinking02",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_7_3"
+ },
+ {
+  "Id": "Estory_lavamap_7",
+  "Step": 4,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "confused",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_7_4"
+ },
+ {
+  "Id": "Estory_lavamap_7",
+  "Step": 5,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "serious",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_7_5"
+ },
+ {
+  "Id": "Estory_lavamap_8",
+  "Step": 1,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "confused",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_8_1"
+ },
+ {
+  "Id": "Estory_lavamap_8",
+  "Step": 2,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "sad",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_8_2"
+ },
+ {
+  "Id": "Estory_lavamap_8",
+  "Step": 3,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "happy",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_8_3"
+ },
+ {
+  "Id": "Estory_lavamap_8",
+  "Step": 4,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "thinking02",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_8_4"
+ },
+ {
+  "Id": "Estory_lavamap_8",
+  "Step": 5,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "sad",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_8_5"
+ },
+ {
+  "Id": "Estory_lavamap_8",
+  "Step": 6,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "happy",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_8_6"
+ },
+ {
+  "Id": "Estory_lavamap_9",
+  "Step": 1,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "thinking02",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_9_1"
+ },
+ {
+  "Id": "Estory_lavamap_9",
+  "Step": 2,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "thinking02",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_9_2"
+ },
+ {
+  "Id": "Estory_lavamap_21",
+  "Step": 1,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "happy",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_9_3"
+ },
+ {
+  "Id": "Estory_lavamap_21",
+  "Step": 2,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "surprised",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_9_4"
+ },
+ {
+  "Id": "Estory_lavamap_21",
+  "Step": 3,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "confused",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_9_5"
+ },
+ {
+  "Id": "Estory_lavamap_21",
+  "Step": 4,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "thinking02",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_9_6"
+ },
+ {
+  "Id": "Estory_lavamap_21",
+  "Step": 5,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "sad",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_9_7"
+ },
+ {
+  "Id": "Estory_lavamap_21",
+  "Step": 6,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "serious",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_9_8"
+ },
+ {
+  "Id": "Estory_lavamap_21",
+  "Step": 7,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "thinking02",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_9_9"
+ },
+ {
+  "Id": "Estory_lavamap_10",
+  "Step": 1,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "awkward",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_10_1"
+ },
+ {
+  "Id": "Estory_lavamap_10",
+  "Step": 2,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "sad",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_10_2"
+ },
+ {
+  "Id": "Estory_lavamap_10",
+  "Step": 3,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "serious",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_10_3"
+ },
+ {
+  "Id": "Estory_lavamap_10",
+  "Step": 4,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "shock",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_10_4"
+ },
+ {
+  "Id": "Estory_lavamap_10",
+  "Step": 5,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "thinking02",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_10_5"
+ },
+ {
+  "Id": "Estory_lavamap_10",
+  "Step": 6,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "happy",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_10_6"
+ },
+ {
+  "Id": "Estory_lavamap_11",
+  "Step": 1,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "surprised",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_11_1"
+ },
+ {
+  "Id": "Estory_lavamap_11",
+  "Step": 2,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "thinking02",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_11_2"
+ },
+ {
+  "Id": "Estory_lavamap_11",
+  "Step": 3,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "confused",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_11_3"
+ },
+ {
+  "Id": "Estory_lavamap_11",
+  "Step": 4,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "thinking02",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_11_4"
+ },
+ {
+  "Id": "Estory_lavamap_11",
+  "Step": 5,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "serious",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_11_5"
+ },
+ {
+  "Id": "Estory_lavamap_11",
+  "Step": 6,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "happy",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_11_6"
+ },
+ {
+  "Id": "Estory_lavamap_11",
+  "Step": 7,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "happy",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_11_7"
+ },
+ {
+  "Id": "Estory_lavamap_11",
+  "Step": 8,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "sad",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_11_8"
+ },
+ {
+  "Id": "Estory_lavamap_11",
+  "Step": 9,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "happy",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_11_9"
+ },
+ {
+  "Id": "Estory_lavamap_12",
+  "Step": 1,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "shock",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_12_1"
+ },
+ {
+  "Id": "Estory_lavamap_12",
+  "Step": 2,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "thinking02",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_12_2"
+ },
+ {
+  "Id": "Estory_lavamap_12",
+  "Step": 3,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "awkward",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_12_3"
+ },
+ {
+  "Id": "Estory_lavamap_12",
+  "Step": 4,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "happy",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_12_4"
+ },
+ {
+  "Id": "Estory_lavamap_12",
+  "Step": 5,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "sad",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_12_5"
+ },
+ {
+  "Id": "Estory_lavamap_12",
+  "Step": 6,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "thinking02",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_12_6"
+ },
+ {
+  "Id": "Estory_lavamap_12",
+  "Step": 7,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "sad",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_12_7"
+ },
+ {
+  "Id": "Estory_lavamap_12",
+  "Step": 8,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "thinking02",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_12_8"
+ },
+ {
+  "Id": "Estory_lavamap_12",
+  "Step": 9,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "thinking02",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_12_9"
+ },
+ {
+  "Id": "Estory_lavamap_13",
+  "Step": 1,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "serious",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_13_1"
+ },
+ {
+  "Id": "Estory_lavamap_13",
+  "Step": 2,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "surprised",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_13_2"
+ },
+ {
+  "Id": "Estory_lavamap_13",
+  "Step": 3,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "happy",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_13_3"
+ },
+ {
+  "Id": "Estory_lavamap_13",
+  "Step": 4,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "thinking02",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_13_4"
+ },
+ {
+  "Id": "Estory_lavamap_13",
+  "Step": 5,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "serious",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_13_5"
+ },
+ {
+  "Id": "Estory_lavamap_13",
+  "Step": 6,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "confused",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_13_6"
+ },
+ {
+  "Id": "Estory_lavamap_13",
+  "Step": 7,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "serious",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_13_7"
+ },
+ {
+  "Id": "Estory_lavamap_13",
+  "Step": 8,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "thinking02",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_13_8"
+ },
+ {
+  "Id": "Estory_lavamap_13",
+  "Step": 9,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "sad",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_13_9"
+ },
+ {
+  "Id": "Estory_lavamap_14a",
+  "Step": 1,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "happy",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_14a_1"
+ },
+ {
+  "Id": "Estory_lavamap_14a",
+  "Step": 2,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "serious",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_14a_2"
+ },
+ {
+  "Id": "Estory_lavamap_14b",
+  "Step": 1,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "serious",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_14b_1"
+ },
+ {
+  "Id": "Estory_lavamap_15",
+  "Step": 1,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "confused",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_15_1"
+ },
+ {
+  "Id": "Estory_lavamap_15",
+  "Step": 2,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "surprised",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_15_2"
+ },
+ {
+  "Id": "Estory_lavamap_15",
+  "Step": 3,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "thinking02",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_15_3"
+ },
+ {
+  "Id": "Estory_lavamap_15",
+  "Step": 4,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "happy",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_15_4"
+ },
+ {
+  "Id": "Estory_lavamap_15",
+  "Step": 5,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "happy",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_15_5"
+ },
+ {
+  "Id": "Estory_lavamap_15",
+  "Step": 6,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "confused",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_15_6"
+ },
+ {
+  "Id": "Estory_lavamap_15",
+  "Step": 7,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "thinking02",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_15_7"
+ },
+ {
+  "Id": "Estory_lavamap_15",
+  "Step": 8,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "happy",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_15_8"
+ },
+ {
+  "Id": "Estory_lavamap_16",
+  "Step": 1,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "happy",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_16_1"
+ },
+ {
+  "Id": "Estory_lavamap_16",
+  "Step": 2,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "happy",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_16_2"
+ },
+ {
+  "Id": "Estory_lavamap_16",
+  "Step": 3,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "surprised",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_16_3"
+ },
+ {
+  "Id": "Estory_lavamap_16",
+  "Step": 4,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "confused",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_16_4"
+ },
+ {
+  "Id": "Estory_lavamap_16",
+  "Step": 5,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "thinking02",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_16_6"
+ },
+ {
+  "Id": "Estory_lavamap_16",
+  "Step": 6,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "thinking02",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_16_7"
+ },
+ {
+  "Id": "Estory_lavamap_16",
+  "Step": 7,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "shock",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_16_8"
+ },
+ {
+  "Id": "Estory_lavamap_16",
+  "Step": 8,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "serious",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_16_9"
+ },
+ {
+  "Id": "Estory_lavamap_17",
+  "Step": 0,
+  "Speaker": "Mark",
+  "Position": 2,
+  "Animation": "worried",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_17_1"
+ },
+ {
+  "Id": "Estory_lavamap_17",
+  "Step": 1,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "shock",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_17_1"
+ },
+ {
+  "Id": "Estory_lavamap_17",
+  "Step": 2,
+  "Speaker": "Mark",
+  "Position": 2,
+  "Animation": "surprised",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_17_2"
+ },
+ {
+  "Id": "Estory_lavamap_17",
+  "Step": 3,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "sad",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_17_3"
+ },
+ {
+  "Id": "Estory_lavamap_17",
+  "Step": 4,
+  "Speaker": "Mark",
+  "Position": 2,
+  "Animation": "worried",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_17_4"
+ },
+ {
+  "Id": "Estory_lavamap_17",
+  "Step": 5,
+  "Speaker": "Mark",
+  "Position": 2,
+  "Animation": "worried",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_17_5"
+ },
+ {
+  "Id": "Estory_lavamap_17",
+  "Step": 6,
+  "Speaker": "Dragon",
+  "Position": 2,
+  "Animation": "dragon_idle",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_17_6"
+ },
+ {
+  "Id": "Estory_lavamap_17",
+  "Step": 7,
+  "Speaker": "Dragon",
+  "Position": 2,
+  "Animation": "dragon_idle",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_17_7"
+ },
+ {
+  "Id": "Estory_lavamap_17",
+  "Step": 8,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "serious",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_17_8"
+ },
+ {
+  "Id": "Estory_lavamap_17",
+  "Step": 9,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "surprised",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_17_9"
+ },
+ {
+  "Id": "Estory_lavamap_17",
+  "Step": 10,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "thinking02",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_17_10"
+ },
+ {
+  "Id": "Estory_lavamap_17",
+  "Step": 11,
+  "Speaker": "Mark",
+  "Position": 2,
+  "Animation": "worried",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_17_11"
+ },
+ {
+  "Id": "Estory_lavamap_18",
+  "Step": 1,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "happy",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_18_1"
+ },
+ {
+  "Id": "Estory_lavamap_19",
+  "Step": 1,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "surprised",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_19_1"
+ },
+ {
+  "Id": "Estory_lavamap_19",
+  "Step": 2,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "shock",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_19_2"
+ },
+ {
+  "Id": "Estory_lavamap_19",
+  "Step": 3,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "happy",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_19_3"
+ },
+ {
+  "Id": "Estory_lavamap_20",
+  "Step": 0,
+  "Speaker": "Mark",
+  "Position": 2,
+  "Animation": "worried",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_20_1"
+ },
+ {
+  "Id": "Estory_lavamap_20",
+  "Step": 1,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "sad",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_20_1"
+ },
+ {
+  "Id": "Estory_lavamap_20",
+  "Step": 2,
+  "Speaker": "Mark",
+  "Position": 2,
+  "Animation": "think",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_20_2"
+ },
+ {
+  "Id": "Estory_lavamap_20",
+  "Step": 3,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "serious",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_20_3"
+ },
+ {
+  "Id": "Estory_lavamap_20",
+  "Step": 4,
+  "Speaker": "Mark",
+  "Position": 2,
+  "Animation": "surprised",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_20_4"
+ },
+ {
+  "Id": "Estory_lavamap_20",
+  "Step": 5,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "awkward",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_20_5"
+ },
+ {
+  "Id": "Estory_lavamap_20",
+  "Step": 6,
+  "Speaker": "Mark",
+  "Position": 2,
+  "Animation": "happy",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_20_6"
+ },
+ {
+  "Id": "Estory_lavamap_20",
+  "Step": 7,
+  "Speaker": "Mark",
+  "Position": 2,
+  "Animation": "worried",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_20_7"
+ },
+ {
+  "Id": "Estory_lavamap_20",
+  "Step": 8,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "happy",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_20_8"
+ },
+ {
+  "Id": "Estory_lavamap_20",
+  "Step": 9,
+  "Speaker": "Mark",
+  "Position": 2,
+  "Animation": "happy",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_20_9"
+ },
+ {
+  "Id": "Estory_lavamap_20",
+  "Step": 10,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "thinking02",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_20_10"
+ },
+ {
+  "Id": "Estory_lavamap_20",
+  "Step": 11,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "serious",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_20_11"
+ },
+ {
+  "Id": "Estory_lavamap_20",
+  "Step": 12,
+  "Speaker": "Mark",
+  "Position": 2,
+  "Animation": "worried",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_20_12"
+ },
+ {
+  "Id": "Estory_lavamap_20",
+  "Step": 13,
+  "Speaker": "Sam",
+  "Position": 1,
+  "Animation": "surprised",
+  "BubbleType": "normal",
+  "Content": "Estory_lavamap_20_13"
+ }
+]

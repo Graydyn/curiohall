@@ -1,0 +1,24 @@
+[
+ {
+  "index": 1,
+  "boardIndex": 0,
+  "leftTop": [
+   3,
+   2
+  ],
+  "rightBottom": [
+   4,
+   3
+  ],
+  "maxLevel": 8,
+  "reward": "cbitm_adventure_adv_bandgirl_obs_tr_1-1",
+  "prefab": [
+   4,
+   3
+  ],
+  "toolIcon": [
+   4,
+   3
+  ]
+ }
+]

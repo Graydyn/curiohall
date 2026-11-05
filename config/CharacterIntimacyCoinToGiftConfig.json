@@ -1,0 +1,33 @@
+[
+ {
+  "MinCoin": 1,
+  "MaxCoin": 25,
+  "NumberRange": [
+   2,
+   3
+  ]
+ },
+ {
+  "MinCoin": 26,
+  "MaxCoin": 45,
+  "NumberRange": [
+   3,
+   4
+  ]
+ },
+ {
+  "MinCoin": 46,
+  "MaxCoin": 75,
+  "NumberRange": [
+   4,
+   5
+  ]
+ },
+ {
+  "MinCoin": 76,
+  "NumberRange": [
+   5,
+   6
+  ]
+ }
+]

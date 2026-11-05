@@ -1,0 +1,23 @@
+[
+ {
+  "name": "inventory",
+  "enable": 1,
+  "param": [
+   "openLevel-2"
+  ]
+ },
+ {
+  "name": "shop",
+  "enable": 1,
+  "param": [
+   "openLevel-3"
+  ]
+ },
+ {
+  "name": "bubble",
+  "enable": 1,
+  "param": [
+   "openLevel-4"
+  ]
+ }
+]

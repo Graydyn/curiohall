@@ -1,0 +1,1385 @@
+[
+ {
+  "Type": "mineralDig2_mine_subEndless_001",
+  "Transform_Weight": [
+   "mineralDig2_mine_subEndless_002-1"
+  ],
+  "Dig_MaxLevel": 0
+ },
+ {
+  "Type": "mineralDig2_mine_subEndless_002",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "mineralDig2_sub_1-12",
+   "mineralDig2_sub_2-6"
+  ],
+  "Spread_WeightType": 1,
+  "Spread_TransformNumber": 5,
+  "Transform_Weight": [
+   "mineralDig2_mine_subEndless_001-1"
+  ],
+  "Spread_ItemMaxNumber": 5,
+  "Spread_StorageMaxNumber": 5,
+  "Dig_MaxLevel": 0
+ },
+ {
+  "Type": "mineralDig2_mine_1_111",
+  "Transform_Weight": [
+   "mineralDig2_mine_1_112-1"
+  ],
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "mineralDig2_mine_1_112",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "mineralDig2_main_1_2-1",
+   "mineralDig2_main_1_1-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "mineralDig2_mine_1_211",
+  "Transform_Weight": [
+   "mineralDig2_mine_1_212-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "mineralDig2_mine_1_212",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "mineralDig2_main_1_2-1",
+   "mineralDig2_main_1_1-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 3,
+  "Transform_Weight": [
+   "mineralDig2_mine_1_221-1"
+  ],
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "mineralDig2_mine_1_221",
+  "Transform_Weight": [
+   "mineralDig2_mine_1_222-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "mineralDig2_mine_1_222",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "mineralDig2_main_1_1-4",
+   "mineralDig2_main_1_2-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 6,
+  "Spread_StorageMaxNumber": 6,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "mineralDig2_mine_1_311",
+  "Transform_Weight": [
+   "mineralDig2_mine_1_312-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "mineralDig2_mine_1_312",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "mineralDig2_main_1_2-1",
+   "mineralDig2_main_1_1-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 3,
+  "Transform_Weight": [
+   "mineralDig2_mine_1_321-1"
+  ],
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "mineralDig2_mine_1_321",
+  "Transform_Weight": [
+   "mineralDig2_mine_1_322-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "mineralDig2_mine_1_322",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "mineralDig2_main_1_1-3",
+   "mineralDig2_main_1_2-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 5,
+  "Transform_Weight": [
+   "mineralDig2_mine_1_331-1"
+  ],
+  "Spread_ItemMaxNumber": 5,
+  "Spread_StorageMaxNumber": 5,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "mineralDig2_mine_1_331",
+  "Transform_Weight": [
+   "mineralDig2_mine_1_332-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "mineralDig2_mine_1_332",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "mineralDig2_main_1_1-5",
+   "mineralDig2_main_1_2-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 7,
+  "Spread_StorageMaxNumber": 7,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "mineralDig2_mine_2_111",
+  "Transform_Weight": [
+   "mineralDig2_mine_2_112-1"
+  ],
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "mineralDig2_mine_2_112",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "mineralDig2_main_2_2-1",
+   "mineralDig2_main_2_1-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "mineralDig2_mine_2_211",
+  "Transform_Weight": [
+   "mineralDig2_mine_2_212-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "mineralDig2_mine_2_212",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "mineralDig2_main_2_2-1",
+   "mineralDig2_main_2_1-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 3,
+  "Transform_Weight": [
+   "mineralDig2_mine_2_221-1"
+  ],
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "mineralDig2_mine_2_221",
+  "Transform_Weight": [
+   "mineralDig2_mine_2_222-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "mineralDig2_mine_2_222",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "mineralDig2_main_2_1-4",
+   "mineralDig2_main_2_2-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 6,
+  "Spread_StorageMaxNumber": 6,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "mineralDig2_mine_2_311",
+  "Transform_Weight": [
+   "mineralDig2_mine_2_312-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "mineralDig2_mine_2_312",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "mineralDig2_main_2_2-1",
+   "mineralDig2_main_2_1-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 3,
+  "Transform_Weight": [
+   "mineralDig2_mine_2_321-1"
+  ],
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "mineralDig2_mine_2_321",
+  "Transform_Weight": [
+   "mineralDig2_mine_2_322-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "mineralDig2_mine_2_322",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "mineralDig2_main_2_1-3",
+   "mineralDig2_main_2_2-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 5,
+  "Transform_Weight": [
+   "mineralDig2_mine_2_331-1"
+  ],
+  "Spread_ItemMaxNumber": 5,
+  "Spread_StorageMaxNumber": 5,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "mineralDig2_mine_2_331",
+  "Transform_Weight": [
+   "mineralDig2_mine_2_332-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "mineralDig2_mine_2_332",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "mineralDig2_main_2_1-5",
+   "mineralDig2_main_2_2-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 7,
+  "Spread_StorageMaxNumber": 7,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "mineralDig2_mine_3_111",
+  "Transform_Weight": [
+   "mineralDig2_mine_3_112-1"
+  ],
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "mineralDig2_mine_3_112",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "mineralDig2_main_3_2-1",
+   "mineralDig2_main_3_1-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "mineralDig2_mine_3_211",
+  "Transform_Weight": [
+   "mineralDig2_mine_3_212-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "mineralDig2_mine_3_212",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "mineralDig2_main_3_2-1",
+   "mineralDig2_main_3_1-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 3,
+  "Transform_Weight": [
+   "mineralDig2_mine_3_221-1"
+  ],
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "mineralDig2_mine_3_221",
+  "Transform_Weight": [
+   "mineralDig2_mine_3_222-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "mineralDig2_mine_3_222",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "mineralDig2_main_3_1-4",
+   "mineralDig2_main_3_2-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 6,
+  "Spread_StorageMaxNumber": 6,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "mineralDig2_mine_3_311",
+  "Transform_Weight": [
+   "mineralDig2_mine_3_312-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "mineralDig2_mine_3_312",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "mineralDig2_main_3_2-1",
+   "mineralDig2_main_3_1-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 3,
+  "Transform_Weight": [
+   "mineralDig2_mine_3_321-1"
+  ],
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "mineralDig2_mine_3_321",
+  "Transform_Weight": [
+   "mineralDig2_mine_3_322-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "mineralDig2_mine_3_322",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "mineralDig2_main_3_1-3",
+   "mineralDig2_main_3_2-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 5,
+  "Transform_Weight": [
+   "mineralDig2_mine_3_331-1"
+  ],
+  "Spread_ItemMaxNumber": 5,
+  "Spread_StorageMaxNumber": 5,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "mineralDig2_mine_3_331",
+  "Transform_Weight": [
+   "mineralDig2_mine_3_332-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "mineralDig2_mine_3_332",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "mineralDig2_main_3_1-5",
+   "mineralDig2_main_3_2-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 7,
+  "Spread_StorageMaxNumber": 7,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "mineralDig2_mine_sub_111",
+  "Transform_Weight": [
+   "mineralDig2_mine_sub_112-1"
+  ],
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "mineralDig2_mine_sub_112",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "mineralDig2_sub_1-2",
+   "mineralDig2_sub_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "mineralDig2_mine_sub_211",
+  "Transform_Weight": [
+   "mineralDig2_mine_sub_212-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "mineralDig2_mine_sub_212",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "mineralDig2_sub_1-2",
+   "mineralDig2_sub_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 3,
+  "Transform_Weight": [
+   "mineralDig2_mine_sub_221-1"
+  ],
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "mineralDig2_mine_sub_221",
+  "Transform_Weight": [
+   "mineralDig2_mine_sub_222-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "mineralDig2_mine_sub_222",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "mineralDig2_sub_1-2",
+   "mineralDig2_sub_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "mineralDig2_mine_sub_311",
+  "Transform_Weight": [
+   "mineralDig2_mine_sub_312-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "mineralDig2_mine_sub_312",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "mineralDig2_sub_1-2",
+   "mineralDig2_sub_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 3,
+  "Transform_Weight": [
+   "mineralDig2_mine_sub_321-1"
+  ],
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "mineralDig2_mine_sub_321",
+  "Transform_Weight": [
+   "mineralDig2_mine_sub_322-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "mineralDig2_mine_sub_322",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "mineralDig2_sub_1-2",
+   "mineralDig2_sub_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 3,
+  "Transform_Weight": [
+   "mineralDig2_mine_sub_331-1"
+  ],
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "mineralDig2_mine_sub_331",
+  "Transform_Weight": [
+   "mineralDig2_mine_sub_332-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "mineralDig2_mine_sub_332",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "mineralDig2_sub_1-4",
+   "mineralDig2_sub_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 5,
+  "Spread_StorageMaxNumber": 5,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "mineralDig2_mine_gold_111",
+  "Transform_Weight": [
+   "mineralDig2_mine_gold_112-1"
+  ],
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "mineralDig2_mine_gold_112",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_gold_super_1-2",
+   "main_gold_super_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "mineralDig2_mine_gold_211",
+  "Transform_Weight": [
+   "mineralDig2_mine_gold_212-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "mineralDig2_mine_gold_212",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_gold_super_1-2",
+   "main_gold_super_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 3,
+  "Transform_Weight": [
+   "mineralDig2_mine_gold_221-1"
+  ],
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "mineralDig2_mine_gold_221",
+  "Transform_Weight": [
+   "mineralDig2_mine_gold_222-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "mineralDig2_mine_gold_222",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_gold_super_1-2",
+   "main_gold_super_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "mineralDig2_mine_gold_311",
+  "Transform_Weight": [
+   "mineralDig2_mine_gold_312-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "mineralDig2_mine_gold_312",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_gold_super_1-2",
+   "main_gold_super_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 3,
+  "Transform_Weight": [
+   "mineralDig2_mine_gold_321-1"
+  ],
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "mineralDig2_mine_gold_321",
+  "Transform_Weight": [
+   "mineralDig2_mine_gold_322-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "mineralDig2_mine_gold_322",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_gold_super_1-2",
+   "main_gold_super_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 3,
+  "Transform_Weight": [
+   "mineralDig2_mine_gold_331-1"
+  ],
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "mineralDig2_mine_gold_331",
+  "Transform_Weight": [
+   "mineralDig2_mine_gold_332-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "mineralDig2_mine_gold_332",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_gold_super_1-2",
+   "main_gold_super_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "mineralDig2_mine_buriedGift1_311",
+  "Transform_Weight": [
+   "mineralDig2_mine_buriedGift1_312-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "mineralDig2_mine_buriedGift1_312",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "mineralDig2_sub_1-2",
+   "mineralDig2_sub_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 3,
+  "Transform_Weight": [
+   "mineralDig2_mine_buriedGift1_321-1"
+  ],
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "mineralDig2_mine_buriedGift1_321",
+  "Transform_Weight": [
+   "mineralDig2_mine_buriedGift1_322-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "mineralDig2_mine_buriedGift1_322",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "mineralDig2_sub_1-4",
+   "mineralDig2_sub_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 5,
+  "Transform_Weight": [
+   "mineralDig2_mine_buriedGift1_331-1"
+  ],
+  "Spread_ItemMaxNumber": 5,
+  "Spread_StorageMaxNumber": 5,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "mineralDig2_mine_buriedGift1_331",
+  "Transform_Weight": [
+   "mineralDig2_mine_buriedGift1_332-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "mineralDig2_mine_buriedGift1_332",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "mineralDig2_sub_1-4",
+   "mineralDig2_sub_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 5,
+  "Transform_Weight": [
+   "mineralDig2_buried_gift1_1-1"
+  ],
+  "Spread_ItemMaxNumber": 5,
+  "Spread_StorageMaxNumber": 5,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "mineralDig2_mine_buriedGift2_311",
+  "Transform_Weight": [
+   "mineralDig2_mine_buriedGift2_312-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "mineralDig2_mine_buriedGift2_312",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "mineralDig2_sub_1-2",
+   "mineralDig2_sub_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 3,
+  "Transform_Weight": [
+   "mineralDig2_mine_buriedGift2_321-1"
+  ],
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "mineralDig2_mine_buriedGift2_321",
+  "Transform_Weight": [
+   "mineralDig2_mine_buriedGift2_322-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "mineralDig2_mine_buriedGift2_322",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "mineralDig2_sub_1-4",
+   "mineralDig2_sub_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 5,
+  "Transform_Weight": [
+   "mineralDig2_mine_buriedGift2_331-1"
+  ],
+  "Spread_ItemMaxNumber": 5,
+  "Spread_StorageMaxNumber": 5,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "mineralDig2_mine_buriedGift2_331",
+  "Transform_Weight": [
+   "mineralDig2_mine_buriedGift2_332-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "mineralDig2_mine_buriedGift2_332",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "mineralDig2_sub_1-4",
+   "mineralDig2_sub_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 5,
+  "Transform_Weight": [
+   "mineralDig2_buried_gift2_1-1"
+  ],
+  "Spread_ItemMaxNumber": 5,
+  "Spread_StorageMaxNumber": 5,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "mineralDig2_main_1_1",
+  "MergedType": "mineralDig2_main_1_2",
+  "CollectRewards": [
+   "digscore2-3"
+  ]
+ },
+ {
+  "Type": "mineralDig2_main_1_2",
+  "MergedType": "mineralDig2_main_1_3",
+  "CollectRewards": [
+   "digscore2-6"
+  ],
+  "BubbleChance": 0
+ },
+ {
+  "Type": "mineralDig2_main_1_3",
+  "MergedType": "mineralDig2_main_1_4",
+  "CollectRewards": [
+   "digscore2-12"
+  ],
+  "BubbleChance": 0
+ },
+ {
+  "Type": "mineralDig2_main_1_4",
+  "CollectRewards": [
+   "digscore2-24"
+  ],
+  "BubbleChance": 0
+ },
+ {
+  "Type": "mineralDig2_main_2_1",
+  "MergedType": "mineralDig2_main_2_2",
+  "CollectRewards": [
+   "digscore2-5"
+  ]
+ },
+ {
+  "Type": "mineralDig2_main_2_2",
+  "MergedType": "mineralDig2_main_2_3",
+  "CollectRewards": [
+   "digscore2-10"
+  ],
+  "BubbleChance": 0
+ },
+ {
+  "Type": "mineralDig2_main_2_3",
+  "MergedType": "mineralDig2_main_2_4",
+  "CollectRewards": [
+   "digscore2-20"
+  ],
+  "BubbleChance": 0
+ },
+ {
+  "Type": "mineralDig2_main_2_4",
+  "CollectRewards": [
+   "digscore2-40"
+  ],
+  "BubbleChance": 0
+ },
+ {
+  "Type": "mineralDig2_main_3_1",
+  "MergedType": "mineralDig2_main_3_2",
+  "CollectRewards": [
+   "digscore2-8"
+  ]
+ },
+ {
+  "Type": "mineralDig2_main_3_2",
+  "MergedType": "mineralDig2_main_3_3",
+  "CollectRewards": [
+   "digscore2-16"
+  ],
+  "BubbleChance": 0
+ },
+ {
+  "Type": "mineralDig2_main_3_3",
+  "MergedType": "mineralDig2_main_3_4",
+  "CollectRewards": [
+   "digscore2-32"
+  ],
+  "BubbleChance": 0
+ },
+ {
+  "Type": "mineralDig2_main_3_4",
+  "CollectRewards": [
+   "digscore2-64"
+  ],
+  "BubbleChance": 0
+ },
+ {
+  "Type": "mineralDig2_sub_1",
+  "MergedType": "mineralDig2_sub_2",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "mineralDig2_sub_2",
+  "MergedType": "mineralDig2_sub_3",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "mineralDig2_sub_3",
+  "MergedType": "mineralDig2_sub_4",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "mineralDig2_sub_4",
+  "MergedType": "mineralDig2_sub_5",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "mineralDig2_sub_5",
+  "MergedType": "mineralDig2_sub_6",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "mineralDig2_sub_6",
+  "MergedType": "mineralDig2_sub_7",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_gold_super_1-2",
+   "main_wheel_annual_token_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3
+ },
+ {
+  "Type": "mineralDig2_sub_7",
+  "MergedType": "mineralDig2_sub_8",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_gold_super_1-2",
+   "main_energy_super_1-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 4,
+  "Spread_StorageMaxNumber": 4
+ },
+ {
+  "Type": "mineralDig2_sub_8",
+  "MergedType": "mineralDig2_sub_9",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_gold_super_1-2",
+   "main_gold_super_2-1",
+   "main_energy_super_1-2",
+   "main_gem_super_1-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 7,
+  "Spread_StorageMaxNumber": 7
+ },
+ {
+  "Type": "mineralDig2_sub_9",
+  "MergedType": "mineralDig2_sub_10",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_gold_super_1-2",
+   "main_gold_super_2-1",
+   "main_energy_super_1-2",
+   "main_energy_super_2-1",
+   "main_gem_super_1-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 8,
+  "Spread_StorageMaxNumber": 8
+ },
+ {
+  "Type": "mineralDig2_sub_10",
+  "MergedType": "mineralDig2_sub_11",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_gold_super_1-2",
+   "main_gold_super_2-2",
+   "main_energy_super_1-2",
+   "main_energy_super_2-1",
+   "main_gem_super_1-2",
+   "main_gem_super_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 10,
+  "Spread_StorageMaxNumber": 10
+ },
+ {
+  "Type": "mineralDig2_sub_11",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "main_gold_super_2-5",
+   "main_gold_super_3-1",
+   "main_energy_super_2-5",
+   "main_energy_super_3-1",
+   "main_gem_super_1-4",
+   "main_gem_super_2-3"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 19,
+  "Spread_StorageMaxNumber": 19
+ },
+ {
+  "Type": "main_nugget_1",
+  "MergedType": "2401"
+ },
+ {
+  "Type": "main_gem_1",
+  "MergedType": "2501"
+ },
+ {
+  "Type": "mineralDig2_tr_a_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "main_gold_super_1-4",
+   "main_gem_super_1-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 6,
+  "Spread_StorageMaxNumber": 6
+ },
+ {
+  "Type": "mineralDig2_tr_b_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "main_gold_super_1-4",
+   "main_gold_super_2-1",
+   "main_gem_super_1-2",
+   "main_gem_super_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 8,
+  "Spread_StorageMaxNumber": 8
+ },
+ {
+  "Type": "mineralDig2_tr_c_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "main_gold_super_1-4",
+   "main_gold_super_2-2",
+   "main_gem_super_1-2",
+   "main_gem_super_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 9,
+  "Spread_StorageMaxNumber": 9
+ },
+ {
+  "Type": "mineralDig2_tr_d_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "main_gold_super_1-4",
+   "main_gold_super_2-2",
+   "main_gem_super_1-2",
+   "main_gem_super_2-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 10,
+  "Spread_StorageMaxNumber": 10
+ },
+ {
+  "Type": "mineralDig2_tr_e_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "main_gold_super_1-4",
+   "main_gold_super_2-3",
+   "main_energy_super_2-1",
+   "main_gem_super_1-2",
+   "main_gem_super_2-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 12,
+  "Spread_StorageMaxNumber": 12
+ },
+ {
+  "Type": "mineralDig2_bonus_box_a_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "mineralDig2_bonus_energy_1-2",
+   "mineralDig2_bonus_gold_1-2",
+   "mineralDig2_bonus_gem_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 5,
+  "Spread_StorageMaxNumber": 5
+ },
+ {
+  "Type": "mineralDig2_bonus_box_b_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "mineralDig2_bonus_energy_1-4",
+   "mineralDig2_bonus_gem_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 5,
+  "Spread_StorageMaxNumber": 5
+ },
+ {
+  "Type": "mineralDig2_bonus_box_c_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "mineralDig2_bonus_energy_1-2",
+   "mineralDig2_bonus_gold_1-2",
+   "mineralDig2_bonus_gem_1-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 6,
+  "Spread_StorageMaxNumber": 6
+ },
+ {
+  "Type": "mineralDig2_bonus_energy_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "main_energy_super_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1
+ },
+ {
+  "Type": "mineralDig2_bonus_gem_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "main_gem_super_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1
+ },
+ {
+  "Type": "mineralDig2_bonus_gold_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "main_gold_super_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1
+ },
+ {
+  "Type": "mineralDig2_chest_a_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "main_gold_super_1-2",
+   "main_gold_super_2-1",
+   "main_energy_super_1-2",
+   "main_energy_super_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 6,
+  "Spread_StorageMaxNumber": 6
+ },
+ {
+  "Type": "mineralDig2_chest_b_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "main_gold_super_1-2",
+   "main_gold_super_2-2",
+   "main_energy_super_1-2",
+   "main_energy_super_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 7,
+  "Spread_StorageMaxNumber": 7
+ },
+ {
+  "Type": "mineralDig2_chest_c_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "main_gold_super_1-2",
+   "main_gold_super_2-2",
+   "main_energy_super_1-2",
+   "main_energy_super_2-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 8,
+  "Spread_StorageMaxNumber": 8
+ },
+ {
+  "Type": "mineralDig2_chest_d_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "main_gold_super_1-2",
+   "main_gold_super_2-3",
+   "main_energy_super_1-2",
+   "main_energy_super_2-3"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 10,
+  "Spread_StorageMaxNumber": 10
+ },
+ {
+  "Type": "mineralDig2_sub1_1",
+  "MergedType": "mineralDig2_sub1_2"
+ },
+ {
+  "Type": "mineralDig2_sub1_2",
+  "MergedType": "mineralDig2_sub1_3"
+ },
+ {
+  "Type": "mineralDig2_sub1_3",
+  "MergedType": "mineralDig2_sub1_4"
+ },
+ {
+  "Type": "mineralDig2_sub1_4",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "main_gold_super_2-8",
+   "main_energy_super_2-2",
+   "main_gem_super_1-4",
+   "main_gem_super_2-3"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 17,
+  "Spread_StorageMaxNumber": 17
+ },
+ {
+  "Type": "mineralDig2_buried_gift1_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "main_gold_super_1-6",
+   "main_gold_super_2-1",
+   "mineralDig2_sub2_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 8,
+  "Spread_StorageMaxNumber": 8
+ },
+ {
+  "Type": "mineralDig2_buried_gift2_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "main_energy_super_1-6",
+   "main_energy_super_2-1",
+   "mineralDig2_sub2_1-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 9,
+  "Spread_StorageMaxNumber": 9
+ },
+ {
+  "Type": "mineralDig2_sub2_1",
+  "MergedType": "mineralDig2_sub2_2"
+ },
+ {
+  "Type": "mineralDig2_sub2_2",
+  "MergedType": "mineralDig2_sub2_3"
+ },
+ {
+  "Type": "mineralDig2_sub2_3",
+  "MergedType": "mineralDig2_sub2_4"
+ },
+ {
+  "Type": "mineralDig2_sub2_4",
+  "MergedType": "mineralDig2_sub2_5"
+ },
+ {
+  "Type": "mineralDig2_sub2_5",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "main_gold_super_2-8",
+   "main_gem_super_1-4",
+   "main_gem_super_2-6"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 18,
+  "Spread_StorageMaxNumber": 18
+ },
+ {
+  "Type": "mineralDig2_locked_gift_1_1",
+  "ProtectLevel": 2,
+  "Transform_Weight": [
+   "mineralDig2_locked_gift_2_1-1"
+  ],
+  "Swallow_Weight1": [
+   "mineralDig2_key1_1-1"
+  ],
+  "Swallow_Number1": 1
+ },
+ {
+  "Type": "mineralDig2_locked_gift_2_1",
+  "ProtectLevel": 2,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "main_gold_super_1-2",
+   "main_gold_super_2-1",
+   "main_energy_super_1-2",
+   "main_energy_super_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 6,
+  "Transform_Weight": [
+   "mineralDig2_locked_gift_3_1-1"
+  ],
+  "Spread_ItemMaxNumber": 6,
+  "Spread_StorageMaxNumber": 6
+ },
+ {
+  "Type": "mineralDig2_locked_gift_3_1",
+  "ProtectLevel": 2,
+  "Transform_Weight": [
+   "mineralDig2_locked_gift_4_1-1"
+  ],
+  "Swallow_Weight1": [
+   "mineralDig2_key1_1-1"
+  ],
+  "Swallow_Number1": 1
+ },
+ {
+  "Type": "mineralDig2_locked_gift_4_1",
+  "ProtectLevel": 2,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "main_gold_super_2-3",
+   "main_energy_super_1-2",
+   "main_energy_super_2-1",
+   "main_gem_super_1-2",
+   "main_gem_super_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 9,
+  "Transform_Weight": [
+   "mineralDig2_locked_gift_5_1-1"
+  ],
+  "Spread_ItemMaxNumber": 9,
+  "Spread_StorageMaxNumber": 9
+ },
+ {
+  "Type": "mineralDig2_locked_gift_5_1",
+  "ProtectLevel": 2,
+  "Transform_Weight": [
+   "mineralDig2_locked_gift_6_1-1"
+  ],
+  "Swallow_Weight1": [
+   "mineralDig2_key1_1-1"
+  ],
+  "Swallow_Number1": 1
+ },
+ {
+  "Type": "mineralDig2_locked_gift_6_1",
+  "ProtectLevel": 2,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "main_gold_super_1-2",
+   "main_gold_super_2-2",
+   "main_energy_super_1-2",
+   "main_energy_super_2-2",
+   "main_gem_super_1-2",
+   "main_gem_super_2-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 12,
+  "Transform_Weight": [
+   "mineralDig2_locked_gift_7_1-1"
+  ],
+  "Spread_ItemMaxNumber": 12,
+  "Spread_StorageMaxNumber": 12
+ },
+ {
+  "Type": "mineralDig2_locked_gift_7_1",
+  "ProtectLevel": 2,
+  "Transform_Weight": [
+   "mineralDig2_locked_gift_8_1-1"
+  ],
+  "Swallow_Weight1": [
+   "mineralDig2_key1_1-1"
+  ],
+  "Swallow_Number1": 1
+ },
+ {
+  "Type": "mineralDig2_locked_gift_8_1",
+  "ProtectLevel": 2,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "main_gold_super_1-2",
+   "main_gold_super_2-3",
+   "main_energy_super_1-2",
+   "main_energy_super_2-3",
+   "main_gem_super_1-2",
+   "main_gem_super_2-3"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 15,
+  "Spread_StorageMaxNumber": 15
+ },
+ {
+  "Type": "mineralDig2_key1_1",
+  "ProtectLevel": 2
+ }
+]

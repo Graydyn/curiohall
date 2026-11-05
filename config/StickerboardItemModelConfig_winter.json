@@ -1,0 +1,1175 @@
+[
+ {
+  "Type": "stickerboard_winter_mine_endless_001",
+  "Transform_Weight": [
+   "stickerboard_winter_mine_endless_002-1"
+  ],
+  "Dig_MaxLevel": 0
+ },
+ {
+  "Type": "stickerboard_winter_mine_endless_002",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "stickerboard_winter_main_1-3"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 3,
+  "Transform_Weight": [
+   "stickerboard_winter_mine_endless_001-1"
+  ],
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Dig_MaxLevel": 0
+ },
+ {
+  "Type": "stickerboard_winter_mine_tool_111",
+  "Transform_Weight": [
+   "stickerboard_winter_mine_tool_112-1"
+  ],
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "stickerboard_winter_mine_tool_112",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "stickerboard_winter_tool_2-1",
+   "stickerboard_winter_tool_1-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "stickerboard_winter_mine_tool_211",
+  "Transform_Weight": [
+   "stickerboard_winter_mine_tool_212-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "stickerboard_winter_mine_tool_212",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "stickerboard_winter_tool_2-1",
+   "stickerboard_winter_tool_1-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 3,
+  "Transform_Weight": [
+   "stickerboard_winter_mine_tool_221-1"
+  ],
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "stickerboard_winter_mine_tool_221",
+  "Transform_Weight": [
+   "stickerboard_winter_mine_tool_222-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "stickerboard_winter_mine_tool_222",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "stickerboard_winter_tool_1-2",
+   "stickerboard_winter_tool_2-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 4,
+  "Spread_StorageMaxNumber": 4,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "stickerboard_winter_mine_tool_311",
+  "Transform_Weight": [
+   "stickerboard_winter_mine_tool_312-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "stickerboard_winter_mine_tool_312",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "stickerboard_winter_tool_2-1",
+   "stickerboard_winter_tool_1-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 3,
+  "Transform_Weight": [
+   "stickerboard_winter_mine_tool_321-1"
+  ],
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "stickerboard_winter_mine_tool_321",
+  "Transform_Weight": [
+   "stickerboard_winter_mine_tool_322-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "stickerboard_winter_mine_tool_322",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "stickerboard_winter_tool_1-2",
+   "stickerboard_winter_tool_2-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 4,
+  "Transform_Weight": [
+   "stickerboard_winter_mine_tool_331-1"
+  ],
+  "Spread_ItemMaxNumber": 4,
+  "Spread_StorageMaxNumber": 4,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "stickerboard_winter_mine_tool_331",
+  "Transform_Weight": [
+   "stickerboard_winter_mine_tool_332-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "stickerboard_winter_mine_tool_332",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "stickerboard_winter_tool_1-2",
+   "stickerboard_winter_tool_2-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 4,
+  "Spread_StorageMaxNumber": 4,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "stickerboard_winter_mine_main_111",
+  "Transform_Weight": [
+   "stickerboard_winter_mine_main_112-1"
+  ],
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "stickerboard_winter_mine_main_112",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "stickerboard_winter_main_1-2",
+   "stickerboard_winter_main_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "stickerboard_winter_mine_main_211",
+  "Transform_Weight": [
+   "stickerboard_winter_mine_main_212-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "stickerboard_winter_mine_main_212",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "stickerboard_winter_main_1-2",
+   "stickerboard_winter_main_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 3,
+  "Transform_Weight": [
+   "stickerboard_winter_mine_main_221-1"
+  ],
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "stickerboard_winter_mine_main_221",
+  "Transform_Weight": [
+   "stickerboard_winter_mine_main_222-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "stickerboard_winter_mine_main_222",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "stickerboard_winter_main_1-2",
+   "stickerboard_winter_main_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "stickerboard_winter_mine_main_311",
+  "Transform_Weight": [
+   "stickerboard_winter_mine_main_312-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "stickerboard_winter_mine_main_312",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "stickerboard_winter_main_1-2",
+   "stickerboard_winter_main_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 3,
+  "Transform_Weight": [
+   "stickerboard_winter_mine_main_321-1"
+  ],
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "stickerboard_winter_mine_main_321",
+  "Transform_Weight": [
+   "stickerboard_winter_mine_main_322-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "stickerboard_winter_mine_main_322",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "stickerboard_winter_main_1-2",
+   "stickerboard_winter_main_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 3,
+  "Transform_Weight": [
+   "stickerboard_winter_mine_main_331-1"
+  ],
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "stickerboard_winter_mine_main_331",
+  "Transform_Weight": [
+   "stickerboard_winter_mine_main_332-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "stickerboard_winter_mine_main_332",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "stickerboard_winter_main_1-2",
+   "stickerboard_winter_main_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "stickerboard_winter_mine_main_411",
+  "Transform_Weight": [
+   "stickerboard_winter_mine_main_412-1"
+  ],
+  "Dig_MaxLevel": 4
+ },
+ {
+  "Type": "stickerboard_winter_mine_main_412",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "stickerboard_winter_main_1-2",
+   "stickerboard_winter_main_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 3,
+  "Transform_Weight": [
+   "stickerboard_winter_mine_main_421-1"
+  ],
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Dig_MaxLevel": 4
+ },
+ {
+  "Type": "stickerboard_winter_mine_main_421",
+  "Transform_Weight": [
+   "stickerboard_winter_mine_main_422-1"
+  ],
+  "Dig_MaxLevel": 4
+ },
+ {
+  "Type": "stickerboard_winter_mine_main_422",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "stickerboard_winter_main_1-2",
+   "stickerboard_winter_main_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 3,
+  "Transform_Weight": [
+   "stickerboard_winter_mine_main_431-1"
+  ],
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Dig_MaxLevel": 4
+ },
+ {
+  "Type": "stickerboard_winter_mine_main_431",
+  "Transform_Weight": [
+   "stickerboard_winter_mine_main_432-1"
+  ],
+  "Dig_MaxLevel": 4
+ },
+ {
+  "Type": "stickerboard_winter_mine_main_432",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "stickerboard_winter_main_1-2",
+   "stickerboard_winter_main_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 3,
+  "Transform_Weight": [
+   "stickerboard_winter_mine_main_441-1"
+  ],
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Dig_MaxLevel": 4
+ },
+ {
+  "Type": "stickerboard_winter_mine_main_441",
+  "Transform_Weight": [
+   "stickerboard_winter_mine_main_442-1"
+  ],
+  "Dig_MaxLevel": 4
+ },
+ {
+  "Type": "stickerboard_winter_mine_main_442",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "stickerboard_winter_main_1-2",
+   "stickerboard_winter_main_2-3"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 5,
+  "Spread_StorageMaxNumber": 5,
+  "Dig_MaxLevel": 4
+ },
+ {
+  "Type": "stickerboard_winter_mine_gold_111",
+  "Transform_Weight": [
+   "stickerboard_winter_mine_gold_112-1"
+  ],
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "stickerboard_winter_mine_gold_112",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_nugget_1-4",
+   "2401-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 6,
+  "Spread_StorageMaxNumber": 6,
+  "Dig_MaxLevel": 1
+ },
+ {
+  "Type": "stickerboard_winter_mine_gold_211",
+  "Transform_Weight": [
+   "stickerboard_winter_mine_gold_212-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "stickerboard_winter_mine_gold_212",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_nugget_1-4",
+   "2401-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 6,
+  "Transform_Weight": [
+   "stickerboard_winter_mine_gold_221-1"
+  ],
+  "Spread_ItemMaxNumber": 6,
+  "Spread_StorageMaxNumber": 6,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "stickerboard_winter_mine_gold_221",
+  "Transform_Weight": [
+   "stickerboard_winter_mine_gold_222-1"
+  ],
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "stickerboard_winter_mine_gold_222",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_nugget_1-4",
+   "2401-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 6,
+  "Spread_StorageMaxNumber": 6,
+  "Dig_MaxLevel": 2
+ },
+ {
+  "Type": "stickerboard_winter_mine_gold_311",
+  "Transform_Weight": [
+   "stickerboard_winter_mine_gold_312-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "stickerboard_winter_mine_gold_312",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_nugget_1-4",
+   "2401-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 6,
+  "Transform_Weight": [
+   "stickerboard_winter_mine_gold_321-1"
+  ],
+  "Spread_ItemMaxNumber": 6,
+  "Spread_StorageMaxNumber": 6,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "stickerboard_winter_mine_gold_321",
+  "Transform_Weight": [
+   "stickerboard_winter_mine_gold_322-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "stickerboard_winter_mine_gold_322",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_nugget_1-4",
+   "2401-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 6,
+  "Transform_Weight": [
+   "stickerboard_winter_mine_gold_331-1"
+  ],
+  "Spread_ItemMaxNumber": 6,
+  "Spread_StorageMaxNumber": 6,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "stickerboard_winter_mine_gold_331",
+  "Transform_Weight": [
+   "stickerboard_winter_mine_gold_332-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "stickerboard_winter_mine_gold_332",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_nugget_1-4",
+   "2401-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 6,
+  "Spread_StorageMaxNumber": 6,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "stickerboard_winter_mine_buriedGift1_311",
+  "Transform_Weight": [
+   "stickerboard_winter_mine_buriedGift1_312-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "stickerboard_winter_mine_buriedGift1_312",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "stickerboard_winter_main_1-2",
+   "stickerboard_winter_main_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 3,
+  "Transform_Weight": [
+   "stickerboard_winter_mine_buriedGift1_321-1"
+  ],
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "stickerboard_winter_mine_buriedGift1_321",
+  "Transform_Weight": [
+   "stickerboard_winter_mine_buriedGift1_322-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "stickerboard_winter_mine_buriedGift1_322",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "stickerboard_winter_main_1-2",
+   "stickerboard_winter_main_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 3,
+  "Transform_Weight": [
+   "stickerboard_winter_mine_buriedGift1_331-1"
+  ],
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "stickerboard_winter_mine_buriedGift1_331",
+  "Transform_Weight": [
+   "stickerboard_winter_mine_buriedGift1_332-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "stickerboard_winter_mine_buriedGift1_332",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "stickerboard_winter_main_1-2",
+   "stickerboard_winter_main_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 3,
+  "Transform_Weight": [
+   "stickerboard_winter_buried_gift1_1-1"
+  ],
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "stickerboard_winter_mine_buriedGift2_311",
+  "Transform_Weight": [
+   "stickerboard_winter_mine_buriedGift2_312-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "stickerboard_winter_mine_buriedGift2_312",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "stickerboard_winter_main_1-2",
+   "stickerboard_winter_main_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 3,
+  "Transform_Weight": [
+   "stickerboard_winter_mine_buriedGift2_321-1"
+  ],
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "stickerboard_winter_mine_buriedGift2_321",
+  "Transform_Weight": [
+   "stickerboard_winter_mine_buriedGift2_322-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "stickerboard_winter_mine_buriedGift2_322",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "stickerboard_winter_main_1-2",
+   "stickerboard_winter_main_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 3,
+  "Transform_Weight": [
+   "stickerboard_winter_mine_buriedGift2_331-1"
+  ],
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "stickerboard_winter_mine_buriedGift2_331",
+  "Transform_Weight": [
+   "stickerboard_winter_mine_buriedGift2_332-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "stickerboard_winter_mine_buriedGift2_332",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "stickerboard_winter_main_1-2",
+   "stickerboard_winter_main_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 3,
+  "Transform_Weight": [
+   "stickerboard_winter_buried_gift2_1-1"
+  ],
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "stickerboard_winter_mine_buriedGift3_311",
+  "Transform_Weight": [
+   "stickerboard_winter_mine_buriedGift3_312-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "stickerboard_winter_mine_buriedGift3_312",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "stickerboard_winter_main_1-2",
+   "stickerboard_winter_main_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 3,
+  "Transform_Weight": [
+   "stickerboard_winter_mine_buriedGift3_321-1"
+  ],
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "stickerboard_winter_mine_buriedGift3_321",
+  "Transform_Weight": [
+   "stickerboard_winter_mine_buriedGift3_322-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "stickerboard_winter_mine_buriedGift3_322",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "stickerboard_winter_main_1-2",
+   "stickerboard_winter_main_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 3,
+  "Transform_Weight": [
+   "stickerboard_winter_mine_buriedGift3_331-1"
+  ],
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "stickerboard_winter_mine_buriedGift3_331",
+  "Transform_Weight": [
+   "stickerboard_winter_mine_buriedGift3_332-1"
+  ],
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "stickerboard_winter_mine_buriedGift3_332",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "stickerboard_winter_main_1-2",
+   "stickerboard_winter_main_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 3,
+  "Transform_Weight": [
+   "stickerboard_winter_buried_gift3_1-1"
+  ],
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Dig_MaxLevel": 3
+ },
+ {
+  "Type": "stickerboard_winter_tool_1",
+  "MergedType": "stickerboard_winter_tool_2",
+  "ProtectLevel": 6
+ },
+ {
+  "Type": "stickerboard_winter_tool_2",
+  "MergedType": "stickerboard_winter_tool_3",
+  "ProtectLevel": 6
+ },
+ {
+  "Type": "stickerboard_winter_tool_3",
+  "MergedType": "stickerboard_winter_tool_4",
+  "ProtectLevel": 6
+ },
+ {
+  "Type": "stickerboard_winter_tool_4",
+  "MergedType": "stickerboard_winter_tool_5",
+  "ProtectLevel": 6
+ },
+ {
+  "Type": "stickerboard_winter_tool_5",
+  "ProtectLevel": 6,
+  "Clear_ClearNum": 1,
+  "Clear_Special": 0
+ },
+ {
+  "Type": "stickerboard_winter_specialtool_5",
+  "Clear_ClearNum": 1,
+  "Clear_Special": 1
+ },
+ {
+  "Type": "stickerboard_winter_main_1",
+  "MergedType": "stickerboard_winter_main_2"
+ },
+ {
+  "Type": "stickerboard_winter_main_2",
+  "MergedType": "stickerboard_winter_main_3"
+ },
+ {
+  "Type": "stickerboard_winter_main_3",
+  "MergedType": "stickerboard_winter_main_4"
+ },
+ {
+  "Type": "stickerboard_winter_main_4",
+  "MergedType": "stickerboard_winter_main_5"
+ },
+ {
+  "Type": "stickerboard_winter_main_5",
+  "MergedType": "stickerboard_winter_main_6",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_nugget_1-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 2,
+  "Spread_StorageMaxNumber": 2
+ },
+ {
+  "Type": "stickerboard_winter_main_6",
+  "MergedType": "stickerboard_winter_main_7",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_nugget_1-1",
+   "2401-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 2,
+  "Spread_StorageMaxNumber": 2
+ },
+ {
+  "Type": "stickerboard_winter_main_7",
+  "MergedType": "stickerboard_winter_main_8",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "2401-2",
+   "2601-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3
+ },
+ {
+  "Type": "stickerboard_winter_main_8",
+  "MergedType": "stickerboard_winter_main_9",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "2401-2",
+   "2601-2",
+   "main_gem_1-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 6,
+  "Spread_StorageMaxNumber": 6
+ },
+ {
+  "Type": "stickerboard_winter_main_9",
+  "MergedType": "stickerboard_winter_main_10",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "2401-2",
+   "main_nugget_1-1",
+   "2601-3",
+   "2501-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 7,
+  "Spread_StorageMaxNumber": 7
+ },
+ {
+  "Type": "stickerboard_winter_main_10",
+  "MergedType": "stickerboard_winter_main_11",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "2401-3",
+   "2601-3",
+   "2501-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 8,
+  "Spread_StorageMaxNumber": 8
+ },
+ {
+  "Type": "stickerboard_winter_main_11",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "rb#level_down_piece_1-1",
+   "rb#3101-1",
+   "2402-4",
+   "2602-4",
+   "2502-2",
+   "2501-4"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 16,
+  "Spread_StorageMaxNumber": 16
+ },
+ {
+  "Type": "stickerboard_winter_tr_a_1",
+  "ProtectLevel": 2,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2401-1",
+   "main_nugget_1-2",
+   "2601-2",
+   "stickerboard_winter_key_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 6,
+  "Spread_StorageMaxNumber": 6
+ },
+ {
+  "Type": "stickerboard_winter_tr_b_1",
+  "ProtectLevel": 2,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2401-1",
+   "main_nugget_1-2",
+   "2601-2",
+   "main_gem_1-2",
+   "stickerboard_winter_key_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 8,
+  "Spread_StorageMaxNumber": 8
+ },
+ {
+  "Type": "stickerboard_winter_tr_c_1",
+  "ProtectLevel": 2,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2401-2",
+   "main_nugget_1-2",
+   "2601-2",
+   "main_gem_1-2",
+   "2501-1",
+   "stickerboard_winter_key_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 10,
+  "Spread_StorageMaxNumber": 10
+ },
+ {
+  "Type": "stickerboard_winter_tr_d_1",
+  "ProtectLevel": 2,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2401-2",
+   "main_nugget_1-2",
+   "2601-3",
+   "main_gem_1-2",
+   "2501-1",
+   "stickerboard_winter_key_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 11,
+  "Spread_StorageMaxNumber": 11
+ },
+ {
+  "Type": "stickerboard_winter_tr_e_1",
+  "ProtectLevel": 2,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2401-4",
+   "2601-3",
+   "main_gem_1-2",
+   "2501-2",
+   "stickerboard_winter_key_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 12,
+  "Spread_StorageMaxNumber": 12
+ },
+ {
+  "Type": "stickerboard_winter_chest_a_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2602-3",
+   "stickerboard_winter_main_1-4"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 7,
+  "Spread_StorageMaxNumber": 7
+ },
+ {
+  "Type": "stickerboard_winter_chest_b_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2401-4",
+   "2501-2",
+   "stickerboard_winter_main_1-4"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 10,
+  "Spread_StorageMaxNumber": 10
+ },
+ {
+  "Type": "stickerboard_winter_chest_c_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2601-4",
+   "2501-2",
+   "stickerboard_winter_main_2-4"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 10,
+  "Spread_StorageMaxNumber": 10
+ },
+ {
+  "Type": "stickerboard_winter_buried_gift1_1",
+  "ProtectLevel": 2,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2401-2",
+   "2402-1",
+   "2601-2",
+   "2602-1",
+   "stickerboard_winter_sub3_1-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 8,
+  "Spread_StorageMaxNumber": 8
+ },
+ {
+  "Type": "stickerboard_winter_buried_gift2_1",
+  "ProtectLevel": 2,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2401-4",
+   "stickerboard_winter_sub3_1-4"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 8,
+  "Spread_StorageMaxNumber": 8
+ },
+ {
+  "Type": "stickerboard_winter_buried_gift3_1",
+  "ProtectLevel": 2,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2601-4",
+   "2502-2",
+   "stickerboard_winter_sub2_1-4"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 10,
+  "Spread_StorageMaxNumber": 10
+ },
+ {
+  "Type": "stickerboard_winter_sub1_1",
+  "MergedType": "stickerboard_winter_sub1_2",
+  "ProtectLevel": 4
+ },
+ {
+  "Type": "stickerboard_winter_sub1_2",
+  "MergedType": "stickerboard_winter_sub1_3",
+  "ProtectLevel": 4
+ },
+ {
+  "Type": "stickerboard_winter_sub1_3",
+  "MergedType": "stickerboard_winter_sub1_4",
+  "ProtectLevel": 4
+ },
+ {
+  "Type": "stickerboard_winter_sub1_4",
+  "ProtectLevel": 4,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2501-2",
+   "2502-1",
+   "2401-2",
+   "2402-1",
+   "2602-1",
+   "2601-2",
+   "stickerboard_winter_key_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 10,
+  "Spread_StorageMaxNumber": 10
+ },
+ {
+  "Type": "stickerboard_winter_sub2_1",
+  "MergedType": "stickerboard_winter_sub2_2",
+  "ProtectLevel": 5
+ },
+ {
+  "Type": "stickerboard_winter_sub2_2",
+  "MergedType": "stickerboard_winter_sub2_3",
+  "ProtectLevel": 5
+ },
+ {
+  "Type": "stickerboard_winter_sub2_3",
+  "MergedType": "stickerboard_winter_sub2_4",
+  "ProtectLevel": 5
+ },
+ {
+  "Type": "stickerboard_winter_sub2_4",
+  "MergedType": "stickerboard_winter_sub2_5",
+  "ProtectLevel": 5,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "stickerboard_winter_key_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1
+ },
+ {
+  "Type": "stickerboard_winter_sub2_5",
+  "ProtectLevel": 5,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2401-4",
+   "2402-2",
+   "2501-2",
+   "2502-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 10,
+  "Spread_StorageMaxNumber": 10
+ },
+ {
+  "Type": "stickerboard_winter_sub3_1",
+  "MergedType": "stickerboard_winter_sub3_2",
+  "ProtectLevel": 6
+ },
+ {
+  "Type": "stickerboard_winter_sub3_2",
+  "MergedType": "stickerboard_winter_sub3_3",
+  "ProtectLevel": 6
+ },
+ {
+  "Type": "stickerboard_winter_sub3_3",
+  "MergedType": "stickerboard_winter_sub3_4",
+  "ProtectLevel": 6
+ },
+ {
+  "Type": "stickerboard_winter_sub3_4",
+  "MergedType": "stickerboard_winter_sub3_5",
+  "ProtectLevel": 6,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "stickerboard_winter_key_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1
+ },
+ {
+  "Type": "stickerboard_winter_sub3_5",
+  "MergedType": "stickerboard_winter_sub3_6",
+  "ProtectLevel": 6
+ },
+ {
+  "Type": "stickerboard_winter_sub3_6",
+  "ProtectLevel": 6,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2601-4",
+   "2602-2",
+   "2501-2",
+   "2502-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 10,
+  "Spread_StorageMaxNumber": 10
+ },
+ {
+  "Type": "stickerboard_winter_key_1",
+  "MergedType": "stickerboard_winter_key_2",
+  "ProtectLevel": 5
+ },
+ {
+  "Type": "stickerboard_winter_key_2",
+  "MergedType": "stickerboard_winter_key_3",
+  "ProtectLevel": 5
+ },
+ {
+  "Type": "stickerboard_winter_key_3",
+  "MergedType": "stickerboard_winter_key_4",
+  "ProtectLevel": 5
+ },
+ {
+  "Type": "stickerboard_winter_key_4",
+  "ProtectLevel": 5
+ },
+ {
+  "Type": "stickerboard_winter_bonus_energy_1",
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "2601-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1
+ },
+ {
+  "Type": "stickerboard_winter_locked_portal_1",
+  "Transform_Weight": [
+   "stickerboard_winter_open_portal_1-1"
+  ],
+  "Swallow_Weight1": [
+   "stickerboard_winter_key_4-1"
+  ],
+  "Swallow_Number1": 1,
+  "Static": 1
+ },
+ {
+  "Type": "stickerboard_winter_spread_portal_1",
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "stickerboard_winter_bonus_energy_1-4"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_TransformNumber": 4,
+  "Transform_Weight": [
+   "stickerboard_winter_open_portal_1-1"
+  ],
+  "Spread_ItemMaxNumber": 4,
+  "Spread_StorageMaxNumber": 4,
+  "Static": 1
+ },
+ {
+  "Type": "stickerboard_winter_open_portal_1",
+  "Portal": 1,
+  "Static": 1
+ },
+ {
+  "Type": "stickerboard_winter_locked_mine_1",
+  "Transform_Weight": [
+   "stickerboard_winter_mine_endless_001-1"
+  ],
+  "Swallow_Weight1": [
+   "stickerboard_winter_key_4-1"
+  ],
+  "Swallow_Number1": 1,
+  "Static": 1
+ }
+]

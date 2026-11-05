@@ -1,0 +1,803 @@
+[
+ {
+  "Id": "Estory_egyptmap_1",
+  "Step": 1,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "hurt",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_1_1"
+ },
+ {
+  "Id": "Estory_egyptmap_1",
+  "Step": 2,
+  "Speaker": "BastVoice",
+  "Position": 2,
+  "Animation": "idle",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_1_2"
+ },
+ {
+  "Id": "Estory_egyptmap_1",
+  "Step": 3,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "confuse",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_1_3"
+ },
+ {
+  "Id": "Estory_egyptmap_1",
+  "Step": 4,
+  "Speaker": "BastVoice",
+  "Position": 2,
+  "Animation": "idle",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_1_4"
+ },
+ {
+  "Id": "Estory_egyptmap_1",
+  "Step": 5,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "hurt",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_1_5"
+ },
+ {
+  "Id": "Estory_egyptmap_1",
+  "Step": 6,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "surprised",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_1_6"
+ },
+ {
+  "Id": "Estory_egyptmap_2",
+  "Step": 1,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "hurt",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_2_1"
+ },
+ {
+  "Id": "Estory_egyptmap_2",
+  "Step": 2,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "confuse",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_2_2"
+ },
+ {
+  "Id": "Estory_egyptmap_2",
+  "Step": 3,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "surprised",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_2_3"
+ },
+ {
+  "Id": "Estory_egyptmap_2",
+  "Step": 4,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "smile",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_2_4"
+ },
+ {
+  "Id": "Estory_egyptmap_3",
+  "Step": 1,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "surprised",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_3_1"
+ },
+ {
+  "Id": "Estory_egyptmap_3",
+  "Step": 2,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "thinking",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_3_2"
+ },
+ {
+  "Id": "Estory_egyptmap_3",
+  "Step": 3,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "thinking",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_3_3"
+ },
+ {
+  "Id": "Estory_egyptmap_3",
+  "Step": 4,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "wink",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_3_4"
+ },
+ {
+  "Id": "Estory_egyptmap_3",
+  "Step": 5,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "cp",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_3_5"
+ },
+ {
+  "Id": "Estory_egyptmap_4",
+  "Step": 1,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "hurt",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_4_1"
+ },
+ {
+  "Id": "Estory_egyptmap_4",
+  "Step": 2,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "hurt",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_4_2"
+ },
+ {
+  "Id": "Estory_egyptmap_4",
+  "Step": 3,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "wink",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_4_3"
+ },
+ {
+  "Id": "Estory_egyptmap_4",
+  "Step": 4,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "idle",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_4_4"
+ },
+ {
+  "Id": "Estory_egyptmap_5",
+  "Step": 1,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "confuse",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_5_1"
+ },
+ {
+  "Id": "Estory_egyptmap_5",
+  "Step": 2,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "smile",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_5_2"
+ },
+ {
+  "Id": "Estory_egyptmap_6",
+  "Step": 1,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "surprised",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_6_1"
+ },
+ {
+  "Id": "Estory_egyptmap_6",
+  "Step": 2,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "thinking",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_6_2"
+ },
+ {
+  "Id": "Estory_egyptmap_6",
+  "Step": 3,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "wink",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_6_3"
+ },
+ {
+  "Id": "Estory_egyptmap_7",
+  "Step": 1,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "thinking",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_7_1"
+ },
+ {
+  "Id": "Estory_egyptmap_7",
+  "Step": 2,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "hurt",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_7_2"
+ },
+ {
+  "Id": "Estory_egyptmap_7",
+  "Step": 3,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "hurt",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_7_3"
+ },
+ {
+  "Id": "Estory_egyptmap_7",
+  "Step": 4,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "thinking",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_7_4"
+ },
+ {
+  "Id": "Estory_egyptmap_8",
+  "Step": 0,
+  "Speaker": "Coconut",
+  "Position": 2,
+  "Animation": "idle",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_8_1"
+ },
+ {
+  "Id": "Estory_egyptmap_8",
+  "Step": 1,
+  "Speaker": "Thoth",
+  "Position": 1,
+  "Animation": "toth_idle",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_8_1"
+ },
+ {
+  "Id": "Estory_egyptmap_8",
+  "Step": 2,
+  "Speaker": "Coconut",
+  "Position": 2,
+  "Animation": "smile",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_8_2"
+ },
+ {
+  "Id": "Estory_egyptmap_8",
+  "Step": 3,
+  "Speaker": "Thoth",
+  "Position": 1,
+  "Animation": "toth_idle",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_8_3"
+ },
+ {
+  "Id": "Estory_egyptmap_8",
+  "Step": 4,
+  "Speaker": "Thoth",
+  "Position": 1,
+  "Animation": "toth_idle",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_8_4"
+ },
+ {
+  "Id": "Estory_egyptmap_8",
+  "Step": 5,
+  "Speaker": "Coconut",
+  "Position": 2,
+  "Animation": "wink",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_8_5"
+ },
+ {
+  "Id": "Estory_egyptmap_9",
+  "Step": 0,
+  "Speaker": "Coconut",
+  "Position": 2,
+  "Animation": "idle",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_9_1"
+ },
+ {
+  "Id": "Estory_egyptmap_9",
+  "Step": 1,
+  "Speaker": "Thoth",
+  "Position": 1,
+  "Animation": "toth_idle",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_9_1"
+ },
+ {
+  "Id": "Estory_egyptmap_9",
+  "Step": 2,
+  "Speaker": "Coconut",
+  "Position": 2,
+  "Animation": "cp",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_9_2"
+ },
+ {
+  "Id": "Estory_egyptmap_9",
+  "Step": 3,
+  "Speaker": "Thoth",
+  "Position": 1,
+  "Animation": "toth_idle",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_9_3"
+ },
+ {
+  "Id": "Estory_egyptmap_9",
+  "Step": 4,
+  "Speaker": "Coconut",
+  "Position": 2,
+  "Animation": "confuse",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_9_4"
+ },
+ {
+  "Id": "Estory_egyptmap_9",
+  "Step": 5,
+  "Speaker": "Thoth",
+  "Position": 1,
+  "Animation": "toth_idle",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_9_5"
+ },
+ {
+  "Id": "Estory_egyptmap_10",
+  "Step": 1,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "thinking",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_10_1"
+ },
+ {
+  "Id": "Estory_egyptmap_10",
+  "Step": 2,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "cp",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_10_2"
+ },
+ {
+  "Id": "Estory_egyptmap_10",
+  "Step": 3,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "hurt",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_10_3"
+ },
+ {
+  "Id": "Estory_egyptmap_10",
+  "Step": 4,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "idle",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_10_4"
+ },
+ {
+  "Id": "Estory_egyptmap_11",
+  "Step": 1,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "cp",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_11_1"
+ },
+ {
+  "Id": "Estory_egyptmap_11",
+  "Step": 2,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "thinking",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_11_2"
+ },
+ {
+  "Id": "Estory_egyptmap_11",
+  "Step": 3,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "confuse",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_11_3"
+ },
+ {
+  "Id": "Estory_egyptmap_11",
+  "Step": 4,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "smile",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_11_4"
+ },
+ {
+  "Id": "Estory_egyptmap_11",
+  "Step": 5,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "cp",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_11_5"
+ },
+ {
+  "Id": "Estory_egyptmap_12",
+  "Step": 0,
+  "Speaker": "Coconut",
+  "Position": 2,
+  "Animation": "idle",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_12_1"
+ },
+ {
+  "Id": "Estory_egyptmap_12",
+  "Step": 1,
+  "Speaker": "Anubis",
+  "Position": 1,
+  "Animation": "anubis_idle",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_12_1"
+ },
+ {
+  "Id": "Estory_egyptmap_12",
+  "Step": 2,
+  "Speaker": "Coconut",
+  "Position": 2,
+  "Animation": "confuse",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_12_2"
+ },
+ {
+  "Id": "Estory_egyptmap_12",
+  "Step": 3,
+  "Speaker": "Anubis",
+  "Position": 1,
+  "Animation": "anubis_idle",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_12_3"
+ },
+ {
+  "Id": "Estory_egyptmap_12",
+  "Step": 4,
+  "Speaker": "Anubis",
+  "Position": 1,
+  "Animation": "anubis_idle",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_12_4"
+ },
+ {
+  "Id": "Estory_egyptmap_12",
+  "Step": 5,
+  "Speaker": "Coconut",
+  "Position": 2,
+  "Animation": "wink",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_12_5"
+ },
+ {
+  "Id": "Estory_egyptmap_13",
+  "Step": 0,
+  "Speaker": "Anubis",
+  "Position": 2,
+  "Animation": "anubis_idle",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_13_1"
+ },
+ {
+  "Id": "Estory_egyptmap_13",
+  "Step": 1,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "thinking",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_13_1"
+ },
+ {
+  "Id": "Estory_egyptmap_13",
+  "Step": 2,
+  "Speaker": "Anubis",
+  "Position": 2,
+  "Animation": "anubis_idle",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_13_2"
+ },
+ {
+  "Id": "Estory_egyptmap_13",
+  "Step": 3,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "surprised",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_13_3"
+ },
+ {
+  "Id": "Estory_egyptmap_13",
+  "Step": 4,
+  "Speaker": "Anubis",
+  "Position": 2,
+  "Animation": "anubis_idle",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_13_4"
+ },
+ {
+  "Id": "Estory_egyptmap_13",
+  "Step": 5,
+  "Speaker": "Anubis",
+  "Position": 2,
+  "Animation": "anubis_idle",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_13_5"
+ },
+ {
+  "Id": "Estory_egyptmap_14",
+  "Step": 1,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "cp",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_14_1"
+ },
+ {
+  "Id": "Estory_egyptmap_14",
+  "Step": 2,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "cp",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_14_2"
+ },
+ {
+  "Id": "Estory_egyptmap_14",
+  "Step": 3,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "hurt",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_14_3"
+ },
+ {
+  "Id": "Estory_egyptmap_14",
+  "Step": 4,
+  "Speaker": "BastVoice",
+  "Position": 2,
+  "Animation": "idle",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_14_4"
+ },
+ {
+  "Id": "Estory_egyptmap_14",
+  "Step": 5,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "confuse",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_14_5"
+ },
+ {
+  "Id": "Estory_egyptmap_14",
+  "Step": 6,
+  "Speaker": "BastVoice",
+  "Position": 2,
+  "Animation": "idle",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_14_6"
+ },
+ {
+  "Id": "Estory_egyptmap_14",
+  "Step": 7,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "cp",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_14_7"
+ },
+ {
+  "Id": "Estory_egyptmap_15",
+  "Step": 1,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "cp",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_15_1"
+ },
+ {
+  "Id": "Estory_egyptmap_15",
+  "Step": 2,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "surprised",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_15_2"
+ },
+ {
+  "Id": "Estory_egyptmap_15",
+  "Step": 3,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "idle",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_15_3"
+ },
+ {
+  "Id": "Estory_egyptmap_15",
+  "Step": 4,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "cp",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_15_4"
+ },
+ {
+  "Id": "Estory_egyptmap_16",
+  "Step": 0,
+  "Speaker": "Bast",
+  "Position": 2,
+  "Animation": "bast_idle",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_16_1"
+ },
+ {
+  "Id": "Estory_egyptmap_16",
+  "Step": 1,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "cp",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_16_1"
+ },
+ {
+  "Id": "Estory_egyptmap_16",
+  "Step": 2,
+  "Speaker": "Bast",
+  "Position": 2,
+  "Animation": "bast_idle",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_16_2"
+ },
+ {
+  "Id": "Estory_egyptmap_16",
+  "Step": 3,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "hurt",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_16_3"
+ },
+ {
+  "Id": "Estory_egyptmap_16",
+  "Step": 4,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "hurt",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_16_4"
+ },
+ {
+  "Id": "Estory_egyptmap_16",
+  "Step": 5,
+  "Speaker": "Bast",
+  "Position": 2,
+  "Animation": "bast_idle",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_16_5"
+ },
+ {
+  "Id": "Estory_egyptmap_16",
+  "Step": 6,
+  "Speaker": "Bast",
+  "Position": 2,
+  "Animation": "bast_idle",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_16_6"
+ },
+ {
+  "Id": "Estory_egyptmap_17",
+  "Step": 0,
+  "Speaker": "Bast",
+  "Position": 2,
+  "Animation": "bast_idle",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_17_1"
+ },
+ {
+  "Id": "Estory_egyptmap_17",
+  "Step": 1,
+  "Speaker": "Coconut",
+  "Position": 1,
+  "Animation": "cp",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_17_1"
+ },
+ {
+  "Id": "Estory_egyptmap_17",
+  "Step": 2,
+  "Speaker": "Bast",
+  "Position": 2,
+  "Animation": "bast_idle",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_17_2"
+ },
+ {
+  "Id": "Estory_egyptmap_18",
+  "Step": 0,
+  "Speaker": "Coconut",
+  "Position": 2,
+  "Animation": "idle",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_18_1"
+ },
+ {
+  "Id": "Estory_egyptmap_18",
+  "Step": 1,
+  "Speaker": "Bast",
+  "Position": 1,
+  "Animation": "bast_idle",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_18_1"
+ },
+ {
+  "Id": "Estory_egyptmap_18",
+  "Step": 2,
+  "Speaker": "Coconut",
+  "Position": 2,
+  "Animation": "confuse",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_18_2"
+ },
+ {
+  "Id": "Estory_egyptmap_18",
+  "Step": 3,
+  "Speaker": "Bast",
+  "Position": 1,
+  "Animation": "bast_idle",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_18_3"
+ },
+ {
+  "Id": "Estory_egyptmap_18",
+  "Step": 4,
+  "Speaker": "Bast",
+  "Position": 1,
+  "Animation": "bast_idle",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_18_4"
+ },
+ {
+  "Id": "Estory_egyptmap_18",
+  "Step": 5,
+  "Speaker": "Coconut",
+  "Position": 2,
+  "Animation": "cp",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_18_5"
+ },
+ {
+  "Id": "Estory_egyptmap_18",
+  "Step": 6,
+  "Speaker": "Bast",
+  "Position": 1,
+  "Animation": "bast_idle",
+  "BubbleType": "normal",
+  "Content": "Estory_egyptmap_18_6"
+ }
+]

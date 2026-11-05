@@ -1,0 +1,35 @@
+{
+ "ComeBack": {
+  "IsMatch": 1,
+  "TitleKey": "push_come_back_title",
+  "DescKey": "push_come_back_desc"
+ },
+ "EnergyRefill": {
+  "TitleKey": "push_energy_title",
+  "DescKey": "push_energy_desc"
+ },
+ "ItemCooldown": {
+  "TitleKey": "push_cooldown_title",
+  "DescKey": "push_cooldown_desc"
+ },
+ "CashDashStart": {
+  "TitleKey": "push_cash_dash_open_title",
+  "DescKey": "push_cash_dash_open_desc"
+ },
+ "CashDashEnd": {
+  "TitleKey": "push_cash_dash_end_title",
+  "DescKey": "push_cash_dash_end_desc"
+ },
+ "Frenzy": {
+  "TitleKey": "push_frenzy_1hourend_title",
+  "DescKey": "push_frenzy_1hourend_desc"
+ },
+ "Plane": {
+  "TitleKey": "push_plane_1hourend_title",
+  "DescKey": "push_plane_1hourend_desc"
+ },
+ "WeeklyActive": {
+  "TitleKey": "push_weekly_active_task_title",
+  "DescKey": "push_weekly_active_task_desc"
+ }
+}

@@ -1,0 +1,56 @@
+[
+ {
+  "Slot": 1,
+  "Type": "free",
+  "Number": 1,
+  "Gifts": [
+   "flower",
+   "chocolate",
+   "book",
+   "watch"
+  ]
+ },
+ {
+  "Slot": 2,
+  "Type": "gold",
+  "Number": 6,
+  "Gifts": [
+   "flower",
+   "chocolate",
+   "book",
+   "watch"
+  ]
+ },
+ {
+  "Slot": 3,
+  "Type": "gem",
+  "Number": 3,
+  "Gifts": [
+   "flower"
+  ]
+ },
+ {
+  "Slot": 4,
+  "Type": "gem",
+  "Number": 3,
+  "Gifts": [
+   "chocolate"
+  ]
+ },
+ {
+  "Slot": 5,
+  "Type": "gem",
+  "Number": 3,
+  "Gifts": [
+   "book"
+  ]
+ },
+ {
+  "Slot": 6,
+  "Type": "gem",
+  "Number": 3,
+  "Gifts": [
+   "watch"
+  ]
+ }
+]

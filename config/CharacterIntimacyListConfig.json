@@ -1,0 +1,134 @@
+[
+ {
+  "Id": 1,
+  "Name": "Cornelia",
+  "Released": 1,
+  "Background": "character_intimacy_background_cornelia",
+  "PreferredGifts": [
+   "chocolate"
+  ],
+  "UnlockRequirements": [
+   "day_1"
+  ]
+ },
+ {
+  "Id": 2,
+  "Name": "Barnaby",
+  "Released": 1,
+  "Background": "character_intimacy_background_barnaby",
+  "PreferredGifts": [
+   "flower"
+  ],
+  "UnlockRequirements": [
+   "day_1"
+  ]
+ },
+ {
+  "Id": 3,
+  "Name": "Aldous",
+  "Released": 1,
+  "Background": "character_intimacy_background_aldous",
+  "PreferredGifts": [
+   "book"
+  ],
+  "UnlockRequirements": [
+   "day_12",
+   "intimacy_Barnaby_3"
+  ]
+ },
+ {
+  "Id": 4,
+  "Name": "Sam",
+  "Released": 1,
+  "Background": "character_intimacy_background_sam",
+  "PreferredGifts": [
+   "watch"
+  ],
+  "UnlockRequirements": [
+   "day_20",
+   "intimacy_Barnaby_10"
+  ]
+ },
+ {
+  "Id": 5,
+  "Name": "Mark",
+  "Released": 1,
+  "Background": "character_intimacy_background_mark",
+  "PreferredGifts": [
+   "flower"
+  ],
+  "UnlockRequirements": [
+   "day_30",
+   "intimacy_Sam_15"
+  ]
+ },
+ {
+  "Id": 6,
+  "Name": "Anjali",
+  "Released": 1,
+  "Background": "character_intimacy_background_anjali",
+  "PreferredGifts": [
+   "chocolate"
+  ],
+  "UnlockRequirements": [
+   "day_40",
+   "intimacy_Barnaby_20"
+  ]
+ },
+ {
+  "Id": 7,
+  "Name": "Hugo",
+  "Released": 1,
+  "Background": "character_intimacy_background_hugo",
+  "PreferredGifts": [
+   "watch"
+  ],
+  "UnlockRequirements": [
+   "day_60",
+   "intimacy_Barnaby_30"
+  ]
+ },
+ {
+  "Id": 8,
+  "Name": "Prudence",
+  "Released": 1,
+  "Background": "character_intimacy_background_prudence",
+  "PreferredGifts": [
+   "book"
+  ],
+  "UnlockRequirements": [
+   "day_80",
+   "intimacy_Hugo_15"
+  ]
+ },
+ {
+  "Id": 9,
+  "Name": "Zephyrine",
+  "Released": 1,
+  "Background": "character_intimacy_background_zephyrine",
+  "PreferredGifts": [
+   "book"
+  ],
+  "UnlockRequirements": [
+   "day_90"
+  ]
+ },
+ {
+  "Id": 10,
+  "Name": "Rosalind",
+  "Released": 1,
+  "Background": "character_intimacy_background_rosalind",
+  "PreferredGifts": [
+   "flower"
+  ],
+  "UnlockRequirements": [
+   "day_100",
+   "intimacy_Zephyrine_20"
+  ]
+ },
+ {
+  "Id": 11,
+  "Name": "Ambrose",
+  "Released": 0
+ }
+]

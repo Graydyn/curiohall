@@ -1,0 +1,390 @@
+[
+ {
+  "Type": "fb_pirate_tar_1",
+  "MergedType": "fb_pirate_tar_2"
+ },
+ {
+  "Type": "fb_pirate_tar_2",
+  "MergedType": "fb_pirate_tar_3",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "fb_pirate_tar_3",
+  "MergedType": "fb_pirate_tar_4",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "fb_pirate_tar_4",
+  "MergedType": "fb_pirate_tar_5",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "fb_pirate_tar_5",
+  "MergedType": "fb_pirate_tar_6",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_gold_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_pirate_tar_6",
+  "MergedType": "fb_pirate_tar_7",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_gold_2-1",
+   "main_super_energy_1-1",
+   "main_wheel_annual_token_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_pirate_tar_7",
+  "MergedType": "fb_pirate_tar_8",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_gold_2-1",
+   "main_super_energy_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 2,
+  "Spread_StorageMaxNumber": 2,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_pirate_tar_8",
+  "MergedType": "fb_pirate_tar_9",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_gold_2-2",
+   "main_super_energy_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_pirate_tar_9",
+  "MergedType": "fb_pirate_tar_10",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_gold_2-2",
+   "main_super_energy_2-2",
+   "main_gem_super_1-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 6,
+  "Spread_StorageMaxNumber": 6,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_pirate_tar_10",
+  "MergedType": "fb_pirate_tar_11",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_gold_2-3",
+   "main_super_energy_2-2",
+   "main_gem_super_2-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 7,
+  "Spread_StorageMaxNumber": 7,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_pirate_tar_11",
+  "MergedType": "fb_pirate_tar_12",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_gold_2-3",
+   "main_super_energy_2-3",
+   "main_gem_super_2-3"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 9,
+  "Spread_StorageMaxNumber": 9,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_pirate_tar_12",
+  "ProtectLevel": 13,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "main_super_gold_2-2",
+   "main_super_gold_3-3",
+   "main_super_energy_2-2",
+   "main_super_energy_3-3",
+   "main_gem_super_2-3",
+   "main_gem_super_3-1",
+   "main_pack_common_5_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 15,
+  "Spread_StorageMaxNumber": 15,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_pirate_byprod_1",
+  "MergedType": "fb_pirate_byprod_2"
+ },
+ {
+  "Type": "fb_pirate_byprod_2",
+  "MergedType": "fb_pirate_byprod_3",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "fb_pirate_byprod_3",
+  "MergedType": "fb_pirate_byprod_4",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "fb_pirate_byprod_4",
+  "MergedType": "fb_pirate_byprod_5",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_gold_2-1",
+   "main_super_energy_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 2,
+  "Spread_StorageMaxNumber": 2,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_pirate_byprod_5",
+  "MergedType": "fb_pirate_byprod_6",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_gold_2-1",
+   "main_super_energy_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 2,
+  "Spread_StorageMaxNumber": 2,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_pirate_byprod_6",
+  "MergedType": "fb_pirate_byprod_7",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_gold_2-1",
+   "main_super_energy_2-1",
+   "main_gem_super_1-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 4,
+  "Spread_StorageMaxNumber": 4,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_pirate_byprod_7",
+  "MergedType": "fb_pirate_byprod_8",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_gold_2-2",
+   "main_super_energy_2-2",
+   "main_gem_super_1-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 6,
+  "Spread_StorageMaxNumber": 6,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_pirate_byprod_8",
+  "MergedType": "fb_pirate_byprod_9",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_gold_2-3",
+   "main_super_energy_2-3",
+   "main_gem_super_2-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 8,
+  "Spread_StorageMaxNumber": 8,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_pirate_byprod_9",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "rb#level_down_piece_1-1",
+   "main_super_gold_2-2",
+   "main_super_gold_3-3",
+   "main_super_energy_2-2",
+   "main_super_energy_3-3",
+   "main_gem_super_2-2",
+   "main_gem_super_3-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 14,
+  "Spread_StorageMaxNumber": 14,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_pirate_seed_1",
+  "ProtectLevel": 2,
+  "CommandOperation": "FarmboardUnlockBlock"
+ },
+ {
+  "Type": "fb_pirate_tool_1",
+  "MergedType": "fb_pirate_tool_2"
+ },
+ {
+  "Type": "fb_pirate_tool_2",
+  "MergedType": "fb_pirate_tool_3"
+ },
+ {
+  "Type": "fb_pirate_tool_3",
+  "MergedType": "fb_pirate_tool_4"
+ },
+ {
+  "Type": "fb_pirate_tool_4",
+  "MergedType": "fb_pirate_tool_5"
+ },
+ {
+  "Type": "fb_pirate_tool_5",
+  "CommandOperation": "FarmboardActivateAnimal"
+ },
+ {
+  "Type": "fb_pirate_box1_1",
+  "ProtectLevel": 2,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "main_super_energy_2-4",
+   "main_super_energy_3-2",
+   "fb_pirate_gembox_1-1",
+   "main_pack_common_3_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 8,
+  "Spread_StorageMaxNumber": 8,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_pirate_box2_1",
+  "ProtectLevel": 2,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "main_super_gold_2-4",
+   "main_super_gold_3-2",
+   "fb_pirate_gembox_1-1",
+   "main_pack_common_5_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 8,
+  "Spread_StorageMaxNumber": 8,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_pirate_box3_1",
+  "ProtectLevel": 2,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "fb_pirate_tar_4-3",
+   "fb_pirate_tar_2-2",
+   "main_pack_common_3_1-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 7,
+  "Spread_StorageMaxNumber": 7,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_pirate_box4_1",
+  "ProtectLevel": 2,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "fb_pirate_tool_3-3",
+   "fb_pirate_tool_1-4"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 7,
+  "Spread_StorageMaxNumber": 7,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_pirate_gembox_1",
+  "MergedType": "fb_pirate_gembox_2",
+  "ProtectLevel": 6,
+  "BubbleChance": 0
+ },
+ {
+  "Type": "fb_pirate_gembox_2",
+  "MergedType": "fb_pirate_gembox_3",
+  "ProtectLevel": 6,
+  "BubbleChance": 0,
+  "Spread_WeightType": 2
+ },
+ {
+  "Type": "fb_pirate_gembox_3",
+  "MergedType": "fb_pirate_gembox_4",
+  "ProtectLevel": 6,
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_gold_2-4",
+   "main_gem_super_1-2",
+   "main_pack_common_5_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 7,
+  "Spread_StorageMaxNumber": 7,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_pirate_gembox_4",
+  "MergedType": "fb_pirate_gembox_5",
+  "ProtectLevel": 6,
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_gold_2-4",
+   "main_super_gold_3-1",
+   "main_gem_super_1-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 7,
+  "Spread_StorageMaxNumber": 7,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_pirate_gembox_5",
+  "ProtectLevel": 6,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "main_super_gold_2-4",
+   "main_super_gold_3-2",
+   "main_gem_super_2-2",
+   "fb_pirate_byprod_2-4",
+   "main_pack_common_5_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 13,
+  "Spread_StorageMaxNumber": 13,
+  "Spread_CostEnergy": 0
+ }
+]

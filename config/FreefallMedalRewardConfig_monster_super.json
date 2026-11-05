@@ -1,0 +1,78 @@
+[
+ {
+  "Level": 1,
+  "Rewards": [
+   "main_super_gold_3-1",
+   "main_super_energy_2-1"
+  ]
+ },
+ {
+  "Level": 2,
+  "Rewards": [
+   "main_super_gold_2-2",
+   "main_super_energy_3-1"
+  ]
+ },
+ {
+  "Level": 3,
+  "Rewards": [
+   "main_super_gold_3-1",
+   "main_super_gold_2-1",
+   "main_super_energy_3-1",
+   "main_gem_super_1-1"
+  ]
+ },
+ {
+  "Level": 4,
+  "Rewards": [
+   "main_super_gold_3-1",
+   "main_super_gold_2-1",
+   "main_super_energy_3-1",
+   "main_gem_super_2-1"
+  ]
+ },
+ {
+  "Level": 5,
+  "Rewards": [
+   "main_super_gold_4-1",
+   "main_super_energy_3-1",
+   "main_super_energy_2-1",
+   "main_gem_super_3-1",
+   "main_pack_common_5_1-1"
+  ]
+ },
+ {
+  "Level": 6,
+  "Rewards": [
+   "main_super_gold_4-1",
+   "main_super_gold_2-1",
+   "main_super_energy_3-2",
+   "main_gem_super_3-1",
+   "main_gem_super_2-1",
+   "main_pack_common_5_1-1"
+  ]
+ },
+ {
+  "Level": 7,
+  "Rewards": [
+   "main_super_gold_3-2",
+   "main_super_gold_4-1",
+   "main_super_energy_3-2",
+   "main_super_energy_4-1",
+   "main_gem_super_3-2",
+   "main_gem_super_4-1",
+   "ff_monster_medal_1-1"
+  ]
+ },
+ {
+  "Level": 8,
+  "Rewards": [
+   "main_super_gold_3-2",
+   "main_super_gold_4-1",
+   "main_super_energy_3-2",
+   "main_super_energy_4-1",
+   "main_gem_super_3-2",
+   "main_gem_super_4-1"
+  ]
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "name": "SpreadCoinMinChainLevel",
+  "value": 8,
+  "desc": "合成后喷发一级金币棋子的最小合成链等级"
+ },
+ {
+  "name": "TaskSfxDelay",
+  "value": 0.5,
+  "desc": "音效播放延迟时间"
+ },
+ {
+  "name": "StarterBundleOpenCd",
+  "value": 14400,
+  "desc": "新手礼包弹出时间间隔"
+ },
+ {
+  "name": "ShopShowGemOnlyMaxLevel",
+  "value": 2,
+  "desc": "商城页面只展示钻石购买的最大等级"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "type": 4,
+  "icon": "gem_1",
+  "goods": [
+   "gem-100"
+  ],
+  "purchaseId": "getgem_1"
+ },
+ {
+  "type": 4,
+  "icon": "gem_2",
+  "goods": [
+   "gem-380"
+  ],
+  "purchaseId": "getgem_2"
+ },
+ {
+  "type": 4,
+  "icon": "gem_3",
+  "goods": [
+   "gem-880"
+  ],
+  "purchaseId": "getgem_3"
+ },
+ {
+  "type": 4,
+  "icon": "gem_4",
+  "goods": [
+   "gem-1650"
+  ],
+  "purchaseId": "getgem_4"
+ },
+ {
+  "type": 4,
+  "icon": "gem_5",
+  "goods": [
+   "gem-4200"
+  ],
+  "purchaseId": "getgem_5"
+ },
+ {
+  "type": 4,
+  "icon": "gem_6",
+  "goods": [
+   "gem-8250"
+  ],
+  "purchaseId": "getgem_6"
+ }
+]

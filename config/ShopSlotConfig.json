@@ -1,0 +1,173 @@
+[
+ {
+  "ChainId": "0",
+  "Slot1Weight": 0,
+  "Slot2Weight": 0,
+  "Slot3Weight": 0,
+  "Slot4Weight": 0,
+  "Slot5Weight": 0,
+  "Slot6Weight": 25
+ },
+ {
+  "ChainId": "2",
+  "Slot1Weight": 20,
+  "Slot2Weight": 20,
+  "Slot3Weight": 20,
+  "Slot4Weight": 15,
+  "Slot5Weight": 15,
+  "Slot6Weight": 15
+ },
+ {
+  "ChainId": "3",
+  "Slot1Weight": 20,
+  "Slot2Weight": 20,
+  "Slot3Weight": 20,
+  "Slot4Weight": 15,
+  "Slot5Weight": 15,
+  "Slot6Weight": 0
+ },
+ {
+  "ChainId": "5",
+  "Slot1Weight": 20,
+  "Slot2Weight": 20,
+  "Slot3Weight": 20,
+  "Slot4Weight": 15,
+  "Slot5Weight": 15,
+  "Slot6Weight": 15
+ },
+ {
+  "ChainId": "6",
+  "Slot1Weight": 20,
+  "Slot2Weight": 20,
+  "Slot3Weight": 20,
+  "Slot4Weight": 15,
+  "Slot5Weight": 15,
+  "Slot6Weight": 0
+ },
+ {
+  "ChainId": "8",
+  "Slot1Weight": 10,
+  "Slot2Weight": 10,
+  "Slot3Weight": 10,
+  "Slot4Weight": 15,
+  "Slot5Weight": 15,
+  "Slot6Weight": 0
+ },
+ {
+  "ChainId": "9",
+  "Slot1Weight": 10,
+  "Slot2Weight": 10,
+  "Slot3Weight": 10,
+  "Slot4Weight": 20,
+  "Slot5Weight": 20,
+  "Slot6Weight": 15
+ },
+ {
+  "ChainId": "11",
+  "Slot1Weight": 20,
+  "Slot2Weight": 20,
+  "Slot3Weight": 20,
+  "Slot4Weight": 15,
+  "Slot5Weight": 15,
+  "Slot6Weight": 15
+ },
+ {
+  "ChainId": "13",
+  "Slot1Weight": 20,
+  "Slot2Weight": 20,
+  "Slot3Weight": 20,
+  "Slot4Weight": 15,
+  "Slot5Weight": 15,
+  "Slot6Weight": 15
+ },
+ {
+  "ChainId": "14",
+  "Slot1Weight": 15,
+  "Slot2Weight": 15,
+  "Slot3Weight": 15,
+  "Slot4Weight": 10,
+  "Slot5Weight": 10,
+  "Slot6Weight": 5
+ },
+ {
+  "ChainId": "16",
+  "Slot1Weight": 15,
+  "Slot2Weight": 15,
+  "Slot3Weight": 15,
+  "Slot4Weight": 20,
+  "Slot5Weight": 20,
+  "Slot6Weight": 10
+ },
+ {
+  "ChainId": "18",
+  "Slot1Weight": 15,
+  "Slot2Weight": 15,
+  "Slot3Weight": 15,
+  "Slot4Weight": 30,
+  "Slot5Weight": 30,
+  "Slot6Weight": 0
+ },
+ {
+  "ChainId": "20",
+  "Slot1Weight": 15,
+  "Slot2Weight": 15,
+  "Slot3Weight": 15,
+  "Slot4Weight": 20,
+  "Slot5Weight": 20,
+  "Slot6Weight": 10
+ },
+ {
+  "ChainId": "sp3_2",
+  "Slot1Weight": 15,
+  "Slot2Weight": 15,
+  "Slot3Weight": 15,
+  "Slot4Weight": 20,
+  "Slot5Weight": 20,
+  "Slot6Weight": 10
+ },
+ {
+  "ChainId": "sp3_3",
+  "Slot1Weight": 15,
+  "Slot2Weight": 15,
+  "Slot3Weight": 15,
+  "Slot4Weight": 20,
+  "Slot5Weight": 20,
+  "Slot6Weight": 10
+ },
+ {
+  "ChainId": "sp4_2",
+  "Slot1Weight": 15,
+  "Slot2Weight": 15,
+  "Slot3Weight": 15,
+  "Slot4Weight": 20,
+  "Slot5Weight": 20,
+  "Slot6Weight": 10
+ },
+ {
+  "ChainId": "sp4_3",
+  "Slot1Weight": 15,
+  "Slot2Weight": 15,
+  "Slot3Weight": 15,
+  "Slot4Weight": 20,
+  "Slot5Weight": 20,
+  "Slot6Weight": 10
+ },
+ {
+  "ChainId": "sp5_2",
+  "Slot1Weight": 15,
+  "Slot2Weight": 15,
+  "Slot3Weight": 15,
+  "Slot4Weight": 20,
+  "Slot5Weight": 20,
+  "Slot6Weight": 10
+ },
+ {
+  "ChainId": "sp6_2",
+  "Slot1Weight": 15,
+  "Slot2Weight": 15,
+  "Slot3Weight": 15,
+  "Slot4Weight": 20,
+  "Slot5Weight": 20,
+  "Slot6Weight": 10
+ }
+]

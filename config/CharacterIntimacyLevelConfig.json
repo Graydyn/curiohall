@@ -1,0 +1,6124 @@
+[
+ {
+  "Character": "Cornelia",
+  "Level": 1,
+  "Intimacy": 36,
+  "RewardType": 1,
+  "Rewards": [
+   "energy-30"
+  ],
+  "Gifts": [
+   "1302-1-10",
+   "1303-1-5",
+   "1102-1-10",
+   "1103-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Cornelia",
+  "Level": 2,
+  "Intimacy": 60,
+  "RewardType": 2,
+  "Rewards": [
+   "character_cornelia_story_bedroom_icon",
+   "character_intimacy_background_cornelia",
+   "character_story_cornelia_1"
+  ],
+  "Gifts": [
+   "1302-1-10",
+   "1303-1-5",
+   "1102-1-10",
+   "1103-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Cornelia",
+  "Level": 3,
+  "Intimacy": 84,
+  "RewardType": 2,
+  "Rewards": [
+   "character_cornelia_story_bedroom_icon",
+   "character_intimacy_background_cornelia",
+   "character_story_cornelia_2"
+  ],
+  "Gifts": [
+   "1302-1-10",
+   "1303-1-5",
+   "1102-1-10",
+   "1103-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Cornelia",
+  "Level": 4,
+  "Intimacy": 96,
+  "RewardType": 2,
+  "Rewards": [
+   "character_cornelia_story_bedroom_icon",
+   "character_intimacy_background_cornelia",
+   "character_story_cornelia_3"
+  ],
+  "Gifts": [
+   "1302-1-10",
+   "1303-1-5",
+   "1102-1-10",
+   "1103-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Cornelia",
+  "Level": 5,
+  "Intimacy": 108,
+  "RewardType": 1,
+  "Rewards": [
+   "level_down_piece_1-1"
+  ],
+  "Gifts": [
+   "1302-1-10",
+   "1303-1-5",
+   "1102-1-10",
+   "1103-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Cornelia",
+  "Level": 6,
+  "Intimacy": 120,
+  "RewardType": 3,
+  "Rewards": [
+   "character_cornelia_moment_1"
+  ],
+  "Gifts": [
+   "1302-1-10",
+   "1303-1-5",
+   "1102-1-10",
+   "1103-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Cornelia",
+  "Level": 7,
+  "Intimacy": 120,
+  "RewardType": 1,
+  "Rewards": [
+   "3101-1"
+  ],
+  "Gifts": [
+   "1302-1-10",
+   "1303-1-5",
+   "1102-1-10",
+   "1103-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Cornelia",
+  "Level": 8,
+  "Intimacy": 120,
+  "RewardType": 2,
+  "Rewards": [
+   "character_cornelia_story_planetarium_icon",
+   "character_story_background_planetarium",
+   "character_story_cornelia_4"
+  ],
+  "Gifts": [
+   "1302-1-10",
+   "1303-1-5",
+   "1102-1-10",
+   "1103-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Cornelia",
+  "Level": 9,
+  "Intimacy": 120,
+  "RewardType": 2,
+  "Rewards": [
+   "character_cornelia_story_planetarium_icon",
+   "character_story_background_planetarium",
+   "character_story_cornelia_5"
+  ],
+  "Gifts": [
+   "1302-1-10",
+   "1303-1-5",
+   "1102-1-10",
+   "1103-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Cornelia",
+  "Level": 10,
+  "Intimacy": 132,
+  "RewardType": 3,
+  "Rewards": [
+   "character_cornelia_moment_2"
+  ],
+  "Gifts": [
+   "1302-1-10",
+   "1303-1-5",
+   "1102-1-10",
+   "1103-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Cornelia",
+  "Level": 11,
+  "Intimacy": 132,
+  "RewardType": 1,
+  "Rewards": [
+   "ns_3_1-1"
+  ],
+  "Gifts": [
+   "1302-1-5",
+   "1303-1-10",
+   "1304-1-5",
+   "1102-1-5",
+   "1103-1-10",
+   "1104-1-5",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Cornelia",
+  "Level": 12,
+  "Intimacy": 144,
+  "RewardType": 1,
+  "Rewards": [
+   "3501-1"
+  ],
+  "Gifts": [
+   "1302-1-5",
+   "1303-1-10",
+   "1304-1-5",
+   "1102-1-5",
+   "1103-1-10",
+   "1104-1-5",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Cornelia",
+  "Level": 13,
+  "Intimacy": 144,
+  "RewardType": 2,
+  "Rewards": [
+   "character_story_town_icon",
+   "character_intimacy_list_bg",
+   "character_story_cornelia_6"
+  ],
+  "Gifts": [
+   "1302-1-5",
+   "1303-1-10",
+   "1304-1-5",
+   "1102-1-5",
+   "1103-1-10",
+   "1104-1-5",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Cornelia",
+  "Level": 14,
+  "Intimacy": 156,
+  "RewardType": 2,
+  "Rewards": [
+   "character_story_town_icon",
+   "character_intimacy_list_bg",
+   "character_story_cornelia_7"
+  ],
+  "Gifts": [
+   "1302-1-5",
+   "1303-1-10",
+   "1304-1-5",
+   "1102-1-5",
+   "1103-1-10",
+   "1104-1-5",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Cornelia",
+  "Level": 15,
+  "Intimacy": 156,
+  "RewardType": 1,
+  "Rewards": [
+   "2901-1"
+  ],
+  "Gifts": [
+   "1302-1-5",
+   "1303-1-10",
+   "1304-1-5",
+   "1102-1-5",
+   "1103-1-10",
+   "1104-1-5",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Cornelia",
+  "Level": 16,
+  "Intimacy": 168,
+  "RewardType": 3,
+  "Rewards": [
+   "character_cornelia_moment_3"
+  ],
+  "Gifts": [
+   "1302-1-5",
+   "1303-1-10",
+   "1304-1-5",
+   "1102-1-5",
+   "1103-1-10",
+   "1104-1-5",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Cornelia",
+  "Level": 17,
+  "Intimacy": 168,
+  "RewardType": 1,
+  "Rewards": [
+   "time_skip_5-1"
+  ],
+  "Gifts": [
+   "1302-1-5",
+   "1303-1-10",
+   "1304-1-5",
+   "1102-1-5",
+   "1103-1-10",
+   "1104-1-5",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Cornelia",
+  "Level": 18,
+  "Intimacy": 180,
+  "RewardType": 2,
+  "Rewards": [
+   "character_cornelia_story_bedroom_icon",
+   "character_intimacy_background_cornelia",
+   "character_story_cornelia_8"
+  ],
+  "Gifts": [
+   "1302-1-5",
+   "1303-1-10",
+   "1304-1-5",
+   "1102-1-5",
+   "1103-1-10",
+   "1104-1-5",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Cornelia",
+  "Level": 19,
+  "Intimacy": 180,
+  "RewardType": 2,
+  "Rewards": [
+   "character_cornelia_story_bedroom_icon",
+   "character_intimacy_background_cornelia",
+   "character_story_cornelia_9"
+  ],
+  "Gifts": [
+   "1302-1-5",
+   "1303-1-10",
+   "1304-1-5",
+   "1102-1-5",
+   "1103-1-10",
+   "1104-1-5",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Cornelia",
+  "Level": 20,
+  "Intimacy": 360,
+  "RewardType": 1,
+  "Rewards": [
+   "daily_task_chestA_1-1"
+  ],
+  "Gifts": [
+   "1302-1-5",
+   "1303-1-10",
+   "1304-1-5",
+   "1102-1-5",
+   "1103-1-10",
+   "1104-1-5",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Cornelia",
+  "Level": 21,
+  "Intimacy": 240,
+  "RewardType": 1,
+  "Rewards": [
+   "rc_a_1-1"
+  ],
+  "Gifts": [
+   "1302-1-5",
+   "1303-1-10",
+   "1304-1-10",
+   "1305-1-5",
+   "1102-1-5",
+   "1103-1-10",
+   "1104-1-10",
+   "1105-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Cornelia",
+  "Level": 22,
+  "Intimacy": 258,
+  "RewardType": 1,
+  "Rewards": [
+   "os_1_1-1"
+  ],
+  "Gifts": [
+   "1302-1-5",
+   "1303-1-10",
+   "1304-1-10",
+   "1305-1-5",
+   "1102-1-5",
+   "1103-1-10",
+   "1104-1-10",
+   "1105-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Cornelia",
+  "Level": 23,
+  "Intimacy": 276,
+  "RewardType": 1,
+  "Rewards": [
+   "scratch_b_1-1"
+  ],
+  "Gifts": [
+   "1302-1-5",
+   "1303-1-10",
+   "1304-1-10",
+   "1305-1-5",
+   "1102-1-5",
+   "1103-1-10",
+   "1104-1-10",
+   "1105-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Cornelia",
+  "Level": 24,
+  "Intimacy": 294,
+  "RewardType": 2,
+  "Rewards": [
+   "character_barnaby_story_counter_icon",
+   "character_intimacy_background_barnaby",
+   "character_story_cornelia_3a"
+  ],
+  "Gifts": [
+   "1302-1-5",
+   "1303-1-10",
+   "1304-1-10",
+   "1305-1-5",
+   "1102-1-5",
+   "1103-1-10",
+   "1104-1-10",
+   "1105-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Cornelia",
+  "Level": 25,
+  "Intimacy": 312,
+  "RewardType": 2,
+  "Rewards": [
+   "character_barnaby_story_counter_icon",
+   "character_intimacy_background_barnaby",
+   "character_story_cornelia_3b"
+  ],
+  "Gifts": [
+   "1302-1-5",
+   "1303-1-10",
+   "1304-1-10",
+   "1305-1-5",
+   "1102-1-5",
+   "1103-1-10",
+   "1104-1-10",
+   "1105-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Cornelia",
+  "Level": 26,
+  "Intimacy": 330,
+  "RewardType": 1,
+  "Rewards": [
+   "ShopNewChest_2-1"
+  ],
+  "Gifts": [
+   "1302-1-5",
+   "1303-1-10",
+   "1304-1-10",
+   "1305-1-5",
+   "1102-1-5",
+   "1103-1-10",
+   "1104-1-10",
+   "1105-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Cornelia",
+  "Level": 27,
+  "Intimacy": 348,
+  "RewardType": 1,
+  "Rewards": [
+   "rc_b_1-1"
+  ],
+  "Gifts": [
+   "1302-1-5",
+   "1303-1-10",
+   "1304-1-10",
+   "1305-1-5",
+   "1102-1-5",
+   "1103-1-10",
+   "1104-1-10",
+   "1105-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Cornelia",
+  "Level": 28,
+  "Intimacy": 366,
+  "RewardType": 3,
+  "Rewards": [
+   "character_moment_cornelia_3a"
+  ],
+  "Gifts": [
+   "1302-1-5",
+   "1303-1-10",
+   "1304-1-10",
+   "1305-1-5",
+   "1102-1-5",
+   "1103-1-10",
+   "1104-1-10",
+   "1105-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Cornelia",
+  "Level": 29,
+  "Intimacy": 384,
+  "RewardType": 1,
+  "Rewards": [
+   "energy-100"
+  ],
+  "Gifts": [
+   "1302-1-5",
+   "1303-1-10",
+   "1304-1-10",
+   "1305-1-5",
+   "1102-1-5",
+   "1103-1-10",
+   "1104-1-10",
+   "1105-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Cornelia",
+  "Level": 30,
+  "Intimacy": 720,
+  "RewardType": 1,
+  "Rewards": [
+   "gift_cornelia_1-1"
+  ],
+  "Gifts": [
+   "1302-1-5",
+   "1303-1-10",
+   "1304-1-10",
+   "1305-1-5",
+   "1102-1-5",
+   "1103-1-10",
+   "1104-1-10",
+   "1105-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Barnaby",
+  "Level": 1,
+  "Intimacy": 48,
+  "RewardType": 1,
+  "Rewards": [
+   "2403-1"
+  ],
+  "Gifts": [
+   "204-1-10",
+   "205-1-5",
+   "504-1-10",
+   "505-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Barnaby",
+  "Level": 2,
+  "Intimacy": 72,
+  "RewardType": 1,
+  "Rewards": [
+   "ShopNewChest_1-1"
+  ],
+  "Gifts": [
+   "204-1-10",
+   "205-1-5",
+   "504-1-10",
+   "505-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Barnaby",
+  "Level": 3,
+  "Intimacy": 108,
+  "RewardType": 2,
+  "Rewards": [
+   "character_barnaby_story_counter_icon",
+   "character_intimacy_background_barnaby",
+   "character_story_barnaby_1"
+  ],
+  "Gifts": [
+   "204-1-10",
+   "205-1-5",
+   "504-1-10",
+   "505-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Barnaby",
+  "Level": 4,
+  "Intimacy": 120,
+  "RewardType": 1,
+  "Rewards": [
+   "2502-1"
+  ],
+  "Gifts": [
+   "204-1-10",
+   "205-1-5",
+   "504-1-10",
+   "505-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Barnaby",
+  "Level": 5,
+  "Intimacy": 120,
+  "RewardType": 1,
+  "Rewards": [
+   "energy-50"
+  ],
+  "Gifts": [
+   "204-1-10",
+   "205-1-5",
+   "504-1-10",
+   "505-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Barnaby",
+  "Level": 6,
+  "Intimacy": 132,
+  "RewardType": 2,
+  "Rewards": [
+   "character_barnaby_story_counter_icon",
+   "character_intimacy_background_barnaby",
+   "character_story_barnaby_2"
+  ],
+  "Gifts": [
+   "204-1-10",
+   "205-1-5",
+   "504-1-10",
+   "505-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Barnaby",
+  "Level": 7,
+  "Intimacy": 132,
+  "RewardType": 1,
+  "Rewards": [
+   "4101-1"
+  ],
+  "Gifts": [
+   "204-1-10",
+   "205-1-5",
+   "504-1-10",
+   "505-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Barnaby",
+  "Level": 8,
+  "Intimacy": 132,
+  "RewardType": 3,
+  "Rewards": [
+   "character_barnaby_moment_1"
+  ],
+  "Gifts": [
+   "204-1-10",
+   "205-1-5",
+   "504-1-10",
+   "505-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Barnaby",
+  "Level": 9,
+  "Intimacy": 144,
+  "RewardType": 1,
+  "Rewards": [
+   "energy-75"
+  ],
+  "Gifts": [
+   "204-1-10",
+   "205-1-5",
+   "504-1-10",
+   "505-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Barnaby",
+  "Level": 10,
+  "Intimacy": 144,
+  "RewardType": 1,
+  "Rewards": [
+   "ns_3_1-1"
+  ],
+  "Gifts": [
+   "204-1-10",
+   "205-1-5",
+   "504-1-10",
+   "505-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Barnaby",
+  "Level": 11,
+  "Intimacy": 144,
+  "RewardType": 2,
+  "Rewards": [
+   "character_barnaby_story_counter_icon",
+   "character_intimacy_background_barnaby",
+   "character_story_barnaby_3"
+  ],
+  "Gifts": [
+   "204-1-5",
+   "205-1-10",
+   "206-1-5",
+   "504-1-5",
+   "505-1-10",
+   "506-1-5",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Barnaby",
+  "Level": 12,
+  "Intimacy": 168,
+  "RewardType": 1,
+  "Rewards": [
+   "level_down_piece_1-1"
+  ],
+  "Gifts": [
+   "204-1-5",
+   "205-1-10",
+   "206-1-5",
+   "504-1-5",
+   "505-1-10",
+   "506-1-5",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Barnaby",
+  "Level": 13,
+  "Intimacy": 192,
+  "RewardType": 1,
+  "Rewards": [
+   "2503-1"
+  ],
+  "Gifts": [
+   "204-1-5",
+   "205-1-10",
+   "206-1-5",
+   "504-1-5",
+   "505-1-10",
+   "506-1-5",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Barnaby",
+  "Level": 14,
+  "Intimacy": 216,
+  "RewardType": 2,
+  "Rewards": [
+   "character_barnaby_story_counter_icon",
+   "character_intimacy_background_barnaby",
+   "character_story_barnaby_4"
+  ],
+  "Gifts": [
+   "204-1-5",
+   "205-1-10",
+   "206-1-5",
+   "504-1-5",
+   "505-1-10",
+   "506-1-5",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Barnaby",
+  "Level": 15,
+  "Intimacy": 240,
+  "RewardType": 1,
+  "Rewards": [
+   "energy-100"
+  ],
+  "Gifts": [
+   "204-1-5",
+   "205-1-10",
+   "206-1-5",
+   "504-1-5",
+   "505-1-10",
+   "506-1-5",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Barnaby",
+  "Level": 16,
+  "Intimacy": 264,
+  "RewardType": 1,
+  "Rewards": [
+   "4201-1"
+  ],
+  "Gifts": [
+   "204-1-5",
+   "205-1-10",
+   "206-1-5",
+   "504-1-5",
+   "505-1-10",
+   "506-1-5",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Barnaby",
+  "Level": 17,
+  "Intimacy": 288,
+  "RewardType": 2,
+  "Rewards": [
+   "character_barnaby_story_counter_icon",
+   "character_intimacy_background_barnaby",
+   "character_story_barnaby_5"
+  ],
+  "Gifts": [
+   "204-1-5",
+   "205-1-10",
+   "206-1-5",
+   "504-1-5",
+   "505-1-10",
+   "506-1-5",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Barnaby",
+  "Level": 18,
+  "Intimacy": 312,
+  "RewardType": 1,
+  "Rewards": [
+   "ns_2_1-1"
+  ],
+  "Gifts": [
+   "204-1-5",
+   "205-1-10",
+   "206-1-5",
+   "504-1-5",
+   "505-1-10",
+   "506-1-5",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Barnaby",
+  "Level": 19,
+  "Intimacy": 336,
+  "RewardType": 3,
+  "Rewards": [
+   "character_barnaby_moment_2"
+  ],
+  "Gifts": [
+   "204-1-5",
+   "205-1-10",
+   "206-1-5",
+   "504-1-5",
+   "505-1-10",
+   "506-1-5",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Barnaby",
+  "Level": 20,
+  "Intimacy": 360,
+  "RewardType": 1,
+  "Rewards": [
+   "energy-200"
+  ],
+  "Gifts": [
+   "204-1-5",
+   "205-1-10",
+   "206-1-5",
+   "504-1-5",
+   "505-1-10",
+   "506-1-5",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Barnaby",
+  "Level": 21,
+  "Intimacy": 300,
+  "RewardType": 1,
+  "Rewards": [
+   "scratch_a_1-1"
+  ],
+  "Gifts": [
+   "204-1-5",
+   "205-1-10",
+   "206-1-10",
+   "207-1-5",
+   "504-1-5",
+   "505-1-10",
+   "506-1-10",
+   "507-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Barnaby",
+  "Level": 22,
+  "Intimacy": 324,
+  "RewardType": 1,
+  "Rewards": [
+   "os_1_1-1"
+  ],
+  "Gifts": [
+   "204-1-5",
+   "205-1-10",
+   "206-1-10",
+   "207-1-5",
+   "504-1-5",
+   "505-1-10",
+   "506-1-10",
+   "507-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Barnaby",
+  "Level": 23,
+  "Intimacy": 348,
+  "RewardType": 1,
+  "Rewards": [
+   "rc_c_1-1"
+  ],
+  "Gifts": [
+   "204-1-5",
+   "205-1-10",
+   "206-1-10",
+   "207-1-5",
+   "504-1-5",
+   "505-1-10",
+   "506-1-10",
+   "507-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Barnaby",
+  "Level": 24,
+  "Intimacy": 372,
+  "RewardType": 2,
+  "Rewards": [
+   "character_story_town_icon",
+   "character_intimacy_list_bg",
+   "character_story_barnaby_3a"
+  ],
+  "Gifts": [
+   "204-1-5",
+   "205-1-10",
+   "206-1-10",
+   "207-1-5",
+   "504-1-5",
+   "505-1-10",
+   "506-1-10",
+   "507-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Barnaby",
+  "Level": 25,
+  "Intimacy": 396,
+  "RewardType": 2,
+  "Rewards": [
+   "character_story_town_icon",
+   "character_intimacy_list_bg",
+   "character_story_barnaby_3b"
+  ],
+  "Gifts": [
+   "204-1-5",
+   "205-1-10",
+   "206-1-10",
+   "207-1-5",
+   "504-1-5",
+   "505-1-10",
+   "506-1-10",
+   "507-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Barnaby",
+  "Level": 26,
+  "Intimacy": 420,
+  "RewardType": 1,
+  "Rewards": [
+   "ns_2_1-1"
+  ],
+  "Gifts": [
+   "204-1-5",
+   "205-1-10",
+   "206-1-10",
+   "207-1-5",
+   "504-1-5",
+   "505-1-10",
+   "506-1-10",
+   "507-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Barnaby",
+  "Level": 27,
+  "Intimacy": 444,
+  "RewardType": 1,
+  "Rewards": [
+   "4001-1",
+   "4201-1"
+  ],
+  "Gifts": [
+   "204-1-5",
+   "205-1-10",
+   "206-1-10",
+   "207-1-5",
+   "504-1-5",
+   "505-1-10",
+   "506-1-10",
+   "507-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Barnaby",
+  "Level": 28,
+  "Intimacy": 468,
+  "RewardType": 3,
+  "Rewards": [
+   "character_moment_barnaby_3a"
+  ],
+  "Gifts": [
+   "204-1-5",
+   "205-1-10",
+   "206-1-10",
+   "207-1-5",
+   "504-1-5",
+   "505-1-10",
+   "506-1-10",
+   "507-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Barnaby",
+  "Level": 29,
+  "Intimacy": 492,
+  "RewardType": 1,
+  "Rewards": [
+   "ns_4_1-1"
+  ],
+  "Gifts": [
+   "204-1-5",
+   "205-1-10",
+   "206-1-10",
+   "207-1-5",
+   "504-1-5",
+   "505-1-10",
+   "506-1-10",
+   "507-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Barnaby",
+  "Level": 30,
+  "Intimacy": 960,
+  "RewardType": 1,
+  "Rewards": [
+   "gift_barnaby_1-1"
+  ],
+  "Gifts": [
+   "204-1-5",
+   "205-1-10",
+   "206-1-10",
+   "207-1-5",
+   "504-1-5",
+   "505-1-10",
+   "506-1-10",
+   "507-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Aldous",
+  "Level": 1,
+  "Intimacy": 48,
+  "RewardType": 1,
+  "Rewards": [
+   "805-1"
+  ],
+  "Gifts": [
+   "803-1-10",
+   "804-1-5",
+   "902-1-10",
+   "903-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Aldous",
+  "Level": 2,
+  "Intimacy": 72,
+  "RewardType": 2,
+  "Rewards": [
+   "character_aldous_story_harbor_icon",
+   "character_intimacy_background_aldous",
+   "character_story_aldous_3"
+  ],
+  "Gifts": [
+   "803-1-10",
+   "804-1-5",
+   "902-1-10",
+   "903-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Aldous",
+  "Level": 3,
+  "Intimacy": 108,
+  "RewardType": 1,
+  "Rewards": [
+   "905-1"
+  ],
+  "Gifts": [
+   "803-1-10",
+   "804-1-5",
+   "902-1-10",
+   "903-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Aldous",
+  "Level": 4,
+  "Intimacy": 120,
+  "RewardType": 1,
+  "Rewards": [
+   "906-1"
+  ],
+  "Gifts": [
+   "803-1-10",
+   "804-1-5",
+   "902-1-10",
+   "903-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Aldous",
+  "Level": 5,
+  "Intimacy": 120,
+  "RewardType": 2,
+  "Rewards": [
+   "character_aldous_story_harbor_icon",
+   "character_intimacy_background_aldous",
+   "character_story_aldous_4"
+  ],
+  "Gifts": [
+   "803-1-10",
+   "804-1-5",
+   "902-1-10",
+   "903-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Aldous",
+  "Level": 6,
+  "Intimacy": 132,
+  "RewardType": 1,
+  "Rewards": [
+   "701-1"
+  ],
+  "Gifts": [
+   "803-1-10",
+   "804-1-5",
+   "902-1-10",
+   "903-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Aldous",
+  "Level": 7,
+  "Intimacy": 132,
+  "RewardType": 3,
+  "Rewards": [
+   "character_aldous_moment_1"
+  ],
+  "Gifts": [
+   "803-1-10",
+   "804-1-5",
+   "902-1-10",
+   "903-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Aldous",
+  "Level": 8,
+  "Intimacy": 132,
+  "RewardType": 1,
+  "Rewards": [
+   "805-1",
+   "805-1"
+  ],
+  "Gifts": [
+   "803-1-10",
+   "804-1-5",
+   "902-1-10",
+   "903-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Aldous",
+  "Level": 9,
+  "Intimacy": 144,
+  "RewardType": 1,
+  "Rewards": [
+   "906-1",
+   "805-1"
+  ],
+  "Gifts": [
+   "803-1-10",
+   "804-1-5",
+   "902-1-10",
+   "903-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Aldous",
+  "Level": 10,
+  "Intimacy": 144,
+  "RewardType": 2,
+  "Rewards": [
+   "character_aldous_story_harbor_icon",
+   "character_intimacy_background_aldous",
+   "character_story_aldous_5"
+  ],
+  "Gifts": [
+   "803-1-10",
+   "804-1-5",
+   "902-1-10",
+   "903-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Aldous",
+  "Level": 11,
+  "Intimacy": 144,
+  "RewardType": 1,
+  "Rewards": [
+   "805-1",
+   "805-1",
+   "805-1"
+  ],
+  "Gifts": [
+   "803-1-5",
+   "804-1-10",
+   "805-1-5",
+   "902-1-5",
+   "903-1-10",
+   "904-1-5",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Aldous",
+  "Level": 12,
+  "Intimacy": 168,
+  "RewardType": 1,
+  "Rewards": [
+   "907-1",
+   "906-1"
+  ],
+  "Gifts": [
+   "803-1-5",
+   "804-1-10",
+   "805-1-5",
+   "902-1-5",
+   "903-1-10",
+   "904-1-5",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Aldous",
+  "Level": 13,
+  "Intimacy": 192,
+  "RewardType": 1,
+  "Rewards": [
+   "908-1"
+  ],
+  "Gifts": [
+   "803-1-5",
+   "804-1-10",
+   "805-1-5",
+   "902-1-5",
+   "903-1-10",
+   "904-1-5",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Aldous",
+  "Level": 14,
+  "Intimacy": 216,
+  "RewardType": 2,
+  "Rewards": [
+   "character_barnaby_story_restaurant_icon",
+   "character_story_background_restaurant",
+   "character_story_aldous_1"
+  ],
+  "Gifts": [
+   "803-1-5",
+   "804-1-10",
+   "805-1-5",
+   "902-1-5",
+   "903-1-10",
+   "904-1-5",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Aldous",
+  "Level": 15,
+  "Intimacy": 240,
+  "RewardType": 1,
+  "Rewards": [
+   "701-1"
+  ],
+  "Gifts": [
+   "803-1-5",
+   "804-1-10",
+   "805-1-5",
+   "902-1-5",
+   "903-1-10",
+   "904-1-5",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Aldous",
+  "Level": 16,
+  "Intimacy": 264,
+  "RewardType": 1,
+  "Rewards": [
+   "805-1",
+   "908-1",
+   "805-1"
+  ],
+  "Gifts": [
+   "803-1-5",
+   "804-1-10",
+   "805-1-5",
+   "902-1-5",
+   "903-1-10",
+   "904-1-5",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Aldous",
+  "Level": 17,
+  "Intimacy": 288,
+  "RewardType": 1,
+  "Rewards": [
+   "909-1"
+  ],
+  "Gifts": [
+   "803-1-5",
+   "804-1-10",
+   "805-1-5",
+   "902-1-5",
+   "903-1-10",
+   "904-1-5",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Aldous",
+  "Level": 18,
+  "Intimacy": 312,
+  "RewardType": 2,
+  "Rewards": [
+   "character_barnaby_story_restaurant_icon",
+   "character_story_background_restaurant",
+   "character_story_aldous_2"
+  ],
+  "Gifts": [
+   "803-1-5",
+   "804-1-10",
+   "805-1-5",
+   "902-1-5",
+   "903-1-10",
+   "904-1-5",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Aldous",
+  "Level": 19,
+  "Intimacy": 336,
+  "RewardType": 1,
+  "Rewards": [
+   "910-1"
+  ],
+  "Gifts": [
+   "803-1-5",
+   "804-1-10",
+   "805-1-5",
+   "902-1-5",
+   "903-1-10",
+   "904-1-5",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Aldous",
+  "Level": 20,
+  "Intimacy": 360,
+  "RewardType": 1,
+  "Rewards": [
+   "level_up_piece_1-1"
+  ],
+  "Gifts": [
+   "803-1-5",
+   "804-1-10",
+   "805-1-5",
+   "902-1-5",
+   "903-1-10",
+   "904-1-5",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Aldous",
+  "Level": 21,
+  "Intimacy": 312,
+  "RewardType": 1,
+  "Rewards": [
+   "701-1"
+  ],
+  "Gifts": [
+   "803-1-5",
+   "804-1-10",
+   "805-1-10",
+   "902-1-5",
+   "903-1-10",
+   "904-1-15",
+   "905-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Aldous",
+  "Level": 22,
+  "Intimacy": 342,
+  "RewardType": 1,
+  "Rewards": [
+   "906-1",
+   "907-1",
+   "906-1"
+  ],
+  "Gifts": [
+   "803-1-5",
+   "804-1-10",
+   "805-1-10",
+   "902-1-5",
+   "903-1-10",
+   "904-1-15",
+   "905-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Aldous",
+  "Level": 23,
+  "Intimacy": 372,
+  "RewardType": 1,
+  "Rewards": [
+   "scratch_b_1-1"
+  ],
+  "Gifts": [
+   "803-1-5",
+   "804-1-10",
+   "805-1-10",
+   "902-1-5",
+   "903-1-10",
+   "904-1-15",
+   "905-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Aldous",
+  "Level": 24,
+  "Intimacy": 402,
+  "RewardType": 2,
+  "Rewards": [
+   "character_aldous_story_harbor_icon",
+   "character_intimacy_background_aldous",
+   "character_story_aldous_3a"
+  ],
+  "Gifts": [
+   "803-1-5",
+   "804-1-10",
+   "805-1-10",
+   "902-1-5",
+   "903-1-10",
+   "904-1-15",
+   "905-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Aldous",
+  "Level": 25,
+  "Intimacy": 432,
+  "RewardType": 2,
+  "Rewards": [
+   "character_aldous_story_harbor_icon",
+   "character_intimacy_background_aldous",
+   "character_story_aldous_3b"
+  ],
+  "Gifts": [
+   "803-1-5",
+   "804-1-10",
+   "805-1-10",
+   "902-1-5",
+   "903-1-10",
+   "904-1-15",
+   "905-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Aldous",
+  "Level": 26,
+  "Intimacy": 462,
+  "RewardType": 1,
+  "Rewards": [
+   "ns_4_1-1"
+  ],
+  "Gifts": [
+   "803-1-5",
+   "804-1-10",
+   "805-1-10",
+   "902-1-5",
+   "903-1-10",
+   "904-1-15",
+   "905-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Aldous",
+  "Level": 27,
+  "Intimacy": 491,
+  "RewardType": 1,
+  "Rewards": [
+   "701-1",
+   "701-1"
+  ],
+  "Gifts": [
+   "803-1-5",
+   "804-1-10",
+   "805-1-10",
+   "902-1-5",
+   "903-1-10",
+   "904-1-15",
+   "905-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Aldous",
+  "Level": 28,
+  "Intimacy": 521,
+  "RewardType": 3,
+  "Rewards": [
+   "character_moment_aldous_3a"
+  ],
+  "Gifts": [
+   "803-1-5",
+   "804-1-10",
+   "805-1-10",
+   "902-1-5",
+   "903-1-10",
+   "904-1-15",
+   "905-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Aldous",
+  "Level": 29,
+  "Intimacy": 551,
+  "RewardType": 1,
+  "Rewards": [
+   "rc_d_1-1"
+  ],
+  "Gifts": [
+   "803-1-5",
+   "804-1-10",
+   "805-1-10",
+   "902-1-5",
+   "903-1-10",
+   "904-1-15",
+   "905-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Aldous",
+  "Level": 30,
+  "Intimacy": 1080,
+  "RewardType": 1,
+  "Rewards": [
+   "gift_aldous_1-1"
+  ],
+  "Gifts": [
+   "803-1-5",
+   "804-1-10",
+   "805-1-10",
+   "902-1-5",
+   "903-1-10",
+   "904-1-15",
+   "905-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Sam",
+  "Level": 1,
+  "Intimacy": 60,
+  "RewardType": 1,
+  "Rewards": [
+   "energy-50"
+  ],
+  "Gifts": [
+   "energy-10-5",
+   "energy-15-5"
+  ]
+ },
+ {
+  "Character": "Sam",
+  "Level": 2,
+  "Intimacy": 90,
+  "RewardType": 2,
+  "Rewards": [
+   "character_barnaby_story_counter_icon",
+   "character_intimacy_background_barnaby",
+   "character_story_sam_1a"
+  ],
+  "Gifts": [
+   "energy-10-5",
+   "energy-15-5"
+  ]
+ },
+ {
+  "Character": "Sam",
+  "Level": 3,
+  "Intimacy": 135,
+  "RewardType": 1,
+  "Rewards": [
+   "1305-1"
+  ],
+  "Gifts": [
+   "energy-10-5",
+   "energy-15-5"
+  ]
+ },
+ {
+  "Character": "Sam",
+  "Level": 4,
+  "Intimacy": 150,
+  "RewardType": 1,
+  "Rewards": [
+   "1306-1"
+  ],
+  "Gifts": [
+   "energy-10-5",
+   "energy-15-5"
+  ]
+ },
+ {
+  "Character": "Sam",
+  "Level": 5,
+  "Intimacy": 150,
+  "RewardType": 2,
+  "Rewards": [
+   "character_barnaby_story_counter_icon",
+   "character_intimacy_background_barnaby",
+   "character_story_sam_1b"
+  ],
+  "Gifts": [
+   "energy-10-5",
+   "energy-15-5"
+  ]
+ },
+ {
+  "Character": "Sam",
+  "Level": 6,
+  "Intimacy": 165,
+  "RewardType": 1,
+  "Rewards": [
+   "1403-1"
+  ],
+  "Gifts": [
+   "energy-10-5",
+   "energy-15-5"
+  ]
+ },
+ {
+  "Character": "Sam",
+  "Level": 7,
+  "Intimacy": 165,
+  "RewardType": 3,
+  "Rewards": [
+   "character_sam_moment_1"
+  ],
+  "Gifts": [
+   "energy-10-5",
+   "energy-15-5"
+  ]
+ },
+ {
+  "Character": "Sam",
+  "Level": 8,
+  "Intimacy": 165,
+  "RewardType": 1,
+  "Rewards": [
+   "1404-1"
+  ],
+  "Gifts": [
+   "energy-10-5",
+   "energy-15-5"
+  ]
+ },
+ {
+  "Character": "Sam",
+  "Level": 9,
+  "Intimacy": 180,
+  "RewardType": 1,
+  "Rewards": [
+   "1306-1",
+   "1305-1"
+  ],
+  "Gifts": [
+   "energy-10-5",
+   "energy-15-5"
+  ]
+ },
+ {
+  "Character": "Sam",
+  "Level": 10,
+  "Intimacy": 180,
+  "RewardType": 1,
+  "Rewards": [
+   "energy-100"
+  ],
+  "Gifts": [
+   "energy-10-5",
+   "energy-15-5"
+  ]
+ },
+ {
+  "Character": "Sam",
+  "Level": 11,
+  "Intimacy": 180,
+  "RewardType": 2,
+  "Rewards": [
+   "character_sam_story_workshop_icon",
+   "character_intimacy_background_sam",
+   "character_story_sam_2a"
+  ],
+  "Gifts": [
+   "energy-10-15",
+   "energy-15-15",
+   "energy-20-5"
+  ]
+ },
+ {
+  "Character": "Sam",
+  "Level": 12,
+  "Intimacy": 210,
+  "RewardType": 1,
+  "Rewards": [
+   "1307-1",
+   "1306-1"
+  ],
+  "Gifts": [
+   "energy-10-15",
+   "energy-15-15",
+   "energy-20-5"
+  ]
+ },
+ {
+  "Character": "Sam",
+  "Level": 13,
+  "Intimacy": 240,
+  "RewardType": 2,
+  "Rewards": [
+   "character_sam_story_workshop_icon",
+   "character_intimacy_background_sam",
+   "character_story_sam_2b"
+  ],
+  "Gifts": [
+   "energy-10-15",
+   "energy-15-15",
+   "energy-20-5"
+  ]
+ },
+ {
+  "Character": "Sam",
+  "Level": 14,
+  "Intimacy": 270,
+  "RewardType": 1,
+  "Rewards": [
+   "1308-1"
+  ],
+  "Gifts": [
+   "energy-10-15",
+   "energy-15-15",
+   "energy-20-5"
+  ]
+ },
+ {
+  "Character": "Sam",
+  "Level": 15,
+  "Intimacy": 300,
+  "RewardType": 1,
+  "Rewards": [
+   "1405-1"
+  ],
+  "Gifts": [
+   "energy-10-15",
+   "energy-15-15",
+   "energy-20-5"
+  ]
+ },
+ {
+  "Character": "Sam",
+  "Level": 16,
+  "Intimacy": 330,
+  "RewardType": 2,
+  "Rewards": [
+   "character_sam_story_workshop_icon",
+   "character_intimacy_background_sam",
+   "character_story_sam_2c"
+  ],
+  "Gifts": [
+   "energy-10-15",
+   "energy-15-15",
+   "energy-20-5"
+  ]
+ },
+ {
+  "Character": "Sam",
+  "Level": 17,
+  "Intimacy": 360,
+  "RewardType": 1,
+  "Rewards": [
+   "1309-1"
+  ],
+  "Gifts": [
+   "energy-10-15",
+   "energy-15-15",
+   "energy-20-5"
+  ]
+ },
+ {
+  "Character": "Sam",
+  "Level": 18,
+  "Intimacy": 390,
+  "RewardType": 1,
+  "Rewards": [
+   "1406-1"
+  ],
+  "Gifts": [
+   "energy-10-15",
+   "energy-15-15",
+   "energy-20-5"
+  ]
+ },
+ {
+  "Character": "Sam",
+  "Level": 19,
+  "Intimacy": 420,
+  "RewardType": 3,
+  "Rewards": [
+   "character_sam_moment_2"
+  ],
+  "Gifts": [
+   "energy-10-15",
+   "energy-15-15",
+   "energy-20-5"
+  ]
+ },
+ {
+  "Character": "Sam",
+  "Level": 20,
+  "Intimacy": 450,
+  "RewardType": 1,
+  "Rewards": [
+   "energy-200"
+  ],
+  "Gifts": [
+   "energy-10-15",
+   "energy-15-15",
+   "energy-20-5"
+  ]
+ },
+ {
+  "Character": "Sam",
+  "Level": 21,
+  "Intimacy": 390,
+  "RewardType": 1,
+  "Rewards": [
+   "1307-1"
+  ],
+  "Gifts": [
+   "energy-10-15",
+   "energy-15-15",
+   "energy-20-5"
+  ]
+ },
+ {
+  "Character": "Sam",
+  "Level": 22,
+  "Intimacy": 428,
+  "RewardType": 2,
+  "Rewards": [
+   "character_barnaby_story_restaurant_icon",
+   "character_story_background_restaurant",
+   "character_story_sam_3a"
+  ],
+  "Gifts": [
+   "energy-10-15",
+   "energy-15-15",
+   "energy-20-5"
+  ]
+ },
+ {
+  "Character": "Sam",
+  "Level": 23,
+  "Intimacy": 465,
+  "RewardType": 1,
+  "Rewards": [
+   "scratch_a_1-1",
+   "scratch_a_1-1",
+   "scratch_a_1-1"
+  ],
+  "Gifts": [
+   "energy-10-15",
+   "energy-15-15",
+   "energy-20-5"
+  ]
+ },
+ {
+  "Character": "Sam",
+  "Level": 24,
+  "Intimacy": 503,
+  "RewardType": 1,
+  "Rewards": [
+   "1306-1",
+   "1307-1",
+   "1306-1"
+  ],
+  "Gifts": [
+   "energy-10-15",
+   "energy-15-15",
+   "energy-20-5"
+  ]
+ },
+ {
+  "Character": "Sam",
+  "Level": 25,
+  "Intimacy": 540,
+  "RewardType": 2,
+  "Rewards": [
+   "character_barnaby_story_restaurant_icon",
+   "character_story_background_restaurant",
+   "character_story_sam_3b"
+  ],
+  "Gifts": [
+   "energy-10-15",
+   "energy-15-15",
+   "energy-20-5"
+  ]
+ },
+ {
+  "Character": "Sam",
+  "Level": 26,
+  "Intimacy": 578,
+  "RewardType": 1,
+  "Rewards": [
+   "scratch_b_1-1"
+  ],
+  "Gifts": [
+   "energy-10-15",
+   "energy-15-15",
+   "energy-20-5"
+  ]
+ },
+ {
+  "Character": "Sam",
+  "Level": 27,
+  "Intimacy": 615,
+  "RewardType": 1,
+  "Rewards": [
+   "1407-1"
+  ],
+  "Gifts": [
+   "energy-10-15",
+   "energy-15-15",
+   "energy-20-5"
+  ]
+ },
+ {
+  "Character": "Sam",
+  "Level": 28,
+  "Intimacy": 653,
+  "RewardType": 3,
+  "Rewards": [
+   "character_sam_moment_3"
+  ],
+  "Gifts": [
+   "energy-10-15",
+   "energy-15-15",
+   "energy-20-5"
+  ]
+ },
+ {
+  "Character": "Sam",
+  "Level": 29,
+  "Intimacy": 690,
+  "RewardType": 1,
+  "Rewards": [
+   "1310-1"
+  ],
+  "Gifts": [
+   "energy-10-15",
+   "energy-15-15",
+   "energy-20-5"
+  ]
+ },
+ {
+  "Character": "Sam",
+  "Level": 30,
+  "Intimacy": 1350,
+  "RewardType": 1,
+  "Rewards": [
+   "gift_sam_1-1"
+  ],
+  "Gifts": [
+   "energy-10-15",
+   "energy-15-15",
+   "energy-20-5"
+  ]
+ },
+ {
+  "Character": "Mark",
+  "Level": 1,
+  "Intimacy": 72,
+  "RewardType": 1,
+  "Rewards": [
+   "604-1"
+  ],
+  "Gifts": [
+   "energy-10-5",
+   "energy-15-5"
+  ]
+ },
+ {
+  "Character": "Mark",
+  "Level": 2,
+  "Intimacy": 108,
+  "RewardType": 2,
+  "Rewards": [
+   "character_barnaby_story_restaurant_icon",
+   "character_story_background_restaurant",
+   "character_story_mark_1a"
+  ],
+  "Gifts": [
+   "energy-10-5",
+   "energy-15-5"
+  ]
+ },
+ {
+  "Character": "Mark",
+  "Level": 3,
+  "Intimacy": 162,
+  "RewardType": 1,
+  "Rewards": [
+   "506-1",
+   "603-1"
+  ],
+  "Gifts": [
+   "energy-10-5",
+   "energy-15-5"
+  ]
+ },
+ {
+  "Character": "Mark",
+  "Level": 4,
+  "Intimacy": 180,
+  "RewardType": 1,
+  "Rewards": [
+   "401-1"
+  ],
+  "Gifts": [
+   "energy-10-5",
+   "energy-15-5"
+  ]
+ },
+ {
+  "Character": "Mark",
+  "Level": 5,
+  "Intimacy": 180,
+  "RewardType": 2,
+  "Rewards": [
+   "character_barnaby_story_restaurant_icon",
+   "character_story_background_restaurant",
+   "character_story_mark_1b"
+  ],
+  "Gifts": [
+   "energy-10-5",
+   "energy-15-5"
+  ]
+ },
+ {
+  "Character": "Mark",
+  "Level": 6,
+  "Intimacy": 198,
+  "RewardType": 1,
+  "Rewards": [
+   "506-1",
+   "604-1"
+  ],
+  "Gifts": [
+   "energy-10-5",
+   "energy-15-5"
+  ]
+ },
+ {
+  "Character": "Mark",
+  "Level": 7,
+  "Intimacy": 198,
+  "RewardType": 1,
+  "Rewards": [
+   "605-1"
+  ],
+  "Gifts": [
+   "energy-10-5",
+   "energy-15-5"
+  ]
+ },
+ {
+  "Character": "Mark",
+  "Level": 8,
+  "Intimacy": 198,
+  "RewardType": 2,
+  "Rewards": [
+   "character_barnaby_story_restaurant_icon",
+   "character_story_background_restaurant",
+   "character_story_mark_1c"
+  ],
+  "Gifts": [
+   "energy-10-5",
+   "energy-15-5"
+  ]
+ },
+ {
+  "Character": "Mark",
+  "Level": 9,
+  "Intimacy": 216,
+  "RewardType": 1,
+  "Rewards": [
+   "507-1",
+   "604-1"
+  ],
+  "Gifts": [
+   "energy-10-5",
+   "energy-15-5"
+  ]
+ },
+ {
+  "Character": "Mark",
+  "Level": 10,
+  "Intimacy": 216,
+  "RewardType": 1,
+  "Rewards": [
+   "energy-100"
+  ],
+  "Gifts": [
+   "energy-10-5",
+   "energy-15-5"
+  ]
+ },
+ {
+  "Character": "Mark",
+  "Level": 11,
+  "Intimacy": 216,
+  "RewardType": 3,
+  "Rewards": [
+   "character_mark_moment_1"
+  ],
+  "Gifts": [
+   "energy-10-15",
+   "energy-15-15",
+   "energy-20-5"
+  ]
+ },
+ {
+  "Character": "Mark",
+  "Level": 12,
+  "Intimacy": 252,
+  "RewardType": 1,
+  "Rewards": [
+   "507-1",
+   "605-1"
+  ],
+  "Gifts": [
+   "energy-10-15",
+   "energy-15-15",
+   "energy-20-5"
+  ]
+ },
+ {
+  "Character": "Mark",
+  "Level": 13,
+  "Intimacy": 288,
+  "RewardType": 1,
+  "Rewards": [
+   "402-1"
+  ],
+  "Gifts": [
+   "energy-10-15",
+   "energy-15-15",
+   "energy-20-5"
+  ]
+ },
+ {
+  "Character": "Mark",
+  "Level": 14,
+  "Intimacy": 324,
+  "RewardType": 2,
+  "Rewards": [
+   "character_aldous_story_harbor_icon",
+   "character_intimacy_background_aldous",
+   "character_story_mark_2a"
+  ],
+  "Gifts": [
+   "energy-10-15",
+   "energy-15-15",
+   "energy-20-5"
+  ]
+ },
+ {
+  "Character": "Mark",
+  "Level": 15,
+  "Intimacy": 360,
+  "RewardType": 1,
+  "Rewards": [
+   "508-1"
+  ],
+  "Gifts": [
+   "energy-10-15",
+   "energy-15-15",
+   "energy-20-5"
+  ]
+ },
+ {
+  "Character": "Mark",
+  "Level": 16,
+  "Intimacy": 396,
+  "RewardType": 2,
+  "Rewards": [
+   "character_aldous_story_harbor_icon",
+   "character_intimacy_background_aldous",
+   "character_story_mark_2b"
+  ],
+  "Gifts": [
+   "energy-10-15",
+   "energy-15-15",
+   "energy-20-5"
+  ]
+ },
+ {
+  "Character": "Mark",
+  "Level": 17,
+  "Intimacy": 432,
+  "RewardType": 1,
+  "Rewards": [
+   "509-1"
+  ],
+  "Gifts": [
+   "energy-10-15",
+   "energy-15-15",
+   "energy-20-5"
+  ]
+ },
+ {
+  "Character": "Mark",
+  "Level": 18,
+  "Intimacy": 468,
+  "RewardType": 3,
+  "Rewards": [
+   "character_mark_moment_2"
+  ],
+  "Gifts": [
+   "energy-10-15",
+   "energy-15-15",
+   "energy-20-5"
+  ]
+ },
+ {
+  "Character": "Mark",
+  "Level": 19,
+  "Intimacy": 504,
+  "RewardType": 1,
+  "Rewards": [
+   "510-1"
+  ],
+  "Gifts": [
+   "energy-10-15",
+   "energy-15-15",
+   "energy-20-5"
+  ]
+ },
+ {
+  "Character": "Mark",
+  "Level": 20,
+  "Intimacy": 540,
+  "RewardType": 1,
+  "Rewards": [
+   "energy-200"
+  ],
+  "Gifts": [
+   "energy-10-15",
+   "energy-15-15",
+   "energy-20-5"
+  ]
+ },
+ {
+  "Character": "Mark",
+  "Level": 21,
+  "Intimacy": 468,
+  "RewardType": 1,
+  "Rewards": [
+   "402-1"
+  ],
+  "Gifts": [
+   "energy-10-15",
+   "energy-15-15",
+   "energy-20-5"
+  ]
+ },
+ {
+  "Character": "Mark",
+  "Level": 22,
+  "Intimacy": 514,
+  "RewardType": 1,
+  "Rewards": [
+   "scratch_a_1-1",
+   "scratch_a_1-1",
+   "scratch_a_1-1"
+  ],
+  "Gifts": [
+   "energy-10-15",
+   "energy-15-15",
+   "energy-20-5"
+  ]
+ },
+ {
+  "Character": "Mark",
+  "Level": 23,
+  "Intimacy": 558,
+  "RewardType": 2,
+  "Rewards": [
+   "character_story_town_icon",
+   "character_intimacy_list_bg",
+   "character_story_mark_3a"
+  ],
+  "Gifts": [
+   "energy-10-15",
+   "energy-15-15",
+   "energy-20-5"
+  ]
+ },
+ {
+  "Character": "Mark",
+  "Level": 24,
+  "Intimacy": 604,
+  "RewardType": 1,
+  "Rewards": [
+   "511-1"
+  ],
+  "Gifts": [
+   "energy-10-15",
+   "energy-15-15",
+   "energy-20-5"
+  ]
+ },
+ {
+  "Character": "Mark",
+  "Level": 25,
+  "Intimacy": 648,
+  "RewardType": 2,
+  "Rewards": [
+   "character_story_town_icon",
+   "character_intimacy_list_bg",
+   "character_story_mark_3b"
+  ],
+  "Gifts": [
+   "energy-10-15",
+   "energy-15-15",
+   "energy-20-5"
+  ]
+ },
+ {
+  "Character": "Mark",
+  "Level": 26,
+  "Intimacy": 694,
+  "RewardType": 1,
+  "Rewards": [
+   "scratch_b_1-1"
+  ],
+  "Gifts": [
+   "energy-10-15",
+   "energy-15-15",
+   "energy-20-5"
+  ]
+ },
+ {
+  "Character": "Mark",
+  "Level": 27,
+  "Intimacy": 738,
+  "RewardType": 2,
+  "Rewards": [
+   "character_story_town_icon",
+   "character_intimacy_list_bg",
+   "character_story_mark_3c"
+  ],
+  "Gifts": [
+   "energy-10-15",
+   "energy-15-15",
+   "energy-20-5"
+  ]
+ },
+ {
+  "Character": "Mark",
+  "Level": 28,
+  "Intimacy": 784,
+  "RewardType": 1,
+  "Rewards": [
+   "time_skip_5-1-1",
+   "infi_ene_1-1"
+  ],
+  "Gifts": [
+   "energy-10-15",
+   "energy-15-15",
+   "energy-20-5"
+  ]
+ },
+ {
+  "Character": "Mark",
+  "Level": 29,
+  "Intimacy": 828,
+  "RewardType": 3,
+  "Rewards": [
+   "character_mark_moment_3"
+  ],
+  "Gifts": [
+   "energy-10-15",
+   "energy-15-15",
+   "energy-20-5"
+  ]
+ },
+ {
+  "Character": "Mark",
+  "Level": 30,
+  "Intimacy": 1620,
+  "RewardType": 1,
+  "Rewards": [
+   "gift_mark_1-1"
+  ],
+  "Gifts": [
+   "energy-10-15",
+   "energy-15-15",
+   "energy-20-5"
+  ]
+ },
+ {
+  "Character": "Anjali",
+  "Level": 1,
+  "Intimacy": 80,
+  "RewardType": 1,
+  "Rewards": [
+   "1804-1"
+  ],
+  "Gifts": [
+   "1803-1-20",
+   "1804-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Anjali",
+  "Level": 2,
+  "Intimacy": 122,
+  "RewardType": 2,
+  "Rewards": [
+   "character_barnaby_story_restaurant_icon",
+   "character_story_background_restaurant",
+   "character_story_anjali_1a"
+  ],
+  "Gifts": [
+   "1803-1-20",
+   "1804-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Anjali",
+  "Level": 3,
+  "Intimacy": 182,
+  "RewardType": 1,
+  "Rewards": [
+   "1805-1",
+   "1804-1"
+  ],
+  "Gifts": [
+   "1803-1-20",
+   "1804-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Anjali",
+  "Level": 4,
+  "Intimacy": 204,
+  "RewardType": 1,
+  "Rewards": [
+   "1701-1"
+  ],
+  "Gifts": [
+   "1803-1-20",
+   "1804-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Anjali",
+  "Level": 5,
+  "Intimacy": 204,
+  "RewardType": 2,
+  "Rewards": [
+   "character_barnaby_story_restaurant_icon",
+   "character_story_background_restaurant",
+   "character_story_anjali_1b"
+  ],
+  "Gifts": [
+   "1803-1-20",
+   "1804-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Anjali",
+  "Level": 6,
+  "Intimacy": 224,
+  "RewardType": 1,
+  "Rewards": [
+   "1806-1",
+   "1804-1"
+  ],
+  "Gifts": [
+   "1803-1-20",
+   "1804-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Anjali",
+  "Level": 7,
+  "Intimacy": 224,
+  "RewardType": 1,
+  "Rewards": [
+   "1701-1"
+  ],
+  "Gifts": [
+   "1803-1-20",
+   "1804-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Anjali",
+  "Level": 8,
+  "Intimacy": 224,
+  "RewardType": 2,
+  "Rewards": [
+   "character_barnaby_story_restaurant_icon",
+   "character_story_background_restaurant",
+   "character_story_anjali_1c"
+  ],
+  "Gifts": [
+   "1803-1-20",
+   "1804-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Anjali",
+  "Level": 9,
+  "Intimacy": 242,
+  "RewardType": 1,
+  "Rewards": [
+   "1807-1",
+   "1805-1"
+  ],
+  "Gifts": [
+   "1803-1-20",
+   "1804-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Anjali",
+  "Level": 10,
+  "Intimacy": 242,
+  "RewardType": 1,
+  "Rewards": [
+   "energy-100"
+  ],
+  "Gifts": [
+   "1803-1-20",
+   "1804-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Anjali",
+  "Level": 11,
+  "Intimacy": 242,
+  "RewardType": 3,
+  "Rewards": [
+   "character_anjali_moment_1"
+  ],
+  "Gifts": [
+   "1803-1-10",
+   "1804-1-20",
+   "1805-1-10",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Anjali",
+  "Level": 12,
+  "Intimacy": 284,
+  "RewardType": 1,
+  "Rewards": [
+   "level_down_piece_1-1"
+  ],
+  "Gifts": [
+   "1803-1-10",
+   "1804-1-20",
+   "1805-1-10",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Anjali",
+  "Level": 13,
+  "Intimacy": 324,
+  "RewardType": 1,
+  "Rewards": [
+   "1702-1"
+  ],
+  "Gifts": [
+   "1803-1-10",
+   "1804-1-20",
+   "1805-1-10",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Anjali",
+  "Level": 14,
+  "Intimacy": 365,
+  "RewardType": 2,
+  "Rewards": [
+   "character_sam_story_workshop_icon",
+   "character_intimacy_background_sam",
+   "character_story_anjali_2a"
+  ],
+  "Gifts": [
+   "1803-1-10",
+   "1804-1-20",
+   "1805-1-10",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Anjali",
+  "Level": 15,
+  "Intimacy": 405,
+  "RewardType": 1,
+  "Rewards": [
+   "1808-1"
+  ],
+  "Gifts": [
+   "1803-1-10",
+   "1804-1-20",
+   "1805-1-10",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Anjali",
+  "Level": 16,
+  "Intimacy": 446,
+  "RewardType": 2,
+  "Rewards": [
+   "character_sam_story_workshop_icon",
+   "character_intimacy_background_sam",
+   "character_story_anjali_2b"
+  ],
+  "Gifts": [
+   "1803-1-10",
+   "1804-1-20",
+   "1805-1-10",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Anjali",
+  "Level": 17,
+  "Intimacy": 486,
+  "RewardType": 1,
+  "Rewards": [
+   "1809-1"
+  ],
+  "Gifts": [
+   "1803-1-10",
+   "1804-1-20",
+   "1805-1-10",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Anjali",
+  "Level": 18,
+  "Intimacy": 527,
+  "RewardType": 3,
+  "Rewards": [
+   "character_anjali_moment_2"
+  ],
+  "Gifts": [
+   "1803-1-10",
+   "1804-1-20",
+   "1805-1-10",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Anjali",
+  "Level": 19,
+  "Intimacy": 567,
+  "RewardType": 1,
+  "Rewards": [
+   "1810-1"
+  ],
+  "Gifts": [
+   "1803-1-10",
+   "1804-1-20",
+   "1805-1-10",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Anjali",
+  "Level": 20,
+  "Intimacy": 608,
+  "RewardType": 1,
+  "Rewards": [
+   "energy-200"
+  ],
+  "Gifts": [
+   "1803-1-10",
+   "1804-1-20",
+   "1805-1-10",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Anjali",
+  "Level": 21,
+  "Intimacy": 527,
+  "RewardType": 1,
+  "Rewards": [
+   "1702-1"
+  ],
+  "Gifts": [
+   "1803-1-10",
+   "1804-1-20",
+   "1805-1-20",
+   "1806-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Anjali",
+  "Level": 22,
+  "Intimacy": 578,
+  "RewardType": 1,
+  "Rewards": [
+   "scratch_a_1-1",
+   "scratch_a_1-1",
+   "scratch_a_1-1"
+  ],
+  "Gifts": [
+   "1803-1-10",
+   "1804-1-20",
+   "1805-1-20",
+   "1806-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Anjali",
+  "Level": 23,
+  "Intimacy": 628,
+  "RewardType": 2,
+  "Rewards": [
+   "character_story_town_icon",
+   "character_intimacy_list_bg",
+   "character_story_anjali_3a"
+  ],
+  "Gifts": [
+   "1803-1-10",
+   "1804-1-20",
+   "1805-1-20",
+   "1806-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Anjali",
+  "Level": 24,
+  "Intimacy": 679,
+  "RewardType": 1,
+  "Rewards": [
+   "1811-1"
+  ],
+  "Gifts": [
+   "1803-1-10",
+   "1804-1-20",
+   "1805-1-20",
+   "1806-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Anjali",
+  "Level": 25,
+  "Intimacy": 729,
+  "RewardType": 2,
+  "Rewards": [
+   "character_story_town_icon",
+   "character_intimacy_list_bg",
+   "character_story_anjali_3b"
+  ],
+  "Gifts": [
+   "1803-1-10",
+   "1804-1-20",
+   "1805-1-20",
+   "1806-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Anjali",
+  "Level": 26,
+  "Intimacy": 780,
+  "RewardType": 1,
+  "Rewards": [
+   "scratch_b_1-1"
+  ],
+  "Gifts": [
+   "1803-1-10",
+   "1804-1-20",
+   "1805-1-20",
+   "1806-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Anjali",
+  "Level": 27,
+  "Intimacy": 830,
+  "RewardType": 3,
+  "Rewards": [
+   "character_anjali_moment_3"
+  ],
+  "Gifts": [
+   "1803-1-10",
+   "1804-1-20",
+   "1805-1-20",
+   "1806-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Anjali",
+  "Level": 28,
+  "Intimacy": 882,
+  "RewardType": 1,
+  "Rewards": [
+   "os_2_1-1"
+  ],
+  "Gifts": [
+   "1803-1-10",
+   "1804-1-20",
+   "1805-1-20",
+   "1806-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Anjali",
+  "Level": 29,
+  "Intimacy": 932,
+  "RewardType": 1,
+  "Rewards": [
+   "1812-1"
+  ],
+  "Gifts": [
+   "1803-1-10",
+   "1804-1-20",
+   "1805-1-20",
+   "1806-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Anjali",
+  "Level": 30,
+  "Intimacy": 1823,
+  "RewardType": 1,
+  "Rewards": [
+   "gift_anjali_1-1"
+  ],
+  "Gifts": [
+   "1803-1-10",
+   "1804-1-20",
+   "1805-1-20",
+   "1806-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Hugo",
+  "Level": 1,
+  "Intimacy": 96,
+  "RewardType": 1,
+  "Rewards": [
+   "303-1"
+  ],
+  "Gifts": [
+   "204-1-10",
+   "205-1-5",
+   "504-1-10",
+   "505-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Hugo",
+  "Level": 2,
+  "Intimacy": 146,
+  "RewardType": 1,
+  "Rewards": [
+   "603-1"
+  ],
+  "Gifts": [
+   "204-1-10",
+   "205-1-5",
+   "504-1-10",
+   "505-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Hugo",
+  "Level": 3,
+  "Intimacy": 218,
+  "RewardType": 2,
+  "Rewards": [
+   "character_story_lake_icon",
+   "character_story_background_lake",
+   "character_story_hugo_1a"
+  ],
+  "Gifts": [
+   "204-1-10",
+   "205-1-5",
+   "504-1-10",
+   "505-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Hugo",
+  "Level": 4,
+  "Intimacy": 245,
+  "RewardType": 1,
+  "Rewards": [
+   "1104-1"
+  ],
+  "Gifts": [
+   "204-1-10",
+   "205-1-5",
+   "504-1-10",
+   "505-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Hugo",
+  "Level": 5,
+  "Intimacy": 245,
+  "RewardType": 2,
+  "Rewards": [
+   "character_story_lake_icon",
+   "character_story_background_lake",
+   "character_story_hugo_1b"
+  ],
+  "Gifts": [
+   "204-1-10",
+   "205-1-5",
+   "504-1-10",
+   "505-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Hugo",
+  "Level": 6,
+  "Intimacy": 269,
+  "RewardType": 1,
+  "Rewards": [
+   "304-1"
+  ],
+  "Gifts": [
+   "204-1-10",
+   "205-1-5",
+   "504-1-10",
+   "505-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Hugo",
+  "Level": 7,
+  "Intimacy": 269,
+  "RewardType": 1,
+  "Rewards": [
+   "604-1"
+  ],
+  "Gifts": [
+   "204-1-10",
+   "205-1-5",
+   "504-1-10",
+   "505-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Hugo",
+  "Level": 8,
+  "Intimacy": 269,
+  "RewardType": 3,
+  "Rewards": [
+   "character_hugo_moment_1"
+  ],
+  "Gifts": [
+   "204-1-10",
+   "205-1-5",
+   "504-1-10",
+   "505-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Hugo",
+  "Level": 9,
+  "Intimacy": 290,
+  "RewardType": 1,
+  "Rewards": [
+   "1105-1"
+  ],
+  "Gifts": [
+   "204-1-10",
+   "205-1-5",
+   "504-1-10",
+   "505-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Hugo",
+  "Level": 10,
+  "Intimacy": 290,
+  "RewardType": 1,
+  "Rewards": [
+   "energy-100"
+  ],
+  "Gifts": [
+   "204-1-10",
+   "205-1-5",
+   "504-1-10",
+   "505-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Hugo",
+  "Level": 11,
+  "Intimacy": 290,
+  "RewardType": 2,
+  "Rewards": [
+   "character_barnaby_story_counter_icon",
+   "character_intimacy_background_barnaby",
+   "character_story_hugo_2a"
+  ],
+  "Gifts": [
+   "204-1-5",
+   "205-1-10",
+   "303-1-5",
+   "504-1-5",
+   "505-1-10",
+   "603-1-5",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Hugo",
+  "Level": 12,
+  "Intimacy": 341,
+  "RewardType": 1,
+  "Rewards": [
+   "305-1",
+   "303-1"
+  ],
+  "Gifts": [
+   "204-1-5",
+   "205-1-10",
+   "303-1-5",
+   "504-1-5",
+   "505-1-10",
+   "603-1-5",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Hugo",
+  "Level": 13,
+  "Intimacy": 389,
+  "RewardType": 2,
+  "Rewards": [
+   "character_barnaby_story_counter_icon",
+   "character_intimacy_background_barnaby",
+   "character_story_hugo_2b"
+  ],
+  "Gifts": [
+   "204-1-5",
+   "205-1-10",
+   "303-1-5",
+   "504-1-5",
+   "505-1-10",
+   "603-1-5",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Hugo",
+  "Level": 14,
+  "Intimacy": 438,
+  "RewardType": 1,
+  "Rewards": [
+   "605-1",
+   "603-1"
+  ],
+  "Gifts": [
+   "204-1-5",
+   "205-1-10",
+   "303-1-5",
+   "504-1-5",
+   "505-1-10",
+   "603-1-5",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Hugo",
+  "Level": 15,
+  "Intimacy": 486,
+  "RewardType": 2,
+  "Rewards": [
+   "character_barnaby_story_counter_icon",
+   "character_intimacy_background_barnaby",
+   "character_story_hugo_2c"
+  ],
+  "Gifts": [
+   "204-1-5",
+   "205-1-10",
+   "303-1-5",
+   "504-1-5",
+   "505-1-10",
+   "603-1-5",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Hugo",
+  "Level": 16,
+  "Intimacy": 535,
+  "RewardType": 1,
+  "Rewards": [
+   "306-1",
+   "304-1"
+  ],
+  "Gifts": [
+   "204-1-5",
+   "205-1-10",
+   "303-1-5",
+   "504-1-5",
+   "505-1-10",
+   "603-1-5",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Hugo",
+  "Level": 17,
+  "Intimacy": 583,
+  "RewardType": 1,
+  "Rewards": [
+   "606-1",
+   "604-1"
+  ],
+  "Gifts": [
+   "204-1-5",
+   "205-1-10",
+   "303-1-5",
+   "504-1-5",
+   "505-1-10",
+   "603-1-5",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Hugo",
+  "Level": 18,
+  "Intimacy": 632,
+  "RewardType": 3,
+  "Rewards": [
+   "character_hugo_moment_2"
+  ],
+  "Gifts": [
+   "204-1-5",
+   "205-1-10",
+   "303-1-5",
+   "504-1-5",
+   "505-1-10",
+   "603-1-5",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Hugo",
+  "Level": 19,
+  "Intimacy": 680,
+  "RewardType": 1,
+  "Rewards": [
+   "1107-1",
+   "1103-1"
+  ],
+  "Gifts": [
+   "204-1-5",
+   "205-1-10",
+   "303-1-5",
+   "504-1-5",
+   "505-1-10",
+   "603-1-5",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Hugo",
+  "Level": 20,
+  "Intimacy": 730,
+  "RewardType": 1,
+  "Rewards": [
+   "energy-200"
+  ],
+  "Gifts": [
+   "204-1-5",
+   "205-1-10",
+   "303-1-5",
+   "504-1-5",
+   "505-1-10",
+   "603-1-5",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Hugo",
+  "Level": 21,
+  "Intimacy": 632,
+  "RewardType": 2,
+  "Rewards": [
+   "character_barnaby_story_restaurant_icon",
+   "character_story_background_restaurant",
+   "character_story_hugo_3a"
+  ],
+  "Gifts": [
+   "204-1-5",
+   "205-1-10",
+   "206-1-10",
+   "304-1-5",
+   "504-1-5",
+   "505-1-10",
+   "506-1-10",
+   "604-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Hugo",
+  "Level": 22,
+  "Intimacy": 694,
+  "RewardType": 1,
+  "Rewards": [
+   "306-1",
+   "306-1"
+  ],
+  "Gifts": [
+   "204-1-5",
+   "205-1-10",
+   "206-1-10",
+   "304-1-5",
+   "504-1-5",
+   "505-1-10",
+   "506-1-10",
+   "604-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Hugo",
+  "Level": 23,
+  "Intimacy": 754,
+  "RewardType": 2,
+  "Rewards": [
+   "character_barnaby_story_restaurant_icon",
+   "character_story_background_restaurant",
+   "character_story_hugo_3b"
+  ],
+  "Gifts": [
+   "204-1-5",
+   "205-1-10",
+   "206-1-10",
+   "304-1-5",
+   "504-1-5",
+   "505-1-10",
+   "506-1-10",
+   "604-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Hugo",
+  "Level": 24,
+  "Intimacy": 815,
+  "RewardType": 1,
+  "Rewards": [
+   "606-1",
+   "606-1"
+  ],
+  "Gifts": [
+   "204-1-5",
+   "205-1-10",
+   "206-1-10",
+   "304-1-5",
+   "504-1-5",
+   "505-1-10",
+   "506-1-10",
+   "604-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Hugo",
+  "Level": 25,
+  "Intimacy": 875,
+  "RewardType": 2,
+  "Rewards": [
+   "character_barnaby_story_restaurant_icon",
+   "character_story_background_restaurant",
+   "character_story_hugo_3c"
+  ],
+  "Gifts": [
+   "204-1-5",
+   "205-1-10",
+   "206-1-10",
+   "304-1-5",
+   "504-1-5",
+   "505-1-10",
+   "506-1-10",
+   "604-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Hugo",
+  "Level": 26,
+  "Intimacy": 936,
+  "RewardType": 1,
+  "Rewards": [
+   "scratch_b_1-1"
+  ],
+  "Gifts": [
+   "204-1-5",
+   "205-1-10",
+   "206-1-10",
+   "304-1-5",
+   "504-1-5",
+   "505-1-10",
+   "506-1-10",
+   "604-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Hugo",
+  "Level": 27,
+  "Intimacy": 996,
+  "RewardType": 1,
+  "Rewards": [
+   "os_2_1-1"
+  ],
+  "Gifts": [
+   "204-1-5",
+   "205-1-10",
+   "206-1-10",
+   "304-1-5",
+   "504-1-5",
+   "505-1-10",
+   "506-1-10",
+   "604-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Hugo",
+  "Level": 28,
+  "Intimacy": 1058,
+  "RewardType": 3,
+  "Rewards": [
+   "character_hugo_moment_3"
+  ],
+  "Gifts": [
+   "204-1-5",
+   "205-1-10",
+   "206-1-10",
+   "304-1-5",
+   "504-1-5",
+   "505-1-10",
+   "506-1-10",
+   "604-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Hugo",
+  "Level": 29,
+  "Intimacy": 1118,
+  "RewardType": 1,
+  "Rewards": [
+   "307-1",
+   "607-1",
+   "1107-1"
+  ],
+  "Gifts": [
+   "204-1-5",
+   "205-1-10",
+   "206-1-10",
+   "304-1-5",
+   "504-1-5",
+   "505-1-10",
+   "506-1-10",
+   "604-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Hugo",
+  "Level": 30,
+  "Intimacy": 2188,
+  "RewardType": 1,
+  "Rewards": [
+   "gift_hugo_1-1"
+  ],
+  "Gifts": [
+   "204-1-5",
+   "205-1-10",
+   "206-1-10",
+   "304-1-5",
+   "504-1-5",
+   "505-1-10",
+   "506-1-10",
+   "604-1-5",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Prudence",
+  "Level": 1,
+  "Intimacy": 144,
+  "RewardType": 1,
+  "Rewards": [
+   "904-1"
+  ],
+  "Gifts": [
+   "903-1-20",
+   "904-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Prudence",
+  "Level": 2,
+  "Intimacy": 219,
+  "RewardType": 2,
+  "Rewards": [
+   "character_prudence_restaurant_icon",
+   "character_intimacy_background_prudence",
+   "character_story_prudence_1a"
+  ],
+  "Gifts": [
+   "903-1-20",
+   "904-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Prudence",
+  "Level": 3,
+  "Intimacy": 327,
+  "RewardType": 1,
+  "Rewards": [
+   "905-1"
+  ],
+  "Gifts": [
+   "903-1-20",
+   "904-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Prudence",
+  "Level": 4,
+  "Intimacy": 368,
+  "RewardType": 1,
+  "Rewards": [
+   "main_fry_chest_1-1"
+  ],
+  "Gifts": [
+   "903-1-20",
+   "904-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Prudence",
+  "Level": 5,
+  "Intimacy": 368,
+  "RewardType": 2,
+  "Rewards": [
+   "character_prudence_restaurant_icon",
+   "character_intimacy_background_prudence",
+   "character_story_prudence_1b"
+  ],
+  "Gifts": [
+   "903-1-20",
+   "904-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Prudence",
+  "Level": 6,
+  "Intimacy": 404,
+  "RewardType": 1,
+  "Rewards": [
+   "906-1"
+  ],
+  "Gifts": [
+   "903-1-20",
+   "904-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Prudence",
+  "Level": 7,
+  "Intimacy": 404,
+  "RewardType": 1,
+  "Rewards": [
+   "main_order_chest_s_1-1"
+  ],
+  "Gifts": [
+   "903-1-20",
+   "904-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Prudence",
+  "Level": 8,
+  "Intimacy": 404,
+  "RewardType": 2,
+  "Rewards": [
+   "character_prudence_restaurant_icon",
+   "character_intimacy_background_prudence",
+   "character_story_prudence_1c"
+  ],
+  "Gifts": [
+   "903-1-20",
+   "904-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Prudence",
+  "Level": 9,
+  "Intimacy": 435,
+  "RewardType": 1,
+  "Rewards": [
+   "907-1"
+  ],
+  "Gifts": [
+   "903-1-20",
+   "904-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Prudence",
+  "Level": 10,
+  "Intimacy": 435,
+  "RewardType": 1,
+  "Rewards": [
+   "energy-100"
+  ],
+  "Gifts": [
+   "903-1-20",
+   "904-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Prudence",
+  "Level": 11,
+  "Intimacy": 435,
+  "RewardType": 3,
+  "Rewards": [
+   "character_prudence_moment_1"
+  ],
+  "Gifts": [
+   "904-1-30",
+   "905-1-10",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Prudence",
+  "Level": 12,
+  "Intimacy": 512,
+  "RewardType": 1,
+  "Rewards": [
+   "level_down_piece_1-1"
+  ],
+  "Gifts": [
+   "904-1-30",
+   "905-1-10",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Prudence",
+  "Level": 13,
+  "Intimacy": 584,
+  "RewardType": 1,
+  "Rewards": [
+   "main_tea_chest_1-1"
+  ],
+  "Gifts": [
+   "904-1-30",
+   "905-1-10",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Prudence",
+  "Level": 14,
+  "Intimacy": 657,
+  "RewardType": 2,
+  "Rewards": [
+   "character_aldous_story_harbor_icon",
+   "character_intimacy_background_aldous",
+   "character_story_prudence_2a"
+  ],
+  "Gifts": [
+   "904-1-30",
+   "905-1-10",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Prudence",
+  "Level": 15,
+  "Intimacy": 729,
+  "RewardType": 1,
+  "Rewards": [
+   "main_seafood_chest_1-1"
+  ],
+  "Gifts": [
+   "904-1-30",
+   "905-1-10",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Prudence",
+  "Level": 16,
+  "Intimacy": 803,
+  "RewardType": 2,
+  "Rewards": [
+   "character_aldous_story_harbor_icon",
+   "character_intimacy_background_aldous",
+   "character_story_prudence_2b"
+  ],
+  "Gifts": [
+   "904-1-30",
+   "905-1-10",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Prudence",
+  "Level": 17,
+  "Intimacy": 875,
+  "RewardType": 1,
+  "Rewards": [
+   "main_order_chest_m_1-1"
+  ],
+  "Gifts": [
+   "904-1-30",
+   "905-1-10",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Prudence",
+  "Level": 18,
+  "Intimacy": 948,
+  "RewardType": 3,
+  "Rewards": [
+   "character_prudence_moment_2"
+  ],
+  "Gifts": [
+   "904-1-30",
+   "905-1-10",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Prudence",
+  "Level": 19,
+  "Intimacy": 1020,
+  "RewardType": 1,
+  "Rewards": [
+   "energy-150"
+  ],
+  "Gifts": [
+   "904-1-30",
+   "905-1-10",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Prudence",
+  "Level": 20,
+  "Intimacy": 1095,
+  "RewardType": 1,
+  "Rewards": [
+   "908-1"
+  ],
+  "Gifts": [
+   "904-1-30",
+   "905-1-10",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Prudence",
+  "Level": 21,
+  "Intimacy": 948,
+  "RewardType": 2,
+  "Rewards": [
+   "character_prudence_restaurant_icon",
+   "character_intimacy_background_prudence",
+   "character_story_prudence_3a"
+  ],
+  "Gifts": [
+   "904-1-25",
+   "905-1-25",
+   "906-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Prudence",
+  "Level": 22,
+  "Intimacy": 1041,
+  "RewardType": 1,
+  "Rewards": [
+   "main_order_chest_b_1-1"
+  ],
+  "Gifts": [
+   "904-1-25",
+   "905-1-25",
+   "906-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Prudence",
+  "Level": 23,
+  "Intimacy": 1131,
+  "RewardType": 2,
+  "Rewards": [
+   "character_prudence_restaurant_icon",
+   "character_intimacy_background_prudence",
+   "character_story_prudence_3b"
+  ],
+  "Gifts": [
+   "904-1-25",
+   "905-1-25",
+   "906-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Prudence",
+  "Level": 24,
+  "Intimacy": 1223,
+  "RewardType": 1,
+  "Rewards": [
+   "909-1"
+  ],
+  "Gifts": [
+   "904-1-25",
+   "905-1-25",
+   "906-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Prudence",
+  "Level": 25,
+  "Intimacy": 1313,
+  "RewardType": 2,
+  "Rewards": [
+   "character_prudence_restaurant_icon",
+   "character_intimacy_background_prudence",
+   "character_story_prudence_3c"
+  ],
+  "Gifts": [
+   "904-1-25",
+   "905-1-25",
+   "906-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Prudence",
+  "Level": 26,
+  "Intimacy": 1404,
+  "RewardType": 1,
+  "Rewards": [
+   "scratch_b_1-1"
+  ],
+  "Gifts": [
+   "904-1-25",
+   "905-1-25",
+   "906-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Prudence",
+  "Level": 27,
+  "Intimacy": 1494,
+  "RewardType": 1,
+  "Rewards": [
+   "910-1"
+  ],
+  "Gifts": [
+   "904-1-25",
+   "905-1-25",
+   "906-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Prudence",
+  "Level": 28,
+  "Intimacy": 1587,
+  "RewardType": 3,
+  "Rewards": [
+   "character_prudence_moment_3"
+  ],
+  "Gifts": [
+   "904-1-25",
+   "905-1-25",
+   "906-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Prudence",
+  "Level": 29,
+  "Intimacy": 1677,
+  "RewardType": 1,
+  "Rewards": [
+   "level_up_piece_1-1"
+  ],
+  "Gifts": [
+   "904-1-25",
+   "905-1-25",
+   "906-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Prudence",
+  "Level": 30,
+  "Intimacy": 3282,
+  "RewardType": 1,
+  "Rewards": [
+   "gift_prudence_1-1"
+  ],
+  "Gifts": [
+   "904-1-25",
+   "905-1-25",
+   "906-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Zephyrine",
+  "Level": 1,
+  "Intimacy": 144,
+  "RewardType": 1,
+  "Rewards": [
+   "2404-1"
+  ],
+  "Gifts": [
+   "gold-15-5",
+   "gold-20-5"
+  ]
+ },
+ {
+  "Character": "Zephyrine",
+  "Level": 2,
+  "Intimacy": 219,
+  "RewardType": 2,
+  "Rewards": [
+   "character_story_hotel_icon",
+   "character_story_background_hotel",
+   "character_story_zephyrine_1a"
+  ],
+  "Gifts": [
+   "gold-15-5",
+   "gold-20-5"
+  ]
+ },
+ {
+  "Character": "Zephyrine",
+  "Level": 3,
+  "Intimacy": 327,
+  "RewardType": 1,
+  "Rewards": [
+   "3101-1"
+  ],
+  "Gifts": [
+   "gold-15-5",
+   "gold-20-5"
+  ]
+ },
+ {
+  "Character": "Zephyrine",
+  "Level": 4,
+  "Intimacy": 368,
+  "RewardType": 1,
+  "Rewards": [
+   "2405-1"
+  ],
+  "Gifts": [
+   "gold-15-5",
+   "gold-20-5"
+  ]
+ },
+ {
+  "Character": "Zephyrine",
+  "Level": 5,
+  "Intimacy": 368,
+  "RewardType": 2,
+  "Rewards": [
+   "character_story_hotel_icon",
+   "character_story_background_hotel",
+   "character_story_zephyrine_1b"
+  ],
+  "Gifts": [
+   "gold-15-5",
+   "gold-20-5"
+  ]
+ },
+ {
+  "Character": "Zephyrine",
+  "Level": 6,
+  "Intimacy": 404,
+  "RewardType": 1,
+  "Rewards": [
+   "2405-1",
+   "2404-1"
+  ],
+  "Gifts": [
+   "gold-15-5",
+   "gold-20-5"
+  ]
+ },
+ {
+  "Character": "Zephyrine",
+  "Level": 7,
+  "Intimacy": 404,
+  "RewardType": 1,
+  "Rewards": [
+   "main_order_chest_s_1-1"
+  ],
+  "Gifts": [
+   "gold-15-5",
+   "gold-20-5"
+  ]
+ },
+ {
+  "Character": "Zephyrine",
+  "Level": 8,
+  "Intimacy": 404,
+  "RewardType": 2,
+  "Rewards": [
+   "character_story_hotel_icon",
+   "character_story_background_hotel",
+   "character_story_zephyrine_1c"
+  ],
+  "Gifts": [
+   "gold-15-5",
+   "gold-20-5"
+  ]
+ },
+ {
+  "Character": "Zephyrine",
+  "Level": 9,
+  "Intimacy": 435,
+  "RewardType": 1,
+  "Rewards": [
+   "3101-1",
+   "3101-1"
+  ],
+  "Gifts": [
+   "gold-15-5",
+   "gold-20-5"
+  ]
+ },
+ {
+  "Character": "Zephyrine",
+  "Level": 10,
+  "Intimacy": 435,
+  "RewardType": 1,
+  "Rewards": [
+   "energy-100"
+  ],
+  "Gifts": [
+   "gold-15-5",
+   "gold-20-5"
+  ]
+ },
+ {
+  "Character": "Zephyrine",
+  "Level": 11,
+  "Intimacy": 435,
+  "RewardType": 3,
+  "Rewards": [
+   "character_zephyrine_moment_1"
+  ],
+  "Gifts": [
+   "gold-15-15",
+   "gold-20-15",
+   "gold-25-5"
+  ]
+ },
+ {
+  "Character": "Zephyrine",
+  "Level": 12,
+  "Intimacy": 512,
+  "RewardType": 1,
+  "Rewards": [
+   "gold-150"
+  ],
+  "Gifts": [
+   "gold-15-15",
+   "gold-20-15",
+   "gold-25-5"
+  ]
+ },
+ {
+  "Character": "Zephyrine",
+  "Level": 13,
+  "Intimacy": 584,
+  "RewardType": 1,
+  "Rewards": [
+   "2405-1",
+   "2405-1"
+  ],
+  "Gifts": [
+   "gold-15-15",
+   "gold-20-15",
+   "gold-25-5"
+  ]
+ },
+ {
+  "Character": "Zephyrine",
+  "Level": 14,
+  "Intimacy": 657,
+  "RewardType": 2,
+  "Rewards": [
+   "character_zephyrine_libarary_icon",
+   "character_intimacy_background_zephyrine",
+   "character_story_zephyrine_2a"
+  ],
+  "Gifts": [
+   "gold-15-15",
+   "gold-20-15",
+   "gold-25-5"
+  ]
+ },
+ {
+  "Character": "Zephyrine",
+  "Level": 15,
+  "Intimacy": 729,
+  "RewardType": 1,
+  "Rewards": [
+   "3501-1"
+  ],
+  "Gifts": [
+   "gold-15-15",
+   "gold-20-15",
+   "gold-25-5"
+  ]
+ },
+ {
+  "Character": "Zephyrine",
+  "Level": 16,
+  "Intimacy": 803,
+  "RewardType": 2,
+  "Rewards": [
+   "character_zephyrine_libarary_icon",
+   "character_intimacy_background_zephyrine",
+   "character_story_zephyrine_2b"
+  ],
+  "Gifts": [
+   "gold-15-15",
+   "gold-20-15",
+   "gold-25-5"
+  ]
+ },
+ {
+  "Character": "Zephyrine",
+  "Level": 17,
+  "Intimacy": 875,
+  "RewardType": 1,
+  "Rewards": [
+   "2405-1",
+   "2405-1"
+  ],
+  "Gifts": [
+   "gold-15-15",
+   "gold-20-15",
+   "gold-25-5"
+  ]
+ },
+ {
+  "Character": "Zephyrine",
+  "Level": 18,
+  "Intimacy": 948,
+  "RewardType": 3,
+  "Rewards": [
+   "character_zephyrine_moment_2"
+  ],
+  "Gifts": [
+   "gold-15-15",
+   "gold-20-15",
+   "gold-25-5"
+  ]
+ },
+ {
+  "Character": "Zephyrine",
+  "Level": 19,
+  "Intimacy": 1020,
+  "RewardType": 1,
+  "Rewards": [
+   "gold-150"
+  ],
+  "Gifts": [
+   "gold-15-15",
+   "gold-20-15",
+   "gold-25-5"
+  ]
+ },
+ {
+  "Character": "Zephyrine",
+  "Level": 20,
+  "Intimacy": 1095,
+  "RewardType": 1,
+  "Rewards": [
+   "main_order_chest_m_1-1"
+  ],
+  "Gifts": [
+   "gold-15-15",
+   "gold-20-15",
+   "gold-25-5"
+  ]
+ },
+ {
+  "Character": "Zephyrine",
+  "Level": 21,
+  "Intimacy": 948,
+  "RewardType": 2,
+  "Rewards": [
+   "character_story_jazz_icon",
+   "character_story_background_jazz",
+   "character_story_zephyrine_3a"
+  ],
+  "Gifts": [
+   "gold-15-10",
+   "gold-20-15",
+   "gold-25-5",
+   "gold-30-5"
+  ]
+ },
+ {
+  "Character": "Zephyrine",
+  "Level": 22,
+  "Intimacy": 1041,
+  "RewardType": 1,
+  "Rewards": [
+   "2405-1",
+   "2404-1",
+   "2405-1"
+  ],
+  "Gifts": [
+   "gold-15-10",
+   "gold-20-15",
+   "gold-25-5",
+   "gold-30-5"
+  ]
+ },
+ {
+  "Character": "Zephyrine",
+  "Level": 23,
+  "Intimacy": 1131,
+  "RewardType": 2,
+  "Rewards": [
+   "character_story_jazz_icon",
+   "character_story_background_jazz",
+   "character_story_zephyrine_3b"
+  ],
+  "Gifts": [
+   "gold-15-10",
+   "gold-20-15",
+   "gold-25-5",
+   "gold-30-5"
+  ]
+ },
+ {
+  "Character": "Zephyrine",
+  "Level": 24,
+  "Intimacy": 1223,
+  "RewardType": 1,
+  "Rewards": [
+   "energy-200"
+  ],
+  "Gifts": [
+   "gold-15-10",
+   "gold-20-15",
+   "gold-25-5",
+   "gold-30-5"
+  ]
+ },
+ {
+  "Character": "Zephyrine",
+  "Level": 25,
+  "Intimacy": 1313,
+  "RewardType": 2,
+  "Rewards": [
+   "character_story_jazz_icon",
+   "character_story_background_jazz",
+   "character_story_zephyrine_3c"
+  ],
+  "Gifts": [
+   "gold-15-10",
+   "gold-20-15",
+   "gold-25-5",
+   "gold-30-5"
+  ]
+ },
+ {
+  "Character": "Zephyrine",
+  "Level": 26,
+  "Intimacy": 1404,
+  "RewardType": 1,
+  "Rewards": [
+   "2405-1",
+   "2405-1",
+   "2405-1"
+  ],
+  "Gifts": [
+   "gold-15-10",
+   "gold-20-15",
+   "gold-25-5",
+   "gold-30-5"
+  ]
+ },
+ {
+  "Character": "Zephyrine",
+  "Level": 27,
+  "Intimacy": 1494,
+  "RewardType": 1,
+  "Rewards": [
+   "main_order_chest_b_1-1"
+  ],
+  "Gifts": [
+   "gold-15-10",
+   "gold-20-15",
+   "gold-25-5",
+   "gold-30-5"
+  ]
+ },
+ {
+  "Character": "Zephyrine",
+  "Level": 28,
+  "Intimacy": 1587,
+  "RewardType": 3,
+  "Rewards": [
+   "character_zephyrine_moment_3"
+  ],
+  "Gifts": [
+   "gold-15-10",
+   "gold-20-15",
+   "gold-25-5",
+   "gold-30-5"
+  ]
+ },
+ {
+  "Character": "Zephyrine",
+  "Level": 29,
+  "Intimacy": 1677,
+  "RewardType": 1,
+  "Rewards": [
+   "gold-500"
+  ],
+  "Gifts": [
+   "gold-15-10",
+   "gold-20-15",
+   "gold-25-5",
+   "gold-30-5"
+  ]
+ },
+ {
+  "Character": "Zephyrine",
+  "Level": 30,
+  "Intimacy": 3282,
+  "RewardType": 1,
+  "Rewards": [
+   "gift_zephyrine_1-1"
+  ],
+  "Gifts": [
+   "gold-15-10",
+   "gold-20-15",
+   "gold-25-5",
+   "gold-30-5"
+  ]
+ },
+ {
+  "Character": "Rosalind",
+  "Level": 1,
+  "Intimacy": 187,
+  "RewardType": 1,
+  "Rewards": [
+   "2603-1"
+  ],
+  "Gifts": [
+   "1303-1-20",
+   "1304-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Rosalind",
+  "Level": 2,
+  "Intimacy": 285,
+  "RewardType": 2,
+  "Rewards": [
+   "character_story_lounge_icon",
+   "character_story_background_lounge",
+   "character_story_rosalind_1a"
+  ],
+  "Gifts": [
+   "1303-1-20",
+   "1304-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Rosalind",
+  "Level": 3,
+  "Intimacy": 425,
+  "RewardType": 1,
+  "Rewards": [
+   "3101-1"
+  ],
+  "Gifts": [
+   "1303-1-20",
+   "1304-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Rosalind",
+  "Level": 4,
+  "Intimacy": 478,
+  "RewardType": 1,
+  "Rewards": [
+   "2604-1"
+  ],
+  "Gifts": [
+   "1303-1-20",
+   "1304-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Rosalind",
+  "Level": 5,
+  "Intimacy": 478,
+  "RewardType": 2,
+  "Rewards": [
+   "character_story_lounge_icon",
+   "character_story_background_lounge",
+   "character_story_rosalind_1b"
+  ],
+  "Gifts": [
+   "1303-1-20",
+   "1304-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Rosalind",
+  "Level": 6,
+  "Intimacy": 525,
+  "RewardType": 1,
+  "Rewards": [
+   "2604-1",
+   "2603-1"
+  ],
+  "Gifts": [
+   "1303-1-20",
+   "1304-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Rosalind",
+  "Level": 7,
+  "Intimacy": 525,
+  "RewardType": 1,
+  "Rewards": [
+   "main_order_chest_s_1-1"
+  ],
+  "Gifts": [
+   "1303-1-20",
+   "1304-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Rosalind",
+  "Level": 8,
+  "Intimacy": 525,
+  "RewardType": 2,
+  "Rewards": [
+   "character_story_lounge_icon",
+   "character_story_background_lounge",
+   "character_story_rosalind_1c"
+  ],
+  "Gifts": [
+   "1303-1-20",
+   "1304-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Rosalind",
+  "Level": 9,
+  "Intimacy": 566,
+  "RewardType": 1,
+  "Rewards": [
+   "3101-1",
+   "3101-1"
+  ],
+  "Gifts": [
+   "1303-1-20",
+   "1304-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Rosalind",
+  "Level": 10,
+  "Intimacy": 566,
+  "RewardType": 1,
+  "Rewards": [
+   "energy-100"
+  ],
+  "Gifts": [
+   "1303-1-20",
+   "1304-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2602-1-15"
+  ]
+ },
+ {
+  "Character": "Rosalind",
+  "Level": 11,
+  "Intimacy": 566,
+  "RewardType": 3,
+  "Rewards": [
+   "character_rosalind_moment_1"
+  ],
+  "Gifts": [
+   "1303-1-10",
+   "1304-1-20",
+   "1305-1-10",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Rosalind",
+  "Level": 12,
+  "Intimacy": 666,
+  "RewardType": 1,
+  "Rewards": [
+   "energy-100"
+  ],
+  "Gifts": [
+   "1303-1-10",
+   "1304-1-20",
+   "1305-1-10",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Rosalind",
+  "Level": 13,
+  "Intimacy": 759,
+  "RewardType": 1,
+  "Rewards": [
+   "2604-1",
+   "2604-1"
+  ],
+  "Gifts": [
+   "1303-1-10",
+   "1304-1-20",
+   "1305-1-10",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Rosalind",
+  "Level": 14,
+  "Intimacy": 854,
+  "RewardType": 2,
+  "Rewards": [
+   "character_story_ballroom_icon",
+   "character_story_background_ballroom",
+   "character_story_rosalind_2a"
+  ],
+  "Gifts": [
+   "1303-1-10",
+   "1304-1-20",
+   "1305-1-10",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Rosalind",
+  "Level": 15,
+  "Intimacy": 948,
+  "RewardType": 1,
+  "Rewards": [
+   "3501-1"
+  ],
+  "Gifts": [
+   "1303-1-10",
+   "1304-1-20",
+   "1305-1-10",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Rosalind",
+  "Level": 16,
+  "Intimacy": 1044,
+  "RewardType": 2,
+  "Rewards": [
+   "character_story_ballroom_icon",
+   "character_story_background_ballroom",
+   "character_story_rosalind_2b"
+  ],
+  "Gifts": [
+   "1303-1-10",
+   "1304-1-20",
+   "1305-1-10",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Rosalind",
+  "Level": 17,
+  "Intimacy": 1138,
+  "RewardType": 1,
+  "Rewards": [
+   "2604-1",
+   "2604-1"
+  ],
+  "Gifts": [
+   "1303-1-10",
+   "1304-1-20",
+   "1305-1-10",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Rosalind",
+  "Level": 18,
+  "Intimacy": 1232,
+  "RewardType": 3,
+  "Rewards": [
+   "character_rosalind_moment_2"
+  ],
+  "Gifts": [
+   "1303-1-10",
+   "1304-1-20",
+   "1305-1-10",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Rosalind",
+  "Level": 19,
+  "Intimacy": 1326,
+  "RewardType": 1,
+  "Rewards": [
+   "energy-100"
+  ],
+  "Gifts": [
+   "1303-1-10",
+   "1304-1-20",
+   "1305-1-10",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Rosalind",
+  "Level": 20,
+  "Intimacy": 1424,
+  "RewardType": 1,
+  "Rewards": [
+   "main_order_chest_m_1-1"
+  ],
+  "Gifts": [
+   "1303-1-10",
+   "1304-1-20",
+   "1305-1-10",
+   "2402-1-10",
+   "2403-1-10",
+   "2602-1-10",
+   "2603-1-10"
+  ]
+ },
+ {
+  "Character": "Rosalind",
+  "Level": 21,
+  "Intimacy": 1232,
+  "RewardType": 2,
+  "Rewards": [
+   "character_story_farm_icon",
+   "character_intimacy_background_rosalind",
+   "character_story_rosalind_3a"
+  ],
+  "Gifts": [
+   "1303-1-10",
+   "1304-1-20",
+   "1305-1-20",
+   "1403-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Rosalind",
+  "Level": 22,
+  "Intimacy": 1353,
+  "RewardType": 1,
+  "Rewards": [
+   "2604-1",
+   "2603-1",
+   "2604-1"
+  ],
+  "Gifts": [
+   "1303-1-10",
+   "1304-1-20",
+   "1305-1-20",
+   "1403-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Rosalind",
+  "Level": 23,
+  "Intimacy": 1470,
+  "RewardType": 2,
+  "Rewards": [
+   "character_story_farm_icon",
+   "character_intimacy_background_rosalind",
+   "character_story_rosalind_3b"
+  ],
+  "Gifts": [
+   "1303-1-10",
+   "1304-1-20",
+   "1305-1-20",
+   "1403-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Rosalind",
+  "Level": 24,
+  "Intimacy": 1590,
+  "RewardType": 1,
+  "Rewards": [
+   "energy-150"
+  ],
+  "Gifts": [
+   "1303-1-10",
+   "1304-1-20",
+   "1305-1-20",
+   "1403-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Rosalind",
+  "Level": 25,
+  "Intimacy": 1707,
+  "RewardType": 2,
+  "Rewards": [
+   "character_story_farm_icon",
+   "character_intimacy_background_rosalind",
+   "character_story_rosalind_3c"
+  ],
+  "Gifts": [
+   "1303-1-10",
+   "1304-1-20",
+   "1305-1-20",
+   "1403-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Rosalind",
+  "Level": 26,
+  "Intimacy": 1825,
+  "RewardType": 1,
+  "Rewards": [
+   "2604-1",
+   "2604-1",
+   "2604-1"
+  ],
+  "Gifts": [
+   "1303-1-10",
+   "1304-1-20",
+   "1305-1-20",
+   "1403-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Rosalind",
+  "Level": 27,
+  "Intimacy": 1942,
+  "RewardType": 1,
+  "Rewards": [
+   "main_order_chest_b_1-1"
+  ],
+  "Gifts": [
+   "1303-1-10",
+   "1304-1-20",
+   "1305-1-20",
+   "1403-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Rosalind",
+  "Level": 28,
+  "Intimacy": 2063,
+  "RewardType": 3,
+  "Rewards": [
+   "character_rosalind_moment_3"
+  ],
+  "Gifts": [
+   "1303-1-10",
+   "1304-1-20",
+   "1305-1-20",
+   "1403-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Rosalind",
+  "Level": 29,
+  "Intimacy": 2180,
+  "RewardType": 1,
+  "Rewards": [
+   "energy-200"
+  ],
+  "Gifts": [
+   "1303-1-10",
+   "1304-1-20",
+   "1305-1-20",
+   "1403-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ },
+ {
+  "Character": "Rosalind",
+  "Level": 30,
+  "Intimacy": 4267,
+  "RewardType": 1,
+  "Rewards": [
+   "gift_rosalind_1-1"
+  ],
+  "Gifts": [
+   "1303-1-10",
+   "1304-1-20",
+   "1305-1-20",
+   "1403-1-10",
+   "2402-1-10",
+   "2403-1-5",
+   "2404-1-5",
+   "2602-1-10",
+   "2603-1-5",
+   "2604-1-5",
+   "4101-1-1",
+   "3101-1-1",
+   "time_skip_1-1-1",
+   "time_skip_2-1-1",
+   "ShopNewChest_1-1-1",
+   "infi_ene_1-1-1",
+   "level_down_piece_1-1-1"
+  ]
+ }
+]

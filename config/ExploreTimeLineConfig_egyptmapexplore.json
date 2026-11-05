@@ -1,0 +1,542 @@
+[
+ {
+  "Index": 1,
+  "Id": 1,
+  "TrigCondition": "eventStart",
+  "Order": 1,
+  "Type": "cameraMove",
+  "Content": [
+   "(30016/24/0),0,0"
+  ]
+ },
+ {
+  "Index": 2,
+  "Id": 1,
+  "TrigCondition": "eventStart",
+  "Order": 2,
+  "Type": "illustration",
+  "Content": [
+   "egypt_mapexplore_discover"
+  ]
+ },
+ {
+  "Index": 3,
+  "Id": 1,
+  "TrigCondition": "eventStart",
+  "Order": 3,
+  "Type": "cameraMove",
+  "Content": [
+   "(30660/-1279/0),0.5,0"
+  ]
+ },
+ {
+  "Index": 4,
+  "Id": 1,
+  "TrigCondition": "eventStart",
+  "Order": 3,
+  "Type": "cameraScale",
+  "Content": [
+   "1.5,0.5,0"
+  ]
+ },
+ {
+  "Index": 5,
+  "Id": 1,
+  "TrigCondition": "eventStart",
+  "Order": 4,
+  "Type": "plot",
+  "Content": [
+   "Estory_egyptmap_1"
+  ]
+ },
+ {
+  "Index": 6,
+  "Id": 1,
+  "TrigCondition": "eventStart",
+  "Order": 5,
+  "Type": "cameraMove",
+  "Content": [
+   "(30458/1494/0),1,0.5"
+  ]
+ },
+ {
+  "Index": 7,
+  "Id": 1,
+  "TrigCondition": "eventStart",
+  "Order": 5,
+  "Type": "cameraScale",
+  "Content": [
+   "1.35,1,0.5"
+  ]
+ },
+ {
+  "Index": 8,
+  "Id": 1,
+  "TrigCondition": "eventStart",
+  "Order": 6,
+  "Type": "cameraMove",
+  "Content": [
+   "(30643/-1493/0),1,0.5"
+  ]
+ },
+ {
+  "Index": 9,
+  "Id": 2,
+  "TrigCondition": "main_task_1_1_finish",
+  "Order": 1,
+  "Type": "cameraMove",
+  "Content": [
+   "(30297/-1417/0),0.5,0"
+  ]
+ },
+ {
+  "Index": 10,
+  "Id": 2,
+  "TrigCondition": "main_task_1_1_finish",
+  "Order": 1,
+  "Type": "cameraScale",
+  "Content": [
+   "1.1,0.5,0"
+  ]
+ },
+ {
+  "Index": 11,
+  "Id": 2,
+  "TrigCondition": "main_task_1_1_finish",
+  "Order": 2,
+  "Type": "plot",
+  "Content": [
+   "Estory_egyptmap_2"
+  ]
+ },
+ {
+  "Index": 12,
+  "Id": 3,
+  "TrigCondition": "main_task_2_1_finish",
+  "Order": 1,
+  "Type": "cameraMove",
+  "Content": [
+   "(29800/-1394/0),0.5,0"
+  ]
+ },
+ {
+  "Index": 13,
+  "Id": 3,
+  "TrigCondition": "main_task_2_1_finish",
+  "Order": 1,
+  "Type": "cameraScale",
+  "Content": [
+   "1.2,0.5,0"
+  ]
+ },
+ {
+  "Index": 14,
+  "Id": 3,
+  "TrigCondition": "main_task_2_1_finish",
+  "Order": 2,
+  "Type": "plot",
+  "Content": [
+   "Estory_egyptmap_3"
+  ]
+ },
+ {
+  "Index": 15,
+  "Id": 4,
+  "TrigCondition": "main_task_4_1_finish",
+  "Order": 1,
+  "Type": "cameraScale",
+  "Content": [
+   "1,0.5,0"
+  ]
+ },
+ {
+  "Index": 16,
+  "Id": 4,
+  "TrigCondition": "main_task_4_1_finish",
+  "Order": 1,
+  "Type": "cameraMove",
+  "Content": [
+   "(29328/-1081/0),0.5,0"
+  ]
+ },
+ {
+  "Index": 17,
+  "Id": 4,
+  "TrigCondition": "main_task_4_1_finish",
+  "Order": 2,
+  "Type": "plot",
+  "Content": [
+   "Estory_egyptmap_4"
+  ]
+ },
+ {
+  "Index": 18,
+  "Id": 4,
+  "TrigCondition": "main_task_4_1_finish",
+  "Order": 3,
+  "Type": "cameraScale",
+  "Content": [
+   "1.35,0.5,0"
+  ]
+ },
+ {
+  "Index": 19,
+  "Id": 5,
+  "TrigCondition": "main_task_6_1_finish",
+  "Order": 1,
+  "Type": "cameraMove",
+  "Content": [
+   "(30752/-1194/0),0.5,0"
+  ]
+ },
+ {
+  "Index": 20,
+  "Id": 5,
+  "TrigCondition": "main_task_6_1_finish",
+  "Order": 1,
+  "Type": "cameraScale",
+  "Content": [
+   "1.2,0.5,0"
+  ]
+ },
+ {
+  "Index": 21,
+  "Id": 5,
+  "TrigCondition": "main_task_6_1_finish",
+  "Order": 2,
+  "Type": "plot",
+  "Content": [
+   "Estory_egyptmap_5"
+  ]
+ },
+ {
+  "Index": 22,
+  "Id": 6,
+  "TrigCondition": "main_task_7_1_finish",
+  "Order": 1,
+  "Type": "plot",
+  "Content": [
+   "Estory_egyptmap_6"
+  ]
+ },
+ {
+  "Index": 23,
+  "Id": 6,
+  "TrigCondition": "main_task_7_1_finish",
+  "Order": 2,
+  "Type": "cameraMove",
+  "Content": [
+   "(30029/-894/0),1,0"
+  ]
+ },
+ {
+  "Index": 24,
+  "Id": 6,
+  "TrigCondition": "main_task_7_1_finish",
+  "Order": 2,
+  "Type": "cameraScale",
+  "Content": [
+   "1.2,1,0"
+  ]
+ },
+ {
+  "Index": 25,
+  "Id": 6,
+  "TrigCondition": "main_task_7_1_finish",
+  "Order": 3,
+  "Type": "plot",
+  "Content": [
+   "Estory_egyptmap_7"
+  ]
+ },
+ {
+  "Index": 26,
+  "Id": 7,
+  "TrigCondition": "main_task_8_1_finish",
+  "Order": 1,
+  "Type": "cameraMove",
+  "Content": [
+   "(30473/-772/0),0.5,0"
+  ]
+ },
+ {
+  "Index": 27,
+  "Id": 7,
+  "TrigCondition": "main_task_8_1_finish",
+  "Order": 1,
+  "Type": "cameraScale",
+  "Content": [
+   "1.2,0.5,0"
+  ]
+ },
+ {
+  "Index": 28,
+  "Id": 7,
+  "TrigCondition": "main_task_8_1_finish",
+  "Order": 2,
+  "Type": "plot",
+  "Content": [
+   "Estory_egyptmap_8"
+  ]
+ },
+ {
+  "Index": 29,
+  "Id": 8,
+  "TrigCondition": "main_task_10_1_finish",
+  "Order": 1,
+  "Type": "plot",
+  "Content": [
+   "Estory_egyptmap_9"
+  ]
+ },
+ {
+  "Index": 30,
+  "Id": 8,
+  "TrigCondition": "main_task_10_1_finish",
+  "Order": 2,
+  "Type": "cameraScale",
+  "Content": [
+   "1.35,0.5,0"
+  ]
+ },
+ {
+  "Index": 31,
+  "Id": 9,
+  "TrigCondition": "main_task_11_1_finish",
+  "Order": 1,
+  "Type": "cameraScale",
+  "Content": [
+   "1.1,0.5,0"
+  ]
+ },
+ {
+  "Index": 32,
+  "Id": 9,
+  "TrigCondition": "main_task_11_1_finish",
+  "Order": 1,
+  "Type": "cameraMove",
+  "Content": [
+   "(29510/-366/0),0.5,0"
+  ]
+ },
+ {
+  "Index": 33,
+  "Id": 9,
+  "TrigCondition": "main_task_11_1_finish",
+  "Order": 2,
+  "Type": "plot",
+  "Content": [
+   "Estory_egyptmap_10"
+  ]
+ },
+ {
+  "Index": 34,
+  "Id": 10,
+  "TrigCondition": "main_task_12_1_finish",
+  "Order": 1,
+  "Type": "plot",
+  "Content": [
+   "Estory_egyptmap_11"
+  ]
+ },
+ {
+  "Index": 35,
+  "Id": 10,
+  "TrigCondition": "main_task_12_1_finish",
+  "Order": 2,
+  "Type": "cameraScale",
+  "Content": [
+   "1.35,0.5,0"
+  ]
+ },
+ {
+  "Index": 36,
+  "Id": 10,
+  "TrigCondition": "main_task_12_1_finish",
+  "Order": 2,
+  "Type": "cameraMove",
+  "Content": [
+   "(29816/-195/0),0.5,0"
+  ]
+ },
+ {
+  "Index": 37,
+  "Id": 11,
+  "TrigCondition": "main_task_13_1_finish",
+  "Order": 1,
+  "Type": "cameraMove",
+  "Content": [
+   "(30025/27/0),0.5,0"
+  ]
+ },
+ {
+  "Index": 38,
+  "Id": 11,
+  "TrigCondition": "main_task_13_1_finish",
+  "Order": 1,
+  "Type": "cameraScale",
+  "Content": [
+   "1.2,0.5,0"
+  ]
+ },
+ {
+  "Index": 39,
+  "Id": 11,
+  "TrigCondition": "main_task_13_1_finish",
+  "Order": 2,
+  "Type": "plot",
+  "Content": [
+   "Estory_egyptmap_12"
+  ]
+ },
+ {
+  "Index": 40,
+  "Id": 12,
+  "TrigCondition": "main_task_15_1_finish",
+  "Order": 1,
+  "Type": "plot",
+  "Content": [
+   "Estory_egyptmap_13"
+  ]
+ },
+ {
+  "Index": 41,
+  "Id": 12,
+  "TrigCondition": "main_task_15_1_finish",
+  "Order": 2,
+  "Type": "cameraScale",
+  "Content": [
+   "1.35,0.5,0"
+  ]
+ },
+ {
+  "Index": 42,
+  "Id": 13,
+  "TrigCondition": "main_task_16_1_finish",
+  "Order": 1,
+  "Type": "cameraMove",
+  "Content": [
+   "(29598/898/0),0.5,0"
+  ]
+ },
+ {
+  "Index": 43,
+  "Id": 13,
+  "TrigCondition": "main_task_16_1_finish",
+  "Order": 1,
+  "Type": "cameraScale",
+  "Content": [
+   "1.2,0.5,0"
+  ]
+ },
+ {
+  "Index": 44,
+  "Id": 13,
+  "TrigCondition": "main_task_16_1_finish",
+  "Order": 2,
+  "Type": "plot",
+  "Content": [
+   "Estory_egyptmap_14"
+  ]
+ },
+ {
+  "Index": 45,
+  "Id": 14,
+  "TrigCondition": "main_task_18_1_finish",
+  "Order": 1,
+  "Type": "plot",
+  "Content": [
+   "Estory_egyptmap_15"
+  ]
+ },
+ {
+  "Index": 46,
+  "Id": 14,
+  "TrigCondition": "main_task_18_1_finish",
+  "Order": 2,
+  "Type": "cameraScale",
+  "Content": [
+   "1.35,0.5,0"
+  ]
+ },
+ {
+  "Index": 47,
+  "Id": 16,
+  "TrigCondition": "main_task_19_1_finish",
+  "Order": 1,
+  "Type": "cameraMove",
+  "Content": [
+   "(30451/1671/0),0.5,0"
+  ]
+ },
+ {
+  "Index": 48,
+  "Id": 16,
+  "TrigCondition": "main_task_19_1_finish",
+  "Order": 1,
+  "Type": "cameraScale",
+  "Content": [
+   "1,0.5,0"
+  ]
+ },
+ {
+  "Index": 49,
+  "Id": 16,
+  "TrigCondition": "main_task_19_1_finish",
+  "Order": 2,
+  "Type": "plot",
+  "Content": [
+   "Estory_egyptmap_16"
+  ]
+ },
+ {
+  "Index": 50,
+  "Id": 16,
+  "TrigCondition": "main_task_19_1_finish",
+  "Order": 3,
+  "Type": "cameraScale",
+  "Content": [
+   "1.35,0.5,0"
+  ]
+ },
+ {
+  "Index": 51,
+  "Id": 17,
+  "TrigCondition": "main_task_20_1_finish",
+  "Order": 1,
+  "Type": "plot",
+  "Content": [
+   "Estory_egyptmap_17"
+  ]
+ },
+ {
+  "Index": 52,
+  "Id": 18,
+  "TrigCondition": "main_task_21_1_finish",
+  "Order": 1,
+  "Type": "illustration",
+  "Content": [
+   "egypt_mapexplore_truth"
+  ]
+ },
+ {
+  "Index": 53,
+  "Id": 18,
+  "TrigCondition": "main_task_21_1_finish",
+  "Order": 2,
+  "Type": "plot",
+  "Content": [
+   "Estory_egyptmap_18"
+  ]
+ },
+ {
+  "Index": 54,
+  "Id": 18,
+  "TrigCondition": "main_task_21_1_finish",
+  "Order": 3,
+  "Type": "cameraScale",
+  "Content": [
+   "1.35,1,0"
+  ]
+ }
+]

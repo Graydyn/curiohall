@@ -1,0 +1,135 @@
+[
+ {
+  "Id": 1,
+  "DescriptionKey": "special_order_desc_1",
+  "AvatarId": 101,
+  "Requirement1": "1610",
+  "GeneratorChain": "15",
+  "StartTimeline": "special_order_1_begin",
+  "EndTimeline": "special_order_1",
+  "Trigger": "taskFinish-2_7",
+  "FrameColor": null,
+  "AvatarImage": "sam",
+  "BigAvatarImage": "special_order_sam",
+  "Rewards": [
+   "gem-15",
+   "energy-100"
+  ],
+  "RewardImage": "special_order_1_reward",
+  "CompleteImage": "special_order_1_complete"
+ },
+ {
+  "Id": 2,
+  "DescriptionKey": "special_order_desc_2",
+  "AvatarId": 102,
+  "Requirement1": "2010",
+  "GeneratorChain": "19",
+  "StartTimeline": "special_order_2_begin",
+  "EndTimeline": "special_order_2",
+  "Trigger": "taskFinish-11_6",
+  "FrameColor": "gem-15",
+  "AvatarImage": "cornelia",
+  "BigAvatarImage": "special_order_cornelia",
+  "Rewards": [
+   "gem-20",
+   "energy-100"
+  ],
+  "RewardImage": "special_order_2_reward",
+  "CompleteImage": "special_order_2_complete"
+ },
+ {
+  "Id": 3,
+  "DescriptionKey": "special_order_desc_3",
+  "AvatarId": 103,
+  "StartReward": "sp3_1_1",
+  "Requirement1": "sp3_2_10",
+  "Requirement2": "sp3_3_6",
+  "GeneratorChain": "sp3_1",
+  "StartTimeline": "special_order_3_begin",
+  "EndTimeline": "special_order_3_finish",
+  "Trigger": "taskFinish-18_7",
+  "FrameColor": "gem-20",
+  "AvatarImage": "aldous",
+  "BigAvatarImage": "special_order_aldous",
+  "Rewards": [
+   "gem-30",
+   "energy-150"
+  ],
+  "RewardImage": "special_order_3_reward",
+  "CompleteImage": "special_order_3_complete"
+ },
+ {
+  "Id": 4,
+  "DescriptionKey": "special_order_desc_4",
+  "AvatarId": 104,
+  "StartReward": "sp4_1_1",
+  "Requirement1": "sp4_3_10",
+  "GeneratorChain": [
+   "sp4_1",
+   "sp4_2"
+  ],
+  "StartTimeline": "special_order_4_begin",
+  "EndTimeline": "special_order_4",
+  "Trigger": "taskFinish-24_3",
+  "FrameColor": [
+   "sp4_1",
+   "sp4_2"
+  ],
+  "AvatarImage": "rosalind",
+  "BigAvatarImage": "special_order_rosalind",
+  "Rewards": [
+   "gem-30",
+   "energy-150"
+  ],
+  "RewardImage": "special_order_4_reward",
+  "CompleteImage": "special_order_4_complete"
+ },
+ {
+  "Id": 5,
+  "DescriptionKey": "special_order_desc_5",
+  "AvatarId": 105,
+  "StartReward": "sp5_1_1",
+  "Requirement1": "sp5_2_10",
+  "GeneratorChain": [
+   "sp5_1"
+  ],
+  "StartTimeline": "special_order_5_begin",
+  "EndTimeline": "special_order_5",
+  "Trigger": "taskFinish-29_8",
+  "FrameColor": [
+   "sp5_1"
+  ],
+  "AvatarImage": "cornelia",
+  "BigAvatarImage": "special_order_cornelia",
+  "Rewards": [
+   "gem-25",
+   "energy-200"
+  ],
+  "RewardImage": "special_order_5_reward",
+  "CompleteImage": "special_order_5_complete"
+ },
+ {
+  "Id": 6,
+  "DescriptionKey": "special_order_desc_6",
+  "AvatarId": 106,
+  "StartReward": "sp6_1_1",
+  "Requirement1": "sp6_2_10",
+  "GeneratorChain": [
+   "sp6_1"
+  ],
+  "StartTimeline": "special_order_6_begin",
+  "EndTimeline": "special_order_6",
+  "Trigger": "taskFinish-33_9",
+  "FrameColor": [
+   "sp6_1"
+  ],
+  "AvatarImage": "coconut",
+  "BigAvatarImage": "special_order_coconut",
+  "Rewards": [
+   "gem-25",
+   "energy-200"
+  ],
+  "RewardImage": "special_order_6_reward",
+  "CompleteImage": "special_order_6_complete"
+ }
+]

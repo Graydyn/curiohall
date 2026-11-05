@@ -1,0 +1,126 @@
+{
+ "NormalAvatars": [
+  {
+   "Id": 1,
+   "Avatar": "Lily",
+   "UnlockLevel": 2
+  },
+  {
+   "Id": 2,
+   "Avatar": "Lucy",
+   "UnlockLevel": 5
+  },
+  {
+   "Id": 3,
+   "Avatar": "Harry"
+  },
+  {
+   "Id": 4,
+   "Avatar": "Mark",
+   "UnlockLevel": 3
+  },
+  {
+   "Id": 5,
+   "Avatar": "Ambrose",
+   "UnlockLevel": 4
+  },
+  {
+   "Id": 6,
+   "Avatar": "Cornelia",
+   "UnlockLevel": 999
+  },
+  {
+   "Id": 7,
+   "Avatar": "Anjali"
+  },
+  {
+   "Id": 8,
+   "Avatar": "Karla"
+  },
+  {
+   "Id": 11,
+   "Avatar": "Hugo",
+   "UnlockLevel": 7
+  },
+  {
+   "Id": 12,
+   "Avatar": "Vance",
+   "UnlockLevel": 25
+  },
+  {
+   "Id": 13,
+   "Avatar": "Sophia",
+   "UnlockLevel": 29
+  },
+  {
+   "Id": 14,
+   "Avatar": "Dominic",
+   "UnlockLevel": 56
+  },
+  {
+   "Id": 15,
+   "Avatar": "Imelda",
+   "UnlockLevel": 66
+  },
+  {
+   "Id": 16,
+   "Avatar": "Saul",
+   "UnlockLevel": 76
+  },
+  {
+   "Id": 17,
+   "Avatar": "Riley",
+   "UnlockLevel": 85
+  },
+  {
+   "Id": 18,
+   "Avatar": "Frankie",
+   "UnlockLevel": 90
+  },
+  {
+   "Id": 19,
+   "Avatar": "Tony",
+   "UnlockLevel": 192
+  },
+  {
+   "Id": 20,
+   "Avatar": "Atlas",
+   "UnlockLevel": 218
+  }
+ ],
+ "SpecialAvatars": {
+  "101": "Sam",
+  "102": "Cornelia",
+  "103": "Aldous",
+  "104": "Rosalind",
+  "105": "Cornelia",
+  "106": "Coconut"
+ },
+ "BakeOutAvatars": {
+  "201": "Colby",
+  "202": "Poppy",
+  "203": "Ruben"
+ },
+ "BranchAvatars": {
+  "401": "Barnaby"
+ },
+ "CharacterIntimacyAvatars": {
+  "601": "Gerald"
+ },
+ "TimedOrderAvatars": {
+  "801": "Raccoon2",
+  "802": "Banana"
+ },
+ "PK1v1Avatars": {
+  "901": "Cornelia_1v1"
+ },
+ "ChestCustomerAvatars": {
+  "1001": "ChestRaccoon1",
+  "1002": "ChestRaccoon2",
+  "1003": "ChestRaccoon3",
+  "1004": "ChestRaccoon4"
+ },
+ "ContiorderAvatars": {
+  "2001": "contiorders"
+ }
+}

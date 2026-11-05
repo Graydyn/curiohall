@@ -1,0 +1,388 @@
+[
+ {
+  "Type": "fb_unicorn_tar_1",
+  "MergedType": "fb_unicorn_tar_2"
+ },
+ {
+  "Type": "fb_unicorn_tar_2",
+  "MergedType": "fb_unicorn_tar_3",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "fb_unicorn_tar_3",
+  "MergedType": "fb_unicorn_tar_4",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "fb_unicorn_tar_4",
+  "MergedType": "fb_unicorn_tar_5",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "fb_unicorn_tar_5",
+  "MergedType": "fb_unicorn_tar_6",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_gold_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 1,
+  "Spread_StorageMaxNumber": 1,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_unicorn_tar_6",
+  "MergedType": "fb_unicorn_tar_7",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_gold_2-1",
+   "main_super_energy_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 2,
+  "Spread_StorageMaxNumber": 2,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_unicorn_tar_7",
+  "MergedType": "fb_unicorn_tar_8",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_gold_2-1",
+   "main_super_energy_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 2,
+  "Spread_StorageMaxNumber": 2,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_unicorn_tar_8",
+  "MergedType": "fb_unicorn_tar_9",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_gold_2-2",
+   "main_super_energy_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 3,
+  "Spread_StorageMaxNumber": 3,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_unicorn_tar_9",
+  "MergedType": "fb_unicorn_tar_10",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_gold_2-2",
+   "main_super_energy_2-2",
+   "main_gem_super_1-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 6,
+  "Spread_StorageMaxNumber": 6,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_unicorn_tar_10",
+  "MergedType": "fb_unicorn_tar_11",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_gold_2-3",
+   "main_super_energy_2-2",
+   "main_gem_super_2-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 7,
+  "Spread_StorageMaxNumber": 7,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_unicorn_tar_11",
+  "MergedType": "fb_unicorn_tar_12",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_gold_2-3",
+   "main_super_energy_2-3",
+   "main_gem_super_2-3"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 9,
+  "Spread_StorageMaxNumber": 9,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_unicorn_tar_12",
+  "ProtectLevel": 13,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "main_super_gold_2-2",
+   "main_super_gold_3-3",
+   "main_super_energy_2-2",
+   "main_super_energy_3-3",
+   "main_gem_super_2-3",
+   "main_gem_super_3-1",
+   "main_pack_common_5_1-1",
+   "fb_unicorn_gembox_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 16,
+  "Spread_StorageMaxNumber": 16,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_unicorn_byprod_1",
+  "MergedType": "fb_unicorn_byprod_2"
+ },
+ {
+  "Type": "fb_unicorn_byprod_2",
+  "MergedType": "fb_unicorn_byprod_3",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "fb_unicorn_byprod_3",
+  "MergedType": "fb_unicorn_byprod_4",
+  "BubbleChance": 0
+ },
+ {
+  "Type": "fb_unicorn_byprod_4",
+  "MergedType": "fb_unicorn_byprod_5",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_gold_2-1",
+   "main_super_energy_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 2,
+  "Spread_StorageMaxNumber": 2,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_unicorn_byprod_5",
+  "MergedType": "fb_unicorn_byprod_6",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_gold_2-1",
+   "main_super_energy_2-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 2,
+  "Spread_StorageMaxNumber": 2,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_unicorn_byprod_6",
+  "MergedType": "fb_unicorn_byprod_7",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_gold_2-1",
+   "main_super_energy_2-1",
+   "main_gem_super_1-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 4,
+  "Spread_StorageMaxNumber": 4,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_unicorn_byprod_7",
+  "MergedType": "fb_unicorn_byprod_8",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_gold_2-2",
+   "main_super_energy_2-2",
+   "main_gem_super_1-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 6,
+  "Spread_StorageMaxNumber": 6,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_unicorn_byprod_8",
+  "MergedType": "fb_unicorn_byprod_9",
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_gold_2-3",
+   "main_super_energy_2-3",
+   "main_gem_super_2-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 8,
+  "Spread_StorageMaxNumber": 8,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_unicorn_byprod_9",
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "rb#level_down_piece_1-1",
+   "main_super_gold_2-2",
+   "main_super_gold_3-3",
+   "main_super_energy_2-2",
+   "main_super_energy_3-3",
+   "main_gem_super_2-3",
+   "main_gem_super_3-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 15,
+  "Spread_StorageMaxNumber": 15,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_unicorn_seed_1",
+  "ProtectLevel": 2,
+  "CommandOperation": "FarmboardUnlockBlock"
+ },
+ {
+  "Type": "fb_unicorn_tool_1",
+  "MergedType": "fb_unicorn_tool_2"
+ },
+ {
+  "Type": "fb_unicorn_tool_2",
+  "MergedType": "fb_unicorn_tool_3"
+ },
+ {
+  "Type": "fb_unicorn_tool_3",
+  "MergedType": "fb_unicorn_tool_4"
+ },
+ {
+  "Type": "fb_unicorn_tool_4",
+  "MergedType": "fb_unicorn_tool_5"
+ },
+ {
+  "Type": "fb_unicorn_tool_5",
+  "CommandOperation": "FarmboardActivateAnimal"
+ },
+ {
+  "Type": "fb_unicorn_box1_1",
+  "ProtectLevel": 2,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "main_super_energy_2-4",
+   "main_super_energy_3-2",
+   "fb_unicorn_gembox_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 7,
+  "Spread_StorageMaxNumber": 7,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_unicorn_box2_1",
+  "ProtectLevel": 2,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "main_super_gold_2-4",
+   "main_super_gold_3-2",
+   "fb_unicorn_gembox_1-1",
+   "main_pack_common_5_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 8,
+  "Spread_StorageMaxNumber": 8,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_unicorn_box3_1",
+  "ProtectLevel": 2,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "fb_unicorn_byprod_1-4",
+   "fb_unicorn_tool_3-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 6,
+  "Spread_StorageMaxNumber": 6,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_unicorn_box4_1",
+  "ProtectLevel": 2,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "fb_unicorn_tool_3-3",
+   "fb_unicorn_tool_1-4"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 7,
+  "Spread_StorageMaxNumber": 7,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_unicorn_gembox_1",
+  "MergedType": "fb_unicorn_gembox_2",
+  "ProtectLevel": 6,
+  "BubbleChance": 0
+ },
+ {
+  "Type": "fb_unicorn_gembox_2",
+  "MergedType": "fb_unicorn_gembox_3",
+  "ProtectLevel": 6,
+  "BubbleChance": 0,
+  "Spread_WeightType": 2
+ },
+ {
+  "Type": "fb_unicorn_gembox_3",
+  "MergedType": "fb_unicorn_gembox_4",
+  "ProtectLevel": 6,
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_gold_2-4",
+   "main_gem_super_1-2",
+   "main_pack_common_5_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 7,
+  "Spread_StorageMaxNumber": 7,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_unicorn_gembox_4",
+  "MergedType": "fb_unicorn_gembox_5",
+  "ProtectLevel": 6,
+  "BubbleChance": 0,
+  "Spread_Auto": 1,
+  "Spread_Weight": [
+   "main_super_gold_2-4",
+   "main_super_gold_3-1",
+   "main_gem_super_1-2"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 7,
+  "Spread_StorageMaxNumber": 7,
+  "Spread_CostEnergy": 0
+ },
+ {
+  "Type": "fb_unicorn_gembox_5",
+  "ProtectLevel": 6,
+  "BubbleChance": 0,
+  "Spread_Auto": 0,
+  "Spread_Weight": [
+   "main_super_gold_2-4",
+   "main_super_gold_3-2",
+   "main_gem_super_2-3",
+   "fb_unicorn_byprod_2-3",
+   "main_pack_common_5_1-1"
+  ],
+  "Spread_WeightType": 2,
+  "Spread_ItemMaxNumber": 13,
+  "Spread_StorageMaxNumber": 13,
+  "Spread_CostEnergy": 0
+ }
+]
