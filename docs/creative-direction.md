@@ -39,15 +39,12 @@ real-world geography; the society explores a romanticized, invented map.
 
 ## Visual style
 
-**Ornate vector deco.**
-
 - Clean, bold vector shapes so merge items read clearly at ~60px; ornamentation lives
   in the meta-layer (map, characters, UI frames), not on board pieces.
-- Victorian filigree, brass fittings, engraved-poster flourishes at the meta-layer.
+- Victorian filigree, brass fittings, engraved-poster flourishes at the meta-layer.  Calming, dreamy visuals.  Something like studio ghibli would produce.
 - Palette anchors: **deep teal, burgundy, cream, brass**, with warm gaslight glows.
 - Typography: engraved-poster display type for headers; plainer humanist type for
   body text and UI.
-- Style must scale cheaply across 100+ live-ops event reskins.
 
 ## The cast (11 character slots)
 
