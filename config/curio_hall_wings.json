@@ -1,0 +1,1019 @@
+[
+ {
+  "area": 1,
+  "name": "The Front Gates",
+  "structure": "interior",
+  "exterior_rect": [
+   0,
+   0,
+   540,
+   270
+  ],
+  "subrooms": [
+   {
+    "name": "Room 1",
+    "size": [
+     720,
+     1280
+    ]
+   }
+  ]
+ },
+ {
+  "area": 2,
+  "name": "The Grand Atrium",
+  "structure": "interior",
+  "exterior_rect": [
+   540,
+   0,
+   540,
+   270
+  ],
+  "subrooms": [
+   {
+    "name": "Room 1",
+    "size": [
+     720,
+     1560
+    ]
+   }
+  ]
+ },
+ {
+  "area": 3,
+  "name": "The Cloakroom & Vestibule",
+  "structure": "interior",
+  "exterior_rect": [
+   1080,
+   0,
+   540,
+   270
+  ],
+  "subrooms": [
+   {
+    "name": "Room 1",
+    "size": [
+     720,
+     1560
+    ]
+   }
+  ]
+ },
+ {
+  "area": 4,
+  "name": "The Curator's Office",
+  "structure": "interior",
+  "exterior_rect": [
+   1620,
+   0,
+   540,
+   270
+  ],
+  "subrooms": [
+   {
+    "name": "Room 1",
+    "size": [
+     720,
+     1560
+    ]
+   }
+  ]
+ },
+ {
+  "area": 5,
+  "name": "The Tea Room",
+  "structure": "interior",
+  "exterior_rect": [
+   0,
+   270,
+   540,
+   270
+  ],
+  "subrooms": [
+   {
+    "name": "Room 1",
+    "size": [
+     720,
+     1280
+    ]
+   }
+  ]
+ },
+ {
+  "area": 6,
+  "name": "The Hall of Feathers",
+  "structure": "interior",
+  "exterior_rect": [
+   540,
+   270,
+   540,
+   270
+  ],
+  "subrooms": [
+   {
+    "name": "Room 1",
+    "size": [
+     720,
+     1300
+    ]
+   }
+  ]
+ },
+ {
+  "area": 7,
+  "name": "The Butterfly House",
+  "structure": "separate",
+  "exterior_rect": [
+   1080,
+   270,
+   540,
+   270
+  ],
+  "subrooms": [
+   {
+    "name": "Room 1",
+    "size": [
+     720,
+     1300
+    ]
+   }
+  ]
+ },
+ {
+  "area": 8,
+  "name": "The Conservatory",
+  "structure": "separate",
+  "exterior_rect": [
+   1620,
+   270,
+   540,
+   270
+  ],
+  "subrooms": [
+   {
+    "name": "Room 1",
+    "size": [
+     720,
+     1300
+    ]
+   }
+  ]
+ },
+ {
+  "area": 9,
+  "name": "The Fossil Gallery",
+  "structure": "interior",
+  "exterior_rect": [
+   0,
+   540,
+   540,
+   270
+  ],
+  "subrooms": [
+   {
+    "name": "Room 1",
+    "size": [
+     720,
+     1280
+    ]
+   }
+  ]
+ },
+ {
+  "area": 10,
+  "name": "The Mineral Vault",
+  "structure": "interior",
+  "exterior_rect": [
+   540,
+   540,
+   540,
+   270
+  ],
+  "subrooms": [
+   {
+    "name": "Room 1",
+    "size": [
+     720,
+     1820
+    ]
+   }
+  ]
+ },
+ {
+  "area": 11,
+  "name": "The Shell & Coral Room",
+  "structure": "interior",
+  "exterior_rect": [
+   1080,
+   540,
+   540,
+   270
+  ],
+  "subrooms": [
+   {
+    "name": "Room 1",
+    "size": [
+     720,
+     1560
+    ]
+   }
+  ]
+ },
+ {
+  "area": 12,
+  "name": "The Aquarium Grotto",
+  "structure": "interior",
+  "exterior_rect": [
+   1620,
+   540,
+   540,
+   270
+  ],
+  "subrooms": [
+   {
+    "name": "Room 1",
+    "size": [
+     720,
+     1820
+    ]
+   }
+  ]
+ },
+ {
+  "area": 13,
+  "name": "The Map Room",
+  "structure": "interior",
+  "exterior_rect": [
+   0,
+   810,
+   540,
+   270
+  ],
+  "subrooms": [
+   {
+    "name": "Room 1",
+    "size": [
+     720,
+     1560
+    ]
+   }
+  ]
+ },
+ {
+  "area": 14,
+  "name": "The Library of Expeditions",
+  "structure": "interior",
+  "exterior_rect": [
+   540,
+   810,
+   540,
+   270
+  ],
+  "subrooms": [
+   {
+    "name": "Room 1",
+    "size": [
+     720,
+     1820
+    ]
+   }
+  ]
+ },
+ {
+  "area": 15,
+  "name": "The Archives",
+  "structure": "interior",
+  "exterior_rect": [
+   1080,
+   810,
+   540,
+   270
+  ],
+  "subrooms": [
+   {
+    "name": "Room 1",
+    "size": [
+     720,
+     2340
+    ]
+   }
+  ]
+ },
+ {
+  "area": 16,
+  "name": "The Clockwork Workshop",
+  "structure": "interior",
+  "exterior_rect": [
+   1620,
+   810,
+   540,
+   270
+  ],
+  "subrooms": [
+   {
+    "name": "Room 1",
+    "size": [
+     720,
+     2340
+    ]
+   }
+  ]
+ },
+ {
+  "area": 17,
+  "name": "The Hall of Instruments",
+  "structure": "interior",
+  "exterior_rect": [
+   0,
+   1080,
+   540,
+   270
+  ],
+  "subrooms": [
+   {
+    "name": "Room 1",
+    "size": [
+     720,
+     2600
+    ]
+   }
+  ]
+ },
+ {
+  "area": 18,
+  "name": "The Astronomy Dome",
+  "structure": "separate",
+  "exterior_rect": [
+   540,
+   1080,
+   540,
+   270
+  ],
+  "subrooms": [
+   {
+    "name": "Room 1",
+    "size": [
+     720,
+     2860
+    ]
+   }
+  ]
+ },
+ {
+  "area": 19,
+  "name": "The Orrery Landing",
+  "structure": "interior",
+  "exterior_rect": [
+   1080,
+   1080,
+   540,
+   270
+  ],
+  "subrooms": [
+   {
+    "name": "Room 1",
+    "size": [
+     720,
+     2080
+    ]
+   }
+  ]
+ },
+ {
+  "area": 20,
+  "name": "The Gaslight Gallery",
+  "structure": "interior",
+  "exterior_rect": [
+   1620,
+   1080,
+   540,
+   270
+  ],
+  "subrooms": [
+   {
+    "name": "Room 1",
+    "size": [
+     720,
+     1820
+    ]
+   }
+  ]
+ },
+ {
+  "area": 21,
+  "name": "The Sculpture Court",
+  "structure": "interior",
+  "exterior_rect": [
+   0,
+   1350,
+   540,
+   270
+  ],
+  "subrooms": [
+   {
+    "name": "Room 1",
+    "size": [
+     720,
+     2600
+    ]
+   }
+  ]
+ },
+ {
+  "area": 22,
+  "name": "The Hall of Giants",
+  "structure": "interior",
+  "exterior_rect": [
+   540,
+   1350,
+   540,
+   270
+  ],
+  "subrooms": [
+   {
+    "name": "Room 1",
+    "size": [
+     720,
+     2080
+    ]
+   }
+  ]
+ },
+ {
+  "area": 23,
+  "name": "The Insectarium",
+  "structure": "interior",
+  "exterior_rect": [
+   1080,
+   1350,
+   540,
+   270
+  ],
+  "subrooms": [
+   {
+    "name": "Room 1",
+    "size": [
+     720,
+     3120
+    ]
+   },
+   {
+    "name": "Room 2",
+    "size": [
+     720,
+     1280
+    ]
+   }
+  ]
+ },
+ {
+  "area": 24,
+  "name": "The Herbarium",
+  "structure": "interior",
+  "exterior_rect": [
+   1620,
+   1350,
+   540,
+   270
+  ],
+  "subrooms": [
+   {
+    "name": "Room 1",
+    "size": [
+     720,
+     2600
+    ]
+   }
+  ]
+ },
+ {
+  "area": 25,
+  "name": "The Apothecary Annex",
+  "structure": "interior",
+  "exterior_rect": [
+   0,
+   1620,
+   540,
+   270
+  ],
+  "subrooms": [
+   {
+    "name": "Room 1",
+    "size": [
+     720,
+     3120
+    ]
+   },
+   {
+    "name": "Room 2",
+    "size": [
+     720,
+     2080
+    ]
+   }
+  ]
+ },
+ {
+  "area": 26,
+  "name": "The Gemstone Salon",
+  "structure": "interior",
+  "exterior_rect": [
+   540,
+   1620,
+   540,
+   270
+  ],
+  "subrooms": [
+   {
+    "name": "Room 1",
+    "size": [
+     720,
+     1560
+    ]
+   }
+  ]
+ },
+ {
+  "area": 27,
+  "name": "The Meteorite Chamber",
+  "structure": "interior",
+  "exterior_rect": [
+   1080,
+   1620,
+   540,
+   270
+  ],
+  "subrooms": [
+   {
+    "name": "Room 1",
+    "size": [
+     720,
+     3120
+    ]
+   }
+  ]
+ },
+ {
+  "area": 28,
+  "name": "The Cabinet of Whispers",
+  "structure": "interior",
+  "exterior_rect": [
+   1620,
+   1620,
+   540,
+   270
+  ],
+  "subrooms": [
+   {
+    "name": "Room 1",
+    "size": [
+     720,
+     1820
+    ]
+   }
+  ]
+ },
+ {
+  "area": 29,
+  "name": "The Portrait Stair",
+  "structure": "interior",
+  "exterior_rect": [
+   0,
+   1890,
+   540,
+   270
+  ],
+  "subrooms": [
+   {
+    "name": "Room 1",
+    "size": [
+     720,
+     1820
+    ]
+   }
+  ]
+ },
+ {
+  "area": 30,
+  "name": "The Founders' Gallery",
+  "structure": "interior",
+  "exterior_rect": [
+   540,
+   1890,
+   540,
+   270
+  ],
+  "subrooms": [
+   {
+    "name": "Room 1",
+    "size": [
+     720,
+     2860
+    ]
+   }
+  ]
+ },
+ {
+  "area": 31,
+  "name": "The Music Box Parlor",
+  "structure": "interior",
+  "exterior_rect": [
+   1080,
+   1890,
+   540,
+   270
+  ],
+  "subrooms": [
+   {
+    "name": "Room 1",
+    "size": [
+     720,
+     2080
+    ]
+   }
+  ]
+ },
+ {
+  "area": 32,
+  "name": "The Print & Poster Room",
+  "structure": "interior",
+  "exterior_rect": [
+   1620,
+   1890,
+   540,
+   270
+  ],
+  "subrooms": [
+   {
+    "name": "Room 1",
+    "size": [
+     720,
+     2600
+    ]
+   }
+  ]
+ },
+ {
+  "area": 33,
+  "name": "The Model Ship Hall",
+  "structure": "interior",
+  "exterior_rect": [
+   0,
+   2160,
+   540,
+   270
+  ],
+  "subrooms": [
+   {
+    "name": "Room 1",
+    "size": [
+     720,
+     3120
+    ]
+   },
+   {
+    "name": "Room 2",
+    "size": [
+     720,
+     1560
+    ]
+   }
+  ]
+ },
+ {
+  "area": 34,
+  "name": "The Balloon Loft",
+  "structure": "separate",
+  "exterior_rect": [
+   540,
+   2160,
+   540,
+   270
+  ],
+  "subrooms": [
+   {
+    "name": "Room 1",
+    "size": [
+     720,
+     3120
+    ]
+   },
+   {
+    "name": "Room 2",
+    "size": [
+     720,
+     1280
+    ]
+   }
+  ]
+ },
+ {
+  "area": 35,
+  "name": "The Observatory Walk",
+  "structure": "separate",
+  "exterior_rect": [
+   1080,
+   2160,
+   540,
+   270
+  ],
+  "subrooms": [
+   {
+    "name": "Room 1",
+    "size": [
+     720,
+     2600
+    ]
+   }
+  ]
+ },
+ {
+  "area": 36,
+  "name": "The Moonlit Courtyard",
+  "structure": "separate",
+  "exterior_rect": [
+   1620,
+   2160,
+   540,
+   270
+  ],
+  "subrooms": [
+   {
+    "name": "Room 1",
+    "size": [
+     720,
+     2600
+    ]
+   }
+  ]
+ },
+ {
+  "area": 37,
+  "name": "The Reflecting Pool",
+  "structure": "separate",
+  "exterior_rect": [
+   0,
+   2430,
+   540,
+   270
+  ],
+  "subrooms": [
+   {
+    "name": "Room 1",
+    "size": [
+     720,
+     2600
+    ]
+   }
+  ]
+ },
+ {
+  "area": 38,
+  "name": "The Glasshouse Menagerie",
+  "structure": "separate",
+  "exterior_rect": [
+   540,
+   2430,
+   540,
+   270
+  ],
+  "subrooms": [
+   {
+    "name": "Room 1",
+    "size": [
+     720,
+     3120
+    ]
+   },
+   {
+    "name": "Room 2",
+    "size": [
+     720,
+     1820
+    ]
+   }
+  ]
+ },
+ {
+  "area": 39,
+  "name": "The Night Garden",
+  "structure": "separate",
+  "exterior_rect": [
+   1080,
+   2430,
+   540,
+   270
+  ],
+  "subrooms": [
+   {
+    "name": "Room 1",
+    "size": [
+     720,
+     2080
+    ]
+   }
+  ]
+ },
+ {
+  "area": 40,
+  "name": "The Deep Vaults",
+  "structure": "interior",
+  "exterior_rect": [
+   1620,
+   2430,
+   540,
+   270
+  ],
+  "subrooms": [
+   {
+    "name": "Room 1",
+    "size": [
+     720,
+     3120
+    ]
+   },
+   {
+    "name": "Room 2",
+    "size": [
+     720,
+     3120
+    ]
+   },
+   {
+    "name": "Room 3",
+    "size": [
+     720,
+     3120
+    ]
+   }
+  ]
+ },
+ {
+  "area": 41,
+  "name": "The Forgotten Wing",
+  "structure": "interior",
+  "exterior_rect": [
+   0,
+   2700,
+   540,
+   270
+  ],
+  "subrooms": [
+   {
+    "name": "Room 1",
+    "size": [
+     720,
+     2080
+    ]
+   }
+  ]
+ },
+ {
+  "area": 42,
+  "name": "The Founder's Study",
+  "structure": "interior",
+  "exterior_rect": [
+   540,
+   2700,
+   540,
+   270
+  ],
+  "subrooms": [
+   {
+    "name": "Room 1",
+    "size": [
+     720,
+     2860
+    ]
+   }
+  ]
+ },
+ {
+  "area": 43,
+  "name": "The Hidden Passage",
+  "structure": "interior",
+  "exterior_rect": [
+   1080,
+   2700,
+   540,
+   270
+  ],
+  "subrooms": [
+   {
+    "name": "Room 1",
+    "size": [
+     720,
+     3120
+    ]
+   },
+   {
+    "name": "Room 2",
+    "size": [
+     720,
+     3120
+    ]
+   },
+   {
+    "name": "Room 3",
+    "size": [
+     720,
+     2860
+    ]
+   }
+  ]
+ },
+ {
+  "area": 44,
+  "name": "The Chart Room of Lost Lands",
+  "structure": "interior",
+  "exterior_rect": [
+   1620,
+   2700,
+   540,
+   270
+  ],
+  "subrooms": [
+   {
+    "name": "Room 1",
+    "size": [
+     720,
+     3120
+    ]
+   },
+   {
+    "name": "Room 2",
+    "size": [
+     720,
+     1280
+    ]
+   }
+  ]
+ },
+ {
+  "area": 45,
+  "name": "The Grand Ballroom",
+  "structure": "interior",
+  "exterior_rect": [
+   0,
+   2970,
+   540,
+   270
+  ],
+  "subrooms": [
+   {
+    "name": "Room 1",
+    "size": [
+     720,
+     3120
+    ]
+   },
+   {
+    "name": "Room 2",
+    "size": [
+     720,
+     1280
+    ]
+   }
+  ]
+ },
+ {
+  "area": 46,
+  "name": "The Clock Tower",
+  "structure": "separate",
+  "exterior_rect": [
+   540,
+   2970,
+   540,
+   270
+  ],
+  "subrooms": [
+   {
+    "name": "Room 1",
+    "size": [
+     720,
+     2860
+    ]
+   }
+  ]
+ },
+ {
+  "area": 47,
+  "name": "The Attic of Marvels",
+  "structure": "interior",
+  "exterior_rect": [
+   1080,
+   2970,
+   540,
+   270
+  ],
+  "subrooms": [
+   {
+    "name": "Room 1",
+    "size": [
+     720,
+     2080
+    ]
+   }
+  ]
+ }
+]

@@ -35,6 +35,12 @@ var event_paper_rewards: Dictionary = {} # variant -> [y][x] unbox-extra grid
 var event_scroll: Dictionary = {}        # variant -> scroll row (level gate etc.)
 var boost_items: Dictionary = {}   # "MoreLuckyProduce"/"ExtraProduce" -> {type -> row}
 var boost_lucky: Dictionary = {}   # "MoreLuckyProduce"/"ExtraLuckyProduce" -> Array
+var hall_wings: Dictionary = {}       # area:int -> wing row
+var hall_elements: Dictionary = {}    # element id -> row
+var area_elements: Dictionary = {}    # area:int -> Array[element rows], in task order
+var element_by_task: Dictionary = {}  # "day_id" -> element id
+var story_scenes: Dictionary = {}     # scene id -> row
+var scenes_by_trigger: Dictionary = {} # trigger -> Array[scene id], config order
 
 func _ready() -> void:
 	load_all()
@@ -57,6 +63,12 @@ func load_all(dir: String = "res://config/") -> void:
 	event_scroll.clear()
 	boost_items.clear()
 	boost_lucky.clear()
+	hall_wings.clear()
+	hall_elements.clear()
+	area_elements.clear()
+	element_by_task.clear()
+	story_scenes.clear()
+	scenes_by_trigger.clear()
 	for row in _read(dir + "ItemModelConfig.json"):
 		if row != null: items[String(row["Type"])] = row
 	for row in _read(dir + "ItemPropertyConfig.json"):
@@ -126,6 +138,22 @@ func load_all(dir: String = "res://config/") -> void:
 			by_type[String((row as Dictionary)["Type"])] = row
 		boost_items[mode] = by_type
 	boost_lucky = _read(dir + "GeneratorBoostLuckyProduceConfig.json")
+	for row in _read(dir + "curio_hall_wings.json"):
+		hall_wings[int(row["area"])] = row
+	for row in _read(dir + "curio_hall_elements.json"):
+		var area := int(row["area"])
+		hall_elements[row["id"]] = row
+		if not area_elements.has(area):
+			area_elements[area] = []
+		area_elements[area].append(row)
+		for key in row["tasks"]:
+			element_by_task[String(key)] = row["id"]
+	for row in _read(dir + "curio_hall_story.json"):
+		story_scenes[row["id"]] = row
+		var trigger := String(row["trigger"])
+		if not scenes_by_trigger.has(trigger):
+			scenes_by_trigger[trigger] = []
+		scenes_by_trigger[trigger].append(row["id"])
 
 ## Loads one live-ops event variant: its items join the global item table
 ## (ids are family-prefixed and collision-checked), its board/reward/scroll
@@ -276,6 +304,83 @@ func validate() -> Array[String]:
 				var id := cell_str.get_slice("#", cell_str.count("#"))
 				if not items.has(id):
 					errors.append("event %s layout row %d: item %s missing" % [variant, r, id])
+	errors.append_array(validate_hall(hall_wings.values(), hall_elements.values(), story_scenes.values()))
+	return errors
+
+const _SCENE_EXPRS := ["neutral", "happy", "surprised", "worried"]
+
+## Cross-checks the Hall configs (wings, elements, story scenes) against the
+## main task table and the cast. Returns human-readable errors.
+func validate_hall(wings: Array, elements: Array, scenes: Array) -> Array[String]:
+	var errors: Array[String] = []
+	var wing_by_area := {}
+	for w in wings:
+		wing_by_area[int(w["area"])] = w
+	for area in range(1, 48):
+		if not wing_by_area.has(area):
+			errors.append("hall wings: area %d missing" % area)
+	var element_ids := {}
+	var claimed := {}
+	for el in elements:
+		var id := String(el["id"])
+		element_ids[id] = el
+		var days := {}
+		for key in el["tasks"]:
+			var k := String(key)
+			if not main_task_by_key.has(k):
+				errors.append("element %s: task %s missing" % [id, k])
+			if claimed.has(k):
+				errors.append("element %s: task %s already in element %s" % [id, k, claimed[k]])
+			claimed[k] = id
+			days[k.get_slice("_", 0)] = true
+		if days.size() != 1:
+			errors.append("element %s: tasks span %d days" % [id, days.size()])
+		if (el["looks"] as Array).size() != 3:
+			errors.append("element %s: needs exactly 3 looks" % id)
+		var wing: Variant = wing_by_area.get(int(el["area"]))
+		if wing == null:
+			errors.append("element %s: no wing for area %s" % [id, el["area"]])
+		elif int(el["subroom"]) < 0 or int(el["subroom"]) >= (wing["subrooms"] as Array).size():
+			errors.append("element %s: subroom %s out of range" % [id, el["subroom"]])
+	for k in main_task_by_key:
+		if not claimed.has(k):
+			errors.append("task %s is in no element" % k)
+	var scene_by_id := {}
+	for sc in scenes:
+		var sid := String(sc["id"])
+		if scene_by_id.has(sid):
+			errors.append("scene %s: duplicate id" % sid)
+		scene_by_id[sid] = sc
+	for sc in scenes:
+		var sid := String(sc["id"])
+		var trigger := String(sc["trigger"])
+		var kind := trigger.get_slice(":", 0)
+		var arg := trigger.substr(kind.length() + 1)
+		var ok := false
+		match kind:
+			"element":
+				ok = element_ids.has(arg)
+			"area_opened":
+				ok = arg.is_valid_int() and wing_by_area.has(int(arg))
+			"day":
+				ok = arg.is_valid_int() and main_tasks.has(int(arg))
+			"task":
+				ok = main_task_by_key.has(arg)
+			_:
+				errors.append("scene %s: unknown trigger form %s" % [sid, trigger])
+				continue
+		if not ok:
+			errors.append("scene %s: trigger %s references a missing target" % [sid, trigger])
+		for line in sc.get("lines", []):
+			if not Cast.NAMES.has(String(line["speaker"])):
+				errors.append("scene %s: speaker %s not in cast" % [sid, line["speaker"]])
+			if not _SCENE_EXPRS.has(String(line["expr"])):
+				errors.append("scene %s: expr %s invalid" % [sid, line["expr"]])
+	for el in elements:
+		var beat: Variant = el.get("beat")
+		if beat != null:
+			if not scene_by_id.has(String(beat)) or scene_by_id[String(beat)]["kind"] != "beat":
+				errors.append("element %s: beat %s is not an existing beat scene" % [el["id"], beat])
 	return errors
 
 func _read(path: String) -> Variant:
