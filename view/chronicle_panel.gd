@@ -3,6 +3,8 @@ extends CanvasLayer
 ## The five Chronicle volumes: campaign-milestone story recaps rendered from
 ## StoryRecapConfig loc keys. Placeholder text until the rewrite track.
 
+signal scene_requested(scene: Dictionary)
+
 var game: Game
 var _root: PanelContainer
 var _list: VBoxContainer
@@ -65,6 +67,31 @@ func _draw_books() -> void:
             _button("Volume %d" % int(b), false, _open_book.bind(int(b)))
         else:
             _label("Volume %d   (sealed until the restoration reaches further)" % int(b))
+    var scenes: Array = game.story.replayable()
+    if not scenes.is_empty():
+        _label("SCENES")
+        for sc in scenes:
+            var scene: Dictionary = sc
+            _button(_scene_title(scene), false, scene_requested.emit.bind(scene))
+            (_list.get_child(_list.get_child_count() - 1) as Button).name = "Scene_" + String(scene["id"])
+
+## Titled by the element (or wing) the scene belongs to.
+func _scene_title(scene: Dictionary) -> String:
+    var trig := String(scene.get("trigger", ""))
+    var kind := trig.get_slice(":", 0)
+    var arg := trig.get_slice(":", 1)
+    var wing := -1
+    if kind == "element" and ConfigDB.hall_elements.has(arg):
+        return String(ConfigDB.hall_elements[arg].get("name", arg))
+    if kind == "area_opened" and arg.is_valid_int():
+        wing = int(arg)
+    elif kind == "task":
+        var el := HallElements.of_task(arg)
+        if ConfigDB.hall_elements.has(el):
+            return String(ConfigDB.hall_elements[el].get("name", el))
+    if ConfigDB.hall_wings.has(wing):
+        return String(ConfigDB.hall_wings[wing].get("name", scene["id"]))
+    return String(scene["id"])
 
 func _open_book(b: int) -> void:
     _book = b

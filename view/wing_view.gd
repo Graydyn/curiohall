@@ -48,11 +48,24 @@ func setup(g: Game, a: int, focus_element: String = "") -> void:
     if focus_element != "" and ConfigDB.hall_elements.has(focus_element):
         subroom = int(ConfigDB.hall_elements[focus_element]["subroom"])
     _build_scene()
-    if focus_element != "" and _sprites.has(focus_element):
-        var s: ElementSprite = _sprites[focus_element]
-        _scroll = s.position.y + s.size.y * 0.5 - size.y * 0.5
-        _apply_scroll()
+    focus(focus_element)
     _open_next_pending()
+
+## Scrolls to an element (switching subroom if needed). False if unknown.
+func focus(element_id: String) -> bool:
+    if element_id == "" or not ConfigDB.hall_elements.has(element_id):
+        return false
+    if int(ConfigDB.hall_elements[element_id].get("area", area)) != area:
+        return false
+    var sr := int(ConfigDB.hall_elements[element_id]["subroom"])
+    if sr != subroom:
+        show_subroom(sr)
+    if not _sprites.has(element_id):
+        return false
+    var s: ElementSprite = _sprites[element_id]
+    _scroll = s.position.y + s.size.y * 0.5 - size.y * 0.5
+    _apply_scroll()
+    return true
 
 ## True while the first-pick picker is up and cannot be dismissed.
 func is_modal_locked() -> bool:

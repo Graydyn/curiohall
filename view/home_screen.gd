@@ -51,6 +51,7 @@ var exterior: ExteriorMap
 var focus_element := ""
 var wing_view: WingView
 var wing_area := -1
+var story_player: StoryPlayer
 
 var _screen := "home"
 var _event_panel_open := false
@@ -97,6 +98,7 @@ func setup(g: Game) -> void:
     add_child(wing_view)
     wing_view.toast.connect(show_toast)
     wing_view.picks_done.connect(refresh_next_task)
+    wing_view.picks_done.connect(play_story)
 
     hud = Hud.new()
     hud.name = "Hud"
@@ -113,9 +115,18 @@ func setup(g: Game) -> void:
 
     _build_overlays()
     _setup_toast()
+    story_player = StoryPlayer.new()
+    story_player.name = "StoryPlayer"
+    add_child(story_player)
+    story_player.setup(game)
+    story_player.scene_started.connect(_on_scene_started)
+    story_player.finished.connect(_refresh_hall)
+    chronicle_panel.scene_requested.connect(story_player.play)
+    game.campaign.task_completed.connect(func(_d: int, _i: int) -> void: play_story.call_deferred())
     game.events.event_changed.connect(_refresh_banners)
     game.boost.boost_changed.connect(_refresh_banners)
     _show_screen("home", false)
+    play_story.call_deferred()
 
 func _passive_rect(n: String) -> Control:
     var c := Control.new()
@@ -272,6 +283,9 @@ func open_wing(area: int, focus: String = "") -> void:
 ## Closes the topmost overlay, else returns toward home. False when already
 ## at home with nothing open (the caller may then let the app quit).
 func go_back() -> bool:
+    if story_player.is_playing():
+        story_player.skip()
+        return true
     for p in [gala_panel, event_panel, chronicle_panel, society_panel, shop_panel]:
         if p.visible:
             p.close()
@@ -291,6 +305,22 @@ func _show_screen(screen: String, emit := true) -> void:
     _refresh_chrome()
     if emit:
         screen_changed.emit(screen)
+    if screen == "home":
+        play_story()
+
+## Plays any queued story scenes, unless a look pick is still pending in the
+## open wing (it resumes from WingView.picks_done).
+func play_story() -> void:
+    if story_player == null or story_player.is_playing():
+        return
+    if _screen == "wing" and (wing_view.picker != null or not game.hall.pending_in_area(wing_area).is_empty()):
+        return
+    story_player.play_pending()
+
+func _on_scene_started(scene: Dictionary) -> void:
+    var trig := String(scene.get("trigger", ""))
+    if _screen == "wing" and trig.begins_with("element:"):
+        wing_view.focus(trig.get_slice(":", 1))
 
 func _overlay_open() -> bool:
     return _event_panel_open or _gala_panel_open
