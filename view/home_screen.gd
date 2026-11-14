@@ -308,12 +308,12 @@ func _show_screen(screen: String, emit := true) -> void:
     if screen == "home":
         play_story()
 
-## Plays any queued story scenes, unless a look pick is still pending in the
-## open wing (it resumes from WingView.picks_done).
+## Plays any queued story scenes, while any look pick is pending (resumes from
+## WingView.picks_done after the pick is made).
 func play_story() -> void:
     if story_player == null or story_player.is_playing():
         return
-    if _screen == "wing" and (wing_view.picker != null or not game.hall.pending_in_area(wing_area).is_empty()):
+    if not game.hall.pending_pick.is_empty():
         return
     story_player.play_pending()
 

@@ -24,6 +24,7 @@ var _index := 0
 var _queue_mode := false
 var _sides: Dictionary = {}       # speaker -> 0 left / 1 right
 var _portraits: Dictionary = {}   # speaker -> TextureRect
+var _tween: Tween
 
 func setup(g: Game) -> void:
     game = g
@@ -66,6 +67,8 @@ func current_scene() -> Dictionary:
 func play_pending() -> void:
     if is_playing():
         return
+    if not game.story.has_pending():
+        return
     _queue_mode = true
     _next_from_queue()
 
@@ -92,6 +95,9 @@ func _has_content(scene: Dictionary) -> bool:
     return not (scene.get(key, []) as Array).is_empty()
 
 func _start(scene: Dictionary) -> void:
+    if _tween != null:
+        _tween.kill()
+        _tween = null
     _scene = scene
     _index = 0
     _sides.clear()
@@ -217,7 +223,8 @@ func _add_portrait(speaker: String) -> TextureRect:
     r.position = Vector2(start_x, 880.0 - PORTRAIT_SIZE.y + 60.0)
     _stage.add_child(r)
     _portraits[speaker] = r
-    create_tween().tween_property(r, "position:x", target_x, 0.25).set_trans(Tween.TRANS_QUAD).set_ease(Tween.EASE_OUT)
+    _tween = create_tween()
+    _tween.tween_property(r, "position:x", target_x, 0.25).set_trans(Tween.TRANS_QUAD).set_ease(Tween.EASE_OUT)
     return r
 
 func _show_panel() -> void:

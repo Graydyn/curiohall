@@ -56,8 +56,8 @@ func _make() -> Array:
     p.setup(g)
     return [g, p]
 
-func _boot() -> Node:
-    if FileAccess.file_exists(TEST_PATH):
+func _boot(keep_save := false) -> Node:
+    if not keep_save and FileAccess.file_exists(TEST_PATH):
         DirAccess.remove_absolute(TEST_PATH)
     var main: Node = (load("res://scenes/main.tscn") as PackedScene).instantiate()
     add_child_autofree(main)
@@ -194,3 +194,81 @@ func test_chronicle_lists_and_replays_seen_scenes() -> void:
     home.story_player.skip()
     assert_eq(g.story.seen.keys(), ["b1"])
     assert_true(g.story.queue.is_empty())
+
+func _play_all(home: HomeScreen) -> Array:
+    var order: Array = []
+    var guard := 0
+    while home.story_player.is_playing() and guard < 50:
+        guard += 1
+        var id := String(home.story_player.current_scene()["id"])
+        if order.is_empty() or order[-1] != id:
+            order.append(id)
+        home.story_player.advance()
+    return order
+
+func test_pending_pick_survives_save_and_blocks_boot() -> void:
+    _beat("b1", "t:a")
+    var g := Game.fresh(0.0)
+    g.wallet.add_coins(1000)
+    for id in [1, 2, 3, 4]:
+        g.complete_task(id, 0.0)
+    assert_eq(g.hall.pending_pick, ["01_001"])
+    g.story = Story.new()
+    g.story.enqueue(["t:a"])
+    SaveManager.save(g)
+    var main := await _boot(true)
+    var home: HomeScreen = main.home
+    await wait_process_frames(2)
+    assert_eq(home.game.hall.pending_pick, ["01_001"])
+    assert_false(home.story_player.is_playing())
+    home.open_wing(1)
+    assert_not_null(home.wing_view.picker)
+    assert_false(home.story_player.is_playing())
+    home.wing_view.picker.pick(0)
+    assert_true(home.story_player.is_playing())
+    assert_eq(home.story_player.current_scene()["id"], "b1")
+
+func test_day_one_finale_plays_after_pick_in_order() -> void:
+    _beat("s_task", "task:1_7")
+    _beat("s_el", "element:01_002")
+    _beat("s_day", "day:2")
+    _beat("s_area", "area_opened:2")
+    var main := await _boot()
+    var home: HomeScreen = main.home
+    var g: Game = main.game
+    g.story = Story.new()
+    g.wallet.add_coins(5000)
+    for id in [1, 2, 3, 4]:
+        g.complete_task(id, 0.0)
+    g.pick_look("01_001", 0)
+    for id in [5, 6]:
+        g.complete_task(id, 0.0)
+    assert_true(g.story.queue.is_empty())
+    var res := g.complete_task(7, 0.0)
+    assert_true(res["ok"])
+    assert_eq(g.story.queue, ["s_task", "s_el", "s_day", "s_area"])
+    home.open_wing(1)
+    await wait_process_frames(2)
+    assert_not_null(home.wing_view.picker)
+    assert_false(home.story_player.is_playing())
+    home.wing_view.picker.pick(1)
+    assert_eq(_play_all(home), ["s_task", "s_el", "s_day", "s_area"])
+    assert_true(g.story.queue.is_empty())
+    assert_eq(g.story.seen.size(), 4)
+
+func test_task_without_element_plays_after_completion() -> void:
+    _beat("s_task", "task:1_1")
+    var main := await _boot()
+    var home: HomeScreen = main.home
+    var g: Game = main.game
+    g.story = Story.new()
+    g.wallet.add_coins(1000)
+    home.open_wing(1)
+    var w := home.wing_view
+    w.tap_element("01_001")
+    (w.task_card.find_child("Complete", true, false) as Button).pressed.emit()
+    await wait_process_frames(2)
+    assert_true(home.story_player.is_playing())
+    assert_eq(home.story_player.current_scene()["id"], "s_task")
+    assert_eq(_play_all(home), ["s_task"])
+    assert_eq(g.story.seen.keys(), ["s_task"])
