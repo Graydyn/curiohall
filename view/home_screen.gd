@@ -47,7 +47,8 @@ var society_panel: SocietyPanel
 var chronicle_panel: ChroniclePanel
 var event_panel: EventPanel
 var gala_panel: GalaPanel
-var exterior: Control
+var exterior: ExteriorMap
+var focus_element := ""
 var wing_view: Control
 var wing_area := -1
 
@@ -56,6 +57,8 @@ var _event_panel_open := false
 var _gala_panel_open := false
 var _home_view: Control
 var _back_button: Button
+var _next_strip: Button
+var _next_area := -1
 var _expedition_banner: Button
 var _gala_banner: Button
 var _toast: Label
@@ -74,9 +77,16 @@ func setup(g: Game) -> void:
 
     _home_view = _passive_rect("HomeView")
     add_child(_home_view)
-    exterior = _passive_rect("Exterior")      # Task 5 fills this with the Hall exterior
+    exterior = ExteriorMap.new()
+    exterior.name = "Exterior"
     _home_view.add_child(exterior)
+    exterior.setup(game)
+    exterior.wing_tapped.connect(func(a: int) -> void: open_wing(a))
+    game.campaign.task_completed.connect(func(_d: int, _i: int) -> void: _refresh_hall())
+    game.campaign.day_advanced.connect(func(_d: int) -> void: _refresh_hall())
+    game.campaign.area_restored.connect(func(_a: int) -> void: _refresh_hall())
     _build_banners()
+    _build_next_strip()
     _build_nav()
 
     wing_view = _passive_rect("WingView")     # Task 6 fills this with the wing interior
@@ -125,6 +135,44 @@ func _build_banners() -> void:
     _gala_banner.name = "GalaBanner"
     _place(_gala_banner, 370.0, 64.0, 710.0, 108.0)
     _home_view.add_child(_gala_banner)
+
+func _build_next_strip() -> void:
+    _next_strip = Button.new()
+    _next_strip.name = "NextTaskStrip"
+    _place(_next_strip, 10.0, 1118.0, 710.0, 1180.0)
+    _next_strip.pressed.connect(func() -> void:
+        if _next_area > 0:
+            open_wing(_next_area, _next_element))
+    _home_view.add_child(_next_strip)
+    refresh_next_task()
+
+var _next_element := ""
+
+## Shows the first workable element of the active area, or hides the strip.
+func refresh_next_task() -> void:
+    var c := game.campaign
+    _next_area = -1
+    _next_element = ""
+    if not c.is_complete():
+        var area := c.current_area()
+        for row in HallElements.in_area(area):
+            var id := String(row["id"])
+            if HallElements.is_workable(id, c):
+                _next_area = area
+                _next_element = id
+                _next_strip.text = "Next: %s  %d●" % [String(row["name"]), _task_cost(HallElements.next_task(id, c))]
+                break
+    _next_strip.visible = _next_area > 0
+
+func _task_cost(key: String) -> int:
+    for row in game.campaign.tasks_today():
+        if Campaign.task_key(int(row["day"]), int(row["id"])) == key:
+            return int(row["cost"])
+    return 0
+
+func _refresh_hall() -> void:
+    exterior.refresh()
+    refresh_next_task()
 
 func _build_nav() -> void:
     var bar := HBoxContainer.new()
@@ -208,8 +256,9 @@ func current_screen() -> String:
 func open_workroom() -> void:
     _show_screen("workroom")
 
-func open_wing(area: int) -> void:
+func open_wing(area: int, focus: String = "") -> void:
     wing_area = area
+    focus_element = focus
     _show_screen("wing")
 
 ## Closes the topmost overlay, else returns toward home. False when already
@@ -242,6 +291,8 @@ func _refresh_chrome() -> void:
     hud.visible = not _event_panel_open
     _back_button.visible = _screen != "home" and not over
     _refresh_banners()
+    if _screen == "home":
+        _refresh_hall()
 
 func _refresh_banners() -> void:
     var show_banners := _screen == "home" and not _overlay_open()
