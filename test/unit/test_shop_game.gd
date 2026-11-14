@@ -71,7 +71,7 @@ func test_save_round_trip_preserves_shop_state() -> void:
     g.wallet.add_gems(100)
     g.buy_daily_deal(1, 1000.0)
     var g2 := Game.from_dict(g.to_dict())
-    assert_eq(g2.to_dict()["save_version"], 10)
+    assert_eq(g2.to_dict()["save_version"], 11)
     assert_true(g2.shop.slots[0]["sold_out"])
     assert_eq(int(g2.deals.stock[1]), 0)
 

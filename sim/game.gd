@@ -3,7 +3,7 @@ extends RefCounted
 
 signal spawned(pos: Vector2i, type: String)
 
-const SAVE_VERSION := 10
+const SAVE_VERSION := 11
 
 var board: MergeBoard
 var wallet: EnergyWallet
@@ -17,6 +17,7 @@ var intimacy: Intimacy
 var specials: SpecialOrders
 var events: Events
 var boost: Boost
+var hall: HallState
 var rng := RandomNumberGenerator.new()
 
 static func fresh(now: float, seed_value: int = 0) -> Game:
@@ -40,6 +41,7 @@ static func fresh(now: float, seed_value: int = 0) -> Game:
     g.specials = SpecialOrders.new()
     g.events = Events.new()
     g.boost = Boost.new()
+    g.hall = HallState.new()
     return g
 
 func merge(a: Vector2i, b: Vector2i, now: float) -> String:
@@ -208,10 +210,26 @@ func buy_bundle(now: float) -> Dictionary:
     return iap.purchase_bundle(self, now)
 
 func complete_task(id: int, now: float) -> Dictionary:
+    var key := Campaign.task_key(campaign.day, id)
     var res := campaign.complete_task(id, self, now)
     if res["ok"]:
         specials.maybe_activate(campaign, self, now)
+        var el := HallElements.of_task(key)
+        if el != "" and HallElements.stage(el, campaign) == HallElements.Stage.DONE:
+            hall.finish(el)
+            res["element"] = el
     return res
+
+func pick_look(id: String, look: int) -> Dictionary:
+    if not ConfigDB.hall_elements.has(id):
+        return {"ok": false, "reason": "unknown_element"}
+    if HallElements.stage(id, campaign) != HallElements.Stage.DONE:
+        return {"ok": false, "reason": "not_done"}
+    var look_count: int = (ConfigDB.hall_elements[id]["looks"] as Array).size()
+    if look < 0 or look >= look_count:
+        return {"ok": false, "reason": "bad_look"}
+    hall.set_look(id, look)
+    return {"ok": true, "reason": ""}
 
 func deliver_special(now: float) -> Dictionary:
     return specials.deliver(board, self, now)
@@ -280,6 +298,7 @@ func to_dict() -> Dictionary:
         "specials": specials.to_dict(),
         "events": events.to_dict(),
         "boost": boost.to_dict(),
+        "hall": hall.to_dict(),
     }
 
 static func from_dict(d: Dictionary) -> Game:
@@ -298,5 +317,6 @@ static func from_dict(d: Dictionary) -> Game:
     g.specials = SpecialOrders.from_dict(d["specials"])
     g.events = Events.from_dict(d["events"])
     g.boost = Boost.from_dict(d["boost"])
+    g.hall = HallState.from_dict(d["hall"])
     g.rng.randomize()
     return g
