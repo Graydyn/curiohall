@@ -101,13 +101,58 @@ func test_card_complete_disabled_when_short() -> void:
     w.tap_element("01_001")
     assert_true((w.task_card.find_child("Complete", true, false) as Button).disabled)
 
-func test_locked_element_does_nothing() -> void:
-    var g := Game.fresh(0.0)
-    var w: WingView = _make(g)[1]
-    # 01_002 first task is 1_5; still on today's docket in day 1, so use a made-up state.
-    g.campaign.day = 50
-    w.tap_element("01_002")
+func test_future_day_element_toasts_not_today() -> void:
+    var w: WingView = _make(null, 2)[1]
+    watch_signals(w)
+    w.tap_element("02_001")
     assert_null(w.task_card)
+    assert_signal_emitted_with_parameters(w, "toast", ["not_today"])
+
+func test_setup_twice() -> void:
+    var gw := _make()
+    var w: WingView = gw[1]
+    w.setup(gw[0], 1)
+    w.setup(gw[0], 1)
+    assert_eq(w.sprite_count(), 2)
+
+func _home() -> HomeScreen:
+    var g := Game.fresh(0.0)
+    g.wallet.add_coins(1000)
+    var h := HomeScreen.new()
+    add_child_autofree(h)
+    h.size = Vector2(720, 1280)
+    h.setup(g)
+    return h
+
+func test_reopen_wing_has_sprites() -> void:
+    var h := _home()
+    h.open_wing(1)
+    assert_eq(h.wing_view.sprite_count(), 2)
+    h.go_back()
+    h.open_wing(1)
+    assert_eq(h.wing_view.sprite_count(), 2)
+
+func test_back_with_mandatory_picker_stays() -> void:
+    var h := _home()
+    h.open_wing(1)
+    for i in 4:
+        h.wing_view.tap_element("01_001")
+        (h.wing_view.task_card.find_child("Complete", true, false) as Button).pressed.emit()
+    assert_not_null(h.wing_view.picker)
+    assert_true(h.go_back())
+    assert_eq(h.current_screen(), "wing")
+    assert_not_null(h.wing_view.picker)
+
+func test_back_closes_card_then_leaves() -> void:
+    var h := _home()
+    h.open_wing(1)
+    h.wing_view.tap_element("01_001")
+    assert_not_null(h.wing_view.task_card)
+    assert_true(h.go_back())
+    assert_null(h.wing_view.task_card)
+    assert_eq(h.current_screen(), "wing")
+    assert_true(h.go_back())
+    assert_eq(h.current_screen(), "home")
 
 func test_focus_element_scrolls_without_error() -> void:
     var w: WingView = _make(null, 1, "01_002")[1]

@@ -276,6 +276,8 @@ func go_back() -> bool:
         if p.visible:
             p.close()
             return true
+    if _screen == "wing" and (wing_view.is_modal_locked() or wing_view.close_top()):
+        return true
     if _screen != "home":
         _show_screen("home")
         return true

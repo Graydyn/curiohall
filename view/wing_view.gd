@@ -3,7 +3,6 @@ extends Control
 ## Interior of one wing: a vertically scrolling subroom scene with its Hall
 ## elements, subroom tabs, an Arrange toggle, the task card and look picker.
 
-signal back_requested
 signal picks_done
 signal toast(reason: String)
 
@@ -37,6 +36,8 @@ func setup(g: Game, a: int, focus_element: String = "") -> void:
     _sprites.clear()
     task_card = null
     picker = null
+    _scene = null
+    _tabs = null
     _clip = Control.new()
     _clip.name = "Clip"
     _clip.clip_contents = true
@@ -52,6 +53,20 @@ func setup(g: Game, a: int, focus_element: String = "") -> void:
         _scroll = s.position.y + s.size.y * 0.5 - size.y * 0.5
         _apply_scroll()
     _open_next_pending()
+
+## True while the first-pick picker is up and cannot be dismissed.
+func is_modal_locked() -> bool:
+    return picker != null and not picker.has_close()
+
+## Closes the card or a closable picker. False when nothing was closed.
+func close_top() -> bool:
+    if picker != null and picker.has_close():
+        _close_picker()
+        return true
+    if task_card != null:
+        _close_card()
+        return true
+    return false
 
 func _subrooms() -> Array:
     return ConfigDB.hall_wings.get(area, {}).get("subrooms", [])
