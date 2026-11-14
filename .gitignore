@@ -2,3 +2,4 @@
 build/
 .worktrees/
 .superpowers/
+.claude/worktrees/
