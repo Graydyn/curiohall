@@ -306,9 +306,19 @@ func _show_screen(screen: String, emit := true) -> void:
     if emit:
         screen_changed.emit(screen)
     if screen == "home":
-        play_story()
+        if not _open_pending_pick_wing():
+            play_story()
 
-## Plays any queued story scenes, while any look pick is pending (resumes from
+## A finished element's mandatory look pick is owed: open its wing so the
+## picker shows right away (its wing may be behind the active one).
+func _open_pending_pick_wing() -> bool:
+    for id in game.hall.pending_pick:
+        if ConfigDB.hall_elements.has(id):
+            open_wing(int(ConfigDB.hall_elements[id]["area"]))
+            return true
+    return false
+
+## Plays any queued story scenes unless any look pick is pending (resumes from
 ## WingView.picks_done after the pick is made).
 func play_story() -> void:
     if story_player == null or story_player.is_playing():

@@ -272,3 +272,28 @@ func test_task_without_element_plays_after_completion() -> void:
     assert_eq(home.story_player.current_scene()["id"], "s_task")
     assert_eq(_play_all(home), ["s_task"])
     assert_eq(g.story.seen.keys(), ["s_task"])
+
+func test_boot_with_pending_pick_in_old_wing_opens_it() -> void:
+    _beat("s_day", "day:2")
+    var g := Game.fresh(0.0)
+    g.wallet.add_coins(5000)
+    for id in [1, 2, 3, 4]:
+        g.complete_task(id, 0.0)
+    g.pick_look("01_001", 0)
+    for id in [5, 6, 7]:
+        g.complete_task(id, 0.0)
+    assert_eq(g.hall.pending_pick, ["01_002"])
+    assert_ne(g.campaign.current_area(), 1)
+    g.story = Story.new()
+    g.story.enqueue(["day:2"])
+    SaveManager.save(g)
+    var main := await _boot(true)
+    var home: HomeScreen = main.home
+    await wait_process_frames(2)
+    assert_eq(home.current_screen(), "wing")
+    assert_eq(home.wing_area, 1)
+    assert_not_null(home.wing_view.picker)
+    assert_false(home.story_player.is_playing())
+    home.wing_view.picker.pick(0)
+    assert_true(home.story_player.is_playing())
+    assert_eq(home.story_player.current_scene()["id"], "s_day")
