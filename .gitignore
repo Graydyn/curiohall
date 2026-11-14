@@ -3,3 +3,4 @@ build/
 .worktrees/
 .superpowers/
 .claude/worktrees/
+__pycache__/

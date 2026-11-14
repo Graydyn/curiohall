@@ -194,6 +194,14 @@ class BatchTests(unittest.TestCase):
         self.assertEqual(counts["done"], 1)
         self.assertEqual(B.load_jobs(self.jobs)["_pending"], {})
 
+    def test_wait_rounds_exceeded_keeps_pending(self):
+        err = (7, {"error": {"job_id": "JX", "detail": {"submitted": True}}})
+        counts, stop, calls = self.go([entry("a")], [err] * (B.MAX_WAIT_ROUNDS + 1))
+        self.assertEqual(counts["failed"], 1)
+        self.assertEqual(B.load_jobs(self.jobs)["_pending"], {"a": "JX"})
+        counts, _, calls = self.go([entry("a")], [(0, {"id": "JX"})])
+        self.assertEqual(calls[0][:3], ["sectilia", "wait", "JX"])
+
     def test_exit_5_recorded_and_not_resubmitted(self):
         fail = (5, {"error": {"detail": {}}})
         counts, _, calls = self.go([entry("a")], [fail])

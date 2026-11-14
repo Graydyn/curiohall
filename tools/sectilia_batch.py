@@ -29,9 +29,10 @@ class StopBatch(Exception):
 
 
 class EntryFailed(Exception):
-    def __init__(self, msg, code=None):
+    def __init__(self, msg, code=None, keep_pending=False):
         super().__init__(msg)
         self.code = code
+        self.keep_pending = keep_pending
 
 
 def load_jobs(path=None):
@@ -154,7 +155,8 @@ def run_entry(e, jobs, runner=run, sleep=time.sleep, job_id=None, on_pending=Non
                 note(job_id)
             wait_rounds += 1
             if not job_id or wait_rounds > MAX_WAIT_ROUNDS:
-                raise EntryFailed("still running after waits: " + describe(code, data))
+                raise EntryFailed("still running after waits: " + describe(code, data),
+                                  keep_pending=bool(job_id))
             continue
         if code == 130:
             if detail.get("submitted") is False:
@@ -241,7 +243,8 @@ def run_manifest(entries, limit=None, jobs_path=None, runner=run, sleep=time.sle
             log("ok   %s -> %s" % (key, jid))
         except EntryFailed as ex:
             failed += 1
-            pending_map.pop(key, None)
+            if not ex.keep_pending:
+                pending_map.pop(key, None)
             save_jobs(jobs, jobs_path)
             if ex.code == 5:
                 failed_log[key] = str(ex)
