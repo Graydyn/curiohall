@@ -20,3 +20,37 @@ would help.
    so matching a whole set to a locked look needs an extra edit pass per image
    (generate raw, then edit with the style refs), doubling the job count. Letting
    `generate` take `--style` jobs would remove that pass.
+
+## Task 9 (style lock) observations
+
+5. **Cold start on first job: ~10 minutes queued.** The first `generate` of the
+   session sat `queued` for 10m14s waiting for the generator to start (stderr
+   said "usually about 7 minutes"). Later jobs ran in under a minute. A shell
+   with a 3-minute auto-background makes this awkward: the batch runner gets
+   pushed to the background while the user waits. A `sectilia warmup` (or a
+   cheap way to ask "is the generator hot?") would let us plan around it.
+6. **Stdout JSON is pretty-printed over many lines.** "Every command prints one
+   JSON object on stdout" read like one line; our batch runner parsed only the
+   last line, got `}` and silently recorded `None` as the job id for the first
+   two style probes. Fixed on our side (parse the whole stdout), but a
+   `--json-line` / compact mode, or saying "multi-line" in the docs, would help.
+7. **Same `--theme`, four quite different renderings.** Four style probes with
+   one shared theme string came back as: a semi-realistic rendered display case,
+   an inked storybook gaslamp, a soft painted conservatory corner (the Ghibli-ish
+   look we want) and a near-photoreal dark globe. `--theme` alone does not hold
+   a look; that is why the style refs (and the style-pass decision) matter.
+8. **Probe cropped despite margin.** The gaslamp probe (512x512, margin 4) came
+   back with the post cut off at the bottom edge rather than scaled to fit.
+9. **`background` ran past its documented 45-minute cap.** The exterior base
+   (2160x3240) took ~15 min, fine. The Grand Atrium scene (720x1560, job
+   53c5f576) was still `running` after 60+ minutes with no error and an empty
+   `waiting_for`, so the client's own 3600 s timeout fired first. There is no
+   progress signal beyond "running", so it is impossible to tell "nearly done"
+   from "stuck". A step/piece counter in `sectilia job`, and the server
+   enforcing the 45-minute stop it documents, would help.
+10. **A stuck background blocks the whole machine.** `~/.config/sectilia/job.lock`
+    keeps the stuck background's id, so every later `generate`/`edit` sits
+    waiting for it locally and nothing else can be submitted. With no cancel
+    command (`sectilia cancel <id>` does not exist) a hung job halts all art
+    work. A cancel command, or the server-side 45-minute stop actually firing,
+    would unblock this.

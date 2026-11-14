@@ -36,7 +36,8 @@ class ManifestTests(unittest.TestCase):
     def test_exterior_boarded_edits_restored(self):
         m = {e["key"]: e for e in M.build("exterior-wings", {1})}
         self.assertEqual(m["ext_01_boarded"]["source_key"], "ext_01_restored")
-        self.assertEqual(m["ext_01_restored"]["args"]["spec"]["canvas_size"], [1024, 512])
+        self.assertEqual(m["ext_01_restored"]["args"]["spec"]["canvas_size"],
+                         M.fit_canvas(C.wings()[0]["exterior_rect"]))
 
     def test_style_pass_wires_sources(self):
         m = M.build("elements", {1}, ["style_core_1", "style_core_2"], True)
@@ -91,6 +92,12 @@ def entry(key, cmd="generate", out=None, source=None):
 
 
 class BatchTests(unittest.TestCase):
+    def test_parse_stdout_pretty_printed(self):
+        out = '{\n  "id": "abc",\n  "status": "succeeded"\n}\n'
+        self.assertEqual(B.parse_stdout(out)["id"], "abc")
+        self.assertEqual(B.parse_stdout("noise\n" + out)["id"], "abc")
+        self.assertEqual(B.parse_stdout(""), {})
+
     def setUp(self):
         self.tmp = tempfile.mkdtemp()
         self.jobs = os.path.join(self.tmp, "jobs.json")

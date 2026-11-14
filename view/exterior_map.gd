@@ -24,6 +24,7 @@ var _press_pos := Vector2.ZERO
 var _pressing := false
 var _dragged := false
 var _time := 0.0
+var _has_base := false
 
 func setup(g: Game) -> void:
     game = g
@@ -40,6 +41,7 @@ func setup(g: Game) -> void:
     _ink_material.set_shader_parameter("ink_color", Color(CurioTheme.INK, 0.55))
     _ink_material.set_shader_parameter("width", 2.0)
     var base := HallArt.exterior_base()
+    _has_base = base != null
     if base != null:
         var tr := TextureRect.new()
         tr.texture = base
@@ -112,6 +114,9 @@ func _build_wing(area: int, w: Control) -> void:
         if locked and separate:
             tr.material = _ink_material
         w.add_child(tr)
+    elif locked and _has_base:
+        # Painted grounds but no wing art yet: keep the painting clean.
+        pass
     elif not (locked and separate):
         w.add_child(_placeholder(row, st, w.size, inset))
     else:
@@ -208,11 +213,16 @@ func wing_at(canvas_pos: Vector2) -> int:
     var areas: Array = _wings.keys()
     areas.sort()
     areas.reverse()
+    # Reached wings win over locked ones whose (not yet placed) rects overlap.
+    var locked_hit := -1
     for a in areas:
         var w: Control = _wings[a]
         if Rect2(w.position, w.size).has_point(canvas_pos):
-            return int(a)
-    return -1
+            if wing_state(int(a)) != Campaign.AreaState.LOCKED:
+                return int(a)
+            if locked_hit < 0:
+                locked_hit = int(a)
+    return locked_hit
 
 func center_on(area: int) -> void:
     if not _wings.has(area):

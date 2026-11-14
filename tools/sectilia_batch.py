@@ -93,13 +93,26 @@ def build_argv(e, jobs, dry=False):
     return argv
 
 
+def parse_stdout(text):
+    """sectilia prints one JSON object, pretty-printed over many lines."""
+    text = text.strip()
+    if not text:
+        return {}
+    try:
+        return json.loads(text)
+    except ValueError:
+        pass
+    i = text.rfind("\n{")
+    try:
+        return json.loads(text[i + 1:] if i >= 0 else text.splitlines()[-1])
+    except (ValueError, IndexError):
+        return {}
+
+
 def run(argv, timeout):
     """Run one sectilia command, return (exit_code, parsed stdout JSON or {})."""
     p = subprocess.run(argv, capture_output=True, text=True, cwd=C.ROOT, timeout=timeout)
-    try:
-        data = json.loads(p.stdout.strip().splitlines()[-1]) if p.stdout.strip() else {}
-    except (ValueError, IndexError):
-        data = {}
+    data = parse_stdout(p.stdout)
     if p.stderr:
         sys.stderr.write(p.stderr[-2000:])
     return p.returncode, data

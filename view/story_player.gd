@@ -164,7 +164,7 @@ func _make_bubble(caption: bool) -> void:
     sb.set_border_width_all(4)
     sb.set_corner_radius_all(14)
     sb.set_content_margin_all(18)
-    _bubble.add_theme_stylebox_override("panel", sb)
+    _bubble.add_theme_stylebox_override("panel", CurioTheme.art_box("speech_bubble", sb, 56.0, 36.0))
     _bubble.offset_left = 30.0
     _bubble.offset_right = 690.0
     _bubble.offset_top = 880.0 if not caption else 940.0

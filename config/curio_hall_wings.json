@@ -4,10 +4,10 @@
   "name": "The Front Gates",
   "structure": "interior",
   "exterior_rect": [
-   0,
-   0,
-   540,
-   270
+   480,
+   2560,
+   1200,
+   640
   ],
   "subrooms": [
    {
@@ -17,17 +17,18 @@
      1280
     ]
    }
-  ]
+  ],
+  "exterior_subject": "ornate black wrought-iron double gates with gilded finials between two red-brick pillars topped by brass gaslamps, short curved brick wall sections either side, seen from high above at a gentle 3/4 top-down angle, warm lit windows, standing on its own ground"
  },
  {
   "area": 2,
   "name": "The Grand Atrium",
   "structure": "interior",
   "exterior_rect": [
-   540,
-   0,
-   540,
-   270
+   420,
+   1060,
+   1320,
+   820
   ],
   "subrooms": [
    {
@@ -35,19 +36,21 @@
     "size": [
      720,
      1560
-    ]
+    ],
+    "description": "The interior of the Grand Atrium of a Victorian museum, a tall portrait view looking down from high above at a gentle 3/4 top-down angle. At the top, the back wall: a sweeping double marble staircase with brass banisters rising to a gallery, tall arched windows with soft evening light, deep teal walls with cream plaster mouldings and burgundy drapes. Most of the picture is a vast open floor of polished cream and teal chequered marble, completely empty of furniture and exhibits, with a large round brass-inlaid rosette in the floor at the centre and a long burgundy runner carpet down the middle. Slender cream columns stand only along the far left and right edges. At the bottom, the inside of the great front doors. Soft shafts of light from a glass dome above, warm gaslight glow from wall sconces, calm and dreamy, Ghibli-like, deep teal, burgundy, cream and brass palette, no people, no text."
    }
-  ]
+  ],
+  "exterior_subject": "the grand entrance building of a Victorian museum: a cream stone facade with a tall teal glass dome, a columned portico, wide front steps and arched windows, seen from high above at a gentle 3/4 top-down angle, warm lit windows, standing on its own ground"
  },
  {
   "area": 3,
   "name": "The Cloakroom & Vestibule",
   "structure": "interior",
   "exterior_rect": [
-   1080,
    0,
-   540,
-   270
+   1290,
+   520,
+   450
   ],
   "subrooms": [
    {
@@ -57,17 +60,18 @@
      1560
     ]
    }
-  ]
+  ],
+  "exterior_subject": "a small cream stone Victorian annex with a burgundy door, a little portico and a teal slate roof, seen from high above at a gentle 3/4 top-down angle, warm lit windows, standing on its own ground"
  },
  {
   "area": 4,
   "name": "The Curator's Office",
   "structure": "interior",
   "exterior_rect": [
-   1620,
-   0,
-   540,
-   270
+   1640,
+   1290,
+   520,
+   450
   ],
   "subrooms": [
    {
@@ -77,7 +81,8 @@
      1560
     ]
    }
-  ]
+  ],
+  "exterior_subject": "a small cream stone Victorian study annex with a bay window, a chimney and a teal slate roof, seen from high above at a gentle 3/4 top-down angle, warm lit windows, standing on its own ground"
  },
  {
   "area": 5,
@@ -685,10 +690,10 @@
   "name": "The Balloon Loft",
   "structure": "separate",
   "exterior_rect": [
-   540,
-   2160,
-   540,
-   270
+   1440,
+   640,
+   520,
+   400
   ],
   "subrooms": [
    {
@@ -705,7 +710,8 @@
      1280
     ]
    }
-  ]
+  ],
+  "exterior_subject": "a tall timber-and-glass Victorian balloon loft hangar with a striped hot-air balloon peeking from its open roof, seen from high above at a gentle 3/4 top-down angle, warm lit windows, standing on its own ground"
  },
  {
   "area": 35,

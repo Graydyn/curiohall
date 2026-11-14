@@ -1,1 +1,14 @@
-{}
+{
+ "_pending": {
+  "scene_02_0": "53c5f576-795f-4770-b9d9-57d929fad8fe"
+ },
+ "exterior_base": "77dcebdb-c342-452a-aefb-1e3194d9b093",
+ "style_core": [
+  "style_probe_conservatory",
+  "style_probe_case"
+ ],
+ "style_probe_case": "218e9dd7-38c2-429a-a5ee-742b5cbe0a81",
+ "style_probe_conservatory": "9e588940-3f8a-4c6d-b53b-de14d870ed2c",
+ "style_probe_globe": "325bbbc6-f8ec-4e30-9adb-18db4c8b9997",
+ "style_probe_lamp": "96b5dad8-e52e-478d-88b2-9bf27fe975cd"
+}

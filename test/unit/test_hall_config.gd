@@ -34,7 +34,12 @@ func test_real_config_validates_clean() -> void:
 func test_validate_rejects_bad_scene_refs() -> void:
 	var dir := "res://test/fixtures/hall_bad/"
 	var wings: Array = ConfigDB.hall_wings.values()
-	var elements: Array = ConfigDB.hall_elements.values()
+	# Drop the real beat refs: only the fixture's own errors should show.
+	var elements: Array = []
+	for el in ConfigDB.hall_elements.values():
+		var copy: Dictionary = (el as Dictionary).duplicate()
+		copy["beat"] = null
+		elements.append(copy)
 	var scenes: Array = ConfigDB._read(dir + "curio_hall_story.json")
 	var errors := ConfigDB.validate_hall(wings, elements, scenes)
 	assert_eq(errors.size(), 2, str(errors))

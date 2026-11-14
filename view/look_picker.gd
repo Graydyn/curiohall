@@ -20,6 +20,15 @@ func setup(g: Game, id: String, closable: bool) -> void:
     dim.set_anchors_preset(Control.PRESET_FULL_RECT)
     dim.mouse_filter = Control.MOUSE_FILTER_IGNORE
     add_child(dim)
+    var frame_art := CurioTheme.art_box("picker_frame", null, 72.0, 0.0)
+    if frame_art != null:
+        var frame := Panel.new()
+        frame.name = "PickerFrame"
+        frame.position = Vector2(0, 290)
+        frame.size = Vector2(720, 470)
+        frame.mouse_filter = Control.MOUSE_FILTER_IGNORE
+        frame.add_theme_stylebox_override("panel", frame_art)
+        add_child(frame)
     var row: Dictionary = ConfigDB.hall_elements[id]
     var title := Label.new()
     title.text = "Choose a look: %s" % String(row["name"])

@@ -7,6 +7,7 @@ extends Control
 signal tapped(id: String)
 
 const PLACEHOLDER := Vector2(160, 160)
+const DEFAULT_SIZE := 200.0
 
 var id := ""
 var stage: HallElements.Stage = HallElements.Stage.OUTLINE
@@ -35,7 +36,13 @@ func refresh() -> void:
     shown_look = game.hall.look_of(id) if stage == HallElements.Stage.DONE else 0
     _pip = ""
     var tex := HallArt.element(id, shown_look)
-    var sz := tex.get_size() if tex != null else PLACEHOLDER
+    var sz := PLACEHOLDER
+    if tex != null:
+        # Art is generated large (look picker); the row's optional "size" sets
+        # its on-scene longest side in scene px.
+        var ts := tex.get_size()
+        var side := float(_row.get("size", DEFAULT_SIZE))
+        sz = ts * (side / maxf(ts.x, ts.y))
     size = sz
     var pos: Array = _row["pos"]
     position = Vector2(float(pos[0]) - sz.x * 0.5, float(pos[1]) - sz.y)

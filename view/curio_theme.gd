@@ -25,6 +25,22 @@ static func _box(bg: Color, border: Color, radius: int = 8, border_w: int = 2) -
     sb.content_margin_bottom = 8.0
     return sb
 
+## Nine-slice painted UI art (assets/map/ui/<art_name>.png) as a stylebox, or
+## `fallback` when the art is missing. `margin` is the slice inset in texture
+## px; `content` the inner padding in screen px.
+static func art_box(art_name: String, fallback: StyleBox, margin: float = 48.0,
+        content: float = 18.0) -> StyleBox:
+    var tex := HallArt.ui(art_name)
+    if tex == null:
+        return fallback
+    var sb := StyleBoxTexture.new()
+    sb.texture = tex
+    sb.set_texture_margin_all(minf(margin, minf(tex.get_width(), tex.get_height()) * 0.45))
+    sb.set_content_margin_all(content)
+    sb.axis_stretch_horizontal = StyleBoxTexture.AXIS_STRETCH_MODE_STRETCH
+    sb.axis_stretch_vertical = StyleBoxTexture.AXIS_STRETCH_MODE_STRETCH
+    return sb
+
 static func build() -> Theme:
     var t := Theme.new()
     var body := load(BODY_FONT) as Font
@@ -35,6 +51,22 @@ static func build() -> Theme:
     t.default_font_size = 20
 
     t.set_stylebox("panel", "PanelContainer", _box(CREAM, BRASS, 10, 3))
+    # Task card frame: PanelContainer variation "CardFrame".
+    t.add_type("CardFrame")
+    t.set_type_variation("CardFrame", "PanelContainer")
+    t.set_stylebox("panel", "CardFrame", art_box("task_card_frame", _box(CREAM, BRASS, 10, 3), 64.0, 40.0))
+    # Brass nav buttons: Button variation "NavButton".
+    t.add_type("NavButton")
+    t.set_type_variation("NavButton", "Button")
+    var nav := art_box("nav_button", _box(TEAL, BRASS), 40.0, 10.0)
+    t.set_stylebox("normal", "NavButton", nav)
+    t.set_stylebox("hover", "NavButton", nav)
+    var nav_p := nav.duplicate() as StyleBox
+    if nav_p is StyleBoxTexture:
+        (nav_p as StyleBoxTexture).modulate_color = Color(0.8, 0.75, 0.7)
+    else:
+        nav_p = _box(BURGUNDY, BRASS)
+    t.set_stylebox("pressed", "NavButton", nav_p)
     t.set_color("font_color", "Label", CREAM)
 
     t.set_stylebox("normal", "Button", _box(TEAL, BRASS))

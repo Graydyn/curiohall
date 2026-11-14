@@ -1,1 +1,35 @@
-[]
+[
+ {
+  "id": "atrium_opened",
+  "kind": "panel",
+  "trigger": "area_opened:2",
+  "cast": ["cornelia", "barnaby"],
+  "panels": [
+   {
+    "caption": "The great doors of the Grand Atrium groan open for the first time in twenty years. Dust sheets drape every exhibit, a lone shaft of evening light falls across the marble floor, and somewhere in the gloom a clock that has no business still ticking is ticking."
+   }
+  ]
+ },
+ {
+  "id": "beat_umbrella_elephant",
+  "kind": "beat",
+  "trigger": "element:02_001",
+  "lines": [
+   {"speaker": "barnaby", "expr": "happy", "text": "Found him under the stairs, Miss Wren! Had a nest of mice in his trunk, but they've agreed to relocate."},
+   {"speaker": "cornelia", "expr": "neutral", "text": "An umbrella stand shaped like an elephant. The Society never could resist a thing that was two things at once."},
+   {"speaker": "cornelia", "expr": "surprised", "text": "Still, a visitor who arrives dripping is a visitor who leaves sulking. He stays by the door."},
+   {"speaker": "barnaby", "expr": "happy", "text": "I'll call him Hannibal. Every good doorman needs a name."}
+  ]
+ },
+ {
+  "id": "beat_expedition_globe",
+  "kind": "beat",
+  "trigger": "element:02_016",
+  "lines": [
+   {"speaker": "cornelia", "expr": "neutral", "text": "There. The Grand Expedition Globe, back where it belongs, at the very heart of the Hall."},
+   {"speaker": "barnaby", "expr": "surprised", "text": "Miss Wren... half these countries aren't on any map I've seen."},
+   {"speaker": "cornelia", "expr": "worried", "text": "Nor on any map at all, Mr Pluck. Mr Hall marked them himself, the winter before he vanished."},
+   {"speaker": "cornelia", "expr": "happy", "text": "Which is, I suspect, precisely why we ought to keep restoring. Polish the brass ring, would you? Gently."}
+  ]
+ }
+]

@@ -202,6 +202,7 @@ func _build_nav() -> void:
         var b := Button.new()
         b.name = spec[0]
         b.text = spec[1]
+        b.theme_type_variation = "NavButton"
         b.size_flags_horizontal = Control.SIZE_EXPAND_FILL
         bar.add_child(b)
 

@@ -90,9 +90,11 @@ def exterior_wings(areas, style_keys, style_pass=False):
             continue
         sp = spec(fit_canvas(w["exterior_rect"]))
         rk = "ext_%02d_restored" % a
+        subject = w.get("exterior_subject") or (
+            "%s, Victorian museum wing facade" % w["name"])
         out += styled_generate(rk, C.exterior_path(a, "restored"), {
-            "subject": "%s, Victorian museum wing facade, painted, soft Ghibli-like light, "
-                       "deep teal burgundy cream brass palette" % w["name"],
+            "subject": subject + ", painted, soft Ghibli-like light, "
+                       "deep teal burgundy cream brass palette",
             "spec": sp}, style_keys, style_pass)
         if w["structure"] == "interior":
             out.append(entry("ext_%02d_boarded" % a, C.exterior_path(a, "boarded"), "edit",
@@ -108,7 +110,8 @@ def wing_scenes(areas, style_keys, style_pass=False):
             continue
         for i, sub in enumerate(w["subrooms"]):
             out.append(entry("scene_%02d_%d" % (a, i), C.scene_path(a, i), "background", {
-                "description": "%s, %s, %s" % (w["name"], sub["name"], SCENE_SUFFIX),
+                "description": sub.get("description") or
+                               "%s, %s, %s" % (w["name"], sub["name"], SCENE_SUFFIX),
                 "size": "%dx%d" % (720, sub["size"][1]), "style": "painted",
                 "style_keys": style_keys}))
     return out

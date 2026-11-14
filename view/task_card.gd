@@ -21,6 +21,7 @@ func setup(g: Game, element_id: String, task_key: String) -> void:
     var cost := int(row.get("cost", 0))
     var icon := String(row.get("detail_icon", ""))
     var panel := PanelContainer.new()
+    panel.theme_type_variation = "CardFrame"
     panel.position = Vector2(60, 400)
     panel.size = Vector2(600, 460)
     add_child(panel)
