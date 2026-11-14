@@ -98,7 +98,6 @@ func test_pending_pick_survives_save_round_trip() -> void:
 func test_v10_save_resets() -> void:
     var d := Game.fresh(1000.0, 42).to_dict()
     d["save_version"] = 10
-    d.erase("hall")
     var f := FileAccess.open(SaveManager.path, FileAccess.WRITE)
     f.store_string(JSON.stringify(d))
     f.close()

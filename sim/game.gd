@@ -18,6 +18,7 @@ var specials: SpecialOrders
 var events: Events
 var boost: Boost
 var hall: HallState
+var story: Story
 var rng := RandomNumberGenerator.new()
 
 static func fresh(now: float, seed_value: int = 0) -> Game:
@@ -42,6 +43,8 @@ static func fresh(now: float, seed_value: int = 0) -> Game:
     g.events = Events.new()
     g.boost = Boost.new()
     g.hall = HallState.new()
+    g.story = Story.new()
+    g.story.enqueue(["area_opened:1"])
     return g
 
 func merge(a: Vector2i, b: Vector2i, now: float) -> String:
@@ -211,13 +214,23 @@ func buy_bundle(now: float) -> Dictionary:
 
 func complete_task(id: int, now: float) -> Dictionary:
     var key := Campaign.task_key(campaign.day, id)
+    var day_before := campaign.day
+    var area_before := campaign.current_area()
     var res := campaign.complete_task(id, self, now)
     if res["ok"]:
         specials.maybe_activate(campaign, self, now)
+        var triggers := ["task:" + key]
         var el := HallElements.of_task(key)
         if el != "" and HallElements.stage(el, campaign) == HallElements.Stage.DONE:
             hall.finish(el)
             res["element"] = el
+            triggers.append("element:" + el)
+        if campaign.day != day_before:
+            triggers.append("day:%d" % campaign.day)
+            var area_after := campaign.current_area()
+            if area_after != area_before:
+                triggers.append("area_opened:%d" % area_after)
+        story.enqueue(triggers)
     return res
 
 func pick_look(id: String, look: int) -> Dictionary:
@@ -299,6 +312,7 @@ func to_dict() -> Dictionary:
         "events": events.to_dict(),
         "boost": boost.to_dict(),
         "hall": hall.to_dict(),
+        "story": story.to_dict(),
     }
 
 static func from_dict(d: Dictionary) -> Game:
@@ -318,5 +332,6 @@ static func from_dict(d: Dictionary) -> Game:
     g.events = Events.from_dict(d["events"])
     g.boost = Boost.from_dict(d["boost"])
     g.hall = HallState.from_dict(d["hall"])
+    g.story = Story.from_dict(d["story"])
     g.rng.randomize()
     return g

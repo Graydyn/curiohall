@@ -19,7 +19,7 @@ static func load_game() -> Game:
     var data: Variant = json.data if err == OK else null
     var is_valid := data != null and typeof(data) == TYPE_DICTIONARY
     if is_valid:
-        for key in ["board", "wallet", "player", "orders", "shop", "deals", "iap", "campaign", "intimacy", "specials", "events", "boost", "hall"]:
+        for key in ["board", "wallet", "player", "orders", "shop", "deals", "iap", "campaign", "intimacy", "specials", "events", "boost", "hall", "story"]:
             if not data.has(key):
                 is_valid = false
                 break
