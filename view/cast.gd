@@ -14,3 +14,11 @@ const NAMES := {
 static func display_name(original: String) -> String:
     var key := original.to_lower()
     return String(NAMES.get(key, original.capitalize()))
+
+static func is_cast(original: String) -> bool:
+    return NAMES.has(original.to_lower())
+
+## Display name for whoever is asking: cast members by name, anyone else is
+## an anonymous Society request.
+static func asker_name(original: String) -> String:
+    return display_name(original) if is_cast(original) else "Society request"

@@ -41,7 +41,9 @@ func test_main_scene_loads_and_full_loop_runs() -> void:
     assert_not_null(game)
     # The Expedition button must be reachable even with no active event (the
     # DEV start control lives inside the panel it opens).
-    assert_true((main.get_node("UI/ExpeditionButton") as Button).visible)
+    assert_true(main.home.find_child("ExpeditionBanner", true, false).visible)
+    main.home.open_workroom()
+    assert_eq(main.home.current_screen(), "workroom")
     # scripted loop: find a generator on the starting board, tap, merge two drops
     # (use the real clock, matching the epoch the freshly-created Game's wallet
     # and generator timers were stamped with in Main._ready)
