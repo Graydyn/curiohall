@@ -22,7 +22,8 @@ class ManifestTests(unittest.TestCase):
                 self.assertIn(e["source_key"], keys)
             else:
                 self.assertEqual(e["cmd"], "generate")
-                self.assertEqual(e["args"]["style_keys"], ["style_core_1"])
+                self.assertNotIn("style_keys", e["args"])
+                self.assertEqual(e["args"]["theme"], C.STYLE_THEME)
                 self.assertEqual(e["args"]["spec"]["canvas_size"], [384, 384])
         self.assertEqual(m[0]["out"], "assets/map/elements/01/01_001_0.png")
 
@@ -36,6 +37,36 @@ class ManifestTests(unittest.TestCase):
         m = {e["key"]: e for e in M.build("exterior-wings", {1})}
         self.assertEqual(m["ext_01_boarded"]["source_key"], "ext_01_restored")
         self.assertEqual(m["ext_01_restored"]["args"]["spec"]["canvas_size"], [1024, 512])
+
+    def test_style_pass_wires_sources(self):
+        m = M.build("elements", {1}, ["style_core_1", "style_core_2"], True)
+        self.assertEqual(len(m), 8)
+        by = {e["key"]: e for e in m}
+        raw = by["el_01_001_0_raw"]
+        self.assertEqual(raw["cmd"], "generate")
+        self.assertIn("/_raw/", raw["out"])
+        styled = by["el_01_001_0"]
+        self.assertEqual((styled["cmd"], styled["source_key"]), ("edit", "el_01_001_0_raw"))
+        self.assertEqual(styled["args"]["style_keys"], ["style_core_1", "style_core_2"])
+        self.assertEqual(styled["out"], "assets/map/elements/01/01_001_0.png")
+        self.assertEqual(by["el_01_001_1"]["source_key"], "el_01_001_0")
+        order = [e["key"] for e in m]
+        self.assertLess(order.index("el_01_001_0_raw"), order.index("el_01_001_0"))
+        for kind in ("portraits", "exterior-wings"):
+            mm = M.build(kind, {1}, ["s"], True)
+            self.assertTrue(any(e["key"].endswith("_raw") for e in mm))
+
+    def test_generate_argv_never_has_style(self):
+        for kind in ("elements", "portraits", "exterior-wings"):
+            for sp in (False, True):
+                for e in M.build(kind, {1}, ["s1"], sp):
+                    if e["cmd"] == "generate":
+                        argv = B.build_argv(e, {"s1": "J"})
+                        self.assertNotIn("--style", argv)
+                        self.assertIn("--theme", argv)
+                    elif e["cmd"] == "edit" and e["args"].get("style_keys"):
+                        argv = B.build_argv(e, {"s1": "J", e["source_key"]: "S"})
+                        self.assertIn("--style", argv)
 
     def test_portraits(self):
         m = M.build("portraits")
@@ -63,12 +94,13 @@ class BatchTests(unittest.TestCase):
     def setUp(self):
         self.tmp = tempfile.mkdtemp()
         self.jobs = os.path.join(self.tmp, "jobs.json")
+        self.failed = os.path.join(self.tmp, "jobs_failed.json")
         p = mock.patch.object(C, "ROOT", self.tmp)
         p.start()
         self.addCleanup(p.stop)
         self.sleeps = []
 
-    def go(self, entries, results, limit=None):
+    def go(self, entries, results, limit=None, retry=False):
         calls = []
 
         def runner(argv, timeout):
@@ -76,7 +108,8 @@ class BatchTests(unittest.TestCase):
             return results.pop(0)
 
         counts, stop = B.run_manifest(entries, limit, self.jobs, runner,
-                                      self.sleeps.append, log=lambda m: None)
+                                      self.sleeps.append, log=lambda m: None,
+                                      failed_path=self.failed, retry_failed=retry)
         return counts, stop, calls
 
     def test_skip_existing_and_record(self):
@@ -86,7 +119,7 @@ class BatchTests(unittest.TestCase):
         counts, stop, calls = self.go([e1, e2], [(0, {"id": "J2"})])
         self.assertEqual(counts, {"done": 1, "skipped": 1, "failed": 0, "remaining": 0})
         self.assertEqual(len(calls), 1)
-        self.assertEqual(B.load_jobs(self.jobs), {"b": "J2"})
+        self.assertEqual(B.load_jobs(self.jobs)["b"], "J2")
 
     def test_edit_resolves_source_and_limit(self):
         B.save_jobs({"a": "JA"}, self.jobs)
@@ -125,7 +158,8 @@ class BatchTests(unittest.TestCase):
         err = {"error": {"job_id": "JX", "detail": {"submitted": True}}}
         counts, stop, calls = self.go([entry("a")], [(7, err), (0, {"id": "JX"})])
         self.assertEqual(calls[1][:3], ["sectilia", "wait", "JX"])
-        self.assertEqual(B.load_jobs(self.jobs), {"a": "JX"})
+        self.assertEqual(B.load_jobs(self.jobs)["a"], "JX")
+        self.assertEqual(B.load_jobs(self.jobs)["_pending"], {})
 
     def test_exit_7_submitted_false_reruns_same_command(self):
         err = {"error": {"job_id": "OTHER", "detail": {"submitted": False}}}
@@ -133,6 +167,42 @@ class BatchTests(unittest.TestCase):
         self.assertEqual(calls[0], calls[1])
         self.assertEqual(len(self.sleeps), 1)
         self.assertEqual(counts["done"], 1)
+
+    def test_local_timeout_stops_cleanly_and_keeps_pending(self):
+        import subprocess
+        err = {"error": {"job_id": "JX", "detail": {"submitted": True}}}
+        results = [(7, err), subprocess.TimeoutExpired("sectilia", 1)]
+
+        def runner(argv, timeout):
+            r = results.pop(0)
+            if isinstance(r, Exception):
+                raise r
+            return r
+        counts, stop = B.run_manifest([entry("a")], None, self.jobs, runner, lambda s: None,
+                                      lambda m: None, self.failed)
+        self.assertIn("local timeout", stop)
+        self.assertEqual(B.load_jobs(self.jobs)["_pending"], {"a": "JX"})
+        # next run resumes with wait, not a resubmit
+        calls = []
+
+        def runner2(argv, timeout):
+            calls.append(argv)
+            return 0, {"id": "JX"}
+        counts, stop = B.run_manifest([entry("a")], None, self.jobs, runner2, lambda s: None,
+                                      lambda m: None, self.failed)
+        self.assertEqual(calls[0][:3], ["sectilia", "wait", "JX"])
+        self.assertEqual(counts["done"], 1)
+        self.assertEqual(B.load_jobs(self.jobs)["_pending"], {})
+
+    def test_exit_5_recorded_and_not_resubmitted(self):
+        fail = (5, {"error": {"detail": {}}})
+        counts, _, calls = self.go([entry("a")], [fail])
+        self.assertEqual(counts["failed"], 1)
+        self.assertIn("a", B.load_failed(self.failed))
+        counts, _, calls = self.go([entry("a")], [])
+        self.assertEqual((calls, counts["failed"]), ([], 1))
+        counts, _, calls = self.go([entry("a")], [(0, {"id": "J"})], retry=True)
+        self.assertEqual((len(calls), counts["done"]), (1, 1))
 
     def test_dry_run_shows_source_key(self):
         argv = B.build_argv(entry("e", "edit", source="el_x_0"), {}, dry=True)

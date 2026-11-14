@@ -8,6 +8,19 @@ import os
 ROOT = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
 BASE = "assets/map"
 JOBS_PATH = os.path.join(ROOT, BASE, "jobs.json")
+FAILED_PATH = os.path.join(ROOT, BASE, "jobs_failed.json")
+
+# `sectilia generate` has no --style (only edit does), so generates carry the
+# shared look through --theme.
+STYLE_THEME = ("painted Victorian gaslamp, soft Ghibli-like light, deep teal burgundy "
+               "cream brass palette, calm and dreamy, no text or lettering")
+STYLE_INSTRUCTION = ("match the style of the reference images; keep the subject, "
+                     "framing and viewpoint identical")
+
+
+def raw_path(rel):
+    """Unstyled intermediate for the --style-pass: assets/map/_raw/<basename>."""
+    return "%s/_raw/%s" % (BASE, os.path.basename(rel))
 
 CAST = ["cornelia", "barnaby", "aldous", "sam", "mark", "anjali", "hugo",
         "prudence", "zephyrine", "rosalind", "ambrose"]

@@ -29,7 +29,9 @@ class StopBatch(Exception):
 
 
 class EntryFailed(Exception):
-    pass
+    def __init__(self, msg, code=None):
+        super().__init__(msg)
+        self.code = code
 
 
 def load_jobs(path=None):
@@ -70,8 +72,8 @@ def build_argv(e, jobs, dry=False):
         argv += ["--subject", a["subject"], "--spec", json.dumps(a["spec"])]
         if a.get("facing"):
             argv += ["--facing", a["facing"]]
-        for k in a.get("style_keys", []):
-            argv += ["--style", ref(k)]
+        if a.get("theme"):
+            argv += ["--theme", a["theme"]]
     elif cmd == "edit":
         argv += [ref(e["source_key"]), "--instruction", a["instruction"],
                  "--spec", json.dumps(a["spec"])]
@@ -113,7 +115,7 @@ def describe(code, data):
                                   json.dumps(err.get("detail", "")))
 
 
-def run_entry(e, jobs, runner=run, sleep=time.sleep):
+def run_entry(e, jobs, runner=run, sleep=time.sleep, job_id=None, on_pending=None):
     """Run one entry to completion. Returns the job id. Raises EntryFailed
     (skip this entry) or StopBatch (stop everything)."""
     argv = build_argv(e, jobs)
@@ -122,12 +124,16 @@ def run_entry(e, jobs, runner=run, sleep=time.sleep):
     os.makedirs(os.path.dirname(os.path.join(C.ROOT, out)), exist_ok=True)
     queue_tries = 0
     wait_rounds = 0
-    job_id = None
+    note = on_pending or (lambda jid: None)
     while True:
-        if job_id is None:
-            code, data = runner(argv, timeout)
-        else:
-            code, data = runner(["sectilia", "wait", job_id, "--out", out], timeout)
+        cmdline = argv if job_id is None else ["sectilia", "wait", job_id, "--out", out]
+        try:
+            code, data = runner(cmdline, timeout)
+        except subprocess.TimeoutExpired:
+            raise StopBatch("local timeout after %ss running %s; %s" % (
+                timeout, cmdline[1], "resume later with `sectilia wait %s --out %s` "
+                "(rerun this batch, it resumes pending jobs)" % (job_id, out)
+                if job_id else "no job id known, check `sectilia jobs`"))
         err = err_of(data)
         detail = err.get("detail") if isinstance(err.get("detail"), dict) else {}
         if code == 0:
@@ -144,6 +150,8 @@ def run_entry(e, jobs, runner=run, sleep=time.sleep):
                 sleep(QUEUE_SLEEP)
                 continue
             job_id = err.get("job_id") or job_id
+            if job_id:
+                note(job_id)
             wait_rounds += 1
             if not job_id or wait_rounds > MAX_WAIT_ROUNDS:
                 raise EntryFailed("still running after waits: " + describe(code, data))
@@ -152,14 +160,16 @@ def run_entry(e, jobs, runner=run, sleep=time.sleep):
             if detail.get("submitted") is False:
                 raise StopBatch("interrupted before submit")
             job_id = err.get("job_id") or job_id
+            if job_id:
+                note(job_id)
             raise StopBatch("interrupted; job %s keeps running (sectilia wait %s --out %s)"
                             % (job_id, job_id, out))
         if code == 4:
             if detail.get("reason") == "insufficient_credits":
                 raise StopBatch("insufficient credits: " + describe(code, data))
-            raise EntryFailed("rejected: " + describe(code, data))
+            raise EntryFailed("rejected: " + describe(code, data), 4)
         if code == 5:
-            raise EntryFailed("job failed: " + describe(code, data))
+            raise EntryFailed("job failed: " + describe(code, data), 5)
         if code == 1:
             if err.get("job_id"):
                 c2, d2 = runner(["sectilia", "download", err["job_id"], "--out", out], timeout)
@@ -171,11 +181,32 @@ def run_entry(e, jobs, runner=run, sleep=time.sleep):
         raise EntryFailed("unexpected: " + describe(code, data))
 
 
+def load_failed(path=None):
+    try:
+        with open(path or C.FAILED_PATH, encoding="utf-8") as f:
+            return json.load(f)
+    except FileNotFoundError:
+        return {}
+
+
+def save_failed(failed, path=None):
+    with open(path or C.FAILED_PATH, "w", encoding="utf-8") as f:
+        json.dump(failed, f, indent=1, sort_keys=True)
+        f.write("\n")
+
+
 def run_manifest(entries, limit=None, jobs_path=None, runner=run, sleep=time.sleep,
-                 log=lambda m: sys.stderr.write(m + "\n")):
-    """Returns (counts dict, stop_reason or None)."""
+                 log=lambda m: sys.stderr.write(m + "\n"), failed_path=None,
+                 retry_failed=False):
+    """Returns (counts dict, stop_reason or None).
+
+    In-flight job ids live in jobs.json under "_pending" and are resumed with
+    `sectilia wait` on the next run. Exit-5 failures go to jobs_failed.json and
+    are not resubmitted unless retry_failed."""
     jobs = load_jobs(jobs_path)
-    done = skipped = failed = attempted = 0
+    pending_map = jobs.setdefault("_pending", {})
+    failed_log = load_failed(failed_path)
+    done = skipped = failed = 0
     stop = None
     pending = []
     for e in entries:
@@ -183,22 +214,42 @@ def run_manifest(entries, limit=None, jobs_path=None, runner=run, sleep=time.sle
             skipped += 1
         else:
             pending.append(e)
-    todo = pending if limit is None else pending[:limit]
-    for n, e in enumerate(todo):
-        attempted += 1
+    todo, blocked = [], 0
+    for e in pending:
+        if e["key"] in failed_log and not retry_failed:
+            blocked += 1
+            log("skip %s: failed before (%s); use --retry-failed" % (e["key"], failed_log[e["key"]][:120]))
+        else:
+            todo.append(e)
+    if limit is not None:
+        todo = todo[:limit]
+    failed += blocked
+    for e in todo:
+        key = e["key"]
+
+        def note(jid, key=key):
+            pending_map[key] = jid
+            save_jobs(jobs, jobs_path)
         try:
-            jid = run_entry(e, jobs, runner, sleep)
+            jid = run_entry(e, jobs, runner, sleep, pending_map.get(key), note)
+            pending_map.pop(key, None)
             if jid:
-                jobs[e["key"]] = jid
-                save_jobs(jobs, jobs_path)
+                jobs[key] = jid
+            save_jobs(jobs, jobs_path)
+            failed_log.pop(key, None)
             done += 1
-            log("ok   %s -> %s" % (e["key"], jid))
+            log("ok   %s -> %s" % (key, jid))
         except EntryFailed as ex:
             failed += 1
-            log("FAIL %s: %s" % (e["key"], ex))
+            pending_map.pop(key, None)
+            save_jobs(jobs, jobs_path)
+            if ex.code == 5:
+                failed_log[key] = str(ex)
+                save_failed(failed_log, failed_path)
+            log("FAIL %s: %s" % (key, ex))
         except StopBatch as ex:
             failed += 1
-            stop = "%s: %s" % (e["key"], ex)
+            stop = "%s: %s" % (key, ex)
             log("STOP %s" % stop)
             break
     remaining = len(pending) - done - failed
@@ -209,6 +260,8 @@ def main(argv=None):
     ap = argparse.ArgumentParser(description=__doc__.split("\n")[0])
     ap.add_argument("manifest")
     ap.add_argument("--limit", type=int, help="run at most N pending entries")
+    ap.add_argument("--retry-failed", action="store_true",
+                    help="resubmit entries recorded in jobs_failed.json")
     ap.add_argument("--dry-run", action="store_true", help="print commands, run nothing")
     a = ap.parse_args(argv)
     with open(a.manifest, encoding="utf-8") as f:
@@ -223,7 +276,7 @@ def main(argv=None):
             n += 1
             print("[%s] " % e["key"] + " ".join(shell_quote(x) for x in build_argv(e, {}, dry=True)))
         return 0
-    counts, stop = run_manifest(entries, a.limit)
+    counts, stop = run_manifest(entries, a.limit, retry_failed=a.retry_failed)
     print("done=%(done)d skipped=%(skipped)d failed=%(failed)d remaining=%(remaining)d" % counts)
     if stop:
         print("stopped: " + stop)

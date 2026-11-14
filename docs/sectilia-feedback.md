@@ -16,3 +16,7 @@ would help.
 3. **`background` jobs cannot be the source of `edit`.** A "boarded-up" variant
    of a painted scene cannot be derived, so the Hall exterior had to be split
    into per-wing sprites (restored + boarded) instead of one painted facade.
+4. **`generate` cannot take style reference jobs.** Only `edit` accepts `--style`,
+   so matching a whole set to a locked look needs an extra edit pass per image
+   (generate raw, then edit with the style refs), doubling the job count. Letting
+   `generate` take `--style` jobs would remove that pass.
