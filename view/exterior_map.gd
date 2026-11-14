@@ -87,7 +87,7 @@ func refresh() -> void:
         var w: Control = _wings[a]
         for c in w.get_children():
             w.remove_child(c)
-            c.queue_free()
+            c.free()
         _build_wing(int(a), w)
 
 func _build_wing(area: int, w: Control) -> void:

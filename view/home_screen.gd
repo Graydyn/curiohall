@@ -59,6 +59,8 @@ var _home_view: Control
 var _back_button: Button
 var _next_strip: Button
 var _next_area := -1
+var _next_element := ""
+var _hall_dirty := false
 var _expedition_banner: Button
 var _gala_banner: Button
 var _toast: Label
@@ -82,9 +84,9 @@ func setup(g: Game) -> void:
     _home_view.add_child(exterior)
     exterior.setup(game)
     exterior.wing_tapped.connect(func(a: int) -> void: open_wing(a))
-    game.campaign.task_completed.connect(func(_d: int, _i: int) -> void: _refresh_hall())
-    game.campaign.day_advanced.connect(func(_d: int) -> void: _refresh_hall())
-    game.campaign.area_restored.connect(func(_a: int) -> void: _refresh_hall())
+    game.campaign.task_completed.connect(func(_d: int, _i: int) -> void: _hall_dirty = true)
+    game.campaign.day_advanced.connect(func(_d: int) -> void: _hall_dirty = true)
+    game.campaign.area_restored.connect(func(_a: int) -> void: _hall_dirty = true)
     _build_banners()
     _build_next_strip()
     _build_nav()
@@ -146,7 +148,6 @@ func _build_next_strip() -> void:
     _home_view.add_child(_next_strip)
     refresh_next_task()
 
-var _next_element := ""
 
 ## Shows the first workable element of the active area, or hides the strip.
 func refresh_next_task() -> void:
@@ -171,7 +172,9 @@ func _task_cost(key: String) -> int:
     return 0
 
 func _refresh_hall() -> void:
-    exterior.refresh()
+    if _hall_dirty:
+        _hall_dirty = false
+        exterior.refresh()
     refresh_next_task()
 
 func _build_nav() -> void:
