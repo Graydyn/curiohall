@@ -29,7 +29,23 @@ func _draw() -> void:
     if _state == MergeBoard.CellState.COVERED:
         _draw_veil(rect)
 
+const ART_DIR := "res://assets/items/"
+static var _art_cache := {}   # type -> Texture2D or null
+
+## Returns the item's art from assets/items/<type>.png, or null if it has none yet.
+static func art_for(item_type: String) -> Texture2D:
+    if not _art_cache.has(item_type):
+        var path := ART_DIR + item_type + ".png"
+        _art_cache[item_type] = load(path) if ResourceLoader.exists(path) else null
+    return _art_cache[item_type]
+
 func _draw_content(rect: Rect2) -> void:
+    var tex := art_for(_type)
+    if tex != null:
+        if _is_generator and not ConfigDB.is_chest(_type):
+            draw_circle(Vector2.ZERO, SIZE * 0.5, Color(0.85, 0.65, 0.25, 0.25))
+        draw_texture_rect(tex, rect, false)
+        return
     var chain := chain_of(_type)
     var tier := tier_of(_type)
     var row: Dictionary = ConfigDB.items.get(_type, {})
