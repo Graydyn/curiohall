@@ -49,7 +49,7 @@ var event_panel: EventPanel
 var gala_panel: GalaPanel
 var exterior: ExteriorMap
 var focus_element := ""
-var wing_view: Control
+var wing_view: WingView
 var wing_area := -1
 
 var _screen := "home"
@@ -91,8 +91,12 @@ func setup(g: Game) -> void:
     _build_next_strip()
     _build_nav()
 
-    wing_view = _passive_rect("WingView")     # Task 6 fills this with the wing interior
+    wing_view = WingView.new()
+    wing_view.name = "WingView"
+    wing_view.visible = false
     add_child(wing_view)
+    wing_view.toast.connect(show_toast)
+    wing_view.picks_done.connect(refresh_next_task)
 
     hud = Hud.new()
     hud.name = "Hud"
@@ -263,6 +267,7 @@ func open_wing(area: int, focus: String = "") -> void:
     wing_area = area
     focus_element = focus
     _show_screen("wing")
+    wing_view.setup(game, area, focus)
 
 ## Closes the topmost overlay, else returns toward home. False when already
 ## at home with nothing open (the caller may then let the app quit).
