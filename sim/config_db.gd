@@ -323,6 +323,8 @@ func validate_hall(wings: Array, elements: Array, scenes: Array) -> Array[String
 	var claimed := {}
 	for el in elements:
 		var id := String(el["id"])
+		if element_ids.has(id):
+			errors.append("element %s: duplicate id" % id)
 		element_ids[id] = el
 		var days := {}
 		for key in el["tasks"]:
@@ -347,39 +349,59 @@ func validate_hall(wings: Array, elements: Array, scenes: Array) -> Array[String
 			errors.append("task %s is in no element" % k)
 	var scene_by_id := {}
 	for sc in scenes:
-		var sid := String(sc["id"])
+		var sid := String(sc.get("id", ""))
+		if sid == "":
+			errors.append("scene without id: %s" % str(sc))
+			continue
 		if scene_by_id.has(sid):
 			errors.append("scene %s: duplicate id" % sid)
 		scene_by_id[sid] = sc
 	for sc in scenes:
-		var sid := String(sc["id"])
-		var trigger := String(sc["trigger"])
-		var kind := trigger.get_slice(":", 0)
-		var arg := trigger.substr(kind.length() + 1)
-		var ok := false
-		match kind:
-			"element":
-				ok = element_ids.has(arg)
-			"area_opened":
-				ok = arg.is_valid_int() and wing_by_area.has(int(arg))
-			"day":
-				ok = arg.is_valid_int() and main_tasks.has(int(arg))
-			"task":
-				ok = main_task_by_key.has(arg)
-			_:
-				errors.append("scene %s: unknown trigger form %s" % [sid, trigger])
+		var sid := String(sc.get("id", ""))
+		if sid == "":
+			continue
+		if not sc.has("kind"):
+			errors.append("scene %s: missing kind" % sid)
+		if not sc.has("trigger"):
+			errors.append("scene %s: missing trigger" % sid)
+		else:
+			var trigger := String(sc["trigger"])
+			var kind := trigger.get_slice(":", 0)
+			var arg := trigger.substr(kind.length() + 1)
+			var ok := false
+			match kind:
+				"element":
+					ok = element_ids.has(arg)
+				"area_opened":
+					ok = arg.is_valid_int() and wing_by_area.has(int(arg))
+				"day":
+					ok = arg.is_valid_int() and main_tasks.has(int(arg))
+				"task":
+					ok = main_task_by_key.has(arg)
+				_:
+					errors.append("scene %s: unknown trigger form %s" % [sid, trigger])
+					ok = true
+			if not ok:
+				errors.append("scene %s: trigger %s references a missing target" % [sid, trigger])
+		var lines: Variant = sc.get("lines", [])
+		if not (lines is Array):
+			errors.append("scene %s: lines must be an array" % sid)
+			lines = []
+		for line in lines:
+			if not (line is Dictionary):
+				errors.append("scene %s: line is not an object" % sid)
 				continue
-		if not ok:
-			errors.append("scene %s: trigger %s references a missing target" % [sid, trigger])
-		for line in sc.get("lines", []):
-			if not Cast.NAMES.has(String(line["speaker"])):
-				errors.append("scene %s: speaker %s not in cast" % [sid, line["speaker"]])
-			if not _SCENE_EXPRS.has(String(line["expr"])):
-				errors.append("scene %s: expr %s invalid" % [sid, line["expr"]])
+			if not Cast.NAMES.has(String(line.get("speaker", ""))):
+				errors.append("scene %s: speaker %s not in cast" % [sid, line.get("speaker")])
+			if not _SCENE_EXPRS.has(String(line.get("expr", ""))):
+				errors.append("scene %s: expr %s invalid" % [sid, line.get("expr")])
+		if not (sc.get("panels", []) is Array):
+			errors.append("scene %s: panels must be an array" % sid)
 	for el in elements:
 		var beat: Variant = el.get("beat")
 		if beat != null:
-			if not scene_by_id.has(String(beat)) or scene_by_id[String(beat)]["kind"] != "beat":
+			var target: Variant = scene_by_id.get(String(beat))
+			if target == null or target.get("kind") != "beat":
 				errors.append("element %s: beat %s is not an existing beat scene" % [el["id"], beat])
 	return errors
 

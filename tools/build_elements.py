@@ -102,6 +102,7 @@ def main():
                               {"name": "Look 3", "instruction": ""}],
                     "beat": None,
                 }
+                # Preserved rows keep their old tasks/subroom (no re-grouping).
                 row.update(old_elements.get(eid, {}))
                 elements.append(row)
 

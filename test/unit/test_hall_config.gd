@@ -33,11 +33,24 @@ func test_real_config_validates_clean() -> void:
 
 func test_validate_rejects_bad_scene_refs() -> void:
 	var dir := "res://test/fixtures/hall_bad/"
-	var wings: Array = ConfigDB._read(dir + "curio_hall_wings.json")
-	var elements: Array = ConfigDB._read(dir + "curio_hall_elements.json")
+	var wings: Array = ConfigDB.hall_wings.values()
+	var elements: Array = ConfigDB.hall_elements.values()
 	var scenes: Array = ConfigDB._read(dir + "curio_hall_story.json")
 	var errors := ConfigDB.validate_hall(wings, elements, scenes)
 	assert_eq(errors.size(), 2, str(errors))
 	var joined := "\n".join(errors)
 	assert_true(joined.contains("99_999"), joined)
 	assert_true(joined.contains("imelda"), joined)
+
+func test_validate_reports_malformed_scenes_without_crashing() -> void:
+	var scenes: Array = [{"id": "no_trigger", "kind": "beat"}, {"id": "dup_el_scene", "kind": "beat", "trigger": "day:1", "lines": [{"text": "hi"}]}]
+	var errors := ConfigDB.validate_hall(ConfigDB.hall_wings.values(), ConfigDB.hall_elements.values(), scenes)
+	var joined := "\n".join(errors)
+	assert_true(joined.contains("no_trigger: missing trigger"), joined)
+	assert_true(joined.contains("dup_el_scene: speaker"), joined)
+
+func test_validate_rejects_duplicate_element_ids() -> void:
+	var elements: Array = ConfigDB.hall_elements.values()
+	elements.append(elements[0])
+	var errors := ConfigDB.validate_hall(ConfigDB.hall_wings.values(), elements, [])
+	assert_true("\n".join(errors).contains("duplicate id"), str(errors))
