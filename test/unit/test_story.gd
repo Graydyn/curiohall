@@ -97,6 +97,33 @@ func test_save_round_trip() -> void:
     assert_eq(g2.story.queue, ["b"])
     assert_true(g2.story.seen.has("a"))
 
+func test_from_dict_prunes_unknown_seen_and_duplicates() -> void:
+    _add("a", "t")
+    _add("b", "u")
+    var s := Story.from_dict({"seen": ["b"], "queue": ["ghost", "a", "a", "b"]})
+    assert_eq(s.queue, ["a"])
+
+func test_stale_scene_dropped_by_peek_and_has_pending() -> void:
+    _add("a", "t")
+    _add("b", "u")
+    var s := Story.new()
+    s.enqueue(["t", "u"])
+    ConfigDB.story_scenes.erase("a")
+    assert_eq(s.peek()["id"], "b")
+    ConfigDB.story_scenes.erase("b")
+    assert_false(s.has_pending())
+    assert_eq(s.peek(), {})
+
+func test_all_four_triggers_in_order() -> void:
+    _add("s_area", "area_opened:2")
+    _add("s_day", "day:2")
+    _add("s_el", "element:01_002")
+    _add("s_task", "task:1_7")
+    var g := _game()
+    for id in [1, 2, 3, 4, 5, 6, 7]:
+        g.complete_task(id, 1000.0)
+    assert_eq(g.story.queue, ["s_task", "s_el", "s_day", "s_area"])
+
 func test_fresh_queues_area_one() -> void:
     _add("intro", "area_opened:1")
     var g := _game()

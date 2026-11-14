@@ -15,13 +15,20 @@ func enqueue(triggers: Array) -> void:
             queue.append(id)
             scene_queued.emit(id)
 
+## Drops queued ids that no longer exist in config (content changes between builds).
+func _drop_stale() -> void:
+    while not queue.is_empty() and not ConfigDB.story_scenes.has(queue[0]):
+        queue.pop_front()
+
 func has_pending() -> bool:
+    _drop_stale()
     return not queue.is_empty()
 
 func peek() -> Dictionary:
+    _drop_stale()
     if queue.is_empty():
         return {}
-    return ConfigDB.story_scenes.get(queue[0], {})
+    return ConfigDB.story_scenes[queue[0]]
 
 func finish_current() -> void:
     if queue.is_empty():
@@ -43,5 +50,7 @@ static func from_dict(d: Dictionary) -> Story:
     for id in d.get("seen", []):
         s.seen[String(id)] = true
     for id in d.get("queue", []):
-        s.queue.append(String(id))
+        var sid := String(id)
+        if ConfigDB.story_scenes.has(sid) and not s.seen.has(sid) and not s.queue.has(sid):
+            s.queue.append(sid)
     return s
