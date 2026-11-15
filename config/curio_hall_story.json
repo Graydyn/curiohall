@@ -3252,5 +3252,3253 @@
     "text": "Then you will want to come with me, Sam. After the Court. Nobody else is quite so well qualified."
    }
   ]
+ },
+ {
+  "id": "beat_d095",
+  "kind": "beat",
+  "trigger": "element:21_029",
+  "lines": [
+   {
+    "speaker": "zephyrine",
+    "expr": "happy",
+    "text": "The Fountain of the Four Winds! Look, Cornelia. North, south, east and west, each blowing a thin silver stream into the basin."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "It is rather a theatrical thing for a Court."
+   },
+   {
+    "speaker": "zephyrine",
+    "expr": "neutral",
+    "text": "The winds are not theatre, they are a compass. Each stream leans a little toward one wall, and all four lean toward the same corner of the Hall."
+   },
+   {
+    "speaker": "sam",
+    "expr": "neutral",
+    "text": "The south-west, near the griffins. I had noticed the draught myself. I merely assumed it was an unlocked window."
+   },
+   {
+    "speaker": "zephyrine",
+    "expr": "happy",
+    "text": "In this building, Sam, an unlocked window and an unlocked secret are the same thing. Tomorrow, the Giants."
+   }
+  ]
+ },
+ {
+  "id": "beat_d096",
+  "kind": "beat",
+  "trigger": "element:22_004",
+  "lines": [
+   {
+    "speaker": "prudence",
+    "expr": "neutral",
+    "text": "The Giant Tusk Rack. Twelve tusks, in order of size, and every one the length of a boat."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "Miss Quill, I could hang my entire wardrobe on one of them!"
+   },
+   {
+    "speaker": "prudence",
+    "expr": "neutral",
+    "text": "You could hang a wardrobe on any of them, Mr Pluck. The point is that they are catalogued, and so I know precisely which one is missing."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "One is missing, Miss Quill?"
+   },
+   {
+    "speaker": "prudence",
+    "expr": "worried",
+    "text": "The thirteenth. The index lists it, and the rack has a bracket for it, but the bracket is empty. And the dust inside the bracket is thinner than anywhere else in the Hall."
+   }
+  ]
+ },
+ {
+  "id": "beat_d097",
+  "kind": "beat",
+  "trigger": "element:22_009",
+  "lines": [
+   {
+    "speaker": "aldous",
+    "expr": "happy",
+    "text": "The Giraffe Neck! Cornelia, you have no idea what I would give to see this fellow in his element. He is the tallest creature the Society ever stood beside."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "How did they get him through the door, Professor?"
+   },
+   {
+    "speaker": "aldous",
+    "expr": "neutral",
+    "text": "They did not. They built the door afterwards, around him. It is why the arch is so oddly shaped."
+   },
+   {
+    "speaker": "hugo",
+    "expr": "neutral",
+    "text": "Elegant engineering, that. I'd like to have seen the scaffolding."
+   },
+   {
+    "speaker": "aldous",
+    "expr": "surprised",
+    "text": "Oh dear. I appear to have put my spectacles on the giraffe."
+   }
+  ]
+ },
+ {
+  "id": "beat_d098",
+  "kind": "beat",
+  "trigger": "element:22_013",
+  "lines": [
+   {
+    "speaker": "mark",
+    "expr": "happy",
+    "text": "The Giant Sloth Claw. It is, um, very good for a climbing plant. The ivy takes it right up to the rafters."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Mr Bloom, you have been speaking a great deal today."
+   },
+   {
+    "speaker": "mark",
+    "expr": "surprised",
+    "text": "Have I? Sorry. I'll stop."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "happy",
+    "text": "Do not stop. It is a considerable improvement. I only noticed because the Hall seems to have been listening."
+   },
+   {
+    "speaker": "anjali",
+    "expr": "neutral",
+    "text": "Sloths are very sensible creatures. They do one thing at a time, and they do it slowly, and they never burn the toast."
+   }
+  ]
+ },
+ {
+  "id": "beat_d099",
+  "kind": "beat",
+  "trigger": "element:22_017",
+  "lines": [
+   {
+    "speaker": "anjali",
+    "expr": "happy",
+    "text": "The Colossal Spider Crab! Two metres across, and every leg a different shade of coral."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "worried",
+    "text": "I'm not going near it, Miss Bose. It's got too many opinions."
+   },
+   {
+    "speaker": "anjali",
+    "expr": "neutral",
+    "text": "Nonsense. Spider crab is delicious. The Sargasso cook had a recipe involving sherry and a very large pot."
+   },
+   {
+    "speaker": "sam",
+    "expr": "happy",
+    "text": "I once ate one in Marseilles. A very sincere experience, with a very expensive bill. I believe I paid it with Ambrose's money."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Mr Vane."
+   },
+   {
+    "speaker": "sam",
+    "expr": "neutral",
+    "text": "I mean to say that I intend to pay it back, Cornelia. Along with the rest of it. All in good time."
+   }
+  ]
+ },
+ {
+  "id": "beat_d100",
+  "kind": "beat",
+  "trigger": "element:22_022",
+  "lines": [
+   {
+    "speaker": "rosalind",
+    "expr": "neutral",
+    "text": "Forgive the intrusion, my dears. The door stood open, and I have never learned to resist an open door. Rosalind Thorne, patroness, painter of plants, and, I am told, the last unpaid bill of the Society."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Miss Thorne. We had not dared to hope."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "happy",
+    "text": "Dear Cornelia. You look exactly as severe as you did when I left. It is the most comforting thing I have seen all week."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "Miss Thorne! You painted the roses on the Atrium ceiling!"
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "neutral",
+    "text": "I did, Barnaby, and I was very pleased with them, and I was twenty years younger. Now, let me look at this great beast. Hall's Great Beast, the label says. How very like Ambrose, to have a beast."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "worried",
+    "text": "He said to me once, the night before he vanished: if the Hall wakes up, Rosalind, you must be the one to tell them what it was for. I have been waiting two decades to find out whether I should."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "worried",
+    "text": "Then stay, Miss Thorne, and we shall see."
+   }
+  ]
+ },
+ {
+  "id": "beat_d101",
+  "kind": "beat",
+  "trigger": "element:23_004",
+  "lines": [
+   {
+    "speaker": "rosalind",
+    "expr": "neutral",
+    "text": "The Net Rack. A hundred butterfly nets, in bamboo and muslin. I had forgotten how elegant a thing can be when it has only one purpose."
+   },
+   {
+    "speaker": "mark",
+    "expr": "neutral",
+    "text": "They're perfectly balanced. Whoever made them understood that catching a butterfly is mostly about not trying too hard."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "happy",
+    "text": "A rare insight, Mark. Do you know, I believe you and I shall get on very well."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "I tried one on the mice, Miss Thorne. They simply stood there and let me."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "neutral",
+    "text": "Then, Barnaby, you are either a gentle man or a very persuasive one. I rather think both."
+   }
+  ]
+ },
+ {
+  "id": "beat_d102",
+  "kind": "beat",
+  "trigger": "element:23_009",
+  "lines": [
+   {
+    "speaker": "hugo",
+    "expr": "happy",
+    "text": "The Hercules Beetle! He's got a horn on him like a crowbar, and a shell like a clock case."
+   },
+   {
+    "speaker": "aldous",
+    "expr": "happy",
+    "text": "A magnificent insect, Hugo. Strong enough to lift eight hundred times his own weight."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "neutral",
+    "text": "Could he lift Hannibal, Professor?"
+   },
+   {
+    "speaker": "aldous",
+    "expr": "neutral",
+    "text": "Hannibal is, I believe, a good deal heavier than eight hundred beetles."
+   },
+   {
+    "speaker": "hugo",
+    "expr": "neutral",
+    "text": "It's only a matter of leverage. Give me a long enough pole and a beetle with the right attitude, and I'll lift the whole Atrium."
+   }
+  ]
+ },
+ {
+  "id": "beat_d103",
+  "kind": "beat",
+  "trigger": "element:23_014",
+  "lines": [
+   {
+    "speaker": "prudence",
+    "expr": "neutral",
+    "text": "The Praying Mantis. A masterpiece of the mounter's art. The pose is, I believe, entirely correct."
+   },
+   {
+    "speaker": "sam",
+    "expr": "happy",
+    "text": "Prudence, you look as though you disapprove of it."
+   },
+   {
+    "speaker": "prudence",
+    "expr": "neutral",
+    "text": "I disapprove of its habits, Mr Vane, not its posture. It has the manners of a collector, and the table manners of a very bad one."
+   },
+   {
+    "speaker": "sam",
+    "expr": "surprised",
+    "text": "I shall take that as a compliment, as I take all your remarks."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "happy",
+    "text": "That is the only way to take them, Sam. Prudence has never paid a compliment in her life. She has only once paid a bill."
+   }
+  ]
+ },
+ {
+  "id": "beat_d104",
+  "kind": "beat",
+  "trigger": "element:23_018",
+  "lines": [
+   {
+    "speaker": "zephyrine",
+    "expr": "neutral",
+    "text": "The Atlas Moth. Thirty centimetres of wing, and a little false snake's head on each tip, to fool the birds."
+   },
+   {
+    "speaker": "aldous",
+    "expr": "happy",
+    "text": "Marvellous! It does not run away, you see. It simply makes itself look like something worse."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "A strategy I have considered more than once, Professor, when facing the Society's committee."
+   },
+   {
+    "speaker": "zephyrine",
+    "expr": "happy",
+    "text": "I like it. An atlas for a name, and a snake for a disguise. It has everything a cartographer could wish."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "Can I put it on the Balloon Loft map, Miss Blackwood, as a joke?"
+   },
+   {
+    "speaker": "zephyrine",
+    "expr": "neutral",
+    "text": "You may try, Barnaby. The Balloon Loft will make up its own mind."
+   }
+  ]
+ },
+ {
+  "id": "beat_d105",
+  "kind": "beat",
+  "trigger": "element:23_022",
+  "lines": [
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "The Termite Mound. A tower of red clay, nine feet high, built by a billion tiny hands."
+   },
+   {
+    "speaker": "mark",
+    "expr": "happy",
+    "text": "They're very organised, Miss Wren. Every one has a job, and nobody argues about whose turn it is to make the tea."
+   },
+   {
+    "speaker": "anjali",
+    "expr": "neutral",
+    "text": "Then they are better than any kitchen I have worked in."
+   },
+   {
+    "speaker": "hugo",
+    "expr": "neutral",
+    "text": "It's a clockwork of its own, that. A great many small parts, all moving to the same time."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "I am beginning to see what the founder meant by a Hall that keeps. It is made of a great many small parts, all of which have to keep working. Do forgive me, I am becoming sentimental."
+   }
+  ]
+ },
+ {
+  "id": "beat_d106",
+  "kind": "beat",
+  "trigger": "element:23_026",
+  "lines": [
+   {
+    "speaker": "barnaby",
+    "expr": "worried",
+    "text": "The Scorpion Case. Miss Wren, there are forty of them, and all of them are looking at me."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "They are mounted, Mr Pluck. They are not looking at anyone."
+   },
+   {
+    "speaker": "sam",
+    "expr": "happy",
+    "text": "I have been in a room with a living one, and I can assure you the mounted variety are a great improvement. It was in a hotel in Tangier. One does not forget a bedsheet with a tail on it."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "neutral",
+    "text": "Sam, you have the most appalling luck with hotels."
+   },
+   {
+    "speaker": "sam",
+    "expr": "neutral",
+    "text": "Rosalind, I have the most appalling luck with everything except you."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "happy",
+    "text": "Darling, that is the nicest thing you have ever said, and you said it in front of a scorpion."
+   }
+  ]
+ },
+ {
+  "id": "beat_d107",
+  "kind": "beat",
+  "trigger": "element:23_031",
+  "lines": [
+   {
+    "speaker": "anjali",
+    "expr": "happy",
+    "text": "The Caterpillar Parade! Forty little velvet caterpillars, all marching in a line along a branch. I could eat them. I mean, I could dress them. In small hats."
+   },
+   {
+    "speaker": "mark",
+    "expr": "neutral",
+    "text": "Please don't dress them in hats, Anjali."
+   },
+   {
+    "speaker": "anjali",
+    "expr": "happy",
+    "text": "Mark, they would be so happy."
+   },
+   {
+    "speaker": "aldous",
+    "expr": "neutral",
+    "text": "It is an excellent tableau. Notice that the leader has a little bite out of the leaf, and the others have not. The leader is always hungry."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "happy",
+    "text": "I believe that is true of every procession I have ever led, Professor."
+   }
+  ]
+ },
+ {
+  "id": "beat_d108",
+  "kind": "beat",
+  "trigger": "element:23_036",
+  "lines": [
+   {
+    "speaker": "aldous",
+    "expr": "happy",
+    "text": "The Oak Gall Basket! Little brown balls, each one a wasp's nursery, and each one the source of the finest ink in the world."
+   },
+   {
+    "speaker": "prudence",
+    "expr": "neutral",
+    "text": "Iron gall ink. It lasts for centuries. Half the Archives is written in it, and the other half is written in grief."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "neutral",
+    "text": "You are very bleak this morning, Prudence."
+   },
+   {
+    "speaker": "prudence",
+    "expr": "neutral",
+    "text": "I am only accurate, Rosalind. It is a habit of the profession."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "worried",
+    "text": "Is that why Ambrose's letters are brown and not black, Miss Quill?"
+   },
+   {
+    "speaker": "prudence",
+    "expr": "surprised",
+    "text": "Good heavens, Mr Pluck. Yes. It is. Whoever wrote them used a ten-year-old ink on a twenty-year-old page. Which means they were written last month."
+   }
+  ]
+ },
+ {
+  "id": "beat_d109",
+  "kind": "beat",
+  "trigger": "element:23_040",
+  "lines": [
+   {
+    "speaker": "anjali",
+    "expr": "happy",
+    "text": "The Beehive Honey Jar! Amber, thick, and still sweet after all this time. May I?"
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Miss Bose, it is an exhibit."
+   },
+   {
+    "speaker": "anjali",
+    "expr": "neutral",
+    "text": "Cornelia, a jar of honey is not an exhibit until it has been used. It is merely a very expensive paperweight."
+   },
+   {
+    "speaker": "hugo",
+    "expr": "happy",
+    "text": "A man's got to agree with her. The honey's warm, as well, you know. Somebody's kept the hive at the right temperature, in a room with no heating."
+   },
+   {
+    "speaker": "mark",
+    "expr": "worried",
+    "text": "That is not possible. Is it?"
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "neutral",
+    "text": "In this Hall, Mark, I have learned never to say that word."
+   }
+  ]
+ },
+ {
+  "id": "beat_d110",
+  "kind": "beat",
+  "trigger": "element:23_044",
+  "lines": [
+   {
+    "speaker": "mark",
+    "expr": "happy",
+    "text": "The Great Colony! Every ant, every bee, every wasp, in a glass nest the size of a wardrobe. And they're all, um, doing something useful."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "happy",
+    "text": "Mr Bloom, you are right. The Insectarium is restored, and for the first time in twenty years, every creature in this Hall has a job."
+   },
+   {
+    "speaker": "sam",
+    "expr": "neutral",
+    "text": "I should like a job. Something dignified, with an ample budget."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Mr Vane, you may sweep the Colony. The ants will supervise."
+   },
+   {
+    "speaker": "zephyrine",
+    "expr": "neutral",
+    "text": "A letter for you, Cornelia. It came by the morning post, in a heavy cream envelope. The seal is gilt, and the crest is a pair of golden scales."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "worried",
+    "text": "The Gilded League. Their offer is a kind one, which is the most dangerous kind. They wish to buy the Hall, and all that is in it, for a very handsome price."
+   },
+   {
+    "speaker": "sam",
+    "expr": "worried",
+    "text": "They have never stopped wanting it, Cornelia. I should know. I used to write their letters."
+   }
+  ]
+ },
+ {
+  "id": "beat_d111",
+  "kind": "beat",
+  "trigger": "element:24_005",
+  "lines": [
+   {
+    "speaker": "rosalind",
+    "expr": "happy",
+    "text": "The Pressed Flower Frame! Oh, my dears. Every petal in its place, every stem the colour of a good memory."
+   },
+   {
+    "speaker": "mark",
+    "expr": "happy",
+    "text": "It's the finest herbarium frame I've ever seen, Miss Thorne."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "neutral",
+    "text": "It was a gift, Mark. From a man who could not tell a rose from a rutabaga, and who pressed this one for me anyway."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Ambrose."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "worried",
+    "text": "He was a dreadful gardener, Cornelia. And the only man I knew who could make a flower feel important. Do not tell the others."
+   }
+  ]
+ },
+ {
+  "id": "beat_d112",
+  "kind": "beat",
+  "trigger": "element:24_010",
+  "lines": [
+   {
+    "speaker": "rosalind",
+    "expr": "neutral",
+    "text": "The Pollen Microscope. Every grain a tiny jewel, every jewel a different shape."
+   },
+   {
+    "speaker": "mark",
+    "expr": "happy",
+    "text": "Look at this one, Miss Thorne. It looks like a spiked ball. And this one's a little crown."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "happy",
+    "text": "Mark, you have the eye of a painter. You should hold a brush, not a trowel."
+   },
+   {
+    "speaker": "mark",
+    "expr": "surprised",
+    "text": "I don't think I'm very good at, um, painting."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "neutral",
+    "text": "No one is good at it until they have done it badly for ten years. Come to my studio on Thursday, and bring a very poor flower."
+   }
+  ]
+ },
+ {
+  "id": "beat_d113",
+  "kind": "beat",
+  "trigger": "element:24_014",
+  "lines": [
+   {
+    "speaker": "anjali",
+    "expr": "happy",
+    "text": "The Carnivorous Bog Jar! A little pitcher plant, with a lid like a tiny hat, and a puddle of something delicious at the bottom."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "neutral",
+    "text": "I wouldn't put my finger in, Miss Bose."
+   },
+   {
+    "speaker": "anjali",
+    "expr": "neutral",
+    "text": "I have no intention of doing so. The recipe for pitcher-plant jelly is a closely guarded secret, and I mean to guard it very closely."
+   },
+   {
+    "speaker": "aldous",
+    "expr": "surprised",
+    "text": "Do you know, I once saw a pitcher plant drown a bat? A very small bat. It did not look unhappy."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Professor, we do not need to know that."
+   }
+  ]
+ },
+ {
+  "id": "beat_d114",
+  "kind": "beat",
+  "trigger": "element:24_019",
+  "lines": [
+   {
+    "speaker": "mark",
+    "expr": "happy",
+    "text": "The Coffee Tree! Real coffee. A whole branch of red berries, ripe and shining."
+   },
+   {
+    "speaker": "anjali",
+    "expr": "happy",
+    "text": "Mark! Give me that branch at once. I shall roast it, grind it, and make the finest cup of coffee in the history of the Society."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Miss Bose, do not roast the exhibit."
+   },
+   {
+    "speaker": "anjali",
+    "expr": "neutral",
+    "text": "Cornelia, I would never. I would take only the berries that fall."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "I've got a bowl, Miss Bose! They just fell. Two dozen of them. All at once."
+   }
+  ]
+ },
+ {
+  "id": "beat_d115",
+  "kind": "beat",
+  "trigger": "element:24_024",
+  "lines": [
+   {
+    "speaker": "aldous",
+    "expr": "happy",
+    "text": "The Seed Pod Mobile! A hundred seed pods, dangling from fine brass wires, and turning in the draught."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "neutral",
+    "text": "You may hear them rattle if you walk beneath. Each one a different note."
+   },
+   {
+    "speaker": "hugo",
+    "expr": "neutral",
+    "text": "It's a wind chime made of pods. I'd never have thought of that."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "happy",
+    "text": "Hugo, you'd never have thought of it because it is not a machine. It is simply beautiful, and does nothing at all."
+   },
+   {
+    "speaker": "hugo",
+    "expr": "happy",
+    "text": "I'll have you know, Rosalind, I've started to appreciate things that do nothing at all. It's the best thing about this place."
+   }
+  ]
+ },
+ {
+  "id": "beat_d116",
+  "kind": "beat",
+  "trigger": "element:24_029",
+  "lines": [
+   {
+    "speaker": "rosalind",
+    "expr": "neutral",
+    "text": "The Great Botanical Atlas. Every plant the Society ever collected, drawn and named. Half of it is mine, the other half is the work of the Hall itself."
+   },
+   {
+    "speaker": "mark",
+    "expr": "neutral",
+    "text": "There's a page near the back that is blank, with a title: Unrecorded. And, um, a little pressed flower that I don't recognise."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "surprised",
+    "text": "Mark, show me. Dear God. It is a flower that has never grown in any garden I have visited."
+   },
+   {
+    "speaker": "zephyrine",
+    "expr": "worried",
+    "text": "It is a flower from the edge of the map, Rosalind. I brought a seed home, years ago. I gave it to the founder, and I did not ask why."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "worried",
+    "text": "Then he planted it somewhere in this Hall. We must find the plant."
+   }
+  ]
+ },
+ {
+  "id": "beat_d117",
+  "kind": "beat",
+  "trigger": "element:25_004",
+  "lines": [
+   {
+    "speaker": "anjali",
+    "expr": "neutral",
+    "text": "The Pill Tile. Small, round, grey, and very much in need of a spoonful of sugar. I remember this tile from the ship."
+   },
+   {
+    "speaker": "mark",
+    "expr": "neutral",
+    "text": "Did people really take these?"
+   },
+   {
+    "speaker": "anjali",
+    "expr": "happy",
+    "text": "Every day, and with great ceremony, Mark. Then they were sick, and I fed them broth, and they took another."
+   },
+   {
+    "speaker": "aldous",
+    "expr": "happy",
+    "text": "I was once cured of a cough by one of these. Or I was cured of the cough by the horror of taking it. Hard to say."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "The Apothecary Annex is open, then. Professor, you will go first."
+   }
+  ]
+ },
+ {
+  "id": "beat_d118",
+  "kind": "beat",
+  "trigger": "element:25_008",
+  "lines": [
+   {
+    "speaker": "aldous",
+    "expr": "surprised",
+    "text": "The Leech Jar. Do you know, I had a very odd feeling just now. As though the jar were looking at me."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "worried",
+    "text": "It's the leeches, Professor. They look at everyone. It's the whole point of them."
+   },
+   {
+    "speaker": "sam",
+    "expr": "neutral",
+    "text": "I consulted a leech once, in Lyons. He was most reassuring. Told me I was in perfect health, apart from a degree of moral decay."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "It is a very distinguished leech, Mr Vane, if it can diagnose the Society's patron at a distance."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "happy",
+    "text": "Do give him my regards, Sam. I should like to know what he thinks of me."
+   }
+  ]
+ },
+ {
+  "id": "beat_d119",
+  "kind": "beat",
+  "trigger": "element:25_013",
+  "lines": [
+   {
+    "speaker": "anjali",
+    "expr": "happy",
+    "text": "The Eye Bath Cups! Tiny glass cups, with a lip shaped to fit around the eye. A wonderfully peculiar invention."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "I tried one, Miss Bose. It's quite refreshing. Like having a very small cold bath in the face."
+   },
+   {
+    "speaker": "anjali",
+    "expr": "neutral",
+    "text": "Then you will tell me whether it works, Barnaby. I do not have the stomach for it."
+   },
+   {
+    "speaker": "mark",
+    "expr": "neutral",
+    "text": "Does it work, Barnaby?"
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "surprised",
+    "text": "I don't know. I can see an awful lot of tiny stars, though. All the way up to the top of the Dome."
+   },
+   {
+    "speaker": "prudence",
+    "expr": "neutral",
+    "text": "It is working very well, Mr Pluck. You are seeing things that were not previously visible."
+   }
+  ]
+ },
+ {
+  "id": "beat_d120",
+  "kind": "beat",
+  "trigger": "element:25_018",
+  "lines": [
+   {
+    "speaker": "mark",
+    "expr": "happy",
+    "text": "The Herb Jar Shelf. Rosemary, thyme, sage, and a very old jar labelled Remembrance. I think it's just rosemary."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "neutral",
+    "text": "It is just rosemary, Mark. The name was a little joke between Ambrose and me. He said it was for the days when the Hall forgot itself."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "That is why it has a place at the front of the shelf, I suppose."
+   },
+   {
+    "speaker": "mark",
+    "expr": "happy",
+    "text": "Can I grow some? In the Conservatory. For, um, remembering."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Mr Bloom, you may grow as much remembrance as you like. It is one of the few things the Hall is short of."
+   }
+  ]
+ },
+ {
+  "id": "beat_d121",
+  "kind": "beat",
+  "trigger": "element:25_023",
+  "lines": [
+   {
+    "speaker": "prudence",
+    "expr": "neutral",
+    "text": "The Remedy Ledger Stand. Every patient, every ailment, every prescription, in the hand of the apothecary. It is a meticulous document."
+   },
+   {
+    "speaker": "aldous",
+    "expr": "neutral",
+    "text": "Prudence, is there any mention of a bird in it? I think I may have been prescribed a bird at some stage."
+   },
+   {
+    "speaker": "prudence",
+    "expr": "neutral",
+    "text": "Professor, there is no such remedy as a bird. There is, however, a prescription for you on page nine, and it says: rest, tea, and fewer swifts."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "worried",
+    "text": "There is another entry. Dated the eve of his vanishing. A. Hall: one draught, to be taken at the clock. Not to be repeated."
+   },
+   {
+    "speaker": "prudence",
+    "expr": "worried",
+    "text": "Which clock, Cornelia? That is the question."
+   }
+  ]
+ },
+ {
+  "id": "beat_d122",
+  "kind": "beat",
+  "trigger": "element:25_027",
+  "lines": [
+   {
+    "speaker": "hugo",
+    "expr": "neutral",
+    "text": "The Spirit Lamp. A little blue flame in a glass cup. I could cook a very small egg on it."
+   },
+   {
+    "speaker": "anjali",
+    "expr": "happy",
+    "text": "Oh, I could do a great deal better than an egg, Hugo. Hand it over."
+   },
+   {
+    "speaker": "hugo",
+    "expr": "happy",
+    "text": "I'll polish it for you, Anjali. You'll never see a flame so true."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "neutral",
+    "text": "Why do they call it a spirit lamp, Miss Wren? Are there spirits in it?"
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "It burns spirits of wine, Mr Pluck. Not those sort of spirits. We are far too well bred for that."
+   }
+  ]
+ },
+ {
+  "id": "beat_d123",
+  "kind": "beat",
+  "trigger": "element:25_031",
+  "lines": [
+   {
+    "speaker": "zephyrine",
+    "expr": "neutral",
+    "text": "The Dragon's Blood Jar. A resin the colour of dried roses, and as sweet as incense. It comes from a tree on an island that is not on any chart."
+   },
+   {
+    "speaker": "sam",
+    "expr": "neutral",
+    "text": "Then how do you know where it is, Zephyrine?"
+   },
+   {
+    "speaker": "zephyrine",
+    "expr": "happy",
+    "text": "Because I have been there. It is shaped like a thumb, and it smells of vanilla, and the natives are the politest people in the world."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "happy",
+    "text": "I should like to see it. When the Hall is finished, I mean to take a holiday."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "surprised",
+    "text": "Miss Wren! You said holiday! Can I write that on my cuff?"
+   }
+  ]
+ },
+ {
+  "id": "beat_d124",
+  "kind": "beat",
+  "trigger": "element:25_036",
+  "lines": [
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "The Chemist's Counter Bell! One ding, and a very sleepy apothecary comes shuffling out of the back."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Mr Pluck, there is no apothecary."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "neutral",
+    "text": "I know, Miss Wren. But I've been ringing it all morning, and every time, a bottle moves."
+   },
+   {
+    "speaker": "aldous",
+    "expr": "worried",
+    "text": "A bottle moves."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "Yes, Professor! A very small one, three inches to the left. It's trying to help."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "happy",
+    "text": "Then we shall see to it that it gets a very good review."
+   }
+  ]
+ },
+ {
+  "id": "beat_d125",
+  "kind": "beat",
+  "trigger": "element:25_041",
+  "lines": [
+   {
+    "speaker": "hugo",
+    "expr": "neutral",
+    "text": "The Sulphur Block. Bright yellow, and it smells of a match gone wrong. I'd keep it well away from the music box."
+   },
+   {
+    "speaker": "sam",
+    "expr": "happy",
+    "text": "Hugo, you have the most sensible instincts. A pity so few of them are applied to the people around you."
+   },
+   {
+    "speaker": "hugo",
+    "expr": "happy",
+    "text": "Ha! I'll take that as a compliment, Sam, and I'll try to find a polite way to kick you out of the room."
+   },
+   {
+    "speaker": "anjali",
+    "expr": "neutral",
+    "text": "Is it safe, Hugo? Because I wish to make a lemon tart in the Annex, and I will need the Spirit Lamp."
+   },
+   {
+    "speaker": "hugo",
+    "expr": "neutral",
+    "text": "It's safe, Anjali, as long as nobody lights a match in the vicinity of the block. Or of Sam."
+   }
+  ]
+ },
+ {
+  "id": "beat_d126",
+  "kind": "beat",
+  "trigger": "element:25_046",
+  "lines": [
+   {
+    "speaker": "aldous",
+    "expr": "neutral",
+    "text": "The Test Tube Rack. Thirty glass tubes, each labelled with a letter, and each containing a drop of coloured water."
+   },
+   {
+    "speaker": "prudence",
+    "expr": "neutral",
+    "text": "The letters, Professor. Read them in order."
+   },
+   {
+    "speaker": "aldous",
+    "expr": "surprised",
+    "text": "A, N, D, R, E... no, it is: R, E, M, E, M, B, E, R. Remember. Over and over, in a ring."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "worried",
+    "text": "Whoever set this out wanted us to see it, and wanted us to read it. Remember what?"
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "neutral",
+    "text": "It is not an instruction, Cornelia. It is a plea."
+   }
+  ]
+ },
+ {
+  "id": "beat_d127",
+  "kind": "beat",
+  "trigger": "element:25_051",
+  "lines": [
+   {
+    "speaker": "hugo",
+    "expr": "neutral",
+    "text": "The Philosopher's Crucible. A little pot of black iron, with a handle shaped like a serpent. It's said to turn lead into gold, though I have yet to see it do a thing."
+   },
+   {
+    "speaker": "sam",
+    "expr": "happy",
+    "text": "Hugo, if it could, I would have it in my pocket by now."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "neutral",
+    "text": "You would not know what to do with a pocketful of gold, Sam. You would spend it by Thursday, and borrow more by Friday."
+   },
+   {
+    "speaker": "sam",
+    "expr": "neutral",
+    "text": "That is a very good description of my entire career, Rosalind. And a very accurate one."
+   },
+   {
+    "speaker": "zephyrine",
+    "expr": "happy",
+    "text": "I would put a few coins in it, to see what happened. For science. And for fun."
+   }
+  ]
+ },
+ {
+  "id": "beat_d128",
+  "kind": "beat",
+  "trigger": "element:25_056",
+  "lines": [
+   {
+    "speaker": "anjali",
+    "expr": "happy",
+    "text": "The Dragon Scale Salve! A pot of thick green cream that smells of mint and thunderstorms. I made it for the sailors, when they had blisters."
+   },
+   {
+    "speaker": "mark",
+    "expr": "neutral",
+    "text": "It's, um, surprisingly effective, Anjali. I tried it on my thumb."
+   },
+   {
+    "speaker": "anjali",
+    "expr": "happy",
+    "text": "Of course it is. I developed it on the longest voyage the Society ever mounted. Never mind the dragon. It is mostly lard, mint, and good cheer."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "It is the finest thing in the Annex, then. You will take a jar to every member of the Society."
+   },
+   {
+    "speaker": "anjali",
+    "expr": "neutral",
+    "text": "All of them? Cornelia, there are four hundred and sixty-two."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "happy",
+    "text": "I am quite certain, Miss Bose, that you can manage."
+   }
+  ]
+ },
+ {
+  "id": "beat_d129",
+  "kind": "beat",
+  "trigger": "element:25_061",
+  "lines": [
+   {
+    "speaker": "prudence",
+    "expr": "neutral",
+    "text": "The Grand Pharmacopoeia. All of it, from aconite to zinc. Seven hundred pages, bound in green cloth, with the founder's own annotations in the margins."
+   },
+   {
+    "speaker": "aldous",
+    "expr": "happy",
+    "text": "Splendid! And is there any remedy for forgetfulness?"
+   },
+   {
+    "speaker": "prudence",
+    "expr": "neutral",
+    "text": "There is. Page four hundred and twelve. It says: Seek the thing you have lost, where you last put it down. A very sensible prescription."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "worried",
+    "text": "There is a note under it, in the founder's hand. And where did I put it down, I wonder? In the one place I never look."
+   },
+   {
+    "speaker": "zephyrine",
+    "expr": "worried",
+    "text": "That is the oldest trick in the book, Cornelia. He hid it in plain sight."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "neutral",
+    "text": "The Annex is restored, my dears. Now, come and let us see the gems. I confess I have missed them dreadfully."
+   }
+  ]
+ },
+ {
+  "id": "beat_d130",
+  "kind": "beat",
+  "trigger": "element:26_005",
+  "lines": [
+   {
+    "speaker": "rosalind",
+    "expr": "happy",
+    "text": "The Ring Cushion! A hundred little rings, each in its own velvet hollow. I recognise nearly every one."
+   },
+   {
+    "speaker": "sam",
+    "expr": "happy",
+    "text": "Rosalind, I do believe you recognise some of them from your own hand."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "neutral",
+    "text": "Sam, if you have been looking at my hand, I shall ask you to return what you took from it."
+   },
+   {
+    "speaker": "sam",
+    "expr": "surprised",
+    "text": "I took nothing, I swear! I only admired. Once. In 1887."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "I suggest we move on, before Mr Vane is forced to confess to anything further."
+   }
+  ]
+ },
+ {
+  "id": "beat_d131",
+  "kind": "beat",
+  "trigger": "element:26_010",
+  "lines": [
+   {
+    "speaker": "rosalind",
+    "expr": "neutral",
+    "text": "The Opal Heart Case. A single stone, the size of a hen's egg, with a fire in it that moves."
+   },
+   {
+    "speaker": "sam",
+    "expr": "worried",
+    "text": "Cornelia, I must tell you something. When I came to this Hall I meant to take this. I came with a very good plan, and a very small chisel."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "I know, Mr Vane. I have known for some time."
+   },
+   {
+    "speaker": "sam",
+    "expr": "surprised",
+    "text": "You knew?"
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Mr Pluck followed you on your first night. He has been carrying your chisel in his apron pocket ever since."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "It's a very good chisel, Mr Vane! I've been keeping it sharp."
+   }
+  ]
+ },
+ {
+  "id": "beat_d132",
+  "kind": "beat",
+  "trigger": "element:26_015",
+  "lines": [
+   {
+    "speaker": "rosalind",
+    "expr": "happy",
+    "text": "The Crown Jewels of the Society! The tiara, the necklace, the little silver ring I wore when I became patroness. They are all here, all clean, and all in their places."
+   },
+   {
+    "speaker": "sam",
+    "expr": "happy",
+    "text": "And not a single one in my pocket, Cornelia. I should like it noted in the minutes."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "It shall be noted, Mr Vane. Under the heading of Remarkable Events."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "neutral",
+    "text": "Dear Sam. You have grown. One notices it in the way you stand, a little further from the exit."
+   },
+   {
+    "speaker": "sam",
+    "expr": "neutral",
+    "text": "Rosalind, I have been looking for that exit for twenty years. I find I do not much mind not finding it."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "We should have a party, Miss Wren! A proper one, with jelly!"
+   }
+  ]
+ },
+ {
+  "id": "beat_d133",
+  "kind": "beat",
+  "trigger": "element:27_005",
+  "lines": [
+   {
+    "speaker": "zephyrine",
+    "expr": "happy",
+    "text": "The Cosmic Dust Jar! A thimbleful of the sky, collected from the roof of a cathedral in Prague. I wonder what it dreamed of, before it fell."
+   },
+   {
+    "speaker": "aldous",
+    "expr": "neutral",
+    "text": "A small, grey, unambitious dream, I should think. Of being a very large star."
+   },
+   {
+    "speaker": "hugo",
+    "expr": "neutral",
+    "text": "It's the last grain of a star, that, Professor. And it's going to sit very nicely next to my best pair of tweezers."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "The Meteorite Chamber is open. Mr Pemberton, do not touch anything that is warm."
+   },
+   {
+    "speaker": "hugo",
+    "expr": "surprised",
+    "text": "Cornelia, everything in this room is warm."
+   }
+  ]
+ },
+ {
+  "id": "beat_d134",
+  "kind": "beat",
+  "trigger": "element:27_010",
+  "lines": [
+   {
+    "speaker": "zephyrine",
+    "expr": "neutral",
+    "text": "The Tektite Beads. Small black beads of glass, formed in the moment a meteorite hits the ground. Every one a tiny scar from the sky."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "neutral",
+    "text": "They would make a very fine necklace."
+   },
+   {
+    "speaker": "zephyrine",
+    "expr": "happy",
+    "text": "I made one once, for the king of a small island. He wore it every day, and said it brought him good fortune."
+   },
+   {
+    "speaker": "sam",
+    "expr": "neutral",
+    "text": "And what became of the king?"
+   },
+   {
+    "speaker": "zephyrine",
+    "expr": "neutral",
+    "text": "He lost his island in a game of cards. But he kept the necklace, and said it was a good bargain."
+   }
+  ]
+ },
+ {
+  "id": "beat_d135",
+  "kind": "beat",
+  "trigger": "element:27_015",
+  "lines": [
+   {
+    "speaker": "aldous",
+    "expr": "happy",
+    "text": "The Moon Rock Case! A genuine sliver of the moon, brought down by the Society's own expedition."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "worried",
+    "text": "How did they get it, Professor? Did they go up in a balloon?"
+   },
+   {
+    "speaker": "aldous",
+    "expr": "neutral",
+    "text": "They did not, Barnaby. The moon dropped it, on a Tuesday, in a field in Kent. A farmer noticed it, and was very upset about his turnips."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Professor, that is not what the label says."
+   },
+   {
+    "speaker": "aldous",
+    "expr": "neutral",
+    "text": "The label has been tidied up, Cornelia. For the visitors."
+   }
+  ]
+ },
+ {
+  "id": "beat_d136",
+  "kind": "beat",
+  "trigger": "element:27_020",
+  "lines": [
+   {
+    "speaker": "hugo",
+    "expr": "happy",
+    "text": "The Shooting Star Mobile! A cluster of silver stars, each one on a little spring, so they sway and twinkle in the air."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "It's the best thing in the room, Hugo!"
+   },
+   {
+    "speaker": "hugo",
+    "expr": "neutral",
+    "text": "It's only a mobile, Barnaby. But I'll admit, every time it moves, I feel it in my chest. As if somebody had finally got the timing right."
+   },
+   {
+    "speaker": "prudence",
+    "expr": "neutral",
+    "text": "It is a very calming effect. I recommend it to anyone who has been rearranging Archives for eight weeks."
+   },
+   {
+    "speaker": "mark",
+    "expr": "happy",
+    "text": "I've been standing underneath it for ten minutes. I don't think I want to move."
+   }
+  ]
+ },
+ {
+  "id": "beat_d137",
+  "kind": "beat",
+  "trigger": "element:27_025",
+  "lines": [
+   {
+    "speaker": "zephyrine",
+    "expr": "worried",
+    "text": "The Planet Core Sample. A cylinder of rock, drawn from a hole a mile deep. At the very bottom, a layer of something that does not belong to the rest."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "neutral",
+    "text": "What is it, Zephyrine?"
+   },
+   {
+    "speaker": "zephyrine",
+    "expr": "neutral",
+    "text": "I do not know, Rosalind. The assayer said it was a very old kind of metal. The founder said it was a message. I did not like to ask which of them was right."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "worried",
+    "text": "If it is a message, Miss Blackwood, who is it from?"
+   },
+   {
+    "speaker": "zephyrine",
+    "expr": "worried",
+    "text": "From the bottom of the world. Or, perhaps, from a man who wished to be taken for a very old kind of metal. I shall let you know when I find out."
+   }
+  ]
+ },
+ {
+  "id": "beat_d138",
+  "kind": "beat",
+  "trigger": "element:27_031",
+  "lines": [
+   {
+    "speaker": "hugo",
+    "expr": "happy",
+    "text": "The Impact Glass Vase! A shape like a tulip, formed from sand that got hit by a falling rock. It rings when you tap it. A very pure E-flat."
+   },
+   {
+    "speaker": "anjali",
+    "expr": "happy",
+    "text": "Oh, let me. It would make a lovely sound for a dinner bell."
+   },
+   {
+    "speaker": "hugo",
+    "expr": "neutral",
+    "text": "Anjali, you tap it, and I'll tell you precisely which pitch it is."
+   },
+   {
+    "speaker": "anjali",
+    "expr": "neutral",
+    "text": "E-flat, Hugo?"
+   },
+   {
+    "speaker": "hugo",
+    "expr": "happy",
+    "text": "You're a natural, Anjali. You tapped it exactly in the middle, as if you'd done it all your life."
+   },
+   {
+    "speaker": "anjali",
+    "expr": "happy",
+    "text": "I have done it all my life. With a spoon, on a great many pots."
+   }
+  ]
+ },
+ {
+  "id": "beat_d139",
+  "kind": "beat",
+  "trigger": "element:27_037",
+  "lines": [
+   {
+    "speaker": "aldous",
+    "expr": "happy",
+    "text": "The Skyfall Altar! A great slab of black stone, on which the largest meteorite in the Society's collection rests, like a cat on a cushion."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "The Meteorite Chamber is whole. It has taken three weeks, and I have not had a decent cup of tea since the second."
+   },
+   {
+    "speaker": "anjali",
+    "expr": "happy",
+    "text": "Cornelia, I made you a cup this morning. It is on your desk."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "surprised",
+    "text": "Miss Bose. When?"
+   },
+   {
+    "speaker": "anjali",
+    "expr": "neutral",
+    "text": "At eight o'clock. I left it on the blotter, beside the card that says Wednesday."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "worried",
+    "text": "There is no cup, Miss Bose. And the card has been in the drawer for months."
+   }
+  ]
+ },
+ {
+  "id": "beat_d140",
+  "kind": "beat",
+  "trigger": "element:28_005",
+  "lines": [
+   {
+    "speaker": "barnaby",
+    "expr": "neutral",
+    "text": "The Whispering Shell. Miss Wren, if I hold it to my ear, I can hear somebody talking. But it's very faint."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "What does it say, Mr Pluck?"
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "surprised",
+    "text": "It says your name. And then it says: Not yet."
+   },
+   {
+    "speaker": "prudence",
+    "expr": "worried",
+    "text": "That is the same phrase Zephyrine found on her chart. Tell Cornelia. Not yet."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "worried",
+    "text": "Whoever is saying it knows precisely what we are doing, and wishes us to continue. I find that more reassuring than I ought."
+   }
+  ]
+ },
+ {
+  "id": "beat_d141",
+  "kind": "beat",
+  "trigger": "element:28_010",
+  "lines": [
+   {
+    "speaker": "prudence",
+    "expr": "neutral",
+    "text": "The Dumbwaiter of Secrets. A small lift in the wall of the Cabinet, which was used for passing notes between the curators."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "It's in perfect working order, Miss Quill! It goes up and down, and nobody falls out!"
+   },
+   {
+    "speaker": "prudence",
+    "expr": "neutral",
+    "text": "It also has a secret compartment, which I have just opened. Inside, a single folded letter."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "worried",
+    "text": "Read it aloud, please."
+   },
+   {
+    "speaker": "prudence",
+    "expr": "worried",
+    "text": "It says: Dear Cornelia, if you are reading this, you are further than I expected. I am proud of you. Do not trust the League. And have a biscuit."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "worried",
+    "text": "He wrote that. In his own hand. And somehow, I believe that was the last biscuit in the Hall."
+   }
+  ]
+ },
+ {
+  "id": "beat_d142",
+  "kind": "beat",
+  "trigger": "element:28_015",
+  "lines": [
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "The Silent Bell! It's got no clapper, Miss Wren, so it just hangs there and doesn't ring. I like him. He's sensible."
+   },
+   {
+    "speaker": "hugo",
+    "expr": "neutral",
+    "text": "It does ring, Barnaby. It rings at a pitch too low to hear, and it makes the floor hum. Put your hand on the wall."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "surprised",
+    "text": "Oh! It's like a purr. A very large, very distant purr."
+   },
+   {
+    "speaker": "aldous",
+    "expr": "neutral",
+    "text": "I believe it is a call, rather than a bell. Something is meant to hear it, and I should rather like to know what."
+   },
+   {
+    "speaker": "zephyrine",
+    "expr": "neutral",
+    "text": "The same something that stands by the third griffin, Professor. Sam and I found the door last night."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "surprised",
+    "text": "You found the door, Miss Blackwood? And you did not wake me?"
+   }
+  ]
+ },
+ {
+  "id": "beat_d143",
+  "kind": "beat",
+  "trigger": "element:28_020",
+  "lines": [
+   {
+    "speaker": "zephyrine",
+    "expr": "neutral",
+    "text": "The Great Whisper. A tall brass horn, curled like a shell, that gathers every murmur in the Hall and sends it back from a single point."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "And what does it say, now that it is restored?"
+   },
+   {
+    "speaker": "sam",
+    "expr": "neutral",
+    "text": "It says, Cornelia, in a very quiet voice: the third griffin turns left."
+   },
+   {
+    "speaker": "zephyrine",
+    "expr": "happy",
+    "text": "And the door behind the third griffin leads to a little spiral stair, and the stair leads to a very old door with a very old lock. It is the Founder's Study, I am quite certain."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "worried",
+    "text": "The Study is real, then. And we cannot open it until the Hall is ready."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "worried",
+    "text": "It is real, Cornelia. I have been through that door, once, long ago. When the time comes, I shall go in with you, if you will have me."
+   }
+  ]
+ },
+ {
+  "id": "beat_d144",
+  "kind": "beat",
+  "trigger": "element:29_005",
+  "lines": [
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "The Stair Newel Lamp! It's the first one that lights itself when you walk past. Look, Miss Wren, it says hello!"
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "That is a very polite lamp. The Portrait Stair has an excellent standard of hospitality."
+   },
+   {
+    "speaker": "hugo",
+    "expr": "neutral",
+    "text": "It's got a photoelectric cell, Barnaby. Well. A very early one. I'd say it was Ambrose's own design."
+   },
+   {
+    "speaker": "prudence",
+    "expr": "neutral",
+    "text": "A fine device. And I observe that it lights only for members of the Society. It did not light for the League's man, last week."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Did you stand on the stair that day, Miss Quill?"
+   },
+   {
+    "speaker": "prudence",
+    "expr": "happy",
+    "text": "I did. In my best boots. It was extremely satisfying."
+   }
+  ]
+ },
+ {
+  "id": "beat_d145",
+  "kind": "beat",
+  "trigger": "element:29_010",
+  "lines": [
+   {
+    "speaker": "rosalind",
+    "expr": "happy",
+    "text": "The Duchess of Peacocks! My dears, I painted her myself. She was a very formidable woman, and she paid in peacocks."
+   },
+   {
+    "speaker": "sam",
+    "expr": "happy",
+    "text": "How many peacocks, Rosalind?"
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "neutral",
+    "text": "Six. Of whom four were very bad-tempered, and two were exquisite. I kept the two."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "She's got a peacock on her hat, Miss Thorne, and a peacock on her shawl, and a peacock on her parasol."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "neutral",
+    "text": "She was devoted to them, Barnaby. When she died, she left the Society a single feather, and a note: Remember me by my worst habit."
+   }
+  ]
+ },
+ {
+  "id": "beat_d146",
+  "kind": "beat",
+  "trigger": "element:29_015",
+  "lines": [
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "The Empty Frame. A great gilt frame, with nothing in it, hanging at the turn of the stair."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "neutral",
+    "text": "It has been empty for twenty years, Cornelia. It was meant for a portrait of the Society's founding members, painted together. We never found the time to sit."
+   },
+   {
+    "speaker": "aldous",
+    "expr": "happy",
+    "text": "I shall sit, Rosalind. I shall sit all day, if it is any help. I believe I shall not need to move."
+   },
+   {
+    "speaker": "sam",
+    "expr": "neutral",
+    "text": "You would have to be moved, Aldous. Like a very handsome lump of granite."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "happy",
+    "text": "Then we shall fill it, all of us. In good time. When we have finished the rest."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "worried",
+    "text": "Miss Wren, there's a little brass tag on the corner. It says: Reserved. A.H."
+   }
+  ]
+ },
+ {
+  "id": "beat_d147",
+  "kind": "beat",
+  "trigger": "element:29_020",
+  "lines": [
+   {
+    "speaker": "rosalind",
+    "expr": "neutral",
+    "text": "The Founder's Great Portrait. Oh, I remember painting this. He would not sit still, and so the whole canvas is a little blurred about the edges."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "He looks as though he is about to speak."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "happy",
+    "text": "He was always about to speak. It was his chief fault, and his greatest charm. Look at the eyes. I painted them last, at three in the morning, and he said they were the first honest likeness of him."
+   },
+   {
+    "speaker": "zephyrine",
+    "expr": "neutral",
+    "text": "The eyes are looking at the wall to his left, Rosalind. The wall where the Founders' Gallery begins."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "worried",
+    "text": "Then that is where we shall go next. Let us see what Ambrose wished to show us."
+   }
+  ]
+ },
+ {
+  "id": "beat_d148",
+  "kind": "beat",
+  "trigger": "element:30_005",
+  "lines": [
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "The Founder's Hat Stand. A dark oak post, with three brass hooks and, upon the highest, a single top hat. It is dusty, and very slightly warm."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "It's still got the shape of his head in it, Miss Wren! Look!"
+   },
+   {
+    "speaker": "prudence",
+    "expr": "neutral",
+    "text": "Leave it where it hangs, Mr Pluck. It is the only object in the Hall which has never been moved, and it is a great comfort to the Archives."
+   },
+   {
+    "speaker": "sam",
+    "expr": "neutral",
+    "text": "It is rather like seeing a man's ghost, but only from the back."
+   },
+   {
+    "speaker": "aldous",
+    "expr": "happy",
+    "text": "I have a very strong urge to lift it off and look inside. I do not, I am happy to say, have the nerve."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Neither have I, Professor. I mean to keep it on its hook until the man himself returns to collect it."
+   }
+  ]
+ },
+ {
+  "id": "beat_d149",
+  "kind": "beat",
+  "trigger": "element:30_010",
+  "lines": [
+   {
+    "speaker": "prudence",
+    "expr": "neutral",
+    "text": "The Founding Charter Frame. The original Charter of the Curio Society, signed by nine members, in nine different inks."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Only eight signatures are legible, Miss Quill."
+   },
+   {
+    "speaker": "prudence",
+    "expr": "neutral",
+    "text": "The ninth has faded. It is Ambrose's. And beneath it, in a very different ink, a line that has been added: Revised. By A. H. The day he vanished."
+   },
+   {
+    "speaker": "hugo",
+    "expr": "neutral",
+    "text": "Somebody went into the Founders' Gallery on the last day, then, and changed the Charter."
+   },
+   {
+    "speaker": "prudence",
+    "expr": "worried",
+    "text": "Not changed it. Added to it. A new clause, at the very bottom, in letters so small that it needs a magnifying glass. I have the glass."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "neutral",
+    "text": "What does the clause say, Prudence?"
+   },
+   {
+    "speaker": "prudence",
+    "expr": "worried",
+    "text": "It says: Should the Hall fall silent, the Society shall be re-formed by whoever opens the doors."
+   }
+  ]
+ },
+ {
+  "id": "beat_d150",
+  "kind": "beat",
+  "trigger": "element:30_015",
+  "lines": [
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "The Founder's Writing Desk. The very desk at which he wrote the Charter, and all the great letters to the Society. Mahogany, with a green leather top."
+   },
+   {
+    "speaker": "sam",
+    "expr": "happy",
+    "text": "May I sit? Just for a moment, Cornelia. I have wanted to sit in that chair for twenty years."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "You may sit, Mr Vane. But you may not open the drawers."
+   },
+   {
+    "speaker": "sam",
+    "expr": "worried",
+    "text": "I would not dream of it. I have spent half my life trying to open this man's drawers, and I would like, for once, to try being polite."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "There's a note under the blotter, Mr Vane! Look!"
+   },
+   {
+    "speaker": "sam",
+    "expr": "surprised",
+    "text": "It is addressed to me. It says: Sam, you were right about the monarchs. Go and apologise to Rosalind."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "neutral",
+    "text": "Oh, how very like him. He never could resist having the last word."
+   }
+  ]
+ },
+ {
+  "id": "beat_d151",
+  "kind": "beat",
+  "trigger": "element:30_020",
+  "lines": [
+   {
+    "speaker": "hugo",
+    "expr": "happy",
+    "text": "The Gallery Skylight Lantern! A great glass cage with a hundred little panes, and in the middle a lamp that lights the whole Gallery from above."
+   },
+   {
+    "speaker": "aldous",
+    "expr": "happy",
+    "text": "A splendid piece, Hugo, and the light, my goodness, it is exactly the colour of a barn owl's breast."
+   },
+   {
+    "speaker": "hugo",
+    "expr": "neutral",
+    "text": "It'll want a bit of wire, a spot of oil, and a very fine chain. I'll make it good as new."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Mr Pemberton, you could not make a thing worse if you tried."
+   },
+   {
+    "speaker": "hugo",
+    "expr": "happy",
+    "text": "That's the nicest thing anyone's ever said to me, Cornelia. I'll put it on a card."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "neutral",
+    "text": "I'll write it on my cuff."
+   }
+  ]
+ },
+ {
+  "id": "beat_d152",
+  "kind": "beat",
+  "trigger": "element:30_025",
+  "lines": [
+   {
+    "speaker": "prudence",
+    "expr": "neutral",
+    "text": "The Founder's Diary Stand. An oak lectern, with a leather diary open at a page in the middle of the last winter. The pages afterwards have been cut out."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "worried",
+    "text": "The cuts are the same as the ones in the Folio. A single sharp blade, and a very steady hand."
+   },
+   {
+    "speaker": "prudence",
+    "expr": "neutral",
+    "text": "I have compared the cuts, Cornelia. They match, but not in any way that I can explain. They are, in fact, too clean. They were made by a blade that is very old, and was sharpened yesterday."
+   },
+   {
+    "speaker": "zephyrine",
+    "expr": "neutral",
+    "text": "I know someone who sharpens old blades. A cartographer called Rook. I will find him."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "worried",
+    "text": "Zephyrine, take Sam. He may be of use, for once."
+   },
+   {
+    "speaker": "sam",
+    "expr": "happy",
+    "text": "Rosalind, my dear, I have always been of use. It is merely that the use was not always lawful."
+   }
+  ]
+ },
+ {
+  "id": "beat_d153",
+  "kind": "beat",
+  "trigger": "element:30_030",
+  "lines": [
+   {
+    "speaker": "hugo",
+    "expr": "happy",
+    "text": "The Founder's Gramophone! A brass horn the size of a lily, a wax cylinder, and a needle that's been sharpened by someone who knew what they were doing."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Will it play, Mr Pemberton?"
+   },
+   {
+    "speaker": "hugo",
+    "expr": "neutral",
+    "text": "It plays, Cornelia. But it's not a recording of anyone's voice. It's a very slow, quiet rhythm. Tick. Pause. Tick. Tick. Pause."
+   },
+   {
+    "speaker": "aldous",
+    "expr": "neutral",
+    "text": "That is a code, surely."
+   },
+   {
+    "speaker": "prudence",
+    "expr": "neutral",
+    "text": "Morse. Slowed by a factor of ten. And it is saying: WEDNESDAY. NOON. THE CLOCK TOWER."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "worried",
+    "text": "The Clock Tower. That is wing forty-six, Miss Quill. We are a long way off."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "worried",
+    "text": "Miss Wren, it's a Wednesday today."
+   }
+  ]
+ },
+ {
+  "id": "beat_d154",
+  "kind": "beat",
+  "trigger": "element:30_036",
+  "lines": [
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "The Founding Fire. The great hearth of the Gallery, which has stood cold for twenty years, and which I have just lit."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "happy",
+    "text": "Oh, Cornelia. It is the loveliest thing I have seen since I came back. Do you hear the fire? It is singing."
+   },
+   {
+    "speaker": "aldous",
+    "expr": "happy",
+    "text": "The whole Society is here. All of us, together, in front of the founding fire. I believe it is the first time since the winter he vanished."
+   },
+   {
+    "speaker": "sam",
+    "expr": "neutral",
+    "text": "Cornelia, I should like to say, in front of all these people, that I came to the Hall to steal it, and I will stay to guard it."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "happy",
+    "text": "Mr Vane, that is the nicest thing you have said in thirty years. The Society, as of this evening, has a quorum."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "Three cheers for Miss Wren!"
+   }
+  ]
+ },
+ {
+  "id": "beat_d155",
+  "kind": "beat",
+  "trigger": "element:31_006",
+  "lines": [
+   {
+    "speaker": "rosalind",
+    "expr": "neutral",
+    "text": "The Parlour Palm. A great spray of green fronds in a brass pot, to shade the music boxes from the afternoon sun."
+   },
+   {
+    "speaker": "mark",
+    "expr": "happy",
+    "text": "It's in, um, rather good health. I think it was waiting for somebody to talk to it."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "happy",
+    "text": "Everyone is, Mark. Talk to it for ten minutes a day, and it will outlive us all."
+   },
+   {
+    "speaker": "anjali",
+    "expr": "neutral",
+    "text": "In the Tea Room, we talk to the dough. It works exactly the same way."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "I talk to Hannibal, Miss Bose. He's an excellent listener. He never interrupts."
+   }
+  ]
+ },
+ {
+  "id": "beat_d156",
+  "kind": "beat",
+  "trigger": "element:31_011",
+  "lines": [
+   {
+    "speaker": "hugo",
+    "expr": "happy",
+    "text": "The Carousel Music Box! A little merry-go-round of painted horses, turning on a brass spindle, and playing a waltz in a very sweet tin voice."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "Can I wind it, Hugo?"
+   },
+   {
+    "speaker": "hugo",
+    "expr": "neutral",
+    "text": "Gently, Barnaby. Three turns, no more. You don't want to tell it how you're feeling."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "Oh! It plays a different tune each time, Hugo!"
+   },
+   {
+    "speaker": "hugo",
+    "expr": "worried",
+    "text": "It plays the tune that wants to be played. I've never seen a box that did that before, and I'd like to know who put the idea in it."
+   }
+  ]
+ },
+ {
+  "id": "beat_d157",
+  "kind": "beat",
+  "trigger": "element:31_016",
+  "lines": [
+   {
+    "speaker": "prudence",
+    "expr": "neutral",
+    "text": "The Dancing Doll Box. The lid opens, a little porcelain dancer rises, and she turns on one toe to a very delicate melody."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "neutral",
+    "text": "She is exquisite. I painted her portrait once, in watercolour. She was the only sitter I have ever had who did not complain."
+   },
+   {
+    "speaker": "zephyrine",
+    "expr": "neutral",
+    "text": "Each of her movements corresponds to a point on a compass. I should say she is also a chart, and I should say that she is pointing at the Clock Tower."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Then everything is pointing at the Clock Tower, Miss Blackwood."
+   },
+   {
+    "speaker": "zephyrine",
+    "expr": "happy",
+    "text": "Everything but the pigeons, Cornelia. They have their own agenda."
+   }
+  ]
+ },
+ {
+  "id": "beat_d158",
+  "kind": "beat",
+  "trigger": "element:31_022",
+  "lines": [
+   {
+    "speaker": "hugo",
+    "expr": "happy",
+    "text": "The Great Music Box. Seven hundred pins, and I've mended every one. Cornelia, would you like to hear what it plays?"
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Mr Pemberton, I would."
+   },
+   {
+    "speaker": "hugo",
+    "expr": "happy",
+    "text": "It's the lullaby. All of it, with the sixth note put back. And listen. When the sixth note sounds, something in the wall clicks."
+   },
+   {
+    "speaker": "aldous",
+    "expr": "worried",
+    "text": "A panel has opened, behind the pipes. There is a stack of pages inside. Cut pages. Pages from the Folio, and from the diary."
+   },
+   {
+    "speaker": "prudence",
+    "expr": "worried",
+    "text": "Every one of them. In order. It will take me a week to read them, and I will not sleep."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Then I shall send up a very large pot of tea, Miss Quill. And a great many biscuits."
+   }
+  ]
+ },
+ {
+  "id": "beat_d159",
+  "kind": "beat",
+  "trigger": "element:32_005",
+  "lines": [
+   {
+    "speaker": "prudence",
+    "expr": "neutral",
+    "text": "The Drying Line. A row of damp prints hanging from a cord, each one a poster for a Society lecture of long ago. A Talk on Larks. A Debate on the Moon."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "A Concert for Seventeen Triangles! Who on earth went to that, Miss Quill?"
+   },
+   {
+    "speaker": "prudence",
+    "expr": "neutral",
+    "text": "Seventeen triangles went, Mr Pluck. And they were, I am told, a great success."
+   },
+   {
+    "speaker": "sam",
+    "expr": "happy",
+    "text": "I attended a lecture on Moths, in this very Hall, with a young woman who has since become an exacting archivist."
+   },
+   {
+    "speaker": "prudence",
+    "expr": "surprised",
+    "text": "Mr Vane, you were not at that lecture. I would have remembered."
+   },
+   {
+    "speaker": "sam",
+    "expr": "neutral",
+    "text": "Prudence, I was in the back row. I was the one who laughed at the wrong place."
+   }
+  ]
+ },
+ {
+  "id": "beat_d160",
+  "kind": "beat",
+  "trigger": "element:32_011",
+  "lines": [
+   {
+    "speaker": "rosalind",
+    "expr": "happy",
+    "text": "The Colour Ink Cans! Every shade of the rainbow, in a row of brass-lidded pots. I could paint the whole Hall."
+   },
+   {
+    "speaker": "mark",
+    "expr": "happy",
+    "text": "Miss Thorne, I painted something this week. It's not very good."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "neutral",
+    "text": "Show me, Mark. Do. Oh, my dear, this is a snail. It is a very good snail, and it has a most interesting look about the eye."
+   },
+   {
+    "speaker": "mark",
+    "expr": "happy",
+    "text": "It's a snail with a hat. I thought, um, everything's better with a hat."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "happy",
+    "text": "Mark Bloom. You have a gift. You must paint a hundred more."
+   }
+  ]
+ },
+ {
+  "id": "beat_d161",
+  "kind": "beat",
+  "trigger": "element:32_017",
+  "lines": [
+   {
+    "speaker": "prudence",
+    "expr": "neutral",
+    "text": "The Engraving Bench. A copper plate, a burin, and a little brass magnifier. I find that I am rather fond of it."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Miss Quill, you are smiling."
+   },
+   {
+    "speaker": "prudence",
+    "expr": "neutral",
+    "text": "It is a very good bench, Cornelia. It reminds me that it is possible to make a mark that lasts for a hundred years, if one is patient and does not tremble."
+   },
+   {
+    "speaker": "aldous",
+    "expr": "happy",
+    "text": "Prudence, I do believe you are the only person I know who thinks of patience as a pleasure."
+   },
+   {
+    "speaker": "prudence",
+    "expr": "neutral",
+    "text": "I think of patience as a form of revenge, Aldous. It is a good deal more satisfying."
+   }
+  ]
+ },
+ {
+  "id": "beat_d162",
+  "kind": "beat",
+  "trigger": "element:32_023",
+  "lines": [
+   {
+    "speaker": "hugo",
+    "expr": "happy",
+    "text": "The Typecaster! A little brass furnace, and a mould for casting a letter at a time. It pops out a perfect A every three seconds."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "I can make a whole alphabet, Hugo!"
+   },
+   {
+    "speaker": "hugo",
+    "expr": "neutral",
+    "text": "You can, and I'll help. Careful with the hot lead. We'll make you a set of your own. One for each of your good remarks."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "A whole fount, Hugo! A fount of wisdom!"
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Mr Pluck, I do not believe that is what the word means. But I shall allow it."
+   }
+  ]
+ },
+ {
+  "id": "beat_d163",
+  "kind": "beat",
+  "trigger": "element:32_029",
+  "lines": [
+   {
+    "speaker": "prudence",
+    "expr": "neutral",
+    "text": "The Printing Revolution. A great iron press, operated by a crank, and still wet with a fresh black ink I cannot account for."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Has someone been printing, Miss Quill?"
+   },
+   {
+    "speaker": "prudence",
+    "expr": "neutral",
+    "text": "The first sheet is on the tray. It reads: The Curio Society invites its members, living, lapsed, and long forgotten, to return to the Hall. Signed: C. Wren, Curator. I did not write it."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "happy",
+    "text": "Nor did I. But it is a very handsome sheet, Cornelia. And I rather think we should send it."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Mr Pluck, you will take it to the post. All four hundred and sixty-two copies."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "Aye, Miss Wren! I shall need a very large bag."
+   }
+  ]
+ },
+ {
+  "id": "beat_d164",
+  "kind": "beat",
+  "trigger": "element:33_006",
+  "lines": [
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "The Glue Pot! A little iron pot, always simmering, and always smelling of horse. Miss Wren, I've stuck three things to my sleeve already."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Do stop sticking things to your sleeve, Mr Pluck."
+   },
+   {
+    "speaker": "hugo",
+    "expr": "neutral",
+    "text": "You've got to wait for the glue to set, Barnaby. It's a patient craft, shipbuilding. The only way to hurry it is to do it twice."
+   },
+   {
+    "speaker": "anjali",
+    "expr": "happy",
+    "text": "I make a very good glue from flour and water. And I have never once stuck anything to my sleeve."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "surprised",
+    "text": "Miss Bose, you have glue on your sleeve now."
+   },
+   {
+    "speaker": "anjali",
+    "expr": "neutral",
+    "text": "That, Barnaby, is a béchamel. It is a very different thing."
+   }
+  ]
+ },
+ {
+  "id": "beat_d165",
+  "kind": "beat",
+  "trigger": "element:33_012",
+  "lines": [
+   {
+    "speaker": "hugo",
+    "expr": "happy",
+    "text": "The Mast Maker's Lathe! A great round of oak turning slowly, and a long ribbon of shavings curling off the tool."
+   },
+   {
+    "speaker": "zephyrine",
+    "expr": "neutral",
+    "text": "Every mast is a promise, Hugo. A promise that the ship will come home."
+   },
+   {
+    "speaker": "hugo",
+    "expr": "neutral",
+    "text": "They don't always, Zephyrine."
+   },
+   {
+    "speaker": "zephyrine",
+    "expr": "neutral",
+    "text": "No. But the masts are always straight. That is the part that is under our control."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "I should like that on the wall of the Curator's Office, Miss Blackwood. Every mast is a promise."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "I'll write it on a card, Miss Wren."
+   }
+  ]
+ },
+ {
+  "id": "beat_d166",
+  "kind": "beat",
+  "trigger": "element:33_018",
+  "lines": [
+   {
+    "speaker": "zephyrine",
+    "expr": "happy",
+    "text": "The Schooner Model! Three masts, forty sails, a little bronze figurehead of a woman with her hair blowing back. She is the Wanderer. I sailed in her."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Miss Blackwood, you sailed in a model?"
+   },
+   {
+    "speaker": "zephyrine",
+    "expr": "neutral",
+    "text": "I sailed in the ship she was copied from. And the ship, in turn, sailed in Ambrose's wake. He led us to the edge of the chart, and then, rather cheerfully, vanished over it."
+   },
+   {
+    "speaker": "sam",
+    "expr": "neutral",
+    "text": "He left a note in the galley, as I recall. It said: Back by Wednesday. We were there for eleven months."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "happy",
+    "text": "I do think it is wonderful that he is consistent."
+   }
+  ]
+ },
+ {
+  "id": "beat_d167",
+  "kind": "beat",
+  "trigger": "element:33_024",
+  "lines": [
+   {
+    "speaker": "hugo",
+    "expr": "happy",
+    "text": "The Dock Crane! A little iron jib on a rotating base, with a hook the size of my thumb, and a chain that clinks like loose change."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "I can lift a mouse with it, Hugo! A real one!"
+   },
+   {
+    "speaker": "hugo",
+    "expr": "neutral",
+    "text": "You may lift one, Barnaby. Not for long. And with its permission."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "He says it's fine, Hugo. He says it's the best ride he's ever had."
+   },
+   {
+    "speaker": "aldous",
+    "expr": "happy",
+    "text": "A mouse lifted by a crane! I believe it is the highest altitude achieved by any member of the family since the last owl."
+   }
+  ]
+ },
+ {
+  "id": "beat_d168",
+  "kind": "beat",
+  "trigger": "element:33_030",
+  "lines": [
+   {
+    "speaker": "prudence",
+    "expr": "neutral",
+    "text": "The Harbour Master's Desk. Every ship that has ever left this Hall's imagination is recorded here, in a fat ledger. Date, cargo, port of call."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Is there a ship that never returned?"
+   },
+   {
+    "speaker": "prudence",
+    "expr": "worried",
+    "text": "There is one. The last entry, dated twenty years ago. The ship's name is Meridian. The cargo is blank, and the port of call is blank. And the Master has written, in the margin: Do not wait for her."
+   },
+   {
+    "speaker": "zephyrine",
+    "expr": "worried",
+    "text": "The Meridian. I know that name. I saw her once, off the southern edge, sailing with all her lamps lit, and no one on deck."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "worried",
+    "text": "Miss Blackwood, you did not tell us."
+   },
+   {
+    "speaker": "zephyrine",
+    "expr": "neutral",
+    "text": "I am telling you now, Cornelia. I did not wish to say it until I was sure that I believed it."
+   }
+  ]
+ },
+ {
+  "id": "beat_d169",
+  "kind": "beat",
+  "trigger": "element:33_036",
+  "lines": [
+   {
+    "speaker": "hugo",
+    "expr": "neutral",
+    "text": "The Chronometer Box. Two gimbals, a brass-bound case, and a very fine clock that keeps time to a fraction of a second. I haven't heard a better."
+   },
+   {
+    "speaker": "zephyrine",
+    "expr": "happy",
+    "text": "A chronometer is a cartographer's best friend. It tells you where you are, by telling you what time it is somewhere else."
+   },
+   {
+    "speaker": "aldous",
+    "expr": "neutral",
+    "text": "A rather philosophical proposition, Zephyrine."
+   },
+   {
+    "speaker": "zephyrine",
+    "expr": "happy",
+    "text": "All good navigation is, Aldous. The world is simple if you know when it is."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "And do we know when it is, Mr Pemberton?"
+   },
+   {
+    "speaker": "hugo",
+    "expr": "neutral",
+    "text": "It's six minutes past four, Cornelia. And according to this, exactly six minutes past four in a place I haven't heard of."
+   }
+  ]
+ },
+ {
+  "id": "beat_d170",
+  "kind": "beat",
+  "trigger": "element:33_042",
+  "lines": [
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "The Gallery Anchor Rope Rail! Real rope, tarred and knotted, with a great brass anchor at the end. It smells wonderfully of ships."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "It smells of tar, Mr Pluck."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "neutral",
+    "text": "That's the same thing, Miss Wren. In a good way."
+   },
+   {
+    "speaker": "sam",
+    "expr": "happy",
+    "text": "I rather like a ship's rail. One feels, leaning on it, as though one were about to say something important, and be believed."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "neutral",
+    "text": "That is the effect of the sea, Sam. Not of the rail."
+   },
+   {
+    "speaker": "sam",
+    "expr": "neutral",
+    "text": "Rosalind, it is the effect of the rail, as well. I have tested it."
+   }
+  ]
+ },
+ {
+  "id": "beat_d171",
+  "kind": "beat",
+  "trigger": "element:33_048",
+  "lines": [
+   {
+    "speaker": "hugo",
+    "expr": "happy",
+    "text": "The Ironclad Model! A grey, rivetted, ridiculous thing, and utterly magnificent. Every plate is the size of a stamp."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "Does it have guns, Hugo?"
+   },
+   {
+    "speaker": "hugo",
+    "expr": "neutral",
+    "text": "Eight, Barnaby. They fire little peas, if you load them right."
+   },
+   {
+    "speaker": "anjali",
+    "expr": "happy",
+    "text": "Peas! I'll bring a bag."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Miss Bose, if there is a pea battle in the Model Ship Hall, I shall resign."
+   },
+   {
+    "speaker": "anjali",
+    "expr": "neutral",
+    "text": "Cornelia, a good commander never resigns. She merely redeploys the peas."
+   }
+  ]
+ },
+ {
+  "id": "beat_d172",
+  "kind": "beat",
+  "trigger": "element:33_054",
+  "lines": [
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "The Great Armada. A hundred ships, in a hundred sizes, drawn up in a long crescent across the floor of the Hall. It is the grandest thing we have restored."
+   },
+   {
+    "speaker": "zephyrine",
+    "expr": "happy",
+    "text": "There is one model missing, Cornelia. At the very centre of the crescent, there is a little round hole, and a brass tag. It says: Meridian."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "Maybe somebody took her for a bath, Miss Wren."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "worried",
+    "text": "Nobody took her. She has not come home. And I have a feeling the Balloon Loft is going to tell us why."
+   },
+   {
+    "speaker": "aldous",
+    "expr": "happy",
+    "text": "I shall bring the binoculars. And a very large bird book."
+   }
+  ]
+ },
+ {
+  "id": "beat_d173",
+  "kind": "beat",
+  "trigger": "element:34_006",
+  "lines": [
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "The Basket Maker's Bench! A pile of cane, a little knife, and a half-woven basket that looks exactly like a hat."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "It is a basket, Mr Pluck."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "neutral",
+    "text": "It's a hat, Miss Wren. I've tried it on. It's a very good hat, and it fits me perfectly."
+   },
+   {
+    "speaker": "anjali",
+    "expr": "happy",
+    "text": "I will fill your hat with sandwiches, Barnaby. It will be the first hat in history to be eaten from."
+   },
+   {
+    "speaker": "mark",
+    "expr": "happy",
+    "text": "I wove one, too. It's, um, got a handle. I think it's a bag."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "neutral",
+    "text": "It is a bag, Mark. A very distinguished one. Don't let anybody tell you otherwise."
+   }
+  ]
+ },
+ {
+  "id": "beat_d174",
+  "kind": "beat",
+  "trigger": "element:34_012",
+  "lines": [
+   {
+    "speaker": "hugo",
+    "expr": "happy",
+    "text": "The Hot Air Burner! A fine brass nozzle, a fuel line, and a cone of blue flame that roars like a lion."
+   },
+   {
+    "speaker": "aldous",
+    "expr": "happy",
+    "text": "Splendid! It is the sound a heron makes, when disturbed at dinner."
+   },
+   {
+    "speaker": "hugo",
+    "expr": "neutral",
+    "text": "I'll take your word for it, Professor. Mind your eyebrows."
+   },
+   {
+    "speaker": "prudence",
+    "expr": "neutral",
+    "text": "I recommend a very large bucket of water, within reach. And a copy of the Fire Regulations."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Miss Quill, you are always so reassuringly pessimistic."
+   },
+   {
+    "speaker": "prudence",
+    "expr": "neutral",
+    "text": "It is the only form of optimism that has ever kept a library intact, Cornelia."
+   }
+  ]
+ },
+ {
+  "id": "beat_d175",
+  "kind": "beat",
+  "trigger": "element:34_018",
+  "lines": [
+   {
+    "speaker": "hugo",
+    "expr": "happy",
+    "text": "The Launch Cart! A little wooden dolly on iron wheels, to carry a basket to the launch deck. It rolls like a dream."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "Can I ride in it, Hugo?"
+   },
+   {
+    "speaker": "hugo",
+    "expr": "neutral",
+    "text": "Not on your own, Barnaby. Not until we've tested the brakes."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "What if I put Hannibal in it, instead?"
+   },
+   {
+    "speaker": "hugo",
+    "expr": "neutral",
+    "text": "Hannibal's an umbrella stand. He's built for a dignified life of standing still."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "surprised",
+    "text": "Hannibal says he's ready to travel, Hugo."
+   }
+  ]
+ },
+ {
+  "id": "beat_d176",
+  "kind": "beat",
+  "trigger": "element:34_024",
+  "lines": [
+   {
+    "speaker": "hugo",
+    "expr": "neutral",
+    "text": "The Air Pressure Gauge. A big brass dial, with a needle that swings between Storm and Fair. I'm telling you now, it's dropping like a stone."
+   },
+   {
+    "speaker": "zephyrine",
+    "expr": "neutral",
+    "text": "That is not a good sign, if we are about to launch."
+   },
+   {
+    "speaker": "aldous",
+    "expr": "happy",
+    "text": "Ha! A storm! Then we shall see the swifts come in. They always know, you see, a good hour before the weather does."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Professor, the swifts are not here."
+   },
+   {
+    "speaker": "aldous",
+    "expr": "worried",
+    "text": "Cornelia, you are right. They should be, and they are not. I do not like it."
+   }
+  ]
+ },
+ {
+  "id": "beat_d177",
+  "kind": "beat",
+  "trigger": "element:34_030",
+  "lines": [
+   {
+    "speaker": "aldous",
+    "expr": "happy",
+    "text": "The Ornithopter! A flying machine with wings of silk and bamboo, and a little steam engine in the middle. It has never flown, you know. Not once."
+   },
+   {
+    "speaker": "hugo",
+    "expr": "happy",
+    "text": "It will, Professor. I've been working on it. A few tweaks to the pivot, a few changes to the flap, and I'd say she's ready for a very short hop."
+   },
+   {
+    "speaker": "aldous",
+    "expr": "happy",
+    "text": "You are going to fly it, Hugo?"
+   },
+   {
+    "speaker": "hugo",
+    "expr": "neutral",
+    "text": "No. I'm going to give it to you."
+   },
+   {
+    "speaker": "aldous",
+    "expr": "surprised",
+    "text": "Me? Oh. Oh, no. I am a bird watcher, not a bird. I am only qualified to look up."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "happy",
+    "text": "A short hop, Professor. Mr Pluck will hold the rope."
+   }
+  ]
+ },
+ {
+  "id": "beat_d178",
+  "kind": "beat",
+  "trigger": "element:34_036",
+  "lines": [
+   {
+    "speaker": "zephyrine",
+    "expr": "neutral",
+    "text": "The Great Altitude Record Balloon. Forty feet of silk, painted with a map of the stars. It rose higher than any balloon in history, and came down in a very surprised sheep field."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "How high, Miss Blackwood?"
+   },
+   {
+    "speaker": "zephyrine",
+    "expr": "neutral",
+    "text": "Higher than the clouds, Barnaby. High enough that the pilot could see the edge of the sea, and a little way beyond it."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Who was the pilot?"
+   },
+   {
+    "speaker": "zephyrine",
+    "expr": "worried",
+    "text": "The Society's founder. He did it alone, in the summer before he vanished. He came down at midnight, and said only: there is a great deal more of it."
+   }
+  ]
+ },
+ {
+  "id": "beat_d179",
+  "kind": "beat",
+  "trigger": "element:34_042",
+  "lines": [
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "The Launch Deck Bell. A bronze bell, hung from a post at the edge of the deck, to signal the departure of every balloon."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "I'll ring it, Miss Wren!"
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "You will ring it when we are ready, Mr Pluck. And not a moment before."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "neutral",
+    "text": "I'll just touch it. Lightly. To see how it feels."
+   },
+   {
+    "speaker": "hugo",
+    "expr": "surprised",
+    "text": "Barnaby, don't!"
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "surprised",
+    "text": "Oh. It rang. Hugo, it rang by itself! I never even touched it!"
+   }
+  ]
+ },
+ {
+  "id": "beat_d180",
+  "kind": "beat",
+  "trigger": "element:34_048",
+  "lines": [
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "The Great Balloon Launch. Every member of the Society is here, on the deck, in the evening sun. And the balloon is rising."
+   },
+   {
+    "speaker": "aldous",
+    "expr": "happy",
+    "text": "There she goes! Oh, how splendid! She is carrying the invitations, you know. Four hundred and sixty-two of them, tied to the basket."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "It's the best thing I've ever seen, Miss Wren. It's like a very large, very slow, very polite bird."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "neutral",
+    "text": "Cornelia, the sky has gone the colour of a good brandy. I think it is a very good omen."
+   },
+   {
+    "speaker": "sam",
+    "expr": "neutral",
+    "text": "I do not trust omens. But I have, on occasion, been persuaded by the weather."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "happy",
+    "text": "The Balloon Loft is restored. And the Society is calling. Let us see who answers."
+   }
+  ]
+ },
+ {
+  "id": "beat_d181",
+  "kind": "beat",
+  "trigger": "element:35_006",
+  "lines": [
+   {
+    "speaker": "mark",
+    "expr": "happy",
+    "text": "The Stargazer's Planter! A big stone trough, full of moonflowers that only open at night. Um, I've been waiting for it to bloom."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "happy",
+    "text": "Mark, it has. Look. Every flower is turned up to the sky, as if it were listening."
+   },
+   {
+    "speaker": "mark",
+    "expr": "neutral",
+    "text": "They're, um, very white. They look like small lamps, on long green stalks."
+   },
+   {
+    "speaker": "zephyrine",
+    "expr": "happy",
+    "text": "I should like to paint them, Rosalind. In silver, on a blue-black ground."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "neutral",
+    "text": "We shall paint them together, Zephyrine. You will provide the stars, and I will provide the stems."
+   }
+  ]
+ },
+ {
+  "id": "beat_d182",
+  "kind": "beat",
+  "trigger": "element:35_012",
+  "lines": [
+   {
+    "speaker": "aldous",
+    "expr": "happy",
+    "text": "The Bird Bath! A shallow stone basin, with a little brass fountain in the middle. And, oh, look, Cornelia. A wren, bathing in the shallow end!"
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Professor, I should like you to explain what that means."
+   },
+   {
+    "speaker": "aldous",
+    "expr": "happy",
+    "text": "It means, my dear Cornelia, that the Observatory Walk is, as far as the birds are concerned, open for business."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "Three robins, a blackbird, and a thrush! They've all come at once!"
+   },
+   {
+    "speaker": "aldous",
+    "expr": "neutral",
+    "text": "It is the first rule of birdwatching, Barnaby. Provide a bath, and everything else will follow."
+   }
+  ]
+ },
+ {
+  "id": "beat_d183",
+  "kind": "beat",
+  "trigger": "element:35_018",
+  "lines": [
+   {
+    "speaker": "rosalind",
+    "expr": "neutral",
+    "text": "The Cloud Watcher's Chair. A deep wicker seat, with a footstool and a blanket. A chair in which one does absolutely nothing at all."
+   },
+   {
+    "speaker": "sam",
+    "expr": "happy",
+    "text": "Rosalind, I would be a magnificent cloud watcher. I have a great deal of experience in doing absolutely nothing."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "neutral",
+    "text": "You do not, Sam. You are the busiest idler in the Society. You merely take your holidays in other people's pockets."
+   },
+   {
+    "speaker": "sam",
+    "expr": "neutral",
+    "text": "Do you know, I believe you are right. I think I have been busy doing nothing for thirty years, and it has been exhausting."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Sit down, Mr Vane. Watch a cloud. It will do you good."
+   }
+  ]
+ },
+ {
+  "id": "beat_d184",
+  "kind": "beat",
+  "trigger": "element:35_024",
+  "lines": [
+   {
+    "speaker": "hugo",
+    "expr": "happy",
+    "text": "The Wind Harp! A set of brass strings, strung across a frame, and played by the breeze. Hear it? Every gust is a chord."
+   },
+   {
+    "speaker": "zephyrine",
+    "expr": "neutral",
+    "text": "It is playing the lullaby. Slowly, and slightly flat."
+   },
+   {
+    "speaker": "hugo",
+    "expr": "neutral",
+    "text": "It's playing it a little wrong, Zephyrine. Look, the sixth string's loose."
+   },
+   {
+    "speaker": "zephyrine",
+    "expr": "happy",
+    "text": "Tighten it, Hugo. And let us hear what happens when it is right."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "worried",
+    "text": "The lullaby, in the open air, over the Observatory Walk. It sounds like the Hall itself is humming."
+   }
+  ]
+ },
+ {
+  "id": "beat_d185",
+  "kind": "beat",
+  "trigger": "element:35_030",
+  "lines": [
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "The Watchers' Lantern. A tall brass lamp on a stone post, at the end of the Walk. It stands at the highest point of the Hall, and its light can be seen for miles."
+   },
+   {
+    "speaker": "prudence",
+    "expr": "neutral",
+    "text": "The record says it was lit every night, for forty years, by whoever was on watch. The last entry is the night of the founder's disappearance."
+   },
+   {
+    "speaker": "aldous",
+    "expr": "happy",
+    "text": "Then we shall light it, and keep it lit. If he is looking for the Hall, he shall see us."
+   },
+   {
+    "speaker": "anjali",
+    "expr": "neutral",
+    "text": "And I will bring up a flask of cocoa. Every watch should have a flask of cocoa."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "worried",
+    "text": "Light it, Mr Pluck. And let us see who comes home."
+   }
+  ]
+ },
+ {
+  "id": "beat_d186",
+  "kind": "beat",
+  "trigger": "element:36_006",
+  "lines": [
+   {
+    "speaker": "mark",
+    "expr": "neutral",
+    "text": "The Terracotta Pots Row. Forty little pots, in a line along the wall, every one with a different herb. It's the most peaceful thing I've ever planted."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "happy",
+    "text": "They are lovely, Mark. I think I shall sit here and draw them."
+   },
+   {
+    "speaker": "mark",
+    "expr": "happy",
+    "text": "You, um, can use my stool."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "neutral",
+    "text": "That is the nicest offer I have had all week. Thank you, my dear."
+   },
+   {
+    "speaker": "anjali",
+    "expr": "neutral",
+    "text": "Please, no drawing of the basil. It is a very vain herb, and it will start posing."
+   }
+  ]
+ },
+ {
+  "id": "beat_d187",
+  "kind": "beat",
+  "trigger": "element:36_012",
+  "lines": [
+   {
+    "speaker": "zephyrine",
+    "expr": "neutral",
+    "text": "The Moon Bench. A stone seat, with a crescent carved into the back, under a trellis of jasmine. I have sat on it before. In a dream, I think, in a very small boat."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Miss Blackwood, you speak as though you have been to every place in this Hall already."
+   },
+   {
+    "speaker": "zephyrine",
+    "expr": "neutral",
+    "text": "I think I have, Cornelia. But not in the right order. Everything here feels like a memory of something that has not happened yet."
+   },
+   {
+    "speaker": "sam",
+    "expr": "worried",
+    "text": "That is the most unsettling thing I have ever heard you say, Zephyrine. And I once heard you describe a plague."
+   },
+   {
+    "speaker": "zephyrine",
+    "expr": "happy",
+    "text": "It was a very minor plague, Sam. We had it under control by Thursday."
+   }
+  ]
+ },
+ {
+  "id": "beat_d188",
+  "kind": "beat",
+  "trigger": "element:36_018",
+  "lines": [
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "The Hanging Lantern Cluster. Forty paper lanterns, in forty colours, strung across the courtyard between the arches."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "It's the loveliest thing, Miss Wren. It's like being inside a rainbow, only warmer."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "happy",
+    "text": "I have always said that a courtyard is just a room with the roof taken off, and the stars put in. Tonight, I see what I meant."
+   },
+   {
+    "speaker": "hugo",
+    "expr": "neutral",
+    "text": "That's thirty-six wings restored, Cornelia. And eleven to go."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Eleven to go, Mr Pemberton. Then the Deep Vaults, and the Forgotten Wing, and the Founder's Study. I think we shall meet him there."
+   },
+   {
+    "speaker": "aldous",
+    "expr": "happy",
+    "text": "Let us have some tea first, my dear. A man cannot meet his founder on an empty stomach."
+   }
+  ]
  }
 ]

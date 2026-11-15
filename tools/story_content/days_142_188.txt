@@ -1,0 +1,312 @@
+== 142
+b h The Silent Bell! It's got no clapper, Miss Wren, so it just hangs there and doesn't ring. I like him. He's sensible.
+h n It does ring, Barnaby. It rings at a pitch too low to hear, and it makes the floor hum. Put your hand on the wall.
+b s Oh! It's like a purr. A very large, very distant purr.
+a n I believe it is a call, rather than a bell. Something is meant to hear it, and I should rather like to know what.
+z n The same something that stands by the third griffin, Professor. Sam and I found the door last night.
+c s You found the door, Miss Blackwood? And you did not wake me?
+== 143
+z n The Great Whisper. A tall brass horn, curled like a shell, that gathers every murmur in the Hall and sends it back from a single point.
+c n And what does it say, now that it is restored?
+s n It says, Cornelia, in a very quiet voice: the third griffin turns left.
+z h And the door behind the third griffin leads to a little spiral stair, and the stair leads to a very old door with a very old lock. It is the Founder's Study, I am quite certain.
+c w The Study is real, then. And we cannot open it until the Hall is ready.
+r w It is real, Cornelia. I have been through that door, once, long ago. When the time comes, I shall go in with you, if you will have me.
+== 144
+b h The Stair Newel Lamp! It's the first one that lights itself when you walk past. Look, Miss Wren, it says hello!
+c n That is a very polite lamp. The Portrait Stair has an excellent standard of hospitality.
+h n It's got a photoelectric cell, Barnaby. Well. A very early one. I'd say it was Ambrose's own design.
+p n A fine device. And I observe that it lights only for members of the Society. It did not light for the League's man, last week.
+c n Did you stand on the stair that day, Miss Quill?
+p h I did. In my best boots. It was extremely satisfying.
+== 145
+r h The Duchess of Peacocks! My dears, I painted her myself. She was a very formidable woman, and she paid in peacocks.
+s h How many peacocks, Rosalind?
+r n Six. Of whom four were very bad-tempered, and two were exquisite. I kept the two.
+b h She's got a peacock on her hat, Miss Thorne, and a peacock on her shawl, and a peacock on her parasol.
+r n She was devoted to them, Barnaby. When she died, she left the Society a single feather, and a note: Remember me by my worst habit.
+== 146
+c n The Empty Frame. A great gilt frame, with nothing in it, hanging at the turn of the stair.
+r n It has been empty for twenty years, Cornelia. It was meant for a portrait of the Society's founding members, painted together. We never found the time to sit.
+a h I shall sit, Rosalind. I shall sit all day, if it is any help. I believe I shall not need to move.
+s n You would have to be moved, Aldous. Like a very handsome lump of granite.
+r h Then we shall fill it, all of us. In good time. When we have finished the rest.
+b w Miss Wren, there's a little brass tag on the corner. It says: Reserved. A.H.
+== 147
+r n The Founder's Great Portrait. Oh, I remember painting this. He would not sit still, and so the whole canvas is a little blurred about the edges.
+c n He looks as though he is about to speak.
+r h He was always about to speak. It was his chief fault, and his greatest charm. Look at the eyes. I painted them last, at three in the morning, and he said they were the first honest likeness of him.
+z n The eyes are looking at the wall to his left, Rosalind. The wall where the Founders' Gallery begins.
+c w Then that is where we shall go next. Let us see what Ambrose wished to show us.
+== 148
+c n The Founder's Hat Stand. A dark oak post, with three brass hooks and, upon the highest, a single top hat. It is dusty, and very slightly warm.
+b h It's still got the shape of his head in it, Miss Wren! Look!
+p n Leave it where it hangs, Mr Pluck. It is the only object in the Hall which has never been moved, and it is a great comfort to the Archives.
+s n It is rather like seeing a man's ghost, but only from the back.
+a h I have a very strong urge to lift it off and look inside. I do not, I am happy to say, have the nerve.
+c n Neither have I, Professor. I mean to keep it on its hook until the man himself returns to collect it.
+== 149
+p n The Founding Charter Frame. The original Charter of the Curio Society, signed by nine members, in nine different inks.
+c n Only eight signatures are legible, Miss Quill.
+p n The ninth has faded. It is Ambrose's. And beneath it, in a very different ink, a line that has been added: Revised. By A. H. The day he vanished.
+h n Somebody went into the Founders' Gallery on the last day, then, and changed the Charter.
+p w Not changed it. Added to it. A new clause, at the very bottom, in letters so small that it needs a magnifying glass. I have the glass.
+r n What does the clause say, Prudence?
+p w It says: Should the Hall fall silent, the Society shall be re-formed by whoever opens the doors.
+== 150
+c n The Founder's Writing Desk. The very desk at which he wrote the Charter, and all the great letters to the Society. Mahogany, with a green leather top.
+s h May I sit? Just for a moment, Cornelia. I have wanted to sit in that chair for twenty years.
+c n You may sit, Mr Vane. But you may not open the drawers.
+s w I would not dream of it. I have spent half my life trying to open this man's drawers, and I would like, for once, to try being polite.
+b h There's a note under the blotter, Mr Vane! Look!
+s s It is addressed to me. It says: Sam, you were right about the monarchs. Go and apologise to Rosalind.
+r n Oh, how very like him. He never could resist having the last word.
+== 151
+h h The Gallery Skylight Lantern! A great glass cage with a hundred little panes, and in the middle a lamp that lights the whole Gallery from above.
+a h A splendid piece, Hugo, and the light, my goodness, it is exactly the colour of a barn owl's breast.
+h n It'll want a bit of wire, a spot of oil, and a very fine chain. I'll make it good as new.
+c n Mr Pemberton, you could not make a thing worse if you tried.
+h h That's the nicest thing anyone's ever said to me, Cornelia. I'll put it on a card.
+b n I'll write it on my cuff.
+== 152
+p n The Founder's Diary Stand. An oak lectern, with a leather diary open at a page in the middle of the last winter. The pages afterwards have been cut out.
+c w The cuts are the same as the ones in the Folio. A single sharp blade, and a very steady hand.
+p n I have compared the cuts, Cornelia. They match, but not in any way that I can explain. They are, in fact, too clean. They were made by a blade that is very old, and was sharpened yesterday.
+z n I know someone who sharpens old blades. A cartographer called Rook. I will find him.
+r w Zephyrine, take Sam. He may be of use, for once.
+s h Rosalind, my dear, I have always been of use. It is merely that the use was not always lawful.
+== 153
+h h The Founder's Gramophone! A brass horn the size of a lily, a wax cylinder, and a needle that's been sharpened by someone who knew what they were doing.
+c n Will it play, Mr Pemberton?
+h n It plays, Cornelia. But it's not a recording of anyone's voice. It's a very slow, quiet rhythm. Tick. Pause. Tick. Tick. Pause.
+a n That is a code, surely.
+p n Morse. Slowed by a factor of ten. And it is saying: WEDNESDAY. NOON. THE CLOCK TOWER.
+c w The Clock Tower. That is wing forty-six, Miss Quill. We are a long way off.
+b w Miss Wren, it's a Wednesday today.
+== 154
+c n The Founding Fire. The great hearth of the Gallery, which has stood cold for twenty years, and which I have just lit.
+r h Oh, Cornelia. It is the loveliest thing I have seen since I came back. Do you hear the fire? It is singing.
+a h The whole Society is here. All of us, together, in front of the founding fire. I believe it is the first time since the winter he vanished.
+s n Cornelia, I should like to say, in front of all these people, that I came to the Hall to steal it, and I will stay to guard it.
+c h Mr Vane, that is the nicest thing you have said in thirty years. The Society, as of this evening, has a quorum.
+b h Three cheers for Miss Wren!
+== 155
+r n The Parlour Palm. A great spray of green fronds in a brass pot, to shade the music boxes from the afternoon sun.
+m h It's in, um, rather good health. I think it was waiting for somebody to talk to it.
+r h Everyone is, Mark. Talk to it for ten minutes a day, and it will outlive us all.
+j n In the Tea Room, we talk to the dough. It works exactly the same way.
+b h I talk to Hannibal, Miss Bose. He's an excellent listener. He never interrupts.
+== 156
+h h The Carousel Music Box! A little merry-go-round of painted horses, turning on a brass spindle, and playing a waltz in a very sweet tin voice.
+b h Can I wind it, Hugo?
+h n Gently, Barnaby. Three turns, no more. You don't want to tell it how you're feeling.
+b h Oh! It plays a different tune each time, Hugo!
+h w It plays the tune that wants to be played. I've never seen a box that did that before, and I'd like to know who put the idea in it.
+== 157
+p n The Dancing Doll Box. The lid opens, a little porcelain dancer rises, and she turns on one toe to a very delicate melody.
+r n She is exquisite. I painted her portrait once, in watercolour. She was the only sitter I have ever had who did not complain.
+z n Each of her movements corresponds to a point on a compass. I should say she is also a chart, and I should say that she is pointing at the Clock Tower.
+c n Then everything is pointing at the Clock Tower, Miss Blackwood.
+z h Everything but the pigeons, Cornelia. They have their own agenda.
+== 158
+h h The Great Music Box. Seven hundred pins, and I've mended every one. Cornelia, would you like to hear what it plays?
+c n Mr Pemberton, I would.
+h h It's the lullaby. All of it, with the sixth note put back. And listen. When the sixth note sounds, something in the wall clicks.
+a w A panel has opened, behind the pipes. There is a stack of pages inside. Cut pages. Pages from the Folio, and from the diary.
+p w Every one of them. In order. It will take me a week to read them, and I will not sleep.
+c n Then I shall send up a very large pot of tea, Miss Quill. And a great many biscuits.
+== 159
+p n The Drying Line. A row of damp prints hanging from a cord, each one a poster for a Society lecture of long ago. A Talk on Larks. A Debate on the Moon.
+b h A Concert for Seventeen Triangles! Who on earth went to that, Miss Quill?
+p n Seventeen triangles went, Mr Pluck. And they were, I am told, a great success.
+s h I attended a lecture on Moths, in this very Hall, with a young woman who has since become an exacting archivist.
+p s Mr Vane, you were not at that lecture. I would have remembered.
+s n Prudence, I was in the back row. I was the one who laughed at the wrong place.
+== 160
+r h The Colour Ink Cans! Every shade of the rainbow, in a row of brass-lidded pots. I could paint the whole Hall.
+m h Miss Thorne, I painted something this week. It's not very good.
+r n Show me, Mark. Do. Oh, my dear, this is a snail. It is a very good snail, and it has a most interesting look about the eye.
+m h It's a snail with a hat. I thought, um, everything's better with a hat.
+r h Mark Bloom. You have a gift. You must paint a hundred more.
+== 161
+p n The Engraving Bench. A copper plate, a burin, and a little brass magnifier. I find that I am rather fond of it.
+c n Miss Quill, you are smiling.
+p n It is a very good bench, Cornelia. It reminds me that it is possible to make a mark that lasts for a hundred years, if one is patient and does not tremble.
+a h Prudence, I do believe you are the only person I know who thinks of patience as a pleasure.
+p n I think of patience as a form of revenge, Aldous. It is a good deal more satisfying.
+== 162
+h h The Typecaster! A little brass furnace, and a mould for casting a letter at a time. It pops out a perfect A every three seconds.
+b h I can make a whole alphabet, Hugo!
+h n You can, and I'll help. Careful with the hot lead. We'll make you a set of your own. One for each of your good remarks.
+b h A whole fount, Hugo! A fount of wisdom!
+c n Mr Pluck, I do not believe that is what the word means. But I shall allow it.
+== 163
+p n The Printing Revolution. A great iron press, operated by a crank, and still wet with a fresh black ink I cannot account for.
+c n Has someone been printing, Miss Quill?
+p n The first sheet is on the tray. It reads: The Curio Society invites its members, living, lapsed, and long forgotten, to return to the Hall. Signed: C. Wren, Curator. I did not write it.
+r h Nor did I. But it is a very handsome sheet, Cornelia. And I rather think we should send it.
+c n Mr Pluck, you will take it to the post. All four hundred and sixty-two copies.
+b h Aye, Miss Wren! I shall need a very large bag.
+== 164
+b h The Glue Pot! A little iron pot, always simmering, and always smelling of horse. Miss Wren, I've stuck three things to my sleeve already.
+c n Do stop sticking things to your sleeve, Mr Pluck.
+h n You've got to wait for the glue to set, Barnaby. It's a patient craft, shipbuilding. The only way to hurry it is to do it twice.
+j h I make a very good glue from flour and water. And I have never once stuck anything to my sleeve.
+b s Miss Bose, you have glue on your sleeve now.
+j n That, Barnaby, is a béchamel. It is a very different thing.
+== 165
+h h The Mast Maker's Lathe! A great round of oak turning slowly, and a long ribbon of shavings curling off the tool.
+z n Every mast is a promise, Hugo. A promise that the ship will come home.
+h n They don't always, Zephyrine.
+z n No. But the masts are always straight. That is the part that is under our control.
+c n I should like that on the wall of the Curator's Office, Miss Blackwood. Every mast is a promise.
+b h I'll write it on a card, Miss Wren.
+== 166
+z h The Schooner Model! Three masts, forty sails, a little bronze figurehead of a woman with her hair blowing back. She is the Wanderer. I sailed in her.
+c n Miss Blackwood, you sailed in a model?
+z n I sailed in the ship she was copied from. And the ship, in turn, sailed in Ambrose's wake. He led us to the edge of the chart, and then, rather cheerfully, vanished over it.
+s n He left a note in the galley, as I recall. It said: Back by Wednesday. We were there for eleven months.
+r h I do think it is wonderful that he is consistent.
+== 167
+h h The Dock Crane! A little iron jib on a rotating base, with a hook the size of my thumb, and a chain that clinks like loose change.
+b h I can lift a mouse with it, Hugo! A real one!
+h n You may lift one, Barnaby. Not for long. And with its permission.
+b h He says it's fine, Hugo. He says it's the best ride he's ever had.
+a h A mouse lifted by a crane! I believe it is the highest altitude achieved by any member of the family since the last owl.
+== 168
+p n The Harbour Master's Desk. Every ship that has ever left this Hall's imagination is recorded here, in a fat ledger. Date, cargo, port of call.
+c n Is there a ship that never returned?
+p w There is one. The last entry, dated twenty years ago. The ship's name is Meridian. The cargo is blank, and the port of call is blank. And the Master has written, in the margin: Do not wait for her.
+z w The Meridian. I know that name. I saw her once, off the southern edge, sailing with all her lamps lit, and no one on deck.
+c w Miss Blackwood, you did not tell us.
+z n I am telling you now, Cornelia. I did not wish to say it until I was sure that I believed it.
+== 169
+h n The Chronometer Box. Two gimbals, a brass-bound case, and a very fine clock that keeps time to a fraction of a second. I haven't heard a better.
+z h A chronometer is a cartographer's best friend. It tells you where you are, by telling you what time it is somewhere else.
+a n A rather philosophical proposition, Zephyrine.
+z h All good navigation is, Aldous. The world is simple if you know when it is.
+c n And do we know when it is, Mr Pemberton?
+h n It's six minutes past four, Cornelia. And according to this, exactly six minutes past four in a place I haven't heard of.
+== 170
+b h The Gallery Anchor Rope Rail! Real rope, tarred and knotted, with a great brass anchor at the end. It smells wonderfully of ships.
+c n It smells of tar, Mr Pluck.
+b n That's the same thing, Miss Wren. In a good way.
+s h I rather like a ship's rail. One feels, leaning on it, as though one were about to say something important, and be believed.
+r n That is the effect of the sea, Sam. Not of the rail.
+s n Rosalind, it is the effect of the rail, as well. I have tested it.
+== 171
+h h The Ironclad Model! A grey, rivetted, ridiculous thing, and utterly magnificent. Every plate is the size of a stamp.
+b h Does it have guns, Hugo?
+h n Eight, Barnaby. They fire little peas, if you load them right.
+j h Peas! I'll bring a bag.
+c n Miss Bose, if there is a pea battle in the Model Ship Hall, I shall resign.
+j n Cornelia, a good commander never resigns. She merely redeploys the peas.
+== 172
+c n The Great Armada. A hundred ships, in a hundred sizes, drawn up in a long crescent across the floor of the Hall. It is the grandest thing we have restored.
+z h There is one model missing, Cornelia. At the very centre of the crescent, there is a little round hole, and a brass tag. It says: Meridian.
+b h Maybe somebody took her for a bath, Miss Wren.
+c w Nobody took her. She has not come home. And I have a feeling the Balloon Loft is going to tell us why.
+a h I shall bring the binoculars. And a very large bird book.
+== 173
+b h The Basket Maker's Bench! A pile of cane, a little knife, and a half-woven basket that looks exactly like a hat.
+c n It is a basket, Mr Pluck.
+b n It's a hat, Miss Wren. I've tried it on. It's a very good hat, and it fits me perfectly.
+j h I will fill your hat with sandwiches, Barnaby. It will be the first hat in history to be eaten from.
+m h I wove one, too. It's, um, got a handle. I think it's a bag.
+r n It is a bag, Mark. A very distinguished one. Don't let anybody tell you otherwise.
+== 174
+h h The Hot Air Burner! A fine brass nozzle, a fuel line, and a cone of blue flame that roars like a lion.
+a h Splendid! It is the sound a heron makes, when disturbed at dinner.
+h n I'll take your word for it, Professor. Mind your eyebrows.
+p n I recommend a very large bucket of water, within reach. And a copy of the Fire Regulations.
+c n Miss Quill, you are always so reassuringly pessimistic.
+p n It is the only form of optimism that has ever kept a library intact, Cornelia.
+== 175
+h h The Launch Cart! A little wooden dolly on iron wheels, to carry a basket to the launch deck. It rolls like a dream.
+b h Can I ride in it, Hugo?
+h n Not on your own, Barnaby. Not until we've tested the brakes.
+b h What if I put Hannibal in it, instead?
+h n Hannibal's an umbrella stand. He's built for a dignified life of standing still.
+b s Hannibal says he's ready to travel, Hugo.
+== 176
+h n The Air Pressure Gauge. A big brass dial, with a needle that swings between Storm and Fair. I'm telling you now, it's dropping like a stone.
+z n That is not a good sign, if we are about to launch.
+a h Ha! A storm! Then we shall see the swifts come in. They always know, you see, a good hour before the weather does.
+c n Professor, the swifts are not here.
+a w Cornelia, you are right. They should be, and they are not. I do not like it.
+== 177
+a h The Ornithopter! A flying machine with wings of silk and bamboo, and a little steam engine in the middle. It has never flown, you know. Not once.
+h h It will, Professor. I've been working on it. A few tweaks to the pivot, a few changes to the flap, and I'd say she's ready for a very short hop.
+a h You are going to fly it, Hugo?
+h n No. I'm going to give it to you.
+a s Me? Oh. Oh, no. I am a bird watcher, not a bird. I am only qualified to look up.
+c h A short hop, Professor. Mr Pluck will hold the rope.
+== 178
+z n The Great Altitude Record Balloon. Forty feet of silk, painted with a map of the stars. It rose higher than any balloon in history, and came down in a very surprised sheep field.
+b h How high, Miss Blackwood?
+z n Higher than the clouds, Barnaby. High enough that the pilot could see the edge of the sea, and a little way beyond it.
+c n Who was the pilot?
+z w The Society's founder. He did it alone, in the summer before he vanished. He came down at midnight, and said only: there is a great deal more of it.
+== 179
+c n The Launch Deck Bell. A bronze bell, hung from a post at the edge of the deck, to signal the departure of every balloon.
+b h I'll ring it, Miss Wren!
+c n You will ring it when we are ready, Mr Pluck. And not a moment before.
+b n I'll just touch it. Lightly. To see how it feels.
+h s Barnaby, don't!
+b s Oh. It rang. Hugo, it rang by itself! I never even touched it!
+== 180
+c n The Great Balloon Launch. Every member of the Society is here, on the deck, in the evening sun. And the balloon is rising.
+a h There she goes! Oh, how splendid! She is carrying the invitations, you know. Four hundred and sixty-two of them, tied to the basket.
+b h It's the best thing I've ever seen, Miss Wren. It's like a very large, very slow, very polite bird.
+r n Cornelia, the sky has gone the colour of a good brandy. I think it is a very good omen.
+s n I do not trust omens. But I have, on occasion, been persuaded by the weather.
+c h The Balloon Loft is restored. And the Society is calling. Let us see who answers.
+== 181
+m h The Stargazer's Planter! A big stone trough, full of moonflowers that only open at night. Um, I've been waiting for it to bloom.
+r h Mark, it has. Look. Every flower is turned up to the sky, as if it were listening.
+m n They're, um, very white. They look like small lamps, on long green stalks.
+z h I should like to paint them, Rosalind. In silver, on a blue-black ground.
+r n We shall paint them together, Zephyrine. You will provide the stars, and I will provide the stems.
+== 182
+a h The Bird Bath! A shallow stone basin, with a little brass fountain in the middle. And, oh, look, Cornelia. A wren, bathing in the shallow end!
+c n Professor, I should like you to explain what that means.
+a h It means, my dear Cornelia, that the Observatory Walk is, as far as the birds are concerned, open for business.
+b h Three robins, a blackbird, and a thrush! They've all come at once!
+a n It is the first rule of birdwatching, Barnaby. Provide a bath, and everything else will follow.
+== 183
+r n The Cloud Watcher's Chair. A deep wicker seat, with a footstool and a blanket. A chair in which one does absolutely nothing at all.
+s h Rosalind, I would be a magnificent cloud watcher. I have a great deal of experience in doing absolutely nothing.
+r n You do not, Sam. You are the busiest idler in the Society. You merely take your holidays in other people's pockets.
+s n Do you know, I believe you are right. I think I have been busy doing nothing for thirty years, and it has been exhausting.
+c n Sit down, Mr Vane. Watch a cloud. It will do you good.
+== 184
+h h The Wind Harp! A set of brass strings, strung across a frame, and played by the breeze. Hear it? Every gust is a chord.
+z n It is playing the lullaby. Slowly, and slightly flat.
+h n It's playing it a little wrong, Zephyrine. Look, the sixth string's loose.
+z h Tighten it, Hugo. And let us hear what happens when it is right.
+c w The lullaby, in the open air, over the Observatory Walk. It sounds like the Hall itself is humming.
+== 185
+c n The Watchers' Lantern. A tall brass lamp on a stone post, at the end of the Walk. It stands at the highest point of the Hall, and its light can be seen for miles.
+p n The record says it was lit every night, for forty years, by whoever was on watch. The last entry is the night of the founder's disappearance.
+a h Then we shall light it, and keep it lit. If he is looking for the Hall, he shall see us.
+j n And I will bring up a flask of cocoa. Every watch should have a flask of cocoa.
+c w Light it, Mr Pluck. And let us see who comes home.
+== 186
+m n The Terracotta Pots Row. Forty little pots, in a line along the wall, every one with a different herb. It's the most peaceful thing I've ever planted.
+r h They are lovely, Mark. I think I shall sit here and draw them.
+m h You, um, can use my stool.
+r n That is the nicest offer I have had all week. Thank you, my dear.
+j n Please, no drawing of the basil. It is a very vain herb, and it will start posing.
+== 187
+z n The Moon Bench. A stone seat, with a crescent carved into the back, under a trellis of jasmine. I have sat on it before. In a dream, I think, in a very small boat.
+c n Miss Blackwood, you speak as though you have been to every place in this Hall already.
+z n I think I have, Cornelia. But not in the right order. Everything here feels like a memory of something that has not happened yet.
+s w That is the most unsettling thing I have ever heard you say, Zephyrine. And I once heard you describe a plague.
+z h It was a very minor plague, Sam. We had it under control by Thursday.
+== 188
+c n The Hanging Lantern Cluster. Forty paper lanterns, in forty colours, strung across the courtyard between the arches.
+b h It's the loveliest thing, Miss Wren. It's like being inside a rainbow, only warmer.
+r h I have always said that a courtyard is just a room with the roof taken off, and the stars put in. Tonight, I see what I meant.
+h n That's thirty-six wings restored, Cornelia. And eleven to go.
+c n Eleven to go, Mr Pemberton. Then the Deep Vaults, and the Forgotten Wing, and the Founder's Study. I think we shall meet him there.
+a h Let us have some tea first, my dear. A man cannot meet his founder on an empty stomach.

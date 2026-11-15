@@ -1,0 +1,300 @@
+== 95
+z h The Fountain of the Four Winds! Look, Cornelia. North, south, east and west, each blowing a thin silver stream into the basin.
+c n It is rather a theatrical thing for a Court.
+z n The winds are not theatre, they are a compass. Each stream leans a little toward one wall, and all four lean toward the same corner of the Hall.
+s n The south-west, near the griffins. I had noticed the draught myself. I merely assumed it was an unlocked window.
+z h In this building, Sam, an unlocked window and an unlocked secret are the same thing. Tomorrow, the Giants.
+== 96
+p n The Giant Tusk Rack. Twelve tusks, in order of size, and every one the length of a boat.
+b h Miss Quill, I could hang my entire wardrobe on one of them!
+p n You could hang a wardrobe on any of them, Mr Pluck. The point is that they are catalogued, and so I know precisely which one is missing.
+c n One is missing, Miss Quill?
+p w The thirteenth. The index lists it, and the rack has a bracket for it, but the bracket is empty. And the dust inside the bracket is thinner than anywhere else in the Hall.
+== 97
+a h The Giraffe Neck! Cornelia, you have no idea what I would give to see this fellow in his element. He is the tallest creature the Society ever stood beside.
+b h How did they get him through the door, Professor?
+a n They did not. They built the door afterwards, around him. It is why the arch is so oddly shaped.
+h n Elegant engineering, that. I'd like to have seen the scaffolding.
+a s Oh dear. I appear to have put my spectacles on the giraffe.
+== 98
+m h The Giant Sloth Claw. It is, um, very good for a climbing plant. The ivy takes it right up to the rafters.
+c n Mr Bloom, you have been speaking a great deal today.
+m s Have I? Sorry. I'll stop.
+c h Do not stop. It is a considerable improvement. I only noticed because the Hall seems to have been listening.
+j n Sloths are very sensible creatures. They do one thing at a time, and they do it slowly, and they never burn the toast.
+== 99
+j h The Colossal Spider Crab! Two metres across, and every leg a different shade of coral.
+b w I'm not going near it, Miss Bose. It's got too many opinions.
+j n Nonsense. Spider crab is delicious. The Sargasso cook had a recipe involving sherry and a very large pot.
+s h I once ate one in Marseilles. A very sincere experience, with a very expensive bill. I believe I paid it with Ambrose's money.
+c n Mr Vane.
+s n I mean to say that I intend to pay it back, Cornelia. Along with the rest of it. All in good time.
+== 100
+r n Forgive the intrusion, my dears. The door stood open, and I have never learned to resist an open door. Rosalind Thorne, patroness, painter of plants, and, I am told, the last unpaid bill of the Society.
+c n Miss Thorne. We had not dared to hope.
+r h Dear Cornelia. You look exactly as severe as you did when I left. It is the most comforting thing I have seen all week.
+b h Miss Thorne! You painted the roses on the Atrium ceiling!
+r n I did, Barnaby, and I was very pleased with them, and I was twenty years younger. Now, let me look at this great beast. Hall's Great Beast, the label says. How very like Ambrose, to have a beast.
+r w He said to me once, the night before he vanished: if the Hall wakes up, Rosalind, you must be the one to tell them what it was for. I have been waiting two decades to find out whether I should.
+c w Then stay, Miss Thorne, and we shall see.
+== 101
+r n The Net Rack. A hundred butterfly nets, in bamboo and muslin. I had forgotten how elegant a thing can be when it has only one purpose.
+m n They're perfectly balanced. Whoever made them understood that catching a butterfly is mostly about not trying too hard.
+r h A rare insight, Mark. Do you know, I believe you and I shall get on very well.
+b h I tried one on the mice, Miss Thorne. They simply stood there and let me.
+r n Then, Barnaby, you are either a gentle man or a very persuasive one. I rather think both.
+== 102
+h h The Hercules Beetle! He's got a horn on him like a crowbar, and a shell like a clock case.
+a h A magnificent insect, Hugo. Strong enough to lift eight hundred times his own weight.
+b n Could he lift Hannibal, Professor?
+a n Hannibal is, I believe, a good deal heavier than eight hundred beetles.
+h n It's only a matter of leverage. Give me a long enough pole and a beetle with the right attitude, and I'll lift the whole Atrium.
+== 103
+p n The Praying Mantis. A masterpiece of the mounter's art. The pose is, I believe, entirely correct.
+s h Prudence, you look as though you disapprove of it.
+p n I disapprove of its habits, Mr Vane, not its posture. It has the manners of a collector, and the table manners of a very bad one.
+s s I shall take that as a compliment, as I take all your remarks.
+r h That is the only way to take them, Sam. Prudence has never paid a compliment in her life. She has only once paid a bill.
+== 104
+z n The Atlas Moth. Thirty centimetres of wing, and a little false snake's head on each tip, to fool the birds.
+a h Marvellous! It does not run away, you see. It simply makes itself look like something worse.
+c n A strategy I have considered more than once, Professor, when facing the Society's committee.
+z h I like it. An atlas for a name, and a snake for a disguise. It has everything a cartographer could wish.
+b h Can I put it on the Balloon Loft map, Miss Blackwood, as a joke?
+z n You may try, Barnaby. The Balloon Loft will make up its own mind.
+== 105
+c n The Termite Mound. A tower of red clay, nine feet high, built by a billion tiny hands.
+m h They're very organised, Miss Wren. Every one has a job, and nobody argues about whose turn it is to make the tea.
+j n Then they are better than any kitchen I have worked in.
+h n It's a clockwork of its own, that. A great many small parts, all moving to the same time.
+c n I am beginning to see what the founder meant by a Hall that keeps. It is made of a great many small parts, all of which have to keep working. Do forgive me, I am becoming sentimental.
+== 106
+b w The Scorpion Case. Miss Wren, there are forty of them, and all of them are looking at me.
+c n They are mounted, Mr Pluck. They are not looking at anyone.
+s h I have been in a room with a living one, and I can assure you the mounted variety are a great improvement. It was in a hotel in Tangier. One does not forget a bedsheet with a tail on it.
+r n Sam, you have the most appalling luck with hotels.
+s n Rosalind, I have the most appalling luck with everything except you.
+r h Darling, that is the nicest thing you have ever said, and you said it in front of a scorpion.
+== 107
+j h The Caterpillar Parade! Forty little velvet caterpillars, all marching in a line along a branch. I could eat them. I mean, I could dress them. In small hats.
+m n Please don't dress them in hats, Anjali.
+j h Mark, they would be so happy.
+a n It is an excellent tableau. Notice that the leader has a little bite out of the leaf, and the others have not. The leader is always hungry.
+c h I believe that is true of every procession I have ever led, Professor.
+== 108
+a h The Oak Gall Basket! Little brown balls, each one a wasp's nursery, and each one the source of the finest ink in the world.
+p n Iron gall ink. It lasts for centuries. Half the Archives is written in it, and the other half is written in grief.
+r n You are very bleak this morning, Prudence.
+p n I am only accurate, Rosalind. It is a habit of the profession.
+b w Is that why Ambrose's letters are brown and not black, Miss Quill?
+p s Good heavens, Mr Pluck. Yes. It is. Whoever wrote them used a ten-year-old ink on a twenty-year-old page. Which means they were written last month.
+== 109
+j h The Beehive Honey Jar! Amber, thick, and still sweet after all this time. May I?
+c n Miss Bose, it is an exhibit.
+j n Cornelia, a jar of honey is not an exhibit until it has been used. It is merely a very expensive paperweight.
+h h A man's got to agree with her. The honey's warm, as well, you know. Somebody's kept the hive at the right temperature, in a room with no heating.
+m w That is not possible. Is it?
+r n In this Hall, Mark, I have learned never to say that word.
+== 110
+m h The Great Colony! Every ant, every bee, every wasp, in a glass nest the size of a wardrobe. And they're all, um, doing something useful.
+c h Mr Bloom, you are right. The Insectarium is restored, and for the first time in twenty years, every creature in this Hall has a job.
+s n I should like a job. Something dignified, with an ample budget.
+c n Mr Vane, you may sweep the Colony. The ants will supervise.
+z n A letter for you, Cornelia. It came by the morning post, in a heavy cream envelope. The seal is gilt, and the crest is a pair of golden scales.
+c w The Gilded League. Their offer is a kind one, which is the most dangerous kind. They wish to buy the Hall, and all that is in it, for a very handsome price.
+s w They have never stopped wanting it, Cornelia. I should know. I used to write their letters.
+== 111
+r h The Pressed Flower Frame! Oh, my dears. Every petal in its place, every stem the colour of a good memory.
+m h It's the finest herbarium frame I've ever seen, Miss Thorne.
+r n It was a gift, Mark. From a man who could not tell a rose from a rutabaga, and who pressed this one for me anyway.
+c n Ambrose.
+r w He was a dreadful gardener, Cornelia. And the only man I knew who could make a flower feel important. Do not tell the others.
+== 112
+r n The Pollen Microscope. Every grain a tiny jewel, every jewel a different shape.
+m h Look at this one, Miss Thorne. It looks like a spiked ball. And this one's a little crown.
+r h Mark, you have the eye of a painter. You should hold a brush, not a trowel.
+m s I don't think I'm very good at, um, painting.
+r n No one is good at it until they have done it badly for ten years. Come to my studio on Thursday, and bring a very poor flower.
+== 113
+j h The Carnivorous Bog Jar! A little pitcher plant, with a lid like a tiny hat, and a puddle of something delicious at the bottom.
+b n I wouldn't put my finger in, Miss Bose.
+j n I have no intention of doing so. The recipe for pitcher-plant jelly is a closely guarded secret, and I mean to guard it very closely.
+a s Do you know, I once saw a pitcher plant drown a bat? A very small bat. It did not look unhappy.
+c n Professor, we do not need to know that.
+== 114
+m h The Coffee Tree! Real coffee. A whole branch of red berries, ripe and shining.
+j h Mark! Give me that branch at once. I shall roast it, grind it, and make the finest cup of coffee in the history of the Society.
+c n Miss Bose, do not roast the exhibit.
+j n Cornelia, I would never. I would take only the berries that fall.
+b h I've got a bowl, Miss Bose! They just fell. Two dozen of them. All at once.
+== 115
+a h The Seed Pod Mobile! A hundred seed pods, dangling from fine brass wires, and turning in the draught.
+r n You may hear them rattle if you walk beneath. Each one a different note.
+h n It's a wind chime made of pods. I'd never have thought of that.
+r h Hugo, you'd never have thought of it because it is not a machine. It is simply beautiful, and does nothing at all.
+h h I'll have you know, Rosalind, I've started to appreciate things that do nothing at all. It's the best thing about this place.
+== 116
+r n The Great Botanical Atlas. Every plant the Society ever collected, drawn and named. Half of it is mine, the other half is the work of the Hall itself.
+m n There's a page near the back that is blank, with a title: Unrecorded. And, um, a little pressed flower that I don't recognise.
+r s Mark, show me. Dear God. It is a flower that has never grown in any garden I have visited.
+z w It is a flower from the edge of the map, Rosalind. I brought a seed home, years ago. I gave it to the founder, and I did not ask why.
+c w Then he planted it somewhere in this Hall. We must find the plant.
+== 117
+j n The Pill Tile. Small, round, grey, and very much in need of a spoonful of sugar. I remember this tile from the ship.
+m n Did people really take these?
+j h Every day, and with great ceremony, Mark. Then they were sick, and I fed them broth, and they took another.
+a h I was once cured of a cough by one of these. Or I was cured of the cough by the horror of taking it. Hard to say.
+c n The Apothecary Annex is open, then. Professor, you will go first.
+== 118
+a s The Leech Jar. Do you know, I had a very odd feeling just now. As though the jar were looking at me.
+b w It's the leeches, Professor. They look at everyone. It's the whole point of them.
+s n I consulted a leech once, in Lyons. He was most reassuring. Told me I was in perfect health, apart from a degree of moral decay.
+c n It is a very distinguished leech, Mr Vane, if it can diagnose the Society's patron at a distance.
+r h Do give him my regards, Sam. I should like to know what he thinks of me.
+== 119
+j h The Eye Bath Cups! Tiny glass cups, with a lip shaped to fit around the eye. A wonderfully peculiar invention.
+b h I tried one, Miss Bose. It's quite refreshing. Like having a very small cold bath in the face.
+j n Then you will tell me whether it works, Barnaby. I do not have the stomach for it.
+m n Does it work, Barnaby?
+b s I don't know. I can see an awful lot of tiny stars, though. All the way up to the top of the Dome.
+p n It is working very well, Mr Pluck. You are seeing things that were not previously visible.
+== 120
+m h The Herb Jar Shelf. Rosemary, thyme, sage, and a very old jar labelled Remembrance. I think it's just rosemary.
+r n It is just rosemary, Mark. The name was a little joke between Ambrose and me. He said it was for the days when the Hall forgot itself.
+c n That is why it has a place at the front of the shelf, I suppose.
+m h Can I grow some? In the Conservatory. For, um, remembering.
+c n Mr Bloom, you may grow as much remembrance as you like. It is one of the few things the Hall is short of.
+== 121
+p n The Remedy Ledger Stand. Every patient, every ailment, every prescription, in the hand of the apothecary. It is a meticulous document.
+a n Prudence, is there any mention of a bird in it? I think I may have been prescribed a bird at some stage.
+p n Professor, there is no such remedy as a bird. There is, however, a prescription for you on page nine, and it says: rest, tea, and fewer swifts.
+c w There is another entry. Dated the eve of his vanishing. A. Hall: one draught, to be taken at the clock. Not to be repeated.
+p w Which clock, Cornelia? That is the question.
+== 122
+h n The Spirit Lamp. A little blue flame in a glass cup. I could cook a very small egg on it.
+j h Oh, I could do a great deal better than an egg, Hugo. Hand it over.
+h h I'll polish it for you, Anjali. You'll never see a flame so true.
+b n Why do they call it a spirit lamp, Miss Wren? Are there spirits in it?
+c n It burns spirits of wine, Mr Pluck. Not those sort of spirits. We are far too well bred for that.
+== 123
+z n The Dragon's Blood Jar. A resin the colour of dried roses, and as sweet as incense. It comes from a tree on an island that is not on any chart.
+s n Then how do you know where it is, Zephyrine?
+z h Because I have been there. It is shaped like a thumb, and it smells of vanilla, and the natives are the politest people in the world.
+c h I should like to see it. When the Hall is finished, I mean to take a holiday.
+b s Miss Wren! You said holiday! Can I write that on my cuff?
+== 124
+b h The Chemist's Counter Bell! One ding, and a very sleepy apothecary comes shuffling out of the back.
+c n Mr Pluck, there is no apothecary.
+b n I know, Miss Wren. But I've been ringing it all morning, and every time, a bottle moves.
+a w A bottle moves.
+b h Yes, Professor! A very small one, three inches to the left. It's trying to help.
+r h Then we shall see to it that it gets a very good review.
+== 125
+h n The Sulphur Block. Bright yellow, and it smells of a match gone wrong. I'd keep it well away from the music box.
+s h Hugo, you have the most sensible instincts. A pity so few of them are applied to the people around you.
+h h Ha! I'll take that as a compliment, Sam, and I'll try to find a polite way to kick you out of the room.
+j n Is it safe, Hugo? Because I wish to make a lemon tart in the Annex, and I will need the Spirit Lamp.
+h n It's safe, Anjali, as long as nobody lights a match in the vicinity of the block. Or of Sam.
+== 126
+a n The Test Tube Rack. Thirty glass tubes, each labelled with a letter, and each containing a drop of coloured water.
+p n The letters, Professor. Read them in order.
+a s A, N, D, R, E... no, it is: R, E, M, E, M, B, E, R. Remember. Over and over, in a ring.
+c w Whoever set this out wanted us to see it, and wanted us to read it. Remember what?
+r n It is not an instruction, Cornelia. It is a plea.
+== 127
+h n The Philosopher's Crucible. A little pot of black iron, with a handle shaped like a serpent. It's said to turn lead into gold, though I have yet to see it do a thing.
+s h Hugo, if it could, I would have it in my pocket by now.
+r n You would not know what to do with a pocketful of gold, Sam. You would spend it by Thursday, and borrow more by Friday.
+s n That is a very good description of my entire career, Rosalind. And a very accurate one.
+z h I would put a few coins in it, to see what happened. For science. And for fun.
+== 128
+j h The Dragon Scale Salve! A pot of thick green cream that smells of mint and thunderstorms. I made it for the sailors, when they had blisters.
+m n It's, um, surprisingly effective, Anjali. I tried it on my thumb.
+j h Of course it is. I developed it on the longest voyage the Society ever mounted. Never mind the dragon. It is mostly lard, mint, and good cheer.
+c n It is the finest thing in the Annex, then. You will take a jar to every member of the Society.
+j n All of them? Cornelia, there are four hundred and sixty-two.
+c h I am quite certain, Miss Bose, that you can manage.
+== 129
+p n The Grand Pharmacopoeia. All of it, from aconite to zinc. Seven hundred pages, bound in green cloth, with the founder's own annotations in the margins.
+a h Splendid! And is there any remedy for forgetfulness?
+p n There is. Page four hundred and twelve. It says: Seek the thing you have lost, where you last put it down. A very sensible prescription.
+c w There is a note under it, in the founder's hand. And where did I put it down, I wonder? In the one place I never look.
+z w That is the oldest trick in the book, Cornelia. He hid it in plain sight.
+r n The Annex is restored, my dears. Now, come and let us see the gems. I confess I have missed them dreadfully.
+== 130
+r h The Ring Cushion! A hundred little rings, each in its own velvet hollow. I recognise nearly every one.
+s h Rosalind, I do believe you recognise some of them from your own hand.
+r n Sam, if you have been looking at my hand, I shall ask you to return what you took from it.
+s s I took nothing, I swear! I only admired. Once. In 1887.
+c n I suggest we move on, before Mr Vane is forced to confess to anything further.
+== 131
+r n The Opal Heart Case. A single stone, the size of a hen's egg, with a fire in it that moves.
+s w Cornelia, I must tell you something. When I came to this Hall I meant to take this. I came with a very good plan, and a very small chisel.
+c n I know, Mr Vane. I have known for some time.
+s s You knew?
+c n Mr Pluck followed you on your first night. He has been carrying your chisel in his apron pocket ever since.
+b h It's a very good chisel, Mr Vane! I've been keeping it sharp.
+== 132
+r h The Crown Jewels of the Society! The tiara, the necklace, the little silver ring I wore when I became patroness. They are all here, all clean, and all in their places.
+s h And not a single one in my pocket, Cornelia. I should like it noted in the minutes.
+c n It shall be noted, Mr Vane. Under the heading of Remarkable Events.
+r n Dear Sam. You have grown. One notices it in the way you stand, a little further from the exit.
+s n Rosalind, I have been looking for that exit for twenty years. I find I do not much mind not finding it.
+b h We should have a party, Miss Wren! A proper one, with jelly!
+== 133
+z h The Cosmic Dust Jar! A thimbleful of the sky, collected from the roof of a cathedral in Prague. I wonder what it dreamed of, before it fell.
+a n A small, grey, unambitious dream, I should think. Of being a very large star.
+h n It's the last grain of a star, that, Professor. And it's going to sit very nicely next to my best pair of tweezers.
+c n The Meteorite Chamber is open. Mr Pemberton, do not touch anything that is warm.
+h s Cornelia, everything in this room is warm.
+== 134
+z n The Tektite Beads. Small black beads of glass, formed in the moment a meteorite hits the ground. Every one a tiny scar from the sky.
+r n They would make a very fine necklace.
+z h I made one once, for the king of a small island. He wore it every day, and said it brought him good fortune.
+s n And what became of the king?
+z n He lost his island in a game of cards. But he kept the necklace, and said it was a good bargain.
+== 135
+a h The Moon Rock Case! A genuine sliver of the moon, brought down by the Society's own expedition.
+b w How did they get it, Professor? Did they go up in a balloon?
+a n They did not, Barnaby. The moon dropped it, on a Tuesday, in a field in Kent. A farmer noticed it, and was very upset about his turnips.
+c n Professor, that is not what the label says.
+a n The label has been tidied up, Cornelia. For the visitors.
+== 136
+h h The Shooting Star Mobile! A cluster of silver stars, each one on a little spring, so they sway and twinkle in the air.
+b h It's the best thing in the room, Hugo!
+h n It's only a mobile, Barnaby. But I'll admit, every time it moves, I feel it in my chest. As if somebody had finally got the timing right.
+p n It is a very calming effect. I recommend it to anyone who has been rearranging Archives for eight weeks.
+m h I've been standing underneath it for ten minutes. I don't think I want to move.
+== 137
+z w The Planet Core Sample. A cylinder of rock, drawn from a hole a mile deep. At the very bottom, a layer of something that does not belong to the rest.
+r n What is it, Zephyrine?
+z n I do not know, Rosalind. The assayer said it was a very old kind of metal. The founder said it was a message. I did not like to ask which of them was right.
+c w If it is a message, Miss Blackwood, who is it from?
+z w From the bottom of the world. Or, perhaps, from a man who wished to be taken for a very old kind of metal. I shall let you know when I find out.
+== 138
+h h The Impact Glass Vase! A shape like a tulip, formed from sand that got hit by a falling rock. It rings when you tap it. A very pure E-flat.
+j h Oh, let me. It would make a lovely sound for a dinner bell.
+h n Anjali, you tap it, and I'll tell you precisely which pitch it is.
+j n E-flat, Hugo?
+h h You're a natural, Anjali. You tapped it exactly in the middle, as if you'd done it all your life.
+j h I have done it all my life. With a spoon, on a great many pots.
+== 139
+a h The Skyfall Altar! A great slab of black stone, on which the largest meteorite in the Society's collection rests, like a cat on a cushion.
+c n The Meteorite Chamber is whole. It has taken three weeks, and I have not had a decent cup of tea since the second.
+j h Cornelia, I made you a cup this morning. It is on your desk.
+c s Miss Bose. When?
+j n At eight o'clock. I left it on the blotter, beside the card that says Wednesday.
+c w There is no cup, Miss Bose. And the card has been in the drawer for months.
+== 140
+b n The Whispering Shell. Miss Wren, if I hold it to my ear, I can hear somebody talking. But it's very faint.
+c n What does it say, Mr Pluck?
+b s It says your name. And then it says: Not yet.
+p w That is the same phrase Zephyrine found on her chart. Tell Cornelia. Not yet.
+c w Whoever is saying it knows precisely what we are doing, and wishes us to continue. I find that more reassuring than I ought.
+== 141
+p n The Dumbwaiter of Secrets. A small lift in the wall of the Cabinet, which was used for passing notes between the curators.
+b h It's in perfect working order, Miss Quill! It goes up and down, and nobody falls out!
+p n It also has a secret compartment, which I have just opened. Inside, a single folded letter.
+c w Read it aloud, please.
+p w It says: Dear Cornelia, if you are reading this, you are further than I expected. I am proud of you. Do not trust the League. And have a biscuit.
+c w He wrote that. In his own hand. And somehow, I believe that was the last biscuit in the Hall.
