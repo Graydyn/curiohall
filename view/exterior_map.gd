@@ -129,17 +129,32 @@ func _build_wing(area: int, w: Control) -> void:
         w.add_child(p)
         w.add_child(_label(String(row["name"]), w.size, Color(CurioTheme.CREAM, 0.35)))
     if st == Campaign.AreaState.ACTIVE:
-        var glow := Panel.new()
-        glow.name = "Glow"
-        glow.position = inset
-        glow.size = w.size - inset * 2.0
-        glow.mouse_filter = Control.MOUSE_FILTER_IGNORE
-        var sb := _box(Color(1.0, 0.82, 0.45, 0.10), Color(1.0, 0.82, 0.45, 0.6), 18, 3)
-        sb.shadow_color = Color(1.0, 0.75, 0.35, 0.5)
-        sb.shadow_size = 24
-        glow.add_theme_stylebox_override("panel", sb)
-        w.add_child(glow)
-        _pulses.append(glow)
+        var halo := _halo_texture() if tex != null else null
+        if halo != null:
+            # Painted wing: a soft gaslight halo behind the building.
+            var hr := TextureRect.new()
+            hr.name = "Glow"
+            hr.texture = halo
+            hr.size = w.size * 1.3
+            hr.position = (w.size - hr.size) * 0.5
+            hr.expand_mode = TextureRect.EXPAND_IGNORE_SIZE
+            hr.stretch_mode = TextureRect.STRETCH_SCALE
+            hr.mouse_filter = Control.MOUSE_FILTER_IGNORE
+            w.add_child(hr)
+            w.move_child(hr, 0)
+            _pulses.append(hr)
+        else:
+            var glow := Panel.new()
+            glow.name = "Glow"
+            glow.position = inset
+            glow.size = w.size - inset * 2.0
+            glow.mouse_filter = Control.MOUSE_FILTER_IGNORE
+            var sb := _box(Color(1.0, 0.82, 0.45, 0.10), Color(1.0, 0.82, 0.45, 0.6), 18, 3)
+            sb.shadow_color = Color(1.0, 0.75, 0.35, 0.5)
+            sb.shadow_size = 24
+            glow.add_theme_stylebox_override("panel", sb)
+            w.add_child(glow)
+            _pulses.append(glow)
         var scaf := HallArt.ui("scaffold")
         if scaf != null:
             var s := TextureRect.new()
@@ -157,6 +172,23 @@ func _build_wing(area: int, w: Control) -> void:
         win.size = w.size
         win.mouse_filter = Control.MOUSE_FILTER_IGNORE
         w.add_child(win)
+
+## Soft radial gaslight halo (drawn in-engine so it always stays soft).
+static var _halo: GradientTexture2D
+
+static func _halo_texture() -> GradientTexture2D:
+    if _halo == null:
+        var g := Gradient.new()
+        g.set_color(0, Color(1.0, 0.8, 0.45, 0.55))
+        g.set_color(1, Color(1.0, 0.75, 0.35, 0.0))
+        _halo = GradientTexture2D.new()
+        _halo.gradient = g
+        _halo.fill = GradientTexture2D.FILL_RADIAL
+        _halo.fill_from = Vector2(0.5, 0.5)
+        _halo.fill_to = Vector2(1.0, 0.5)
+        _halo.width = 256
+        _halo.height = 256
+    return _halo
 
 func _placeholder(row: Dictionary, st: int, sz: Vector2, inset: Vector2) -> Control:
     var fill: Color

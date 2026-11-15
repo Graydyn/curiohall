@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c4j7bj0h7xuhd"
-path="res://.godot/imported/style_probe_lamp.png-a4fddeb0fd0a626b1d93523abadb69e8.ctex"
+uid="uid://n0dtw8u455fp"
+path="res://.godot/imported/badge_glow.png-a08fdb61c9c31d72ed7d75c05240c121.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/map/style/style_probe_lamp.png"
-dest_files=["res://.godot/imported/style_probe_lamp.png-a4fddeb0fd0a626b1d93523abadb69e8.ctex"]
+source_file="res://assets/map/ui/badge_glow.png"
+dest_files=["res://.godot/imported/badge_glow.png-a08fdb61c9c31d72ed7d75c05240c121.ctex"]
 
 [params]
 
@@ -23,7 +23,7 @@ compress/rdo_quality_loss=0.0
 compress/hdr_compression=1
 compress/normal_map=0
 compress/channel_pack=0
-mipmaps/generate=false
+mipmaps/generate=true
 mipmaps/limit=-1
 roughness/mode=0
 roughness/src_normal=""

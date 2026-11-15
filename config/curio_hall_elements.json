@@ -74,8 +74,8 @@
    "2_4"
   ],
   "pos": [
-   90,
-   320
+   552,
+   1252
   ],
   "subject": "a cast-iron umbrella stand shaped like a small seated elephant, its raised trunk and hollow back holding walking canes and a furled black umbrella",
   "looks": [
@@ -92,7 +92,8 @@
     "instruction": "make the elephant glazed blue-and-white porcelain with delicate painted willow and floral patterns, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": "beat_umbrella_elephant"
+  "beat": "beat_umbrella_elephant",
+  "size": 140
  },
  {
   "id": "02_002",
@@ -105,10 +106,10 @@
    "2_7"
   ],
   "pos": [
-   270,
-   320
+   88,
+   870
   ],
-  "subject": "a tall Victorian brass standard gaslamp with three frosted glass globes glowing warm amber, on a heavy round base",
+  "subject": "a tall Victorian brass standard gaslamp with three warm amber frosted glass globes, on a heavy round base",
   "looks": [
    {
     "name": "Brass trio",
@@ -123,7 +124,8 @@
     "instruction": "make the globes cut crystal hung with sparkling glass drops, the brass polished bright, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": "beat_d002"
+  "beat": "beat_d002",
+  "size": 160
  },
  {
   "id": "02_003",
@@ -136,8 +138,8 @@
    "3_3"
   ],
   "pos": [
-   450,
-   320
+   232,
+   900
   ],
   "subject": "a carved oak lectern holding a huge open leather-bound ledger with blank cream pages and a quill in a brass inkwell",
   "looks": [
@@ -154,7 +156,8 @@
     "instruction": "make the lectern a polished brass eagle with outspread wings carrying the ledger on its back, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 125
  },
  {
   "id": "02_004",
@@ -167,8 +170,8 @@
    "3_6"
   ],
   "pos": [
-   630,
-   320
+   210,
+   785
   ],
   "subject": "a lush kentia palm in a large glazed jardiniere on a short carved stand",
   "looks": [
@@ -185,7 +188,8 @@
     "instruction": "replace the palm with a spray of pale pink orchids and trailing ferns in a cream majolica pot, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 135
  },
  {
   "id": "02_005",
@@ -197,8 +201,8 @@
    "3_8"
   ],
   "pos": [
-   90,
-   580
+   508,
+   895
   ],
   "subject": "a marble bust of a bearded Victorian gentleman explorer with a high collar, on a fluted column pedestal",
   "looks": [
@@ -215,7 +219,8 @@
     "instruction": "add a gilded laurel wreath on his head and a burgundy velvet drape over the pedestal, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": "beat_d003"
+  "beat": "beat_d003",
+  "size": 135
  },
  {
   "id": "02_006",
@@ -228,8 +233,8 @@
    "4_3"
   ],
   "pos": [
-   270,
-   580
+   618,
+   1000
   ],
   "subject": "a plump stuffed dodo bird with a faintly offended expression under a tall glass bell dome on a round mahogany base",
   "looks": [
@@ -246,7 +251,9 @@
     "instruction": "make the dodo a gleaming brass clockwork automaton with visible gears and a wind-up key, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "art_bg": "soft",
+  "size": 135
  },
  {
   "id": "02_007",
@@ -259,8 +266,8 @@
    "4_6"
   ],
   "pos": [
-   450,
-   580
+   522,
+   780
   ],
   "subject": "a tall Victorian longcase grandfather clock in carved mahogany with a brass pendulum behind glass and a plain painted dial with simple tick marks and no numbers",
   "looks": [
@@ -277,7 +284,8 @@
     "instruction": "paint the case deep teal scattered with small gilt stars and a crescent moon dial, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 150
  },
  {
   "id": "02_008",
@@ -289,8 +297,8 @@
    "4_8"
   ],
   "pos": [
-   630,
-   580
+   375,
+   1272
   ],
   "subject": "a small curved Victorian admissions desk of mahogany and brass with a brass service bell, a neat stack of blank tickets and a little potted fern",
   "looks": [
@@ -307,7 +315,8 @@
     "instruction": "give the desk a green-veined marble top and carved burgundy front panels, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": "beat_d004"
+  "beat": "beat_d004",
+  "size": 150
  },
  {
   "id": "02_009",
@@ -320,8 +329,8 @@
    "5_3"
   ],
   "pos": [
-   90,
-   840
+   108,
+   1005
   ],
   "subject": "an antique brass deep-sea diving suit with a round riveted helmet and canvas body, standing on a low wooden display plinth",
   "looks": [
@@ -338,7 +347,8 @@
     "instruction": "make the helmet gleaming gold and the suit burgundy canvas with brass trim, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 150
  },
  {
   "id": "02_010",
@@ -351,10 +361,10 @@
    "5_6"
   ],
   "pos": [
-   270,
-   840
+   238,
+   1065
   ],
-  "subject": "a huge spiral ammonite fossil standing upright on a carved stone plinth",
+  "subject": "a huge spiral ammonite fossil in warm ochre and umber tones standing upright on a dark carved walnut plinth",
   "looks": [
    {
     "name": "Stone fossil",
@@ -369,7 +379,9 @@
     "instruction": "make the ammonite polished gilded bronze on a black marble plinth, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "art_bg": "soft",
+  "size": 135
  },
  {
   "id": "02_011",
@@ -381,8 +393,8 @@
    "5_8"
   ],
   "pos": [
-   450,
-   840
+   200,
+   1258
   ],
   "subject": "a curved Victorian button-back settee upholstered in deep teal velvet with carved mahogany legs",
   "looks": [
@@ -399,7 +411,8 @@
     "instruction": "make the frame pale woven cane with cream floral chintz cushions, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": "beat_d005"
+  "beat": "beat_d005",
+  "size": 170
  },
  {
   "id": "02_012",
@@ -413,8 +426,8 @@
    "6_4"
   ],
   "pos": [
-   630,
-   840
+   88,
+   1145
   ],
   "subject": "a tall teetering stack of travel-worn leather steamer trunks, a hatbox and a rolled-up rug, as if just back from an expedition",
   "looks": [
@@ -431,7 +444,9 @@
     "instruction": "cover the trunks with colourful faded travel stickers that have only pictures and no lettering, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "art_bg": "soft",
+  "size": 150
  },
  {
   "id": "02_013",
@@ -444,8 +459,8 @@
    "6_7"
   ],
   "pos": [
-   90,
-   1100
+   498,
+   1065
   ],
   "subject": "a model hot-air balloon with a striped envelope and a tiny wicker gondola, floating on a brass rod above a round mahogany stand",
   "looks": [
@@ -462,7 +477,8 @@
     "instruction": "change the balloon into a small cigar-shaped brass and canvas airship with a propeller, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": "beat_d006"
+  "beat": "beat_d006",
+  "size": 140
  },
  {
   "id": "02_014",
@@ -475,8 +491,8 @@
    "7_3"
   ],
   "pos": [
-   270,
-   1100
+   636,
+   870
   ],
   "subject": "a long spiralled narwhal tusk mounted upright on a carved mahogany plinth with a brass collar",
   "looks": [
@@ -493,7 +509,8 @@
     "instruction": "make the tusk gilded with a fine gold spiral inlay and a teal velvet plinth, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 145
  },
  {
   "id": "02_015",
@@ -506,8 +523,8 @@
    "7_6"
   ],
   "pos": [
-   450,
-   1100
+   632,
+   1140
   ],
   "subject": "a small round two-tier marble fountain with a bronze heron at the top and water trickling into the basin",
   "looks": [
@@ -524,7 +541,8 @@
     "instruction": "fill the basin with water lilies and pink lotus flowers, the heron stone grey, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 155
  },
  {
   "id": "02_016",
@@ -537,8 +555,8 @@
    "7_9"
   ],
   "pos": [
-   630,
-   1100
+   372,
+   955
   ],
   "subject": "a huge antique terrestrial globe of imaginary continents with no lettering, held in a brass meridian ring on a carved mahogany stand with lion-paw feet",
   "looks": [
@@ -555,7 +573,8 @@
     "instruction": "make the globe glowing translucent glass lit warmly from within, the continents in soft amber, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": "beat_expedition_globe"
+  "beat": "beat_expedition_globe",
+  "size": 210
  },
  {
   "id": "03_001",

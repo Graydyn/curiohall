@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cf5t5df3y6svg"
-path="res://.godot/imported/style_probe_globe.png-2315ca311adf6319120d3d09512cbd79.ctex"
+uid="uid://iaeb1swtd1y5"
+path="res://.godot/imported/02_005_2.png-c370a12549bc37e88d620665f23934a1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/map/style/style_probe_globe.png"
-dest_files=["res://.godot/imported/style_probe_globe.png-2315ca311adf6319120d3d09512cbd79.ctex"]
+source_file="res://assets/map/elements/02/02_005_2.png"
+dest_files=["res://.godot/imported/02_005_2.png-c370a12549bc37e88d620665f23934a1.ctex"]
 
 [params]
 
@@ -23,7 +23,7 @@ compress/rdo_quality_loss=0.0
 compress/hdr_compression=1
 compress/normal_map=0
 compress/channel_pack=0
-mipmaps/generate=false
+mipmaps/generate=true
 mipmaps/limit=-1
 roughness/mode=0
 roughness/src_normal=""

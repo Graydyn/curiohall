@@ -12,15 +12,20 @@ FAILED_PATH = os.path.join(ROOT, BASE, "jobs_failed.json")
 
 # `sectilia generate` has no --style (only edit does), so generates carry the
 # shared look through --theme.
-STYLE_THEME = ("painted Victorian gaslamp, soft Ghibli-like light, deep teal burgundy "
-               "cream brass palette, calm and dreamy, no text or lettering")
+# Not "gaslamp": the generator took that literally and added an oil lamp to
+# almost every subject (elephant, ledger, bust).
+STYLE_THEME = ("painted Victorian storybook illustration, soft Ghibli-like light, warm "
+               "evening glow, deep teal burgundy cream brass palette, calm and dreamy, "
+               "no text or lettering")
 STYLE_INSTRUCTION = ("match the style of the reference images; keep the subject, "
                      "framing and viewpoint identical")
 
 
 def raw_path(rel):
-    """Unstyled intermediate for the --style-pass: assets/map/_raw/<basename>."""
-    return "%s/_raw/%s" % (BASE, os.path.basename(rel))
+    """Intermediate (style-pass raw, or a scene before fitting):
+    assets/map/_raw/<path under assets/map>, so names never collide."""
+    sub = rel[len(BASE) + 1:] if rel.startswith(BASE + "/") else os.path.basename(rel)
+    return "%s/_raw/%s" % (BASE, sub)
 
 CAST = ["cornelia", "barnaby", "aldous", "sam", "mark", "anjali", "hugo",
         "prudence", "zephyrine", "rosalind", "ambrose"]

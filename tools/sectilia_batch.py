@@ -19,6 +19,9 @@ import art_common as C  # noqa: E402
 
 TIMEOUT = {"background": 3600}
 DEFAULT_TIMEOUT = 600
+# Passed to sectilia as --timeout so it exits 7 with the job id (resumable via
+# _pending) before an agent shell or our own subprocess timeout kills it.
+CLI_TIMEOUT = 540
 MAX_QUEUE_RETRIES = 5     # exit 7 with submitted:false -> rerun same command
 MAX_WAIT_ROUNDS = 6       # exit 7 with submitted:true -> sectilia wait again
 QUEUE_SLEEP = 60
@@ -75,6 +78,8 @@ def build_argv(e, jobs, dry=False):
             argv += ["--facing", a["facing"]]
         if a.get("theme"):
             argv += ["--theme", a["theme"]]
+        for k in a.get("style_keys", []):
+            argv += ["--style", ref(k)]
     elif cmd == "edit":
         argv += [ref(e["source_key"]), "--instruction", a["instruction"],
                  "--spec", json.dumps(a["spec"])]
@@ -89,7 +94,7 @@ def build_argv(e, jobs, dry=False):
             argv += ["--style-job", ref(k)]
     else:
         raise EntryFailed("unknown cmd '%s'" % cmd)
-    argv += ["--out", out]
+    argv += ["--timeout", str(CLI_TIMEOUT), "--out", out]
     return argv
 
 
@@ -129,21 +134,46 @@ def describe(code, data):
                                   json.dumps(err.get("detail", "")))
 
 
+def newest_job_since(t0, kind, runner=None):
+    """Id of the newest job of `kind` created at or after epoch t0, else None."""
+    try:
+        code, data = (runner or run)(["sectilia", "jobs", "--limit", "1"], 60)
+        j = (data.get("jobs") or [])[0]
+    except (subprocess.TimeoutExpired, IndexError, AttributeError):
+        return None
+    if code != 0 or (j.get("request") or {}).get("kind") != kind:
+        return None
+    from datetime import datetime
+    try:
+        created = datetime.fromisoformat(j["created_at"].replace("Z", "+00:00")).timestamp()
+    except (KeyError, ValueError):
+        return None
+    return j.get("id") if created >= t0 - 5 else None
+
+
 def run_entry(e, jobs, runner=run, sleep=time.sleep, job_id=None, on_pending=None):
     """Run one entry to completion. Returns the job id. Raises EntryFailed
     (skip this entry) or StopBatch (stop everything)."""
     argv = build_argv(e, jobs)
-    timeout = TIMEOUT.get(e["cmd"], DEFAULT_TIMEOUT) + 100
+    timeout = CLI_TIMEOUT + 120
     out = e["out"]
     os.makedirs(os.path.dirname(os.path.join(C.ROOT, out)), exist_ok=True)
     queue_tries = 0
     wait_rounds = 0
+    started = time.time()
     note = on_pending or (lambda jid: None)
     while True:
-        cmdline = argv if job_id is None else ["sectilia", "wait", job_id, "--out", out]
+        cmdline = argv if job_id is None else ["sectilia", "wait", job_id, "--timeout",
+                                               str(CLI_TIMEOUT), "--out", out]
         try:
             code, data = runner(cmdline, timeout)
         except subprocess.TimeoutExpired:
+            if job_id is None:
+                # sectilia ignores --timeout while a job is queued for a cold
+                # server; recover the id of the job we just submitted.
+                job_id = newest_job_since(started, e["cmd"], runner)
+                if job_id:
+                    note(job_id)
             raise StopBatch("local timeout after %ss running %s; %s" % (
                 timeout, cmdline[1], "resume later with `sectilia wait %s --out %s` "
                 "(rerun this batch, it resumes pending jobs)" % (job_id, out)
@@ -196,6 +226,30 @@ def run_entry(e, jobs, runner=run, sleep=time.sleep, job_id=None, on_pending=Non
         raise EntryFailed("unexpected: " + describe(code, data))
 
 
+def final_out(e):
+    """The file an entry finally produces (the fitted copy for `fit` entries)."""
+    return (e.get("fit") or {}).get("out") or e["out"]
+
+
+def apply_fit(e):
+    """Cover-fit (scale to cover, centre crop) the raw output to fit.size."""
+    fit = e.get("fit")
+    if not fit:
+        return
+    from PIL import Image
+    src = Image.open(os.path.join(C.ROOT, e["out"])).convert("RGBA")
+    bbox = src.getchannel("A").getbbox()
+    if bbox:
+        src = src.crop(bbox)
+    w, h = fit["size"]
+    s = max(w / src.width, h / src.height)
+    im = src.resize((max(w, round(src.width * s)), max(h, round(src.height * s))), Image.LANCZOS)
+    x, y = (im.width - w) // 2, (im.height - h) // 2
+    dst = os.path.join(C.ROOT, fit["out"])
+    os.makedirs(os.path.dirname(dst), exist_ok=True)
+    im.crop((x, y, x + w, y + h)).convert("RGB").save(dst)
+
+
 def load_failed(path=None):
     try:
         with open(path or C.FAILED_PATH, encoding="utf-8") as f:
@@ -225,7 +279,10 @@ def run_manifest(entries, limit=None, jobs_path=None, runner=run, sleep=time.sle
     stop = None
     pending = []
     for e in entries:
-        if os.path.exists(os.path.join(C.ROOT, e["out"])):
+        if os.path.exists(os.path.join(C.ROOT, final_out(e))):
+            skipped += 1
+        elif e.get("fit") and os.path.exists(os.path.join(C.ROOT, e["out"])):
+            apply_fit(e)
             skipped += 1
         else:
             pending.append(e)
@@ -248,10 +305,12 @@ def run_manifest(entries, limit=None, jobs_path=None, runner=run, sleep=time.sle
         try:
             jid = run_entry(e, jobs, runner, sleep, pending_map.get(key), note)
             pending_map.pop(key, None)
+            apply_fit(e)
             if jid:
                 jobs[key] = jid
             save_jobs(jobs, jobs_path)
-            failed_log.pop(key, None)
+            if failed_log.pop(key, None) is not None:
+                save_failed(failed_log, failed_path)
             done += 1
             log("ok   %s -> %s" % (key, jid))
         except EntryFailed as ex:
@@ -285,7 +344,7 @@ def main(argv=None):
     if a.dry_run:
         n = 0
         for e in entries:
-            if os.path.exists(os.path.join(C.ROOT, e["out"])):
+            if os.path.exists(os.path.join(C.ROOT, final_out(e))):
                 continue
             if a.limit is not None and n >= a.limit:
                 break

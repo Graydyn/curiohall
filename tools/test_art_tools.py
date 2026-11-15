@@ -8,6 +8,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import art_common as C  # noqa: E402
 import art_manifest as M  # noqa: E402
 import sectilia_batch as B  # noqa: E402
+import clean_sprite as CS  # noqa: E402
 
 
 class ManifestTests(unittest.TestCase):
@@ -22,8 +23,9 @@ class ManifestTests(unittest.TestCase):
                 self.assertIn(e["source_key"], keys)
             else:
                 self.assertEqual(e["cmd"], "generate")
-                self.assertNotIn("style_keys", e["args"])
+                self.assertEqual(e["args"]["style_keys"], ["style_core_1"])
                 self.assertEqual(e["args"]["theme"], C.STYLE_THEME)
+                self.assertEqual(e["args"]["spec"]["background"], M.CHROMA)
                 self.assertEqual(e["args"]["spec"]["canvas_size"], [384, 384])
         self.assertEqual(m[0]["out"], "assets/map/elements/01/01_001_0.png")
 
@@ -57,17 +59,41 @@ class ManifestTests(unittest.TestCase):
             mm = M.build(kind, {1}, ["s"], True)
             self.assertTrue(any(e["key"].endswith("_raw") for e in mm))
 
-    def test_generate_argv_never_has_style(self):
-        for kind in ("elements", "portraits", "exterior-wings"):
+    def test_generate_argv_style_refs(self):
+        """Default: generates carry --style refs. Legacy style pass: the raw
+        generate has none and the edit carries them."""
+        for kind in ("elements", "portraits", "exterior-wings", "ui"):
             for sp in (False, True):
                 for e in M.build(kind, {1}, ["s1"], sp):
                     if e["cmd"] == "generate":
                         argv = B.build_argv(e, {"s1": "J"})
-                        self.assertNotIn("--style", argv)
                         self.assertIn("--theme", argv)
+                        if sp:
+                            self.assertNotIn("--style", argv)
+                        else:
+                            self.assertEqual(argv[argv.index("--style") + 1], "J")
                     elif e["cmd"] == "edit" and e["args"].get("style_keys"):
                         argv = B.build_argv(e, {"s1": "J", e["source_key"]: "S"})
                         self.assertIn("--style", argv)
+
+    def test_scenes_via_generate_keep_and_fit(self):
+        m = M.build("wing-scenes", {2}, ["s1"], scenes_via="generate")
+        e = m[0]
+        self.assertEqual(e["cmd"], "generate")
+        self.assertEqual(e["args"]["spec"]["background"], M.KEEP)
+        self.assertEqual(e["args"]["spec"]["canvas_size"], M.SCENE_GEN_CANVAS)
+        self.assertIn("/_raw/", e["out"])
+        self.assertEqual(e["fit"]["out"], C.scene_path(2, 0))
+        self.assertLessEqual(len(e["args"]["subject"]), 500)
+        self.assertEqual(B.final_out(e), C.scene_path(2, 0))
+        self.assertEqual(M.build("wing-scenes", {2})[0]["cmd"], "background")
+
+    def test_ui_pieces(self):
+        m = M.build("ui", None, ["s1"])
+        outs = {e["out"] for e in m}
+        for name in ("scaffold", "society_seal", "nav_button", "task_card_frame",
+                     "speech_bubble", "picker_frame"):
+            self.assertIn("assets/map/ui/%s.png" % name, outs)
 
     def test_portraits(self):
         m = M.build("portraits")
@@ -92,6 +118,44 @@ def entry(key, cmd="generate", out=None, source=None):
 
 
 class BatchTests(unittest.TestCase):
+    def test_apply_fit_cover_crops(self):
+        from PIL import Image
+        with tempfile.TemporaryDirectory(dir=C.ROOT) as d:
+            rel = os.path.relpath(d, C.ROOT)
+            Image.new("RGBA", (200, 300), (10, 20, 30, 255)).save(os.path.join(d, "raw.png"))
+            e = {"out": rel + "/raw.png", "fit": {"size": [72, 128], "out": rel + "/fit.png"}}
+            B.apply_fit(e)
+            im = Image.open(os.path.join(d, "fit.png"))
+            self.assertEqual(im.size, (72, 128))
+            self.assertEqual(im.mode, "RGB")
+
+    def test_clean_sprite_strips_pale_shadow_only(self):
+        from PIL import Image
+        im = Image.new("RGBA", (40, 40), (0, 0, 0, 0))
+        for x in range(5, 35):
+            for y in range(28, 36):
+                im.putpixel((x, y), (190, 196, 194, 255))   # pale grey shadow
+        for x in range(10, 30):
+            for y in range(5, 30):
+                im.putpixel((x, y), (40, 90, 95, 255))      # teal subject
+        for x in range(14, 18):
+            for y in range(10, 14):
+                im.putpixel((x, y), (200, 200, 198, 255))   # pale marble inside
+        out, n = CS.clean(im)
+        self.assertGreater(n, 0)
+        self.assertEqual(out.getpixel((6, 32))[3], 0)
+        self.assertEqual(out.getpixel((20, 20))[3], 255)
+        self.assertEqual(out.getpixel((15, 11))[3], 255)
+
+    def test_newest_job_since(self):
+        import time as _t
+        now = _t.time()
+        iso = _t.strftime("%Y-%m-%dT%H:%M:%SZ", _t.gmtime(now))
+        data = {"jobs": [{"id": "J1", "created_at": iso, "request": {"kind": "generate"}}]}
+        self.assertEqual(B.newest_job_since(now - 10, "generate", lambda a, t: (0, data)), "J1")
+        self.assertIsNone(B.newest_job_since(now + 100, "generate", lambda a, t: (0, data)))
+        self.assertIsNone(B.newest_job_since(now - 10, "edit", lambda a, t: (0, data)))
+
     def test_parse_stdout_pretty_printed(self):
         out = '{\n  "id": "abc",\n  "status": "succeeded"\n}\n'
         self.assertEqual(B.parse_stdout(out)["id"], "abc")

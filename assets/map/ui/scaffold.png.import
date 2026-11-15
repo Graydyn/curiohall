@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b6j25i0tim2qw"
-path="res://.godot/imported/style_probe_conservatory.png-9f92c6050c8bbebe3564070d791a3596.ctex"
+uid="uid://b6qprfnjpyyrs"
+path="res://.godot/imported/scaffold.png-a8da243f0e7ce84675fae6f6ababee3c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/map/style/style_probe_conservatory.png"
-dest_files=["res://.godot/imported/style_probe_conservatory.png-9f92c6050c8bbebe3564070d791a3596.ctex"]
+source_file="res://assets/map/ui/scaffold.png"
+dest_files=["res://.godot/imported/scaffold.png-a8da243f0e7ce84675fae6f6ababee3c.ctex"]
 
 [params]
 
@@ -23,7 +23,7 @@ compress/rdo_quality_loss=0.0
 compress/hdr_compression=1
 compress/normal_map=0
 compress/channel_pack=0
-mipmaps/generate=false
+mipmaps/generate=true
 mipmaps/limit=-1
 roughness/mode=0
 roughness/src_normal=""

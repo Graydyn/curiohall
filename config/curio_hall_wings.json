@@ -18,7 +18,8 @@
     ]
    }
   ],
-  "exterior_subject": "ornate black wrought-iron double gates with gilded finials between two red-brick pillars topped by brass gaslamps, short curved brick wall sections either side, seen from high above at a gentle 3/4 top-down angle, warm lit windows, standing on its own ground"
+  "exterior_subject": "ornate black wrought-iron double gates with gilded finials between two red-brick pillars topped by brass gaslamps, short curved brick wall sections either side, front facing the viewer, symmetrical, seen from the front and above, warm lit windows, standing on its own ground",
+  "art_bg": "soft"
  },
  {
   "area": 2,
@@ -35,12 +36,13 @@
     "name": "The Great Hall Floor",
     "size": [
      720,
-     1560
+     1280
     ],
-    "description": "The interior of the Grand Atrium of a Victorian museum, a tall portrait view looking down from high above at a gentle 3/4 top-down angle. At the top, the back wall: a sweeping double marble staircase with brass banisters rising to a gallery, tall arched windows with soft evening light, deep teal walls with cream plaster mouldings and burgundy drapes. Most of the picture is a vast open floor of polished cream and teal chequered marble, completely empty of furniture and exhibits, with a large round brass-inlaid rosette in the floor at the centre and a long burgundy runner carpet down the middle. Slender cream columns stand only along the far left and right edges. At the bottom, the inside of the great front doors. Soft shafts of light from a glass dome above, warm gaslight glow from wall sconces, calm and dreamy, Ghibli-like, deep teal, burgundy, cream and brass palette, no people, no text."
+    "description": "The interior of the Grand Atrium of a Victorian museum, a tall portrait view looking down from high above at a gentle 3/4 top-down angle. At the top, the back wall: a sweeping double marble staircase with brass banisters rising to a gallery, tall arched windows with soft evening light, deep teal walls with cream plaster mouldings and burgundy drapes. Most of the picture is a vast open floor of polished cream and teal chequered marble, completely empty of furniture and exhibits, with a large round brass-inlaid rosette in the floor at the centre and a long burgundy runner carpet down the middle. Slender cream columns stand only along the far left and right edges. At the bottom, the inside of the great front doors. Soft shafts of light from a glass dome above, warm gaslight glow from wall sconces, calm and dreamy, Ghibli-like, deep teal, burgundy, cream and brass palette, no people, no text.",
+    "subject": "symmetrical view straight down the central axis of a grand Victorian museum atrium, from high above at a 3/4 top-down angle; a marble double staircase and tall arched windows at the far end; a vast empty cream and teal chequered marble floor filling the lower two thirds and running off the bottom edge of the frame, a brass rosette at its centre, a straight burgundy runner up the middle; teal walls, cream columns at the sides; soft dome light, warm gaslight sconces"
    }
   ],
-  "exterior_subject": "the grand entrance building of a Victorian museum: a cream stone facade with a tall teal glass dome, a columned portico, wide front steps and arched windows, seen from high above at a gentle 3/4 top-down angle, warm lit windows, standing on its own ground"
+  "exterior_subject": "the grand entrance building of a Victorian museum: a cream stone facade with a tall teal glass dome, a columned portico, wide front steps and arched windows, front facing the viewer, symmetrical, seen from the front and above, warm lit windows, standing on its own ground"
  },
  {
   "area": 3,
@@ -61,7 +63,7 @@
     ]
    }
   ],
-  "exterior_subject": "a small cream stone Victorian annex with a burgundy door, a little portico and a teal slate roof, seen from high above at a gentle 3/4 top-down angle, warm lit windows, standing on its own ground"
+  "exterior_subject": "a small cream stone Victorian annex with a burgundy door, a little portico and a teal slate roof, front facing the viewer, symmetrical, seen from the front and above, warm lit windows, standing on its own ground"
  },
  {
   "area": 4,
@@ -82,7 +84,7 @@
     ]
    }
   ],
-  "exterior_subject": "a small cream stone Victorian study annex with a bay window, a chimney and a teal slate roof, seen from high above at a gentle 3/4 top-down angle, warm lit windows, standing on its own ground"
+  "exterior_subject": "a small cream stone Victorian study annex with a bay window, a chimney and a teal slate roof, front facing the viewer, symmetrical, seen from the front and above, warm lit windows, standing on its own ground"
  },
  {
   "area": 5,
@@ -711,7 +713,7 @@
     ]
    }
   ],
-  "exterior_subject": "a tall timber-and-glass Victorian balloon loft hangar with a striped hot-air balloon peeking from its open roof, seen from high above at a gentle 3/4 top-down angle, warm lit windows, standing on its own ground"
+  "exterior_subject": "a tall timber-and-glass Victorian balloon loft hangar with a striped hot-air balloon peeking from its open roof, front facing the viewer, symmetrical, seen from the front and above, warm lit windows, standing on its own ground"
  },
  {
   "area": 35,
