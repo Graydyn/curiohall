@@ -12,6 +12,7 @@ import clean_sprite as CS  # noqa: E402
 import align_states as AS  # noqa: E402
 import lawn_patch as LP  # noqa: E402
 import harmonise_wing as HW  # noqa: E402
+import check_bands as CBD  # noqa: E402
 
 REAL_ROOT = C.ROOT
 
@@ -284,6 +285,29 @@ class BatchTests(unittest.TestCase):
         argv = B.build_argv(e, {})
         self.assertEqual(argv[:3], ["sectilia", "upload", "f.png"])
         self.assertNotIn("--timeout", argv)
+
+    def test_check_bands_flags_translucent_box_only(self):
+        import random
+        from PIL import Image
+        rnd = random.Random(3)
+        w, h = 120, 80
+        im = Image.new("RGB", (w, h))
+        for y in range(h):
+            for x in range(w):
+                v = 90 + rnd.randrange(-25, 26)        # brushy grass texture
+                im.putpixel((x, y), (v // 2, v, v // 2))
+        clean = im.copy()
+        for x in range(30, 60):                        # a natural partial-width edge
+            for y in range(40, h):
+                clean.putpixel((x, y), (200, 200, 190))
+        self.assertEqual(CBD.find_bands(clean), [])
+        boxed = Image.blend(im, Image.new("RGB", (w, h), (255, 205, 100)), 0.0)
+        tint = Image.new("RGB", (w, h), (255, 205, 100))
+        mask = Image.new("L", (w, h), 0)
+        mask.paste(31, (0, 50, w, h))                  # 12% amber box, hard top edge
+        boxed = Image.composite(tint, im, mask)
+        bands = CBD.find_bands(boxed)
+        self.assertTrue(bands and abs(bands[0][0] - 50) <= 3, bands)
 
     def test_newest_job_since(self):
         import time as _t

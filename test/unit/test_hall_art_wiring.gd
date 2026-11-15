@@ -75,3 +75,17 @@ func test_harmonised_wing_texture_matches_rect_aspect() -> void:
         var ta := tex.get_width() / float(tex.get_height())
         var ra := float(r[2]) / float(r[3])
         assert_almost_eq(ta, ra, 0.02, "wing %d" % area)
+
+func test_restored_painted_wing_has_no_rect_tint_layer() -> void:
+    # Wing textures are crop-sized with feathered alpha; any untextured layer
+    # spanning the rect shows as a hard-edged translucent box over the grounds.
+    var g := Game.fresh(0.0)
+    var m := ExteriorMap.new()
+    add_child_autofree(m)
+    m.setup(g)
+    m.state_override = {2: Campaign.AreaState.RESTORED}
+    m.refresh()
+    var w: Control = m._wings[2]
+    for c in w.get_children():
+        assert_false(c is ColorRect, "ColorRect over wing 2: %s" % c.name)
+        assert_false(c is Panel, "Panel over wing 2: %s" % c.name)

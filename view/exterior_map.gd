@@ -9,6 +9,7 @@ const CANVAS := Vector2(2160, 3240)
 const ZOOM_MIN := 0.5
 const ZOOM_MAX := 1.5
 const TAP_SLOP := 12.0
+const RESTORED_TINT := Color(1.04, 1.0, 0.94)
 
 var game: Game
 var zoom := 0.6
@@ -108,6 +109,7 @@ func _build_wing(area: int, w: Control) -> void:
     var inset := w.size * 0.04
     if tex != null:
         var tr := TextureRect.new()
+        tr.name = "Art"
         tr.texture = tex
         tr.expand_mode = TextureRect.EXPAND_IGNORE_SIZE
         tr.size = w.size
@@ -170,12 +172,12 @@ func _build_wing(area: int, w: Control) -> void:
             s.mouse_filter = Control.MOUSE_FILTER_IGNORE
             w.add_child(s)
     elif st == Campaign.AreaState.RESTORED and tex != null:
-        var win := ColorRect.new()
-        win.name = "WindowGlow"
-        win.color = Color(1.0, 0.8, 0.4, 0.12)
-        win.size = w.size
-        win.mouse_filter = Control.MOUSE_FILTER_IGNORE
-        w.add_child(win)
+        # Warm the painted wing through its own alpha. (A full-rect tint
+        # layer drew a hard-edged translucent box over the grounds once wing
+        # textures became crop-sized with feathered edges.)
+        var art := w.get_node_or_null("Art") as TextureRect
+        if art != null:
+            art.modulate = RESTORED_TINT
 
 ## Soft radial gaslight halo (drawn in-engine so it always stays soft).
 static var _halo: GradientTexture2D
