@@ -18,7 +18,39 @@ MIN_LINES, MAX_LINES = 3, 8
 MAX_OPENER_REPEAT = 6  # same first three words opening more than this many beats
 MAX_OPENER4_REPEAT = 2  # same first four words opening more than this many beats
 MAX_FIRST_SPEAKER_SHARE = 0.75  # one speaker opening more than this share of a wing's beats
+MAX_TEMPLATE_SHARE = 0.30  # share of day beats opening "The <element name>. ..."
 MIN_WING_BEATS = 5  # smaller wings are exempt from the share check
+
+
+def first_sentence(text):
+    for i, ch in enumerate(text):
+        if ch in ".!?" and (i + 1 == len(text) or text[i + 1] == " "):
+            return text[:i]
+    return text
+
+
+def is_template_opening(text, element_name):
+    """True when the line opens "The <element name>." style: a first sentence starting with
+    "The" that contains at least two (or all, for short names) words of the element name."""
+    sent = first_sentence(text).lower()
+    if not sent.startswith("the "):
+        return False
+    words = [w.strip("'s,.").lower() for w in element_name.split() if w.lower() != "the"]
+    words = [w for w in words if w]
+    head = sent.split()[:8]
+    hits = sum(1 for w in words if any(h.strip("'s,.") == w for h in head))
+    return hits >= min(2, len(words))
+
+
+def template_problems(pairs):
+    """pairs: [(element name, beat scene)]. Caps the share of template openings."""
+    if not pairs:
+        return []
+    n = sum(1 for name, b in pairs if is_template_opening(b["lines"][0]["text"], name))
+    if n / len(pairs) > MAX_TEMPLATE_SHARE:
+        return ["%d of %d beats (%.0f%%) open with the element-name template; cap %.0f%%"
+                % (n, len(pairs), 100.0 * n / len(pairs), 100.0 * MAX_TEMPLATE_SHARE)]
+    return []
 
 
 def repetition_problems(entries):
@@ -86,6 +118,8 @@ def check(through=None):
     wing_entries = [(el_by_id[fin[d]]["area"], by_id[el_by_id[fin[d]]["beat"]])
                     for d in range(1, through + 1) if by_id.get(el_by_id[fin[d]]["beat"])]
     problems += repetition_problems(wing_entries)
+    problems += template_problems([(el_by_id[fin[d]]["name"], by_id[el_by_id[fin[d]]["beat"]])
+                                   for d in range(1, through + 1) if by_id.get(el_by_id[fin[d]]["beat"])])
 
     if full:
         panels = [s for s in scenes if s["kind"] == "panel"]

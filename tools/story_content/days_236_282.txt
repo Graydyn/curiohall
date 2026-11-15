@@ -248,10 +248,10 @@ h w I feel as if I've sat in it before. I know where everything is. I could clos
 a n It is a very familiar sensation, Hugo. I have it all the time in the Hall of Feathers.
 h n It's the hands, Aldous. They remember what the head forgets.
 == 275
-z h The Quarter Chimes! Four brass bells, in a row, each a different pitch. They ring every fifteen minutes, and they have not rung for twenty years.
+z h The Quarter Chimes! Five brass bells, in a row, each a different pitch. They ring every fifteen minutes, and they have not rung for twenty years.
 c n Mr Pemberton, are we ready?
 h n We're ready, Cornelia. Barnaby, stand by the rope.
-b h Aye, Mr Pemberton! Four bells. Do-re-mi-fa. Oh, listen! The whole Hall is chiming!
+b h Aye, Mr Pemberton! Five bells. Do-re-mi-fa-sol. Oh, listen! The whole Hall is chiming!
 r w It sounds like the Hall is waking up. For the last time, and the first.
 c n It is a quarter past eleven, Miss Thorne. We have forty-five minutes.
 == 276

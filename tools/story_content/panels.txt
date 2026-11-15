@@ -7,7 +7,7 @@
 > Every cloakroom in the world has a secret, and this one has a hamper of hats nobody ever came back for.
 =P area_04_opened area_opened:4 c a
 > The Curator's Office sits at the top of a short flight of stairs, its door painted the green of old brass. Inside, a desk the size of a small boat faces a window that looks out over the entire Hall.
-> A single card has been propped against the inkwell. It reads: Wednesday. Come back for the rest.
+> One drawer of the desk sticks fast, and no one has dared to force it in twenty years.
 =P area_05_opened area_opened:5 c b
 > The Tea Room doors swing wide, and a smell of lemon, cardamom, and long-cold ashes drifts out. Every table is laid for four, as if the guests had only stepped out for a moment.
 > The Society runs on tea, as everyone knows. Without it, nothing in the Hall has quite the right temperature.
@@ -29,16 +29,16 @@
 =P area_11_opened area_opened:11 c m
 > The Shell and Coral Room is cool and hushed, like the inside of a conch. Pearl-lined cases glow faintly in the dark, and somewhere very near, the sound of the sea is playing from a spiral shell.
 > It is the sort of room that makes one speak very quietly, and then not speak at all.
-=P area_12_opened area_opened:12 c j
+=P area_12_opened area_opened:12 c
 > Green light ripples across the walls of the Aquarium Grotto. Great glass tanks, long empty, wait for the water to come back, and at the bottom of the largest one, something small and square is shining.
 > The light moves, and it seems, for a moment, that it is waving.
-=P area_13_opened area_opened:13 c z
+=P area_13_opened area_opened:13 c
 > The Map Room is lined from floor to ceiling with charts, rolled and flat, pinned and framed. Every coast is inked in a different hand, and a great brass compass is sunk into the floor.
 > A single black pin sits in the middle of a map, with no thread attached to it at all.
-=P area_14_opened area_opened:14 c p
+=P area_14_opened area_opened:14 c
 > The Library of Expeditions climbs three storeys, with iron galleries and a ladder on a rail. The books are shelved by voyage, and each voyage has its own colour of spine.
 > On the highest shelf, a single blue book sits slightly out of line, as if it had been put back in a hurry.
-=P area_15_opened area_opened:15 p c
+=P area_15_opened area_opened:15 c
 > Rolling shelves fill the Archives, and every drawer is labelled in a tiny neat hand. Someone has been here in the dark, and everything has been refiled. Not one thing is where it was.
 > It smells of old paper, ink, and, very faintly, of ham sandwiches.
 =P area_16_opened area_opened:16 h c
@@ -160,7 +160,7 @@
 > Volume II: The Deep Water. The Shell and Coral Room is restored, and with it comes a confession: Sam Vane was not looking for treasure. He was looking for the founder.
 > In the glass of the Kraken's Eye, a small square box can be seen, far below, on the floor of the Aquarium.
 =P chronicle_43_11 task:43_11 c j
-> Volume III: The Box in the Aquarium. The Great Aquarium fills at last, and the little brass box is recovered from the depths. Inside is a single key, and a note: Archives, when you are ready.
+> Volume III: The Box in the Aquarium. The Great Aquarium fills, and a small brass box can be seen at last on the floor of the tank, with a lock on it and a tag. A diver is sent for.
 > The members of the Society gather around the tea urn for the first time, and begin to feel like a society.
 =P chronicle_47_11 task:47_11 z c
 > Volume IV: Where I Shall Be. The Great Relief Model rises from its crates, and the Map Room is whole. On the Atlas Lectern, a page lies open to a blank map with a single title, in the founder's own hand.

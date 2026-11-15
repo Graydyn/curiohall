@@ -30,6 +30,18 @@ class RepetitionGuardTest(unittest.TestCase):
         entries = [(7, beat("hugo", "Line %d opens differently for testing." % i)) for i in range(4)]
         self.assertEqual(check_story.repetition_problems(entries), [])
 
+    def test_template_opening_detected(self):
+        self.assertTrue(check_story.is_template_opening("The Pin Board. Hundreds of pins.", "The Pin Board"))
+        self.assertTrue(check_story.is_template_opening("The Founder's Hat Stand. Dark oak.", "The Founder's Hat Stand"))
+        self.assertFalse(check_story.is_template_opening("Miss Wren, look at the Pin Board!", "The Pin Board"))
+        self.assertFalse(check_story.is_template_opening("The kettle is on. Do come in.", "The Pin Board"))
+
+    def test_template_share_capped(self):
+        pairs = [("The Pin Board", beat("cornelia", "The Pin Board. Hundreds of pins."))] * 4
+        self.assertTrue(check_story.template_problems(pairs))
+        mixed = pairs[:1] + [("The Pin Board", beat("sam", "Do look at this pin board, darling."))] * 4
+        self.assertEqual(check_story.template_problems(mixed), [])
+
     def test_real_story_config_has_no_problems(self):
         problems, _beats, _panels = check_story.check()
         self.assertEqual(problems, [])

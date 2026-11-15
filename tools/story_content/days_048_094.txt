@@ -1,4 +1,5 @@
 == 48
+j n Cornelia, I opened the box. I know I should not have, but it was dripping on my scones.
 b h The Book Trolley! It squeaks on the third wheel, Miss Wren, but I've given it a good talking-to.
 c n Oil would do more than a talking-to, Mr Pluck.
 j n Speaking of oil, the box from the bottom of the Great Aquarium has dried out in the Tea Room. I took the liberty of opening it.
@@ -20,6 +21,7 @@ b h They're on your head, Professor.
 a n So they are. How comforting. I was beginning to think the lamp was working too well.
 s h Aldous, you have worn them on your head for three weeks. I have kept it from you out of pure affection.
 == 51
+b h Look, Miss Wren, a ring on the table that looks exactly like a cup, and it's not mine!
 c n The Leather Map Table. Wide enough to spread a continent, and scarred with the rings of twenty years of teacups.
 j h Not teacups, Cornelia. Those are my mugs. I have been sneaking tea in here when you were not looking.
 c s Miss Bose.
@@ -56,19 +58,21 @@ c n Open it, Miss Bose, and take a deep breath. It has been twenty years.
 j s A single card. It is a map fragment, torn in a zigzag. And, at the bottom, three words. Ask the clocks.
 s w The clocks again. I wonder if he left a hint for every one of them.
 == 56
+s n If this thing starts to play a tune, I shall leave the Hall and take up farming.
 b h The Rotary Card Wheel! Every card in the index, spinning round like a fairground ride, Miss Wren!
 c n It is a library tool, Mr Pluck. Not a fairground ride.
 b h Whee. Oh. Whee. I've got a card that says See also: Wednesday.
 s n It's an index of what the Society could not bear to forget. How very touching, and how very inconvenient.
 m h I think it's lovely. Someone once spent years writing every one of these by hand.
 == 57
-b h Miss Wren, there's a little lift in the wall, and it's got a sandwich plate on it!
+b h A little lift in the wall, Miss Wren, with a sandwich plate on it!
 c n The Document Dumbwaiter. Paper goes in at the bottom, and arrives at the top with a small ding.
 b h It dinged just now, Miss Wren! And nobody was in it!
 a s I have noticed, over the past weeks, that things in this Hall have a habit of arriving without being sent.
 j n Something came up with a ham sandwich on it. Whoever is sending them has very good taste in bread.
 c w A ham sandwich, a ledger entry, a card in the safe. This is not a ghost, Miss Bose. This is a very patient friend.
 == 58
+b h Miss Wren, I found a pen with a nick in it, and I've no idea what to do with it!
 c n The Quill Pot. A brass pot with a dozen quills, each trimmed for a different kind of hand.
 a h A raven quill! I haven't seen one since the day of the Great Hoot. A lovely thing.
 s n Which one did Ambrose use? I wonder. I think the long swan, with a nick on the end.
@@ -76,6 +80,7 @@ c s Mr Vane. How do you know that?
 s w I sat across a table from him for a good many years. One does notice.
 b h You can see a faint nick in this one, Miss Wren. Look.
 == 59
+b h Miss Wren, I looked up Pluck in the index, and there I am, on page nine!
 c n The Great Index. Every drawer, every ledger, every shelf, in alphabetical order, and cross-referenced to the last page.
 m h It's amazing. I've never seen anything so organised.
 s n Look under H, Cornelia.
@@ -105,6 +110,7 @@ c n Which note does it skip?
 h w The sixth. And if you hum it back, the sixth is the one that does not belong. It's a code, I think.
 a s I should say the sixth note of any lullaby is a key to something, if one only knew the door.
 == 63
+b h Hugo, can I turn one? Just a small one, near the bottom?
 h h The Cog Tree! Oh, this is the loveliest thing I've seen in years. Every cog has a name, and a place, and a purpose.
 m n It looks like a tree that grew wheels instead of leaves.
 h n It is, Mark, and each one is hand-cut. See this little one? It does nothing. Nothing at all. It exists purely to turn, and to be pleased about it.
@@ -118,6 +124,7 @@ h n They're all right, Barnaby. They're telling the time in every city Ambrose e
 s s What is that one? The one with the blue face.
 h w It's not on any list I know. It runs a little faster than the others, and it's set to a place that doesn't have a name.
 == 65
+a h Hannibal, I should hold your trunk, if I were you. A rival has entered the Hall.
 h h The Clockwork Elephant! Trunk, tusks, a little brass howdah for the passenger. He's all there, and he's all working.
 b w Miss Wren, Hannibal's looking at him.
 c n Hannibal is an umbrella stand, Mr Pluck. He does not look at things.
@@ -125,6 +132,7 @@ b s He's looking, Miss Wren. In his own way. He knows when there's a rival.
 h h Don't worry, old chap. There's room in this Hall for two elephants, and one is mostly for decoration.
 a h Splendid! I propose a toast. To the elephants, both of them, and to the mice in the trunk.
 == 66
+b h Hugo, whose bench is this? Whoever it was kept their tools in perfect rows!
 h n The Instrument Bench. Every tool laid out in order, with a little brass label. It looks like it's waiting for a surgeon.
 c n Or an engineer, Mr Pemberton. It is yours, I think.
 h h Mine? Well. Hang on. I'd better take off my coat first.
@@ -154,18 +162,21 @@ m w Under the floor?
 h n Under the floor. At night. Over about four hours.
 j w Perhaps we should lock the Tea Room, Cornelia.
 == 70
+c n Kindly stop tapping that, Mr Pemberton. It is making me nervous.
 h h The Telegraph Key! A beautiful thing. It's still connected to the line, you know. I tapped out a little hello, and got an answer.
 c s An answer, Mr Pemberton? From whom?
 h n Three taps, Cornelia. Short, short, long. Over and over. Whoever it is, they're keeping time.
 s n It is the Morse for the letter U. Under? Or perhaps You?
 b w You, Mr Vane. It's saying You.
 == 71
+b h Hugo, I can't tell if it's noon or midnight, because the shadow's gone mad!
 h h The Sundial Garden Piece! A little brass disc on a pedestal, with a pointer that actually knows what time it is.
 a h A sundial that works! At night?
 h n It's not a sun-dial at night. It's a moon-dial, Professor, and it's been adjusted for every phase of the moon. Somebody spent years on this.
 c n Somebody spent years on everything in this Hall, Mr Pemberton. I begin to feel rather small.
 s n Don't, Cornelia. It is the reason one is here.
 == 72
+b w Miss Wren, there's an engine in this room the size of a piano, and it's whirring at me!
 h h The Great Reckoner. A brass calculating engine the size of a piano, with a thousand little wheels, and every one of them clean.
 c n And what does it calculate, Mr Pemberton?
 h n Anything, if you give it the numbers. I gave it the date of Ambrose's disappearance, and the date of the Society's last meeting, and it printed a single card.
@@ -179,18 +190,21 @@ a n That is the Plough, Barnaby. Orion is behind the door. Do try to keep up.
 c n The stars are in the right places, at least. I had begun to fear that the Hall had rearranged the sky as well.
 s h A woman who fears for the sky has a very high opinion of her building, Cornelia.
 == 74
+h n Aldous, you've been standing under that tube for an hour. Is it true you can see the stars in daylight?
 a h The Zenith Telescope! It's pointing straight up, at the centre of the sky, and in perfect focus.
 h n I put a little oil on the mount, Professor. I'd say it's the best thing in the Hall.
 a h Well, I am the world's greatest authority on birds, so I suppose that is a compliment to my humility. Look, Hugo! A heron! No, a very late comet.
 c n Professor.
 a s Yes, Cornelia, I know. It is a comet. But it is sailing in the wrong direction, and a very odd colour.
 == 75
+c n Professor, I am told you have been looking at the sun through a box. I should like a word.
 a h The Eclipse Viewer! A little brass box with a smoked lens. And there, you see? The moon is just beginning to bite.
 b h Can I look, Professor? Just for a second?
 a n Briefly, my boy. And with the greatest respect.
 b h It's like a little black coin, over a golden plate. It's the loveliest thing, and it's gone in a flash.
 c n The record shows the Society mounted four eclipse expeditions. Ambrose attended every one. And, I note, vanished on the very day of the fifth.
 == 76
+a n Hugo, do be careful with the gears on that mount. I once lost a very fine finch to a stray cog.
 h n The Telescope Mount. It has a clockwork drive, so it follows the stars as they move. A beautiful piece.
 a h I am thrilled. I should like to leave it pointing at Cassiopeia.
 m h Cassiopeia is the one shaped like a W, isn't it? Or an M. I always think of it as an M.
@@ -198,6 +212,7 @@ s n It is both, Mark. Depends on the hour and the observer.
 j h Like a good soufflé, depends on the cook and the hour.
 c n An accurate summary of a great many things, Miss Bose.
 == 77
+c n Mr Pemberton, why is the jar humming? And why did it start when Mr Pluck sneezed?
 a h The Aurora Jar! A glass sphere filled with glowing gas, shimmering green and violet at the edges.
 b h It's like the sky in a bottle, Professor.
 a n It is rather better, Barnaby. The sky does not come when it is called. This does.
@@ -205,12 +220,14 @@ h n I can tell you it is a very odd gas. It hums at the pitch of the music box. 
 c w Mr Pemberton, are you sure?
 h w I'd stake my reputation on it, Cornelia. The same note, a little flat. As if someone were trying to sing along.
 == 78
+s n Aldous, there is a pen on that desk that is still wet. I find that rather difficult to explain.
 a h The Observer's Desk. A leather top, a green lamp, and a register of every night's sky since the Society began.
 s n The last entry. May I? It is dated twenty years ago, and it just says: Nothing to report. All is well.
 c n It is the most worrying entry in the book. Nothing to report. In Ambrose's hand.
 a w The Observer is meant to note everything, Cornelia, even the clouds. It is a sign that he was not looking at the sky at all.
 m s Then what was he looking at?
 == 79
+h h Barnaby, don't touch the horses! No, not that one either! Oh, now you have done it.
 a h The Night Sky Carousel! Twelve brass horses, each with a constellation painted on its flank, circling slowly under the dome.
 b h Can I ride one, Professor?
 h n Not unless you want a lesson in how to be hit by a very large brass ram, Barnaby. They're a good deal faster than they look.
@@ -225,12 +242,14 @@ a h Prudence! My dear! I thought you had gone to Cairo.
 p w I did, Aldous. And came back, and could not get in. I have been watching through the skylight ever since.
 c n That does explain the sandwiches. Do come in, Miss Quill. We have a great deal to ask of you.
 == 81
+j n Prudence, there is a plant stand in this room that is not in your Index. I find that rather exciting.
 p n The Fern Pedestal. It is not in the index, you realise. Everything in this building is indexed, except this.
 b h It's just a pot stand, Miss Quill.
 p s Mr Pluck, there is no such thing as just a pot stand. It has a number engraved on the underside, and the number is 1 of 1.
 h h A very important pot stand, then. I shall treat it with the greatest care.
 c w If there is a first of anything in the Hall, Miss Quill, I should very much like to know what the second is.
 == 82
+a n Prudence, I counted the moons, and I make it fifty-two. Does the Index agree?
 p n The Wall of Moons. Fifty-one of them, every phase, and each with a little brass plaque. Except the last.
 a n The last is blank, Prudence?
 p n It is. It says: To be named. I suspect the founder meant it for a moon that had not yet been discovered.
@@ -238,6 +257,7 @@ s h A modest sort of man, to leave a space.
 p n Mr Vane, I should say that is the least modest thing I have ever heard of.
 m h I like it. It's like a promise.
 == 83
+h w Don't look now, but Jupiter is looking at us.
 p n The Banded Giant. Jupiter, in lacquered brass, with a tiny red eye that turns very slowly.
 b h It's looking at me, Miss Quill.
 p n It is certainly not. It is on a clockwork turning, and the eye is merely the Great Spot.
@@ -245,12 +265,14 @@ b s Then why did it wink?
 h s It did what?
 c w Mr Pemberton, I should like you to examine Jupiter, immediately.
 == 84
+a h Cornelia, I have just worked out the comet's timetable on the back of my sleeve. It is, I fear, rather soon.
 h n The Comet on a Wire. It's a little brass tail on a long wire, swinging in a great slow arc. Every seventy-six years it comes round to the same spot.
 p n The Archives have its chart. It appears that the next return is rather soon, and that the founder marked it with a very emphatic red star.
 c n How soon, Miss Quill?
 p w Within the year, Cornelia. And on that day, there is a note in the margin: Be ready.
 a h A comet! I shall begin counting the swifts at once.
 == 85
+j h Hugo, Cornelia, Prudence, come and see! The sun has a little drawer in its belly!
 c n The Grand Orrery. Every planet in brass, every moon on its own arm, all sweeping in perfect step.
 h h It's the finest piece of clockwork I've ever laid a hand on. Cornelia, I wouldn't change a single gear.
 p n It has a little drawer in the base, which I have already opened. Inside, a single sheet. A letter, addressed To whoever finishes the Orrery.
@@ -259,12 +281,14 @@ p w It says: If you can read this, the Hall is awake. Keep it so. I will find my
 b w He's coming back, Miss Wren.
 c n Then we shall have the place ready. And the tea. Let us not forget the tea.
 == 86
+c n Miss Bose, you have one lamp lit and ninety-nine to go. Shall we say a week?
 j h The Glass Globe Rack! A hundred little lamps, all waiting to be lit, like a shelf of captive moons.
 b h Can I light one, Miss Bose?
 j n One. And you will hold it very carefully.
 b h It's glowing! Hold on. It's glowing the colour of treacle. Is that the lamp or is that me?
 j h That is the lamp, Barnaby. I am always so pleased when something is the colour of treacle.
 == 87
+a h Prudence, how many jets does that chandelier have? I have lost count at two hundred.
 h h The Glowing Chandelier. Two hundred gas jets, and every one lit by the same single pilot flame.
 p n An exemplary system. I see that the pilot is itself on a timer, with a note: Do not extinguish.
 a n What happens if it goes out, Prudence?
@@ -272,12 +296,14 @@ p n The note does not say. Only that the founder underlined the word not twice.
 c n We shall be extremely careful, Professor. As we always are.
 b h I'll stand underneath it, just in case, Miss Wren.
 == 88
+j n Hugo, is the flame supposed to sway like that? It looks as though it is dancing with someone.
 c n The Dancing Flame Lamp. A little brass cup, and a flame that sways as if it were listening to music.
 h n It is listening to music, Cornelia. The same lullaby from the music box, only a little slower. It keeps time.
 p n Sixty-three beats to the minute, and not one more. I counted twice. A flame that keeps a metronome is no accident.
 c w Then someone taught it. And I should dearly like to know who, and when, and why it still obeys.
 a h I should like to know whether it takes requests. I am fond of a good sea shanty.
 == 89
+h h Prudence, this model is perfect, down to the last rivet. Whoever made it must have had a very patient pair of hands.
 c n The Great Gasworks Model. Every pipe, every valve, every main, in a little brass town on a plinth.
 h h A masterpiece! I could spend a year in there, tracing the pipes.
 p n You will do no such thing, Mr Pemberton. We have four hundred drawers to rearrange.
@@ -286,7 +312,7 @@ p n It does. And there is one pipe on it that does not appear on any other plan.
 c w Then the Deep Vaults are connected. And someone has been feeding them.
 == 90
 z n The Court Bench. I have been sitting on it for three days, trying to decide whether to introduce myself, and I still haven't.
-c n Miss Blackwood. You have made rather a good job of it. We have been entertaining you in the Gallery for some days now.
+c n Miss Blackwood. You have made rather a good job of it. We have been wondering about you for some days now.
 z h I was in the Court, Cornelia. The bench is not a good place for a first impression. It is rather like sitting at the bottom of a well, with the world looking down at you.
 s h Zephyrine! Of all the unmapped coasts and secret harbours! I thought you had sailed over the edge of the world.
 z n I did, Sam. It was very pleasant. I have come back to say that the edge is a great deal closer than we think, and that Ambrose has been there.
@@ -300,12 +326,14 @@ z h I should say they were looking at it the wrong way. Each piece is a map. Rot
 p n Fascinating. And, if I may, entirely consistent with the Archives. A set of seven, each referenced to a wing of the Hall.
 h h A sculpture that is also a chart. I'll build a little jig for it, so you can spin the pieces without scraping the marble.
 == 92
+c n Miss Blackwood, do the fountain's four streams always lean toward the same wall?
 z h The Tortoise Fountain! Oh, I know this fellow. His name is Methuselah, and he has been spouting for three hundred years.
 b h Does he really have a name, Miss Blackwood?
 z n All tortoises do, Barnaby. It is just that most of them do not tell. Methuselah told me once, in a very quiet voice, on a beach.
 c n I find, Miss Blackwood, that I like you rather a lot.
 z h It is mutual, Cornelia. And I will make you a bargain. Show me every wing of this building, and I will tell you every place the founder never told you about.
 == 93
+h h Barnaby, a velvet elephant is not a stool for two. Don't sit on him, he's very fragile.
 b h The Elephant Footstool! Another elephant, Miss Wren! This one's made of velvet.
 c n The Hall appears to have a theme, Mr Pluck.
 h n Barnaby, you'll have to introduce Hannibal. He's a little shy.
@@ -313,6 +341,7 @@ b n Hannibal is not shy. He is dignified. There is a difference.
 z h I was going to say. Every great expedition has an elephant, somewhere. It is the only reliable form of transport, and the only reliable form of memory.
 j h And the best for carrying a large number of sandwiches.
 == 94
+s n Zephyrine, you said the other griffins stand by a door no one has seen. Show me.
 z n The Griffin Pair. Two great bronze guardians at the gate of the Court. The same pair, I think, as the ones on the Front Gates.
 c n They are. The Society commissioned four, and only two came home.
 z w I know where the other two are, Cornelia. They stand on either side of a door that is not on any plan of this building.

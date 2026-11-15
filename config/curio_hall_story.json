@@ -164,6 +164,11 @@
   "trigger": "element:02_008",
   "lines": [
    {
+    "speaker": "barnaby",
+    "expr": "surprised",
+    "text": "Miss Wren, I've found a desk under all those sheets, and it rang at me when I touched it!"
+   },
+   {
     "speaker": "cornelia",
     "expr": "neutral",
     "text": "The Admissions Desk. Every great institution is first an argument over who may come in, and what they must sign."
@@ -324,6 +329,11 @@
   "trigger": "element:03_010",
   "lines": [
    {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "I tapped the glass and the needle jumped, Miss Wren! Only a very little, but it jumped!"
+   },
+   {
     "speaker": "cornelia",
     "expr": "neutral",
     "text": "The Barometer Board. It records the weather on the day the Society last assembled, and it has not moved since."
@@ -425,6 +435,11 @@
   "trigger": "element:04_007",
   "lines": [
    {
+    "speaker": "aldous",
+    "expr": "neutral",
+    "text": "Cornelia, I am quite sure I left my second-best notebook in that chair, and I am equally sure it is not there now."
+   },
+   {
     "speaker": "cornelia",
     "expr": "neutral",
     "text": "The Overstuffed Wing Chair. Ambrose Hall's favourite, they say. He sat in it with his boots on the fender, reading maps."
@@ -494,6 +509,11 @@
   "trigger": "element:04_014",
   "lines": [
    {
+    "speaker": "barnaby",
+    "expr": "worried",
+    "text": "Miss Wren, you'd best sit down before you try that drawer. It's been stuck since before I was born."
+   },
+   {
     "speaker": "cornelia",
     "expr": "neutral",
     "text": "The Curator's Desk. Mine, until the Society decides otherwise, and a great mass of unpaid paperwork besides."
@@ -533,7 +553,7 @@
    {
     "speaker": "barnaby",
     "expr": "happy",
-    "text": "Anjali's not here yet, Miss Wren, but I took the liberty of laying out the Tiered Cake Stand all the same. It looks hungry."
+    "text": "Nobody has baked in here for twenty years, Miss Wren, but I took the liberty of laying out the Tiered Cake Stand all the same. It looks hungry."
    },
    {
     "speaker": "cornelia",
@@ -562,6 +582,11 @@
   "kind": "beat",
   "trigger": "element:05_007",
   "lines": [
+   {
+    "speaker": "aldous",
+    "expr": "happy",
+    "text": "Do I smell tea? Genuine tea, and not the memory of it? Cornelia, tell me I am not dreaming."
+   },
    {
     "speaker": "cornelia",
     "expr": "neutral",
@@ -595,6 +620,11 @@
   "trigger": "element:06_003",
   "lines": [
    {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "Miss Wren, Professor Finch is stroking a feather duster as though it were a baby chick."
+   },
+   {
     "speaker": "aldous",
     "expr": "happy",
     "text": "The Feather Duster Stand, in the Hall of Feathers! Cornelia, you cannot know what this means to me. The ostrich plumes are exactly where I left them."
@@ -621,6 +651,11 @@
   "kind": "beat",
   "trigger": "element:06_006",
   "lines": [
+   {
+    "speaker": "barnaby",
+    "expr": "worried",
+    "text": "Professor, there's somebody standing behind the reeds in the picture, and I don't like how he's looking at me."
+   },
    {
     "speaker": "aldous",
     "expr": "happy",
@@ -725,6 +760,11 @@
    {
     "speaker": "aldous",
     "expr": "happy",
+    "text": "Quick, everyone, stand still, and nobody breathe near the glass. I want to hear the room."
+   },
+   {
+    "speaker": "aldous",
+    "expr": "happy",
     "text": "The Morpho Case! Those wings, Cornelia, like the sky seen through a stained-glass window on a clear morning."
    },
    {
@@ -754,6 +794,11 @@
   "kind": "beat",
   "trigger": "element:07_010",
   "lines": [
+   {
+    "speaker": "barnaby",
+    "expr": "neutral",
+    "text": "Miss Wren, is it true butterflies know the way home without a map?"
+   },
    {
     "speaker": "aldous",
     "expr": "happy",
@@ -789,6 +834,11 @@
    {
     "speaker": "cornelia",
     "expr": "neutral",
+    "text": "Mr Pluck, kindly lower your voice. Something in here is listening to us, and it is very green."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
     "text": "The Fern Case. Eleven species, and every frond of them damp. Mr Pluck, did you mist these?"
    },
    {
@@ -818,6 +868,11 @@
   "kind": "beat",
   "trigger": "element:08_007",
   "lines": [
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "Miss Wren, one of the vines has taken a liking to my boot, and I'd like to keep it that way!"
+   },
    {
     "speaker": "cornelia",
     "expr": "neutral",
@@ -851,6 +906,11 @@
   "trigger": "element:08_011",
   "lines": [
    {
+    "speaker": "aldous",
+    "expr": "neutral",
+    "text": "Cornelia, I should not put my hand into that bed. Not without a very thick glove."
+   },
+   {
     "speaker": "cornelia",
     "expr": "neutral",
     "text": "The Carnivorous Collection. The sundews shine, and the flytrap has been fed. Whoever tends this place has a steady hand."
@@ -882,6 +942,11 @@
   "kind": "beat",
   "trigger": "element:09_003",
   "lines": [
+   {
+    "speaker": "barnaby",
+    "expr": "worried",
+    "text": "Professor, one of the eggs just moved. It did. I saw it go left."
+   },
    {
     "speaker": "aldous",
     "expr": "happy",
@@ -956,6 +1021,11 @@
   "kind": "beat",
   "trigger": "element:10_003",
   "lines": [
+   {
+    "speaker": "sam",
+    "expr": "neutral",
+    "text": "Do tell me there is nothing alive in that rack. I have had enough surprises for one week."
+   },
    {
     "speaker": "cornelia",
     "expr": "neutral",
@@ -1058,6 +1128,11 @@
   "trigger": "element:10_014",
   "lines": [
    {
+    "speaker": "sam",
+    "expr": "happy",
+    "text": "Four tons of steel and a lock that looks at me as though it knows my name. I take it personally."
+   },
+   {
     "speaker": "barnaby",
     "expr": "happy",
     "text": "The Vault Door! A great round steel thing with a wheel on it, like the hatch of a ship, Miss Wren!"
@@ -1089,6 +1164,11 @@
   "kind": "beat",
   "trigger": "element:10_018",
   "lines": [
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Mr Bloom, would you stand a little to the left? You are blocking the only lamp in the Vault."
+   },
    {
     "speaker": "mark",
     "expr": "happy",
@@ -1127,6 +1207,11 @@
   "trigger": "element:11_003",
   "lines": [
    {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "Miss Wren, a shell the size of a hat just blew a note at me, and I think it was rude!"
+   },
+   {
     "speaker": "cornelia",
     "expr": "neutral",
     "text": "The Conch Horn. A great spiral of cream and rose, with a mouthpiece worn smooth by lips that blew it long ago."
@@ -1159,6 +1244,11 @@
   "trigger": "element:11_006",
   "lines": [
    {
+    "speaker": "sam",
+    "expr": "happy",
+    "text": "I do hope nobody is counting the pearls, because I have already started, and I am losing my place."
+   },
+   {
     "speaker": "aldous",
     "expr": "happy",
     "text": "The Pearl Oyster Bed! Cornelia, look at the glow of them. Each one a little moon."
@@ -1190,6 +1280,11 @@
   "kind": "beat",
   "trigger": "element:11_010",
   "lines": [
+   {
+    "speaker": "aldous",
+    "expr": "neutral",
+    "text": "Hmph. Cornelia, I have been looking at that glass for an hour, and my reflection has grown younger."
+   },
    {
     "speaker": "cornelia",
     "expr": "neutral",
@@ -1264,6 +1359,11 @@
   "kind": "beat",
   "trigger": "element:12_004",
   "lines": [
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "Look at them all bobbing, Miss Wren! It's like the sea has been tipped out in a basket!"
+   },
    {
     "speaker": "barnaby",
     "expr": "happy",
@@ -1366,6 +1466,11 @@
   "trigger": "element:12_013",
   "lines": [
    {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "Miss Bose, you've gone very quiet. Is the shark making you hungry or making you sad?"
+   },
+   {
     "speaker": "anjali",
     "expr": "happy",
     "text": "The Shark Jaw Trophy. I once cooked a shark for the entire crew on the Sargasso run. It took four of us, a barrel of vinegar, and a prayer."
@@ -1397,6 +1502,11 @@
   "kind": "beat",
   "trigger": "element:12_016",
   "lines": [
+   {
+    "speaker": "sam",
+    "expr": "neutral",
+    "text": "Do not tell me those little fish are real. I refuse to believe it. I have a very high standard of fakery."
+   },
    {
     "speaker": "cornelia",
     "expr": "neutral",
@@ -1474,6 +1584,11 @@
    {
     "speaker": "barnaby",
     "expr": "happy",
+    "text": "I've found where the pins go, Miss Wren! Every single one, and I only stuck myself twice!"
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
     "text": "The Pin Board! Hundreds of pins, Miss Wren, all of them in the right places. Somebody's been very tidy."
    },
    {
@@ -1503,6 +1618,11 @@
   "kind": "beat",
   "trigger": "element:13_006",
   "lines": [
+   {
+    "speaker": "barnaby",
+    "expr": "surprised",
+    "text": "Miss Wren, the floor's pointing! The whole floor is pointing at something over there!"
+   },
    {
     "speaker": "aldous",
     "expr": "happy",
@@ -1538,6 +1658,11 @@
    {
     "speaker": "cornelia",
     "expr": "neutral",
+    "text": "Mr Vane, you may stand there and be interesting, but you will not touch the book."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
     "text": "The Atlas Lectern. A great slope of walnut, with a ribbon marker still tucked in the last page the Society ever consulted."
    },
    {
@@ -1567,6 +1692,11 @@
   "kind": "beat",
   "trigger": "element:13_013",
   "lines": [
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "Can everyone please be quiet? I'm looking for my own house on this, and I think I found it!"
+   },
    {
     "speaker": "cornelia",
     "expr": "neutral",
@@ -1604,6 +1734,11 @@
   "kind": "beat",
   "trigger": "element:14_004",
   "lines": [
+   {
+    "speaker": "anjali",
+    "expr": "neutral",
+    "text": "Cornelia, I opened the box. I know I should not have, but it was dripping on my scones."
+   },
    {
     "speaker": "barnaby",
     "expr": "happy",
@@ -1715,6 +1850,11 @@
   "kind": "beat",
   "trigger": "element:14_014",
   "lines": [
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "Look, Miss Wren, a ring on the table that looks exactly like a cup, and it's not mine!"
+   },
    {
     "speaker": "cornelia",
     "expr": "neutral",
@@ -1906,6 +2046,11 @@
   "trigger": "element:15_013",
   "lines": [
    {
+    "speaker": "sam",
+    "expr": "neutral",
+    "text": "If this thing starts to play a tune, I shall leave the Hall and take up farming."
+   },
+   {
     "speaker": "barnaby",
     "expr": "happy",
     "text": "The Rotary Card Wheel! Every card in the index, spinning round like a fairground ride, Miss Wren!"
@@ -1940,7 +2085,7 @@
    {
     "speaker": "barnaby",
     "expr": "happy",
-    "text": "Miss Wren, there's a little lift in the wall, and it's got a sandwich plate on it!"
+    "text": "A little lift in the wall, Miss Wren, with a sandwich plate on it!"
    },
    {
     "speaker": "cornelia",
@@ -1974,6 +2119,11 @@
   "kind": "beat",
   "trigger": "element:15_021",
   "lines": [
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "Miss Wren, I found a pen with a nick in it, and I've no idea what to do with it!"
+   },
    {
     "speaker": "cornelia",
     "expr": "neutral",
@@ -2011,6 +2161,11 @@
   "kind": "beat",
   "trigger": "element:15_025",
   "lines": [
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "Miss Wren, I looked up Pluck in the index, and there I am, on page nine!"
+   },
    {
     "speaker": "cornelia",
     "expr": "neutral",
@@ -2165,6 +2320,11 @@
   "trigger": "element:16_017",
   "lines": [
    {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "Hugo, can I turn one? Just a small one, near the bottom?"
+   },
+   {
     "speaker": "hugo",
     "expr": "happy",
     "text": "The Cog Tree! Oh, this is the loveliest thing I've seen in years. Every cog has a name, and a place, and a purpose."
@@ -2234,6 +2394,11 @@
   "trigger": "element:16_026",
   "lines": [
    {
+    "speaker": "aldous",
+    "expr": "happy",
+    "text": "Hannibal, I should hold your trunk, if I were you. A rival has entered the Hall."
+   },
+   {
     "speaker": "hugo",
     "expr": "happy",
     "text": "The Clockwork Elephant! Trunk, tusks, a little brass howdah for the passenger. He's all there, and he's all working."
@@ -2270,6 +2435,11 @@
   "kind": "beat",
   "trigger": "element:17_004",
   "lines": [
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "Hugo, whose bench is this? Whoever it was kept their tools in perfect rows!"
+   },
    {
     "speaker": "hugo",
     "expr": "neutral",
@@ -2424,6 +2594,11 @@
   "trigger": "element:17_021",
   "lines": [
    {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Kindly stop tapping that, Mr Pemberton. It is making me nervous."
+   },
+   {
     "speaker": "hugo",
     "expr": "happy",
     "text": "The Telegraph Key! A beautiful thing. It's still connected to the line, you know. I tapped out a little hello, and got an answer."
@@ -2456,6 +2631,11 @@
   "trigger": "element:17_025",
   "lines": [
    {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "Hugo, I can't tell if it's noon or midnight, because the shadow's gone mad!"
+   },
+   {
     "speaker": "hugo",
     "expr": "happy",
     "text": "The Sundial Garden Piece! A little brass disc on a pedestal, with a pointer that actually knows what time it is."
@@ -2487,6 +2667,11 @@
   "kind": "beat",
   "trigger": "element:17_029",
   "lines": [
+   {
+    "speaker": "barnaby",
+    "expr": "worried",
+    "text": "Miss Wren, there's an engine in this room the size of a piano, and it's whirring at me!"
+   },
    {
     "speaker": "hugo",
     "expr": "happy",
@@ -2557,6 +2742,11 @@
   "trigger": "element:18_009",
   "lines": [
    {
+    "speaker": "hugo",
+    "expr": "neutral",
+    "text": "Aldous, you've been standing under that tube for an hour. Is it true you can see the stars in daylight?"
+   },
+   {
     "speaker": "aldous",
     "expr": "happy",
     "text": "The Zenith Telescope! It's pointing straight up, at the centre of the sky, and in perfect focus."
@@ -2589,6 +2779,11 @@
   "trigger": "element:18_014",
   "lines": [
    {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Professor, I am told you have been looking at the sun through a box. I should like a word."
+   },
+   {
     "speaker": "aldous",
     "expr": "happy",
     "text": "The Eclipse Viewer! A little brass box with a smoked lens. And there, you see? The moon is just beginning to bite."
@@ -2620,6 +2815,11 @@
   "kind": "beat",
   "trigger": "element:18_018",
   "lines": [
+   {
+    "speaker": "aldous",
+    "expr": "neutral",
+    "text": "Hugo, do be careful with the gears on that mount. I once lost a very fine finch to a stray cog."
+   },
    {
     "speaker": "hugo",
     "expr": "neutral",
@@ -2658,6 +2858,11 @@
   "trigger": "element:18_022",
   "lines": [
    {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Mr Pemberton, why is the jar humming? And why did it start when Mr Pluck sneezed?"
+   },
+   {
     "speaker": "aldous",
     "expr": "happy",
     "text": "The Aurora Jar! A glass sphere filled with glowing gas, shimmering green and violet at the edges."
@@ -2695,6 +2900,11 @@
   "trigger": "element:18_026",
   "lines": [
    {
+    "speaker": "sam",
+    "expr": "neutral",
+    "text": "Aldous, there is a pen on that desk that is still wet. I find that rather difficult to explain."
+   },
+   {
     "speaker": "aldous",
     "expr": "happy",
     "text": "The Observer's Desk. A leather top, a green lamp, and a register of every night's sky since the Society began."
@@ -2726,6 +2936,11 @@
   "kind": "beat",
   "trigger": "element:18_031",
   "lines": [
+   {
+    "speaker": "hugo",
+    "expr": "happy",
+    "text": "Barnaby, don't touch the horses! No, not that one either! Oh, now you have done it."
+   },
    {
     "speaker": "aldous",
     "expr": "happy",
@@ -2801,6 +3016,11 @@
   "trigger": "element:19_005",
   "lines": [
    {
+    "speaker": "anjali",
+    "expr": "neutral",
+    "text": "Prudence, there is a plant stand in this room that is not in your Index. I find that rather exciting."
+   },
+   {
     "speaker": "prudence",
     "expr": "neutral",
     "text": "The Fern Pedestal. It is not in the index, you realise. Everything in this building is indexed, except this."
@@ -2832,6 +3052,11 @@
   "kind": "beat",
   "trigger": "element:19_010",
   "lines": [
+   {
+    "speaker": "aldous",
+    "expr": "neutral",
+    "text": "Prudence, I counted the moons, and I make it fifty-two. Does the Index agree?"
+   },
    {
     "speaker": "prudence",
     "expr": "neutral",
@@ -2870,6 +3095,11 @@
   "trigger": "element:19_015",
   "lines": [
    {
+    "speaker": "hugo",
+    "expr": "worried",
+    "text": "Don't look now, but Jupiter is looking at us."
+   },
+   {
     "speaker": "prudence",
     "expr": "neutral",
     "text": "The Banded Giant. Jupiter, in lacquered brass, with a tiny red eye that turns very slowly."
@@ -2907,6 +3137,11 @@
   "trigger": "element:19_019",
   "lines": [
    {
+    "speaker": "aldous",
+    "expr": "happy",
+    "text": "Cornelia, I have just worked out the comet's timetable on the back of my sleeve. It is, I fear, rather soon."
+   },
+   {
     "speaker": "hugo",
     "expr": "neutral",
     "text": "The Comet on a Wire. It's a little brass tail on a long wire, swinging in a great slow arc. Every seventy-six years it comes round to the same spot."
@@ -2938,6 +3173,11 @@
   "kind": "beat",
   "trigger": "element:19_024",
   "lines": [
+   {
+    "speaker": "anjali",
+    "expr": "happy",
+    "text": "Hugo, Cornelia, Prudence, come and see! The sun has a little drawer in its belly!"
+   },
    {
     "speaker": "cornelia",
     "expr": "neutral",
@@ -2981,6 +3221,11 @@
   "trigger": "element:20_005",
   "lines": [
    {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Miss Bose, you have one lamp lit and ninety-nine to go. Shall we say a week?"
+   },
+   {
     "speaker": "anjali",
     "expr": "happy",
     "text": "The Glass Globe Rack! A hundred little lamps, all waiting to be lit, like a shelf of captive moons."
@@ -3012,6 +3257,11 @@
   "kind": "beat",
   "trigger": "element:20_009",
   "lines": [
+   {
+    "speaker": "aldous",
+    "expr": "happy",
+    "text": "Prudence, how many jets does that chandelier have? I have lost count at two hundred."
+   },
    {
     "speaker": "hugo",
     "expr": "happy",
@@ -3050,6 +3300,11 @@
   "trigger": "element:20_014",
   "lines": [
    {
+    "speaker": "anjali",
+    "expr": "neutral",
+    "text": "Hugo, is the flame supposed to sway like that? It looks as though it is dancing with someone."
+   },
+   {
     "speaker": "cornelia",
     "expr": "neutral",
     "text": "The Dancing Flame Lamp. A little brass cup, and a flame that sways as if it were listening to music."
@@ -3081,6 +3336,11 @@
   "kind": "beat",
   "trigger": "element:20_020",
   "lines": [
+   {
+    "speaker": "hugo",
+    "expr": "happy",
+    "text": "Prudence, this model is perfect, down to the last rivet. Whoever made it must have had a very patient pair of hands."
+   },
    {
     "speaker": "cornelia",
     "expr": "neutral",
@@ -3126,7 +3386,7 @@
    {
     "speaker": "cornelia",
     "expr": "neutral",
-    "text": "Miss Blackwood. You have made rather a good job of it. We have been entertaining you in the Gallery for some days now."
+    "text": "Miss Blackwood. You have made rather a good job of it. We have been wondering about you for some days now."
    },
    {
     "speaker": "zephyrine",
@@ -3198,6 +3458,11 @@
   "trigger": "element:21_015",
   "lines": [
    {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Miss Blackwood, do the fountain's four streams always lean toward the same wall?"
+   },
+   {
     "speaker": "zephyrine",
     "expr": "happy",
     "text": "The Tortoise Fountain! Oh, I know this fellow. His name is Methuselah, and he has been spouting for three hundred years."
@@ -3229,6 +3494,11 @@
   "kind": "beat",
   "trigger": "element:21_019",
   "lines": [
+   {
+    "speaker": "hugo",
+    "expr": "happy",
+    "text": "Barnaby, a velvet elephant is not a stool for two. Don't sit on him, he's very fragile."
+   },
    {
     "speaker": "barnaby",
     "expr": "happy",
@@ -3267,6 +3537,11 @@
   "trigger": "element:21_024",
   "lines": [
    {
+    "speaker": "sam",
+    "expr": "neutral",
+    "text": "Zephyrine, you said the other griffins stand by a door no one has seen. Show me."
+   },
+   {
     "speaker": "zephyrine",
     "expr": "neutral",
     "text": "The Griffin Pair. Two great bronze guardians at the gate of the Court. The same pair, I think, as the ones on the Front Gates."
@@ -3298,6 +3573,11 @@
   "kind": "beat",
   "trigger": "element:21_029",
   "lines": [
+   {
+    "speaker": "aldous",
+    "expr": "happy",
+    "text": "Cornelia, the water in this fountain has just changed direction, and I have never seen it do that."
+   },
    {
     "speaker": "zephyrine",
     "expr": "happy",
@@ -3331,6 +3611,11 @@
   "trigger": "element:22_004",
   "lines": [
    {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Miss Quill, the thirteenth tusk should be in this rack. Where on earth has it gone?"
+   },
+   {
     "speaker": "prudence",
     "expr": "neutral",
     "text": "The Giant Tusk Rack. Twelve tusks, in order of size, and every one the length of a boat."
@@ -3362,6 +3647,11 @@
   "kind": "beat",
   "trigger": "element:22_009",
   "lines": [
+   {
+    "speaker": "hugo",
+    "expr": "neutral",
+    "text": "Aldous, that giraffe's neck is bolted together with eleven hundred brass pins. I've counted."
+   },
    {
     "speaker": "aldous",
     "expr": "happy",
@@ -3395,6 +3685,11 @@
   "trigger": "element:22_013",
   "lines": [
    {
+    "speaker": "zephyrine",
+    "expr": "neutral",
+    "text": "Mark, the ivy is growing the wrong way on that claw. I do not think it likes the sloth."
+   },
+   {
     "speaker": "mark",
     "expr": "happy",
     "text": "The Giant Sloth Claw. It is, um, very good for a climbing plant. The ivy takes it right up to the rafters."
@@ -3426,6 +3721,11 @@
   "kind": "beat",
   "trigger": "element:22_017",
   "lines": [
+   {
+    "speaker": "sam",
+    "expr": "happy",
+    "text": "Anjali, you are drooling on the crab. Kindly wipe your chin."
+   },
    {
     "speaker": "anjali",
     "expr": "happy",
@@ -3506,6 +3806,11 @@
   "trigger": "element:23_004",
   "lines": [
    {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Miss Thorne, are these nets for catching butterflies, or for catching compliments?"
+   },
+   {
     "speaker": "rosalind",
     "expr": "neutral",
     "text": "The Net Rack. A hundred butterfly nets, in bamboo and muslin. I had forgotten how elegant a thing can be when it has only one purpose."
@@ -3537,6 +3842,11 @@
   "kind": "beat",
   "trigger": "element:23_009",
   "lines": [
+   {
+    "speaker": "aldous",
+    "expr": "happy",
+    "text": "Hugo, you are standing very close to that beetle. Are you planning to adopt it?"
+   },
    {
     "speaker": "hugo",
     "expr": "happy",
@@ -3570,6 +3880,11 @@
   "trigger": "element:23_014",
   "lines": [
    {
+    "speaker": "sam",
+    "expr": "neutral",
+    "text": "Prudence, you are staring at that mantis. Do be careful. It is staring back."
+   },
+   {
     "speaker": "prudence",
     "expr": "neutral",
     "text": "The Praying Mantis. A masterpiece of the mounter's art. The pose is, I believe, entirely correct."
@@ -3601,6 +3916,11 @@
   "kind": "beat",
   "trigger": "element:23_018",
   "lines": [
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Professor, kindly tell me that moth has not just blinked."
+   },
    {
     "speaker": "zephyrine",
     "expr": "neutral",
@@ -3638,6 +3958,11 @@
   "kind": "beat",
   "trigger": "element:23_022",
   "lines": [
+   {
+    "speaker": "hugo",
+    "expr": "neutral",
+    "text": "Mark, how many termites does it take to build a tower like that? And do they get tea breaks?"
+   },
    {
     "speaker": "cornelia",
     "expr": "neutral",
@@ -3708,6 +4033,11 @@
   "trigger": "element:23_031",
   "lines": [
    {
+    "speaker": "aldous",
+    "expr": "happy",
+    "text": "Anjali, you are not to put a hat on any of the caterpillars. I have asked politely."
+   },
+   {
     "speaker": "anjali",
     "expr": "happy",
     "text": "The Caterpillar Parade! Forty little velvet caterpillars, all marching in a line along a branch. I could eat them. I mean, I could dress them. In small hats."
@@ -3739,6 +4069,11 @@
   "kind": "beat",
   "trigger": "element:23_036",
   "lines": [
+   {
+    "speaker": "rosalind",
+    "expr": "neutral",
+    "text": "Prudence, I should like to know why half the Archives is written in brown."
+   },
    {
     "speaker": "aldous",
     "expr": "happy",
@@ -3776,6 +4111,11 @@
   "kind": "beat",
   "trigger": "element:23_040",
   "lines": [
+   {
+    "speaker": "aldous",
+    "expr": "neutral",
+    "text": "Anjali, do not open that jar. It has been shut for twenty years, and the honey may be wise."
+   },
    {
     "speaker": "anjali",
     "expr": "happy",
@@ -3856,6 +4196,11 @@
   "trigger": "element:24_005",
   "lines": [
    {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Miss Thorne, this frame is so carefully pressed that I am afraid to breathe near it."
+   },
+   {
     "speaker": "rosalind",
     "expr": "happy",
     "text": "The Pressed Flower Frame! Oh, my dears. Every petal in its place, every stem the colour of a good memory."
@@ -3887,6 +4232,11 @@
   "kind": "beat",
   "trigger": "element:24_010",
   "lines": [
+   {
+    "speaker": "prudence",
+    "expr": "neutral",
+    "text": "Mark, you have your eye pressed so hard to that microscope that you have left a ring on your face."
+   },
    {
     "speaker": "rosalind",
     "expr": "neutral",
@@ -3920,6 +4270,11 @@
   "trigger": "element:24_014",
   "lines": [
    {
+    "speaker": "aldous",
+    "expr": "happy",
+    "text": "Mark, do not feed it anything with a pulse. I have seen what a pitcher plant can do."
+   },
+   {
     "speaker": "anjali",
     "expr": "happy",
     "text": "The Carnivorous Bog Jar! A little pitcher plant, with a lid like a tiny hat, and a puddle of something delicious at the bottom."
@@ -3951,6 +4306,11 @@
   "kind": "beat",
   "trigger": "element:24_019",
   "lines": [
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Miss Bose, there is a berry on your sleeve. And one on your hat. And, I think, one in your cup."
+   },
    {
     "speaker": "mark",
     "expr": "happy",
@@ -3984,6 +4344,11 @@
   "trigger": "element:24_024",
   "lines": [
    {
+    "speaker": "mark",
+    "expr": "neutral",
+    "text": "Miss Thorne, I think it's, um, singing. A little bit. If you stand underneath."
+   },
+   {
     "speaker": "aldous",
     "expr": "happy",
     "text": "The Seed Pod Mobile! A hundred seed pods, dangling from fine brass wires, and turning in the draught."
@@ -4015,6 +4380,11 @@
   "kind": "beat",
   "trigger": "element:24_029",
   "lines": [
+   {
+    "speaker": "zephyrine",
+    "expr": "neutral",
+    "text": "Rosalind, the page at the back is blank, and the flower beside it has no name. Do you know it?"
+   },
    {
     "speaker": "rosalind",
     "expr": "neutral",
@@ -4048,6 +4418,11 @@
   "trigger": "element:25_004",
   "lines": [
    {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Miss Bose, are these pills, or are they sweets? I should hate to make a mistake."
+   },
+   {
     "speaker": "anjali",
     "expr": "neutral",
     "text": "The Pill Tile. Small, round, grey, and very much in need of a spoonful of sugar. I remember this tile from the ship."
@@ -4080,6 +4455,11 @@
   "trigger": "element:25_008",
   "lines": [
    {
+    "speaker": "prudence",
+    "expr": "neutral",
+    "text": "Aldous, why is the jar rocking? Is it the leeches, or is it you?"
+   },
+   {
     "speaker": "aldous",
     "expr": "surprised",
     "text": "The Leech Jar. Do you know, I had a very odd feeling just now. As though the jar were looking at me."
@@ -4111,6 +4491,11 @@
   "kind": "beat",
   "trigger": "element:25_013",
   "lines": [
+   {
+    "speaker": "aldous",
+    "expr": "neutral",
+    "text": "Anjali, tell me honestly. Is this cup for washing the eye, or for drinking from?"
+   },
    {
     "speaker": "anjali",
     "expr": "happy",
@@ -4149,6 +4534,11 @@
   "trigger": "element:25_018",
   "lines": [
    {
+    "speaker": "rosalind",
+    "expr": "happy",
+    "text": "Mark, my dear, you must put the rosemary at the front, where everybody can reach it."
+   },
+   {
     "speaker": "mark",
     "expr": "happy",
     "text": "The Herb Jar Shelf. Rosemary, thyme, sage, and a very old jar labelled Remembrance. I think it's just rosemary."
@@ -4180,6 +4570,11 @@
   "kind": "beat",
   "trigger": "element:25_023",
   "lines": [
+   {
+    "speaker": "barnaby",
+    "expr": "neutral",
+    "text": "Miss Quill, is my name in the ledger? I'd rather like to know what I'm prescribed."
+   },
    {
     "speaker": "prudence",
     "expr": "neutral",
@@ -4245,6 +4640,11 @@
   "trigger": "element:25_031",
   "lines": [
    {
+    "speaker": "hugo",
+    "expr": "neutral",
+    "text": "Zephyrine, this smells of roses, and of something older. What is it?"
+   },
+   {
     "speaker": "zephyrine",
     "expr": "neutral",
     "text": "The Dragon's Blood Jar. A resin the colour of dried roses, and as sweet as incense. It comes from a tree on an island that is not on any chart."
@@ -4276,6 +4676,11 @@
   "kind": "beat",
   "trigger": "element:25_036",
   "lines": [
+   {
+    "speaker": "aldous",
+    "expr": "neutral",
+    "text": "Hugo, someone has been ringing that bell all morning. I cannot find the person."
+   },
    {
     "speaker": "barnaby",
     "expr": "happy",
@@ -4346,6 +4751,11 @@
   "trigger": "element:25_046",
   "lines": [
    {
+    "speaker": "anjali",
+    "expr": "neutral",
+    "text": "Hugo, do these tubes hold anything that might spoil a soup? I should like to be told."
+   },
+   {
     "speaker": "aldous",
     "expr": "neutral",
     "text": "The Test Tube Rack. Thirty glass tubes, each labelled with a letter, and each containing a drop of coloured water."
@@ -4377,6 +4787,11 @@
   "kind": "beat",
   "trigger": "element:25_051",
   "lines": [
+   {
+    "speaker": "aldous",
+    "expr": "neutral",
+    "text": "Sam, if you think that pot can turn lead into gold, I should like a word with you before you try it."
+   },
    {
     "speaker": "hugo",
     "expr": "neutral",
@@ -4447,6 +4862,11 @@
   "trigger": "element:25_061",
   "lines": [
    {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Miss Quill, does the Pharmacopoeia mention a cure for curiosity? I fear we all have it."
+   },
+   {
     "speaker": "prudence",
     "expr": "neutral",
     "text": "The Grand Pharmacopoeia. All of it, from aconite to zinc. Seven hundred pages, bound in green cloth, with the founder's own annotations in the margins."
@@ -4484,6 +4904,11 @@
   "trigger": "element:26_005",
   "lines": [
    {
+    "speaker": "zephyrine",
+    "expr": "neutral",
+    "text": "Rosalind, you are holding that ring as though it might bite. Whose was it?"
+   },
+   {
     "speaker": "rosalind",
     "expr": "happy",
     "text": "The Ring Cushion! A hundred little rings, each in its own velvet hollow. I recognise nearly every one."
@@ -4515,6 +4940,11 @@
   "kind": "beat",
   "trigger": "element:26_010",
   "lines": [
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Sam, you are standing at that case far too casually. What have you got in your pocket?"
+   },
    {
     "speaker": "rosalind",
     "expr": "neutral",
@@ -4553,6 +4983,11 @@
   "trigger": "element:26_015",
   "lines": [
    {
+    "speaker": "anjali",
+    "expr": "happy",
+    "text": "Rosalind, I do believe that necklace is winking at me."
+   },
+   {
     "speaker": "rosalind",
     "expr": "happy",
     "text": "The Crown Jewels of the Society! The tiara, the necklace, the little silver ring I wore when I became patroness. They are all here, all clean, and all in their places."
@@ -4590,6 +5025,11 @@
   "trigger": "element:27_005",
   "lines": [
    {
+    "speaker": "aldous",
+    "expr": "neutral",
+    "text": "Zephyrine, I have been looking at that jar for five minutes. What exactly is in it?"
+   },
+   {
     "speaker": "zephyrine",
     "expr": "happy",
     "text": "The Cosmic Dust Jar! A thimbleful of the sky, collected from the roof of a cathedral in Prague. I wonder what it dreamed of, before it fell."
@@ -4622,6 +5062,11 @@
   "trigger": "element:27_010",
   "lines": [
    {
+    "speaker": "aldous",
+    "expr": "happy",
+    "text": "Rosalind, do not wear those beads in the dark. They have a very odd glint."
+   },
+   {
     "speaker": "zephyrine",
     "expr": "neutral",
     "text": "The Tektite Beads. Small black beads of glass, formed in the moment a meteorite hits the ground. Every one a tiny scar from the sky."
@@ -4653,6 +5098,11 @@
   "kind": "beat",
   "trigger": "element:27_015",
   "lines": [
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Mr Pemberton, is it true that rock came from the moon? I should like to see the paperwork."
+   },
    {
     "speaker": "aldous",
     "expr": "happy",
@@ -4718,6 +5168,11 @@
   "trigger": "element:27_025",
   "lines": [
    {
+    "speaker": "sam",
+    "expr": "neutral",
+    "text": "Zephyrine, a mile of rock, and a message at the bottom. Who on earth wrote it?"
+   },
+   {
     "speaker": "zephyrine",
     "expr": "worried",
     "text": "The Planet Core Sample. A cylinder of rock, drawn from a hole a mile deep. At the very bottom, a layer of something that does not belong to the rest."
@@ -4749,6 +5204,11 @@
   "kind": "beat",
   "trigger": "element:27_031",
   "lines": [
+   {
+    "speaker": "sam",
+    "expr": "neutral",
+    "text": "Hugo, tap it again. Gently. I believe it said something that sounded like my name."
+   },
    {
     "speaker": "hugo",
     "expr": "happy",
@@ -4856,6 +5316,11 @@
   "trigger": "element:28_010",
   "lines": [
    {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Miss Quill, has anyone told the lift that it is not meant to carry letters?"
+   },
+   {
     "speaker": "prudence",
     "expr": "neutral",
     "text": "The Dumbwaiter of Secrets. A small lift in the wall of the Cabinet, which was used for passing notes between the curators."
@@ -4930,6 +5395,11 @@
   "trigger": "element:28_020",
   "lines": [
    {
+    "speaker": "aldous",
+    "expr": "neutral",
+    "text": "Zephyrine, I put my ear to that horn, and I could hear someone breathing. It was not me."
+   },
+   {
     "speaker": "zephyrine",
     "expr": "neutral",
     "text": "The Great Whisper. A tall brass horn, curled like a shell, that gathers every murmur in the Hall and sends it back from a single point."
@@ -4966,6 +5436,11 @@
   "kind": "beat",
   "trigger": "element:29_005",
   "lines": [
+   {
+    "speaker": "rosalind",
+    "expr": "neutral",
+    "text": "Cornelia, the lamp lit itself as I passed. I felt rather flattered."
+   },
    {
     "speaker": "barnaby",
     "expr": "happy",
@@ -5004,6 +5479,11 @@
   "trigger": "element:29_010",
   "lines": [
    {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Miss Thorne, kindly explain why the Duchess has a peacock on her head."
+   },
+   {
     "speaker": "rosalind",
     "expr": "happy",
     "text": "The Duchess of Peacocks! My dears, I painted her myself. She was a very formidable woman, and she paid in peacocks."
@@ -5035,6 +5515,11 @@
   "kind": "beat",
   "trigger": "element:29_015",
   "lines": [
+   {
+    "speaker": "aldous",
+    "expr": "neutral",
+    "text": "Cornelia, how long has that frame been empty? And whom was it meant for?"
+   },
    {
     "speaker": "cornelia",
     "expr": "neutral",
@@ -5073,6 +5558,11 @@
   "trigger": "element:29_020",
   "lines": [
    {
+    "speaker": "sam",
+    "expr": "neutral",
+    "text": "Rosalind, I would swear that portrait is about to say something rude."
+   },
+   {
     "speaker": "rosalind",
     "expr": "neutral",
     "text": "The Founder's Great Portrait. Oh, I remember painting this. He would not sit still, and so the whole canvas is a little blurred about the edges."
@@ -5104,6 +5594,11 @@
   "kind": "beat",
   "trigger": "element:30_005",
   "lines": [
+   {
+    "speaker": "aldous",
+    "expr": "neutral",
+    "text": "Cornelia, whose hat is that? I should like to have a word with him."
+   },
    {
     "speaker": "cornelia",
     "expr": "neutral",
@@ -5141,6 +5636,11 @@
   "kind": "beat",
   "trigger": "element:30_010",
   "lines": [
+   {
+    "speaker": "hugo",
+    "expr": "neutral",
+    "text": "Prudence, the Charter is in nine inks. Any idea who ran out of black?"
+   },
    {
     "speaker": "prudence",
     "expr": "neutral",
@@ -5184,6 +5684,11 @@
   "trigger": "element:30_015",
   "lines": [
    {
+    "speaker": "rosalind",
+    "expr": "neutral",
+    "text": "Sam, you look as though you are sitting in a church pew. Relax."
+   },
+   {
     "speaker": "cornelia",
     "expr": "neutral",
     "text": "The Founder's Writing Desk. The very desk at which he wrote the Charter, and all the great letters to the Society. Mahogany, with a green leather top."
@@ -5226,6 +5731,11 @@
   "trigger": "element:30_020",
   "lines": [
    {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Mr Pemberton, the skylight is leaking light. Kindly stop it at once."
+   },
+   {
     "speaker": "hugo",
     "expr": "happy",
     "text": "The Gallery Skylight Lantern! A great glass cage with a hundred little panes, and in the middle a lamp that lights the whole Gallery from above."
@@ -5263,6 +5773,11 @@
   "trigger": "element:30_025",
   "lines": [
    {
+    "speaker": "rosalind",
+    "expr": "neutral",
+    "text": "Prudence, who would tear pages from a diary? And why so neatly?"
+   },
+   {
     "speaker": "prudence",
     "expr": "neutral",
     "text": "The Founder's Diary Stand. An oak lectern, with a leather diary open at a page in the middle of the last winter. The pages afterwards have been cut out."
@@ -5299,6 +5814,11 @@
   "kind": "beat",
   "trigger": "element:30_030",
   "lines": [
+   {
+    "speaker": "aldous",
+    "expr": "neutral",
+    "text": "Hugo, if that needle is sharp, kindly do not put it near a bird."
+   },
    {
     "speaker": "hugo",
     "expr": "happy",
@@ -5342,6 +5862,11 @@
   "trigger": "element:30_036",
   "lines": [
    {
+    "speaker": "zephyrine",
+    "expr": "neutral",
+    "text": "Cornelia, the fire has just lit itself. Did you do it?"
+   },
+   {
     "speaker": "cornelia",
     "expr": "neutral",
     "text": "The Founding Fire. The great hearth of the Gallery, which has stood cold for twenty years, and which I have just lit."
@@ -5379,6 +5904,11 @@
   "trigger": "element:31_006",
   "lines": [
    {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Miss Thorne, I believe the palm is looking at me. Do tell it to stop."
+   },
+   {
     "speaker": "rosalind",
     "expr": "neutral",
     "text": "The Parlour Palm. A great spray of green fronds in a brass pot, to shade the music boxes from the afternoon sun."
@@ -5410,6 +5940,11 @@
   "kind": "beat",
   "trigger": "element:31_011",
   "lines": [
+   {
+    "speaker": "mark",
+    "expr": "happy",
+    "text": "Hugo, it plays a different tune each time, doesn't it? Even when you wind it the same."
+   },
    {
     "speaker": "hugo",
     "expr": "happy",
@@ -5443,6 +5978,11 @@
   "trigger": "element:31_016",
   "lines": [
    {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Miss Quill, the dancer has stopped turning. Is she waiting for something?"
+   },
+   {
     "speaker": "prudence",
     "expr": "neutral",
     "text": "The Dancing Doll Box. The lid opens, a little porcelain dancer rises, and she turns on one toe to a very delicate melody."
@@ -5474,6 +6014,11 @@
   "kind": "beat",
   "trigger": "element:31_022",
   "lines": [
+   {
+    "speaker": "prudence",
+    "expr": "neutral",
+    "text": "Hugo, the sixth note is back, and something has clicked in the wall. Do not touch anything."
+   },
    {
     "speaker": "hugo",
     "expr": "happy",
@@ -5512,6 +6057,11 @@
   "trigger": "element:32_005",
   "lines": [
    {
+    "speaker": "aldous",
+    "expr": "neutral",
+    "text": "Prudence, I once attended a Concert for Seventeen Triangles. It was extremely difficult to follow."
+   },
+   {
     "speaker": "prudence",
     "expr": "neutral",
     "text": "The Drying Line. A row of damp prints hanging from a cord, each one a poster for a Society lecture of long ago. A Talk on Larks. A Debate on the Moon."
@@ -5549,6 +6099,11 @@
   "trigger": "element:32_011",
   "lines": [
    {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Miss Thorne, I believe someone has been using the blue ink. There is a smear on the doorknob."
+   },
+   {
     "speaker": "rosalind",
     "expr": "happy",
     "text": "The Colour Ink Cans! Every shade of the rainbow, in a row of brass-lidded pots. I could paint the whole Hall."
@@ -5580,6 +6135,11 @@
   "kind": "beat",
   "trigger": "element:32_017",
   "lines": [
+   {
+    "speaker": "anjali",
+    "expr": "neutral",
+    "text": "Prudence, what is the use of an engraving bench if nobody will engrave on it?"
+   },
    {
     "speaker": "prudence",
     "expr": "neutral",
@@ -5613,6 +6173,11 @@
   "trigger": "element:32_023",
   "lines": [
    {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Mr Pemberton, I believe you have lead on your chin."
+   },
+   {
     "speaker": "hugo",
     "expr": "happy",
     "text": "The Typecaster! A little brass furnace, and a mould for casting a letter at a time. It pops out a perfect A every three seconds."
@@ -5644,6 +6209,11 @@
   "kind": "beat",
   "trigger": "element:32_029",
   "lines": [
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Miss Quill, are these the same invitations we sent last Tuesday, or are they new ones?"
+   },
    {
     "speaker": "prudence",
     "expr": "neutral",
@@ -5682,6 +6252,11 @@
   "trigger": "element:33_006",
   "lines": [
    {
+    "speaker": "hugo",
+    "expr": "neutral",
+    "text": "Anjali, you've got flour on the glue pot. Please stop that."
+   },
+   {
     "speaker": "barnaby",
     "expr": "happy",
     "text": "The Glue Pot! A little iron pot, always simmering, and always smelling of horse. Miss Wren, I've stuck three things to my sleeve already."
@@ -5718,6 +6293,11 @@
   "kind": "beat",
   "trigger": "element:33_012",
   "lines": [
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Mr Pemberton, I should like to know how a mast gets round, and who turns it."
+   },
    {
     "speaker": "hugo",
     "expr": "happy",
@@ -5788,6 +6368,11 @@
   "trigger": "element:33_024",
   "lines": [
    {
+    "speaker": "aldous",
+    "expr": "neutral",
+    "text": "Hugo, may I climb up the crane? I should like to see the Hall from above."
+   },
+   {
     "speaker": "hugo",
     "expr": "happy",
     "text": "The Dock Crane! A little iron jib on a rotating base, with a hook the size of my thumb, and a chain that clinks like loose change."
@@ -5819,6 +6404,11 @@
   "kind": "beat",
   "trigger": "element:33_030",
   "lines": [
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Miss Quill, there is a ship in the ledger that did not return. Who was her captain?"
+   },
    {
     "speaker": "prudence",
     "expr": "neutral",
@@ -5857,6 +6447,11 @@
   "trigger": "element:33_036",
   "lines": [
    {
+    "speaker": "aldous",
+    "expr": "neutral",
+    "text": "Hugo, the little clock is a quarter of an hour fast. And the big one is in agreement with it."
+   },
+   {
     "speaker": "hugo",
     "expr": "neutral",
     "text": "The Chronometer Box. Two gimbals, a brass-bound case, and a very fine clock that keeps time to a fraction of a second. I haven't heard a better."
@@ -5894,6 +6489,11 @@
   "trigger": "element:33_042",
   "lines": [
    {
+    "speaker": "zephyrine",
+    "expr": "neutral",
+    "text": "Barnaby, you are leaning on the rail. I should hate to have to catch you."
+   },
+   {
     "speaker": "barnaby",
     "expr": "happy",
     "text": "The Gallery Anchor Rope Rail! Real rope, tarred and knotted, with a great brass anchor at the end. It smells wonderfully of ships."
@@ -5930,6 +6530,11 @@
   "kind": "beat",
   "trigger": "element:33_048",
   "lines": [
+   {
+    "speaker": "anjali",
+    "expr": "neutral",
+    "text": "Hugo, is the ironclad really the size of my kitchen table? I had no idea."
+   },
    {
     "speaker": "hugo",
     "expr": "happy",
@@ -5970,6 +6575,11 @@
    {
     "speaker": "cornelia",
     "expr": "neutral",
+    "text": "Zephyrine, a hundred ships on a floor. And a space for one more. I wonder who is expected."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
     "text": "The Great Armada. A hundred ships, in a hundred sizes, drawn up in a long crescent across the floor of the Hall. It is the grandest thing we have restored."
    },
    {
@@ -5999,6 +6609,11 @@
   "kind": "beat",
   "trigger": "element:34_006",
   "lines": [
+   {
+    "speaker": "rosalind",
+    "expr": "neutral",
+    "text": "Barnaby, you have been weaving that for an hour. May I know what it is?"
+   },
    {
     "speaker": "barnaby",
     "expr": "happy",
@@ -6037,6 +6652,11 @@
   "trigger": "element:34_012",
   "lines": [
    {
+    "speaker": "prudence",
+    "expr": "neutral",
+    "text": "Hugo, I do not wish to alarm anyone, but that flame is blue."
+   },
+   {
     "speaker": "hugo",
     "expr": "happy",
     "text": "The Hot Air Burner! A fine brass nozzle, a fuel line, and a cone of blue flame that roars like a lion."
@@ -6073,6 +6693,11 @@
   "kind": "beat",
   "trigger": "element:34_018",
   "lines": [
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "If nobody is looking, Mr Pemberton, I should like a short ride on the cart."
+   },
    {
     "speaker": "hugo",
     "expr": "happy",
@@ -6113,6 +6738,11 @@
    {
     "speaker": "hugo",
     "expr": "neutral",
+    "text": "Aldous, the gauge has dropped a full inch in the last quarter of an hour."
+   },
+   {
+    "speaker": "hugo",
+    "expr": "neutral",
     "text": "The Air Pressure Gauge. A big brass dial, with a needle that swings between Storm and Fair. I'm telling you now, it's dropping like a stone."
    },
    {
@@ -6142,6 +6772,11 @@
   "kind": "beat",
   "trigger": "element:34_030",
   "lines": [
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Hugo, if you put the Professor in that thing, I shall write to his mother."
+   },
    {
     "speaker": "aldous",
     "expr": "happy",
@@ -6180,6 +6815,11 @@
   "trigger": "element:34_036",
   "lines": [
    {
+    "speaker": "aldous",
+    "expr": "neutral",
+    "text": "Zephyrine, how high does a balloon go before it stops being a balloon?"
+   },
+   {
     "speaker": "zephyrine",
     "expr": "neutral",
     "text": "The Great Altitude Record Balloon. Forty feet of silk, painted with a map of the stars. It rose higher than any balloon in history, and came down in a very surprised sheep field."
@@ -6211,6 +6851,11 @@
   "kind": "beat",
   "trigger": "element:34_042",
   "lines": [
+   {
+    "speaker": "hugo",
+    "expr": "surprised",
+    "text": "Barnaby, nobody has touched that bell! It rang all on its own!"
+   },
    {
     "speaker": "cornelia",
     "expr": "neutral",
@@ -6248,6 +6893,11 @@
   "kind": "beat",
   "trigger": "element:34_048",
   "lines": [
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Barnaby, are the baskets loaded? Mr Pemberton, is the burner lit? Professor, are the invitations tied?"
+   },
    {
     "speaker": "cornelia",
     "expr": "neutral",
@@ -6318,6 +6968,11 @@
   "trigger": "element:35_012",
   "lines": [
    {
+    "speaker": "mark",
+    "expr": "happy",
+    "text": "Professor, there's a, um, wren in the bath! A little one, with a very serious look."
+   },
+   {
     "speaker": "aldous",
     "expr": "happy",
     "text": "The Bird Bath! A shallow stone basin, with a little brass fountain in the middle. And, oh, look, Cornelia. A wren, bathing in the shallow end!"
@@ -6352,6 +7007,11 @@
    {
     "speaker": "rosalind",
     "expr": "neutral",
+    "text": "Sam, you have been sitting in that chair for an hour, and I do not believe you have watched a single cloud."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "neutral",
     "text": "The Cloud Watcher's Chair. A deep wicker seat, with a footstool and a blanket. A chair in which one does absolutely nothing at all."
    },
    {
@@ -6381,6 +7041,11 @@
   "kind": "beat",
   "trigger": "element:35_024",
   "lines": [
+   {
+    "speaker": "zephyrine",
+    "expr": "neutral",
+    "text": "Hugo, the strings are humming. Do you hear it? It is the sixth note, a little flat."
+   },
    {
     "speaker": "hugo",
     "expr": "happy",
@@ -6414,6 +7079,11 @@
   "trigger": "element:35_030",
   "lines": [
    {
+    "speaker": "aldous",
+    "expr": "happy",
+    "text": "Cornelia, I climbed all the way up, and the whole Hall is lit beneath me like a jewel box."
+   },
+   {
     "speaker": "cornelia",
     "expr": "neutral",
     "text": "The Watchers' Lantern. A tall brass lamp on a stone post, at the end of the Walk. It stands at the highest point of the Hall, and its light can be seen for miles."
@@ -6445,6 +7115,11 @@
   "kind": "beat",
   "trigger": "element:36_006",
   "lines": [
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Mr Bloom, are all forty pots a different herb? Or have you grown a very large basil by accident?"
+   },
    {
     "speaker": "mark",
     "expr": "neutral",
@@ -6478,6 +7153,11 @@
   "trigger": "element:36_012",
   "lines": [
    {
+    "speaker": "sam",
+    "expr": "neutral",
+    "text": "Zephyrine, you have been sitting on that bench for an hour. Who are you waiting for?"
+   },
+   {
     "speaker": "zephyrine",
     "expr": "neutral",
     "text": "The Moon Bench. A stone seat, with a crescent carved into the back, under a trellis of jasmine. I have sat on it before. In a dream, I think, in a very small boat."
@@ -6509,6 +7189,11 @@
   "kind": "beat",
   "trigger": "element:36_018",
   "lines": [
+   {
+    "speaker": "hugo",
+    "expr": "neutral",
+    "text": "Cornelia, are those lanterns lit by gas, or by something else?"
+   },
    {
     "speaker": "cornelia",
     "expr": "neutral",
@@ -9486,7 +10171,7 @@
    {
     "speaker": "zephyrine",
     "expr": "happy",
-    "text": "The Quarter Chimes! Four brass bells, in a row, each a different pitch. They ring every fifteen minutes, and they have not rung for twenty years."
+    "text": "The Quarter Chimes! Five brass bells, in a row, each a different pitch. They ring every fifteen minutes, and they have not rung for twenty years."
    },
    {
     "speaker": "cornelia",
@@ -9501,7 +10186,7 @@
    {
     "speaker": "barnaby",
     "expr": "happy",
-    "text": "Aye, Mr Pemberton! Four bells. Do-re-mi-fa. Oh, listen! The whole Hall is chiming!"
+    "text": "Aye, Mr Pemberton! Five bells. Do-re-mi-fa-sol. Oh, listen! The whole Hall is chiming!"
    },
    {
     "speaker": "rosalind",
@@ -9802,7 +10487,7 @@
     "caption": "The Curator's Office sits at the top of a short flight of stairs, its door painted the green of old brass. Inside, a desk the size of a small boat faces a window that looks out over the entire Hall."
    },
    {
-    "caption": "A single card has been propped against the inkwell. It reads: Wednesday. Come back for the rest."
+    "caption": "One drawer of the desk sticks fast, and no one has dared to force it in twenty years."
    }
   ],
   "cast": [
@@ -9942,8 +10627,7 @@
    }
   ],
   "cast": [
-   "cornelia",
-   "anjali"
+   "cornelia"
   ]
  },
  {
@@ -9959,8 +10643,7 @@
    }
   ],
   "cast": [
-   "cornelia",
-   "zephyrine"
+   "cornelia"
   ]
  },
  {
@@ -9976,8 +10659,7 @@
    }
   ],
   "cast": [
-   "cornelia",
-   "prudence"
+   "cornelia"
   ]
  },
  {
@@ -9993,7 +10675,6 @@
    }
   ],
   "cast": [
-   "prudence",
    "cornelia"
   ]
  },
@@ -10685,7 +11366,7 @@
   "trigger": "task:43_11",
   "panels": [
    {
-    "caption": "Volume III: The Box in the Aquarium. The Great Aquarium fills at last, and the little brass box is recovered from the depths. Inside is a single key, and a note: Archives, when you are ready."
+    "caption": "Volume III: The Box in the Aquarium. The Great Aquarium fills, and a small brass box can be seen at last on the floor of the tank, with a lock on it and a tag. A diver is sent for."
    },
    {
     "caption": "The members of the Society gather around the tea urn for the first time, and begin to feel like a society."
