@@ -54,3 +54,16 @@ would help.
     command (`sectilia cancel <id>` does not exist) a hung job halts all art
     work. A cancel command, or the server-side 45-minute stop actually firing,
     would unblock this.
+11. **Capacity wait looked like "running".** Job 53c5f576 finally failed with
+    cause `hammer_capacity` ("no hammer edit server was free for 120
+    minutes"). For those 2 hours `sectilia job` showed `running` with an empty
+    `waiting_for`, though it was really waiting for server capacity. The
+    documented 45-minute cap does not count capacity wait; the real limit was
+    120 minutes. The cause only appeared at the end. Showing
+    `waiting_for: ["capacity"]` (or similar) while it waits would have saved
+    two hours of watching, and let us switch to a fallback early.
+12. **`--timeout` not honoured while queued for a cold server.** The Atrium
+    resubmit (`background ... --timeout 160`, job 6debc1ba) kept waiting past
+    20 minutes in `queued` ("waiting for hammer generate, edit to start,
+    usually about 7 minutes") instead of exiting 7 at 160 s. An agent shell
+    that relies on `--timeout` to stay in the foreground cannot.
