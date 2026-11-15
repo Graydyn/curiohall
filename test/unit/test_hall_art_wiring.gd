@@ -38,3 +38,20 @@ func test_element_sprite_draws_at_row_size() -> void:
     var pos: Array = row["pos"]
     assert_almost_eq(s.position.x + s.size.x * 0.5, float(pos[0]), 0.5)
     assert_almost_eq(s.position.y + s.size.y, float(pos[1]), 0.5)
+    # The drawn texture must match too (TextureRect min size used to clamp it
+    # to the 384 px texture when size was set before expand_mode).
+    var art := s.get_node("Art") as TextureRect
+    assert_eq(art.size, s.size)
+
+func test_exterior_wing_art_fits_its_rect() -> void:
+    var g := Game.fresh(0.0)
+    var m := ExteriorMap.new()
+    add_child_autofree(m)
+    m.setup(g)
+    var w: Control = m._wings[3]
+    var art: TextureRect = null
+    for c in w.get_children():
+        if c is TextureRect and (c as TextureRect).texture == HallArt.wing_exterior(3, "boarded"):
+            art = c
+    assert_not_null(art)
+    assert_eq(art.size, w.size)

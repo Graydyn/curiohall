@@ -11,8 +11,8 @@
    "1_4"
   ],
   "pos": [
-   90,
-   320
+   175,
+   850
   ],
   "subject": "a tall black wrought-iron post lantern with a glass lamp-house, a little rust blooming at its scrollwork base, a dusty brass burner inside",
   "looks": [
@@ -26,10 +26,11 @@
    },
    {
     "name": "Verdigris copper",
-    "instruction": "recast the lantern in green-patinated copper with a pointed hood and a soft teal glow, keep the same object, framing, viewpoint and lighting"
+    "instruction": "recast the lantern in green-patinated verdigris copper with a pointed hood and pale sea-green glass panes, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 230
  },
  {
   "id": "01_002",
@@ -42,8 +43,8 @@
    "1_7"
   ],
   "pos": [
-   270,
-   320
+   390,
+   1140
   ],
   "subject": "a pair of weathered stone gateposts each topped by a seated griffin with folded wings, ivy creeping up the pillars, joined by a short run of iron railing",
   "looks": [
@@ -60,7 +61,8 @@
     "instruction": "make the stone fresh pale limestone with sharp carved feathers, trimmed ivy and a fresh coat of black paint on the railing, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": "beat_d001"
+  "beat": "beat_d001",
+  "size": 360
  },
  {
   "id": "02_001",

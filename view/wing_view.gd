@@ -142,8 +142,8 @@ func _build_scene() -> void:
     if tex != null:
         var tr := TextureRect.new()
         tr.texture = tex
-        tr.size = sz
         tr.expand_mode = TextureRect.EXPAND_IGNORE_SIZE
+        tr.size = sz
         tr.stretch_mode = TextureRect.STRETCH_SCALE
         tr.mouse_filter = Control.MOUSE_FILTER_IGNORE
         _scene.add_child(tr)

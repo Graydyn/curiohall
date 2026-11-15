@@ -147,3 +147,10 @@ would help.
     `background: null` plus "a thin dark outline around the pale parts" in the
     edit instruction. A key colour chosen to contrast with the subject (say,
     a dark or saturated backdrop when the subject is pale) would avoid it.
+26. **Outdoor scenes drift photoreal despite painted refs.** The Front Gates
+    forecourt (generate + keep, refs: two style probes, the Atrium room and the
+    exterior) came back near-photographic twice: real pebble texture, camera
+    depth of field. Spelling out "hand-painted Ghibli-style background art,
+    visible brushwork, flat painted gravel" pulled it most of the way back. The
+    interior Atrium never drifted. Style refs seem to weigh less than the
+    subject's own realism cues for outdoor ground textures.

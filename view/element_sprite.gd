@@ -50,8 +50,10 @@ func refresh() -> void:
         var tr := TextureRect.new()
         tr.name = "Art"
         tr.texture = tex
-        tr.size = sz
+        # expand_mode before size: with the default KEEP_SIZE the minimum size
+        # is the texture size, which would clamp the smaller on-scene size.
         tr.expand_mode = TextureRect.EXPAND_IGNORE_SIZE
+        tr.size = sz
         tr.stretch_mode = TextureRect.STRETCH_SCALE
         tr.mouse_filter = Control.MOUSE_FILTER_IGNORE
         if stage == HallElements.Stage.OUTLINE:
@@ -67,8 +69,8 @@ func refresh() -> void:
             var s := TextureRect.new()
             s.name = "Scaffold"
             s.texture = scaf
-            s.size = sz
             s.expand_mode = TextureRect.EXPAND_IGNORE_SIZE
+            s.size = sz
             s.stretch_mode = TextureRect.STRETCH_SCALE
             s.mouse_filter = Control.MOUSE_FILTER_IGNORE
             add_child(s)

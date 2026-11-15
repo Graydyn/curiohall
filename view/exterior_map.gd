@@ -45,8 +45,8 @@ func setup(g: Game) -> void:
     if base != null:
         var tr := TextureRect.new()
         tr.texture = base
-        tr.size = CANVAS
         tr.expand_mode = TextureRect.EXPAND_IGNORE_SIZE
+        tr.size = CANVAS
         tr.stretch_mode = TextureRect.STRETCH_SCALE
         tr.mouse_filter = Control.MOUSE_FILTER_IGNORE
         _canvas.add_child(tr)
@@ -107,8 +107,8 @@ func _build_wing(area: int, w: Control) -> void:
     if tex != null:
         var tr := TextureRect.new()
         tr.texture = tex
-        tr.size = w.size
         tr.expand_mode = TextureRect.EXPAND_IGNORE_SIZE
+        tr.size = w.size
         tr.stretch_mode = TextureRect.STRETCH_KEEP_ASPECT_CENTERED
         tr.mouse_filter = Control.MOUSE_FILTER_IGNORE
         if locked and separate:
@@ -135,9 +135,9 @@ func _build_wing(area: int, w: Control) -> void:
             var hr := TextureRect.new()
             hr.name = "Glow"
             hr.texture = halo
+            hr.expand_mode = TextureRect.EXPAND_IGNORE_SIZE
             hr.size = w.size * 1.3
             hr.position = (w.size - hr.size) * 0.5
-            hr.expand_mode = TextureRect.EXPAND_IGNORE_SIZE
             hr.stretch_mode = TextureRect.STRETCH_SCALE
             hr.mouse_filter = Control.MOUSE_FILTER_IGNORE
             w.add_child(hr)
@@ -155,13 +155,15 @@ func _build_wing(area: int, w: Control) -> void:
             glow.add_theme_stylebox_override("panel", sb)
             w.add_child(glow)
             _pulses.append(glow)
-        var scaf := HallArt.ui("scaffold")
+        # Painted wings show the halo only: the scaffold art is a whole 3D
+        # structure and would hide the building on the first screen.
+        var scaf := HallArt.ui("scaffold") if tex == null else null
         if scaf != null:
             var s := TextureRect.new()
             s.name = "Scaffold"
             s.texture = scaf
-            s.size = w.size
             s.expand_mode = TextureRect.EXPAND_IGNORE_SIZE
+            s.size = w.size
             s.stretch_mode = TextureRect.STRETCH_SCALE
             s.mouse_filter = Control.MOUSE_FILTER_IGNORE
             w.add_child(s)
