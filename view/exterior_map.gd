@@ -25,6 +25,8 @@ var _pressing := false
 var _dragged := false
 var _time := 0.0
 var _has_base := false
+## Preview/screenshot hook: area -> Campaign.AreaState, applied on refresh().
+var state_override: Dictionary = {}
 
 func setup(g: Game) -> void:
     game = g
@@ -97,7 +99,7 @@ func _build_wing(area: int, w: Control) -> void:
     var r: Array = row["exterior_rect"]
     w.position = Vector2(float(r[0]), float(r[1]))
     w.size = Vector2(float(r[2]), float(r[3]))
-    var st: int = game.campaign.area_state(area, game.player)
+    var st: int = int(state_override.get(area, game.campaign.area_state(area, game.player)))
     _states[area] = st
     var separate := String(row.get("structure", "interior")) == "separate"
     var locked := st == Campaign.AreaState.LOCKED

@@ -55,3 +55,23 @@ func test_exterior_wing_art_fits_its_rect() -> void:
             art = c
     assert_not_null(art)
     assert_eq(art.size, w.size)
+
+func test_exterior_state_override_for_previews() -> void:
+    var g := Game.fresh(0.0)
+    var m := ExteriorMap.new()
+    add_child_autofree(m)
+    m.setup(g)
+    m.state_override = {2: Campaign.AreaState.RESTORED, 3: Campaign.AreaState.LOCKED}
+    m.refresh()
+    assert_eq(m.wing_state(2), Campaign.AreaState.RESTORED)
+    assert_eq(m.wing_state(3), Campaign.AreaState.LOCKED)
+
+func test_harmonised_wing_texture_matches_rect_aspect() -> void:
+    # Harmonised wings are crop-sized images drawn into their crop rect.
+    for area in [1, 2, 3, 4]:
+        var tex := HallArt.wing_exterior(area, "restored")
+        assert_not_null(tex)
+        var r: Array = ConfigDB.hall_wings[area]["exterior_rect"]
+        var ta := tex.get_width() / float(tex.get_height())
+        var ra := float(r[2]) / float(r[3])
+        assert_almost_eq(ta, ra, 0.02, "wing %d" % area)

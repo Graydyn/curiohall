@@ -85,6 +85,8 @@ def build_argv(e, jobs, dry=False):
             argv += ["--facing", a["facing"]]
         for k in a.get("style_keys", []):
             argv += ["--style", ref(k)]
+    elif cmd == "upload":
+        argv += [a["file"], "--spec", json.dumps(a["spec"])]
     elif cmd == "background":
         argv += ["--description", a["description"], "--size", a["size"],
                  "--style", a.get("style", "painted")]
@@ -92,7 +94,9 @@ def build_argv(e, jobs, dry=False):
             argv += ["--style-job", ref(k)]
     else:
         raise EntryFailed("unknown cmd '%s'" % cmd)
-    argv += ["--timeout", str(CLI_TIMEOUT), "--out", out]
+    if cmd != "upload":   # upload is synchronous and takes no --timeout
+        argv += ["--timeout", str(CLI_TIMEOUT)]
+    argv += ["--out", out]
     return argv
 
 

@@ -11,6 +11,7 @@ import sectilia_batch as B  # noqa: E402
 import clean_sprite as CS  # noqa: E402
 import align_states as AS  # noqa: E402
 import lawn_patch as LP  # noqa: E402
+import harmonise_wing as HW  # noqa: E402
 
 REAL_ROOT = C.ROOT
 
@@ -252,6 +253,37 @@ class BatchTests(unittest.TestCase):
         with self.assertRaises(B.StopBatch):
             B.run_entry(e, {"s1": "J"}, runner, lambda s: None, None, noted.append)
         self.assertEqual(noted, ["JX"])
+
+    def test_harmonise_crop_and_mask(self):
+        from PIL import Image
+        base = Image.new("RGB", (400, 300), (40, 110, 50))
+        sprite = Image.new("RGBA", (100, 50), (0, 0, 0, 0))
+        sprite.paste((150, 120, 100, 255), (20, 10, 80, 50))
+        crop, alpha, meta = HW.make_crop(base, sprite, [100, 100, 200, 100], margin=0.2)
+        self.assertEqual(meta["crop_rect"], [60, 80, 280, 140])
+        self.assertEqual(crop.size, alpha.size)
+        mask = HW.feather_mask(alpha)
+        w, h = mask.size
+        for pt in ((0, 0), (w - 1, h - 1), (0, h // 2), (w // 2, 0)):
+            self.assertEqual(mask.getpixel(pt), 0)            # edges fade out fully
+        cx, cy = w // 2, int(h * 0.6)
+        self.assertEqual(alpha.getpixel((cx, cy)), 255)
+        self.assertGreaterEqual(mask.getpixel((cx, cy)), 250)  # building stays opaque
+        out = HW.paste(Image.new("RGB", (w * 2, h * 2), (9, 9, 9)), alpha)
+        self.assertEqual(out.size, (w, h))
+        self.assertEqual(out.mode, "RGBA")
+
+    def test_harmonise_crop_clamps_and_scales(self):
+        cr = HW.crop_rect([0, 0, 2000, 500], 0.2, (2160, 3240))
+        self.assertEqual(cr[:2], [0, 0])
+        self.assertLessEqual(cr[0] + cr[2], 2160)
+
+    def test_upload_argv_has_no_timeout(self):
+        e = {"key": "u", "out": "o.png", "cmd": "upload",
+             "args": {"file": "f.png", "spec": {"a": 1}}, "source_key": None}
+        argv = B.build_argv(e, {})
+        self.assertEqual(argv[:3], ["sectilia", "upload", "f.png"])
+        self.assertNotIn("--timeout", argv)
 
     def test_newest_job_since(self):
         import time as _t

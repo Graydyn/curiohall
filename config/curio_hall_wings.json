@@ -4,10 +4,10 @@
   "name": "The Front Gates",
   "structure": "interior",
   "exterior_rect": [
-   480,
-   2560,
-   1200,
-   640
+   264,
+   2445,
+   1632,
+   795
   ],
   "subrooms": [
    {
@@ -26,10 +26,10 @@
   "name": "The Grand Atrium",
   "structure": "interior",
   "exterior_rect": [
-   420,
-   1060,
-   1320,
-   820
+   264,
+   1075,
+   1632,
+   1020
   ],
   "subrooms": [
    {
@@ -50,9 +50,9 @@
   "structure": "interior",
   "exterior_rect": [
    0,
-   1290,
-   520,
-   450
+   1372,
+   606,
+   516
   ],
   "subrooms": [
    {
@@ -70,10 +70,10 @@
   "name": "The Curator's Office",
   "structure": "interior",
   "exterior_rect": [
-   1640,
-   1290,
-   520,
-   450
+   1554,
+   1372,
+   606,
+   516
   ],
   "subrooms": [
    {

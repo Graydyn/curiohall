@@ -154,3 +154,16 @@ would help.
     visible brushwork, flat painted gravel" pulled it most of the way back. The
     interior Atrium never drifted. Style refs seem to weigh less than the
     subject's own realism cues for outdoor ground textures.
+27. **We are building masked inpainting out of crop + upload + edit.** To make
+    the exterior wings sit in the painting, each wing is composited onto the
+    base, a crop around it is uploaded, `edit`ed ("blend into one painting,
+    contact shadow, keep framing"), and pasted back under our own feathered
+    mask. It works when the edit keeps framing (gates, cottages: kept), but
+    the edit repaints the *whole* crop: skies turned to pink fog, fine grass
+    to smooth haze, and on one try the Atrium was redrawn isometric with the
+    pool gone. So we mask down to the building plus a ground-contact ellipse
+    and throw the rest away. A native region/masked edit (pass a mask, or a
+    rect, and only that area changes, with the rest guaranteed identical)
+    would make this one step with no drift. Allowing a region edit of a large
+    `background` job (it cannot be an edit source today) would let us fix the
+    exterior painting in place instead of compositing sprites over it.
