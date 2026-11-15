@@ -75,11 +75,11 @@ would help.
     "usually about 7 minutes". A status page or a `sectilia status` command
     showing current capacity and queue depth would let a user choose to wait or
     come back later, instead of tying up the machine lock for hours.
-13. **`generate` subject capped at 500 characters, found by a 422.** The cap is
+14. **`generate` subject capped at 500 characters, found by a 422.** The cap is
     not in `generate --help` or SKILL.md; the room fallback was rejected
     (`string_too_long`). Documenting the limit (and for `edit --instruction`,
     `background --description`) would save a round trip.
-14. **Third capacity stall in a row.** After both Atrium backgrounds failed on
+15. **Third capacity stall in a row.** After both Atrium backgrounds failed on
     `hammer_capacity`, a plain `generate` (job 11a4b138, 473x1024) sat
     `queued` with `waiting_for: ["generate"]` from 02:37 to past 03:08 UTC. Its
     own default `--timeout 600` did not fire either (item 12), so our runner's
