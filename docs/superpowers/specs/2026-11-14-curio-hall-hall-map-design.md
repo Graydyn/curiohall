@@ -63,6 +63,8 @@ written down as feedback for the Sectilia team (see §9).
 | Customization | On completing an element the player **picks one of 3 looks**; swap later free in an edit mode. |
 | Story | Portrait-and-speech-bubble scenes over the live map for most beats; **painted panels** for the big moments (~47–60). |
 | Process | One big build delivered together, not a throwaway spike. |
+| Exterior composition (2026-11-15, after the phone checkpoint) | **The Hall itself grows.** The 37 interior wings are visible *sections of one large painted Hall building* (a window range, a tower, a side wing, a cellar entrance), each boarded or dark until restored. Only the 10 separate structures (Butterfly House, Conservatory, Astronomy Dome, Balloon Loft, Observatory Walk, Moonlit Courtyard, Reflecting Pool, Glasshouse Menagerie, Night Garden, Clock Tower) get their own plots on the grounds. Rejected: one house per wing on an extended lawn (map too tall, reads as a village). |
+| Exterior seams | Wing art is never a cut-out pasted on the painting. Each section/plot is cropped from the composed painting, blended by Sectilia edit, and pasted back under a feathered mask; other states are edits of that blended crop, so they line up. |
 
 ## 4. Approaches considered (build order)
 
@@ -214,6 +216,10 @@ All art via the **Sectilia** skill. Stored under `assets/map/` (`exterior/`, `wi
 - **Style checkpoint (my call):** before the mass generation, the builder produces a small set —
   the exterior, one wing with ~5 elements in three looks, two portraits, one panel — and shows the
   user once. Then everything else is generated in that style.
+- **Checkpoint outcome (2026-11-15, user on phone):** style approved ("the art is drastically
+  better") after the exterior cohesion pilot. Locked style refs: `style_core` in
+  `assets/map/jobs.json`, passed to every generate via `--style`. Exterior composition changed to
+  "the Hall itself grows" (§3).
 
 ### 7.2 Volume (approximate)
 | Asset | Count |
