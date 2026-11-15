@@ -32,19 +32,19 @@ func setup(g: Game) -> void:
     visible = false
     _root = Control.new()
     _root.name = "Root"
-    _root.set_anchors_preset(Control.PRESET_FULL_RECT)
+    _root.set_anchors_and_offsets_preset(Control.PRESET_FULL_RECT)
     _root.mouse_filter = Control.MOUSE_FILTER_STOP
     _root.gui_input.connect(_on_gui_input)
     add_child(_root)
     _dim = ColorRect.new()
     _dim.name = "Dim"
     _dim.color = Color(0, 0, 0, BEAT_DIM)
-    _dim.set_anchors_preset(Control.PRESET_FULL_RECT)
+    _dim.set_anchors_and_offsets_preset(Control.PRESET_FULL_RECT)
     _dim.mouse_filter = Control.MOUSE_FILTER_IGNORE
     _root.add_child(_dim)
     _stage = Control.new()
     _stage.name = "Stage"
-    _stage.set_anchors_preset(Control.PRESET_FULL_RECT)
+    _stage.set_anchors_and_offsets_preset(Control.PRESET_FULL_RECT)
     _stage.mouse_filter = Control.MOUSE_FILTER_IGNORE
     _root.add_child(_stage)
     _skip = Button.new()

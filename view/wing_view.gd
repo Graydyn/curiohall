@@ -28,7 +28,7 @@ func setup(g: Game, a: int, focus_element: String = "") -> void:
     game = g
     area = a
     subroom = 0
-    set_anchors_preset(Control.PRESET_FULL_RECT)
+    set_anchors_and_offsets_preset(Control.PRESET_FULL_RECT)
     mouse_filter = Control.MOUSE_FILTER_STOP
     for c in get_children():
         remove_child(c)
@@ -41,7 +41,7 @@ func setup(g: Game, a: int, focus_element: String = "") -> void:
     _clip = Control.new()
     _clip.name = "Clip"
     _clip.clip_contents = true
-    _clip.set_anchors_preset(Control.PRESET_FULL_RECT)
+    _clip.set_anchors_and_offsets_preset(Control.PRESET_FULL_RECT)
     _clip.mouse_filter = Control.MOUSE_FILTER_IGNORE
     add_child(_clip)
     _build_chrome()

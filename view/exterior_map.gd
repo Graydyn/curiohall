@@ -29,7 +29,7 @@ var _has_base := false
 func setup(g: Game) -> void:
     game = g
     clip_contents = true
-    set_anchors_preset(Control.PRESET_FULL_RECT)
+    set_anchors_and_offsets_preset(Control.PRESET_FULL_RECT)
     mouse_filter = Control.MOUSE_FILTER_STOP
     _canvas = Control.new()
     _canvas.name = "Canvas"

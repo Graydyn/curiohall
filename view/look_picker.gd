@@ -13,11 +13,11 @@ var _close_button: Button
 func setup(g: Game, id: String, closable: bool) -> void:
     game = g
     element_id = id
-    set_anchors_preset(Control.PRESET_FULL_RECT)
+    set_anchors_and_offsets_preset(Control.PRESET_FULL_RECT)
     mouse_filter = Control.MOUSE_FILTER_STOP
     var dim := ColorRect.new()
     dim.color = Color(0, 0, 0, 0.7)
-    dim.set_anchors_preset(Control.PRESET_FULL_RECT)
+    dim.set_anchors_and_offsets_preset(Control.PRESET_FULL_RECT)
     dim.mouse_filter = Control.MOUSE_FILTER_IGNORE
     add_child(dim)
     var frame_art := CurioTheme.art_box("picker_frame", null, 72.0, 0.0)
