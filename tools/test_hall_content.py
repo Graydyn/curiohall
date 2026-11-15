@@ -65,6 +65,16 @@ class CheckHallContentTest(unittest.TestCase):
         self.assertEqual(stats["scene_subjects"], 1)
         self.assertTrue(any("scene word" in p for p in problems))
 
+    def test_placement_phrases_fail(self):
+        base = "a small carved oak box with a brass hinge and a worn velvet lining, %s"
+        for phrase in ["at the foot of a stone stair", "beside a tall brass lamp", "leaning against a wall",
+                       "next to a pile of crates", "set into a stone floor", "in a corner of the room",
+                       "surrounded by bookshelves", "on the floor"]:
+            problems, stats = c.check([element(1, subject=base % phrase)])
+            self.assertEqual(stats["scene_subjects"], 1, phrase)
+        problems, stats = c.check([element(1, subject=base % "resting on its own small wooden stand")])
+        self.assertEqual(stats["scene_subjects"], 0)
+
     def test_people_word_fails(self):
         subject = "a small carved oak box with a brass hinge and a woman's glove folded on top of its lid"
         problems, _ = c.check([element(1, subject=subject)])

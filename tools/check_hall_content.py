@@ -19,7 +19,13 @@ METAL = re.compile(r"\b(gild\w*|gold\w*|gilt|silver\w*|bronze\w*)\b", re.I)
 SCENE = re.compile(
     r"\b(corner of|in a corner|in the corner|surrounded|surrounding|background|beyond|behind|scene|street|landscape|"
     r"mural|skylight|ceiling|horizon|village|valley|forest|shore|in front of|courtyard|"
-    r"(by|at|beside|through|near|under) (a|the) (window|door|fire|hearth|wall|stair|staircase))\b", re.I)
+    r"(by|at|beside|through|near|under) (a|the) (window|door|fire|hearth|wall|stair|staircase)|"
+    # placement phrases: the object must stand alone, not in a setting
+    r"at the (foot|bottom|top|end|edge|base) of|in the corner|beside (a|an|the)|next to|against (a|the) \w+|"
+    r"on (a|the) (floor|wall|ground|ceiling)|set (in|into) (a|the) \w+( \w+)? (floor|wall)|set into the|"
+    r"under (a|an|the) (arch|roof|canopy|tree|sky|dome)|leaning (on|against)|"
+    r"(hung|hanging) (on|from) (a|the) (wall|ceiling|rafter|beam)|"
+    r"(in|on|at) (a|the) (garden|courtyard|terrace|lawn|landing)|(in|inside) (a|the) (room|hall|cave))\b", re.I)
 SCENE_ALLOWED = {}  # element id -> reason, for deliberate exceptions
 PEOPLE = re.compile(r"\b(person|persons|people|man|men|woman|women|child|children|boy|girl|human|humans|lady|ladies|gentleman|gentlemen|crowd)\b", re.I)
 
