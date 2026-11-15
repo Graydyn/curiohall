@@ -138,141 +138,127 @@ c n Everyone, stand very still. Mr Pluck, do not breathe on it.
 b w I wasn't going to breathe on it, Miss Wren. I wasn't going to breathe at all.
 r h There is a seed in its heart, and on the seed a tiny writing. It says: Deep Vaults. Open when the garden is lit.
 == 210
-j n The Coal Scuttle. A great iron bucket, black as night, with a lip like a duck. It is, I am told, the first thing one sees on entering the Deep Vaults.
-h n It's the first thing that stops you dead in the dark, more like.
-b w Miss Bose, this place is very dark. And very cold. And I think I can hear something breathing.
-c n That is the draught, Mr Pluck. Or the furnace. Or, I suppose, the breathing of a very large cat.
-j h A cat! I should like a cat. A big one, with an opinion on soup.
-b s Miss Bose, I do not think we want to meet this one.
+h n Cold down here, and not a draught in sight. Odd. A cellar this deep ought to howl.
+b w Hugo, why is the Coal Scuttle full? Nobody's lit a furnace in twenty years.
+h s Fresh coal. Not a speck of damp on it. Somebody's been stacking this since the spring.
+c n Then the Vaults have a housekeeper, Mr Pluck, and a very fond opinion of tidy edges.
+j h Whoever it is, I hope they like soup. I am about to move in.
 == 211
-j h The Sacks of Grain! Wheat, barley, oats, in great heavy bags, piled up to the ceiling. This is what a kitchen dreams of.
-h n They're sound, Anjali. Not a weevil in them. Somebody's kept them dry.
-j n Somebody has kept them dry for twenty years, Hugo, and I am going to find out who. Because I would like to hire them.
-b h Miss Bose, I'll bet it's the cat.
-j n Barnaby, the cat is a cat. A cat is a very good thief, but a very poor granary clerk.
+j h Wheat, barley, oats, all of it sound! Cornelia, I could weep. Not a weevil anywhere.
+a n I counted four mice, Anjali, and each one carried an ear of corn as though it were on an errand.
+j n Then they are paid staff. I shall not interfere with their wages.
+m n The sacks are stacked in a pattern, um. Every third one faces the wall. I think it's a way of marking the weeks.
+c w Marking the weeks for whom, Mr Bloom?
 == 212
-h n The Iron Door Hinge. Six inches of black iron, as thick as my wrist. It's been oiled, and recently.
-s w Hugo, how recently?
-h n Yesterday, I'd say. By someone with a good oilcan and an even better knowledge of hinges.
-c n Someone has been in the Deep Vaults, Mr Pemberton, since we began.
-p n It is perfectly consistent with the Archives, Cornelia. Every item in the Hall that was not in use has been maintained, on a schedule I cannot read.
-h n It's a very good schedule, Prudence. I'd like to meet the man who set it.
+s n Hinges, Cornelia. I know hinges the way a sommelier knows corks, and this one was oiled yesterday.
+h h Nice work, too. Thin film, no drips. I'd hire him.
+s h Do not encourage me, Hugo. I am already halfway to admiring a burglar I have not met.
+p n The oilcan sits on the shelf beside it, with a label in a very small hand: For the Wednesday round.
+c n A round, Miss Quill. A route, with a schedule. We are not the first to walk these stairs this month.
 == 213
-j h The Salted Hams! A rank of golden hams, hanging in a row from the ceiling, and every one cured to perfection.
-a n An astonishing sight. It looks like a row of rather fat bats.
-j n They are the finest hams in the Society. I helped to cure them myself, twenty years ago, on the night before the last expedition.
-b h And they've been hanging here since, Miss Bose? Without anyone eating them?
-j w Somebody has been eating them, Barnaby. Look. There is one missing from the end. Neatly sliced, as though by a very small and very particular knife.
+b h Miss Wren, there's a ham missing from the end of the rack, and the cut's as clean as a ruler!
+j w Barnaby is right. That slice was made with a blade I would be proud to own.
+z n The crumbs lead off towards the passage on the left. Small crumbs. Very patient crumbs.
+r h A thief with manners, my dears. I find I am rather smitten.
+c n Nobody is to follow the crumbs until we have had lunch. That is an order.
 == 214
-z n The Sealed Amphorae. Forty tall clay jars, stoppered with wax, and each one stamped with the mark of a port on the Southern Sea.
-c n What is in them, Miss Blackwood?
-z n Olive oil, I should say. And wine. And one, at the very back, that rattles when you shake it.
-s h I should like to shake that one.
-z n It is not for shaking, Sam. It is for opening, very carefully, with the whole Society present.
-c n Then we shall do it at dinner, and the whole Society shall bring forks.
+p n Forty amphorae, every stopper sealed with a different port's wax. And a thirty-ninth that rattles.
+z n The thirty-ninth is from Karsa, on the Southern Sea. Nobody trades with Karsa. It does not appear on any chart but mine.
+s s Then how did it get into a locked vault, Zephyrine?
+z w I have been asking myself that since I first lifted it.
+a h If it rattles, it is a gift of some kind. Open it, someone. I am at an age where I enjoy a rattle.
+c n At dinner, Professor, with forks, and a witness from every wing.
 == 215
-j h The Hanging Garlic Plait! A great pale braid of bulbs, hung from a hook in the ceiling. It smells like a very strong cook, and a very strong cure.
-b n It keeps the vampires away, Miss Bose. That's what Aldous says.
-a s I said nothing of the kind. I said it keeps away the more fastidious sort of vampire.
-j n Whatever it keeps away, I shall use it in a soup. It is a very good soup, and a very bad omen for a very bad man.
-c h Miss Bose, if you are referring to Mr Merrick, I am entirely in agreement.
+a n Garlic. A great deal of garlic. One does wonder whom the Society was keeping out.
+m h It's, um, just for cooking, Professor. I think. Though somebody hung it over the stair as well.
+b w Over the stair going down, Mark. Not over the one going up.
+j n That means it is not guarding the Vaults from the world. It is guarding the world from the Vaults.
+c w Miss Bose, you have said an extremely unhelpful thing.
 == 216
-p n The Coin Scoop and Scale. A little brass shovel, and a balance beam, for weighing sovereigns in bulk.
-s h If I had these in 1889, I would have been a very rich man. And a very short-lived one.
-p n It is calibrated, Mr Vane, to a thousandth of a grain. It is the most honest object in the whole of the Vaults.
-c n Then it will weigh the League's offer, Miss Quill. And we shall see how heavy a promise it is.
-p n It will turn out to be a great deal lighter than their carriage, Cornelia. I shall bring the weights.
+c n Mr Vane, why are your boots dusty and your hands empty?
+s s I was looking at the scale, Cornelia. The little brass weights are all here, except the thousandth-of-a-grain one.
+p w That weight is the whole accuracy of the instrument. Without it, it merely guesses.
+h n There's a muddy print on the counter, size ten, with a gold-tipped heel. Does anyone wear gold on their heels?
+s w Only one man I know. Lucian Merrick has been in our Vaults.
 == 217
-h h The Guard's Lamp. A solid brass lantern, with a thick glass and a very bright flame. It lit the Vaults for forty years, and never once went out.
-b w It's lit, Hugo. All by itself. Look.
-h s Barnaby, I did not light it. I did not even touch it.
-a w Then, my dear friends, either we have a ghost, or we have a very polite guest.
-c n We shall assume the latter. Mr Pluck, leave a biscuit on the desk.
-b h Right away, Miss Wren.
+z n The Guard's Lamp is lit, and it was not lit when we came down. Nobody has touched it.
+h n I'll swear it on my spanners. The wick's not even wet.
+b h I left a biscuit by it, Miss Blackwood, just in case. And it's gone!
+a w Biscuits do not vanish, Barnaby. They are eaten, or they are carried off, and there is a difference.
+r n In a house like this, my dears, I am inclined to think they are accepted.
 == 218
-p n The Guard's Desk. A small oak desk, a logbook, and a pen. The last entry reads: All quiet. Nothing to report. The cat has the key.
-c n The cat has the key?
-p w It does say so, Cornelia. And a drawing of a cat, in the margin. A very respectable cat, in a very small hat.
-b h I knew it, Miss Wren! It's the cat!
-z n A cat that guards the keys of the Deep Vaults, and has done so for two decades. I have met few people who could say as much.
-s n I have met none, Zephyrine, and I have met a great many.
+r n A Guard's Desk, a logbook, a pen with a split nib. How very touching, that someone kept watch down here.
+p n The last entry in his hand: All quiet. The cat has the key. A drawing follows, of a cat wearing a very small hat.
+b h I knew it was the cat! I said so, Miss Quill, I said it on Tuesday!
+z n A cat holds the keys to the Deep Vaults and has done for twenty years. I do not find that more remarkable than half the people I know.
+s n Nor I. Most of them cannot even be trusted with the umbrella.
 == 219
-h h The Vault Clock! A great brass dial, set into the wall, and still ticking. It's the oldest working clock in the Hall.
-c n Mr Pemberton, what time does it say?
-h n It says a quarter to twelve, Cornelia. But it's been saying that for twenty years, and it is the most punctual clock I have ever met.
-a n A clock that is always a quarter to twelve is a clock that is waiting for noon.
-p n Noon, Professor, on a Wednesday. I begin to think that the word has a meaning for the whole Hall.
-c w Then we should be ready. Let us make a very large pot of tea.
+h n That clock has been running since before the Hall had gas, and it says a quarter to twelve.
+a n It said a quarter to twelve in the Study too, Hugo. And in the dictionary, I am told.
+h w Different clocks, different makers, and they all agree. Clocks don't agree. They fight.
+p w Unless someone has set them all to the same hour on purpose, and then walked away.
+c n Then someone has left the Hall waiting for a quarter to twelve. I should like to be there when it arrives.
 == 220
-j n The Sealed Sarcophagus. A heavy stone coffin, carved all over with little scarabs and moons.
-b w Is there somebody in it, Miss Bose?
-j n I should hope not. It is a dinner service for forty, Barnaby. The Society lost it in 1884, and has been looking for it ever since.
-s h You are joking, Anjali. They hid a dinner service in a sarcophagus?
-j h It was a very good hiding place. Who looks for a tureen in a tomb?
-c n We shall take it up in the lift, Miss Bose. Along with the mice.
+j n It's not a tomb, Barnaby. Lift the lid. Gently. Tureens first, then the soup spoons.
+b h Forty soup plates, and a ladle shaped like a swan! Miss Bose, you were right!
+s h Who hides a dinner service in a sarcophagus? Rosalind, it is the cleverest idea in the Hall.
+r n It is the cleverest in three centuries, Sam, and it was mine. I did it after the dinner party that ended in a duel.
+c s Rosalind!
+r h Over the soup, dear. Entirely over the soup.
 == 221
-j h The Tea Chest! Oh, my dears. It is a great square box of camphor wood, lined with lead and stamped with a dozen Chinese characters. I could weep.
-c n Miss Bose, you are weeping.
-j n Cornelia, I have seen this chest in my dreams. It was on the Wanderer, on the longest voyage the Society ever took. It brought us home, and it brought us all together.
-a n What does it contain, Anjali?
-j h The finest tea in the world, Professor. Enough for four hundred and sixty-two cups. I have been saving it for the right occasion.
-c w Then I think, Miss Bose, that the occasion is coming.
+h h A camphor chest lined with lead! Anjali, you'll have to forgive me, I'm going to stand very still and admire the joinery.
+j h Open it, Hugo. My hands are shaking.
+h n Lead lining, three layers of oiled silk, and a tin scoop. That's four hundred and sixty-two cups' worth.
+j w The Society's tea. The last chest from the Wanderer's final voyage. We drank all but this.
+a n I hope you will brew a cup for the Society, Anjali. It is a long time since we all had the same thing in our hands.
 == 222
-a h The Elephant Tusk Pair! They stand, curved and ivory-pale, on either side of an iron door. And, Cornelia, I believe this is the thirteenth. The one missing from the Hall of Giants.
-p n The matching bracket, with the thinner dust. I knew it. I knew it.
-c n Why are there two, Miss Quill?
-p n It is a pair, Cornelia. The twelfth and the thirteenth. They have been in the Vaults the whole time.
-h n They look like a pair of gate posts. It's a door, isn't it?
-z h It is a door, Hugo. And, on the other side, I rather suspect, is a staircase.
+m n The thirteenth tusk! It's, um, a pair with the twelfth, and they're holding up a door.
+p h At last. The thinner dust in the bracket. I knew the Index was telling the truth.
+b h They're like a pair of curved gateposts, and they're holding up a little iron door, with a lock shaped like a crab!
+s n Another lock, another key. I begin to feel like a man in a very elaborate reading list.
+c n We have the crab key from the Archives. Mr Vane, if you would be so kind as to stand aside.
 == 223
-z h The Spiral Descent Rail! A long iron banister, winding down into the dark, like a very elegant corkscrew.
-b w I'm not going down, Miss Blackwood. I have a very strong feeling about this.
-z n It is a perfectly safe staircase, Barnaby. I have been down it three times, and each time I came up with a story.
-s n The first time you came up with a monkey.
-z n The monkey was a story, Sam. A very good one.
-c n We shall go down together, Mr Pluck. And you will hold my hand, and say nothing of it afterwards.
+z h Spiral stair, iron rail, a long dark drop. I have been down it three times, Barnaby, and each time I came back up with a better story.
+b w This time I'd like to come back up with just myself.
+h n I'll go first. I've tested every rivet. And I've put a little oil on the rail so it doesn't squeak.
+s n How very considerate, Hugo. You have made a spiral staircase polite.
+a h And I shall go last, to count the steps, and to bring up the rear of any unfortunate descent.
 == 224
-m w The Spiderweb Chandelier. Um, it's not actually a chandelier. It's a very large web, full of dew. And it's lit from the inside.
-r h Mark, it is the most extraordinary thing. A web of silver threads, and the light running through it like water.
-a h A common garden spider, I should say. But a very ambitious one.
-b n Is it safe, Professor?
-a n It is a very safe spider, Barnaby. She has lived here for twenty years and has never caught anything bigger than a moth. I think she is rather lonely.
-m h I'll bring her some, um, flies.
+a h Spiders! The loveliest web I have seen since Patagonia. Look at the silver on it, Mark, and look how it sways.
+m h She's called, um, Madame Archimedes. I've been feeding her. She's lonely, I think.
+r h A web with a chandelier's ambitions. I shall paint her in blue and silver, with the dew as pearls.
+b n She's looking right at me, Miss Thorne. All eight eyes.
+r n That means she approves, Barnaby. Spiders only stare at those they like.
 == 225
-p h The Mushroom Library! Oh, my dears. A whole shelf of books, grown over with the most beautiful fungi. Purple, gold, and a very pale blue.
-c n Miss Quill, you are smiling again.
-p n It is the first library I have ever seen where the books are growing back. I should like to catalogue every spore.
-m h They're, um, edible, mostly. The blue ones are not.
-j n Mark, I should like a basket of the gold ones. For a very particular risotto.
-p w Do not touch the volumes, Anjali. They are, on the whole, a great deal more sensitive than they look.
+p h Books! Grown all over with mushrooms in every colour of the rainbow, and not one of them damp. I'm in love.
+j n The gold ones are chanterelles. The blue ones I'd leave alone. And the purple are, I think, only very shy.
+m n They've been growing for years, Anjali. I think the spores keep the paper dry, somehow.
+p n Which means the library is protected, not decaying. Mark, you have made the most important discovery of the month.
+m s I didn't discover it, Prudence. I only stood still next to it.
 == 226
-z w The Seer's Mirror Pool. A round, black pool of water, in a ring of stone. It does not reflect the ceiling. It reflects something else.
-c n What do you see, Miss Blackwood?
-z n I see a ship, Cornelia. With her lamps lit. Her name is on the stern, and it is the Meridian. She is sailing very slowly across a sea of stars.
-b w Is there anybody on board, Miss Blackwood?
-z w There is one lamp lit, in the stern cabin. And someone is sitting at the window, with a cup of tea. I cannot see the face.
-s n Is he looking at us?
-z h No, Sam. He is looking at the horizon. And he is smiling.
+z n The pool does not reflect the ceiling. It reflects a deck, and a lantern, and a very large sea.
+b w Miss Blackwood, there's a ship in it.
+z w The Meridian, Barnaby. Every lamp lit, no one on the deck. A cup of tea on the captain's table, steaming.
+c n Is the cup full?
+z n It is half full, Cornelia. As though somebody had put it down, only a moment ago, and meant to come back.
 == 227
-h h The Phantom Lantern! A tall lamp on a tall post, burning with a pale green flame. It gives off no heat, and it casts no shadow.
-c n It is a very peculiar light, Mr Pemberton.
-h n It's lit by something I don't understand, Cornelia. And I'll tell you, I've never been so keen to learn.
-a h It is the light of a friend, I believe. A friend who is very far away, and has not forgotten us.
-r w Aldous, that is the most lovely thing I have heard you say. Do you know, I think you may be right.
+a n The Phantom Lantern has no flame, and no wick, and no shadow, and yet I can read my notes by it quite well.
+h n It's cold, too. I held my hand against the glass. Not warm in the slightest.
+r n It is a light that is not for seeing by. It is for being seen by, I think.
+s w By whom, Rosalind?
+r w By anyone who is lost in the dark, and wondering which way is home.
 == 228
-b h The Sleeper's Bed! A little iron cot, with a patchwork quilt, and a very small pillow. It's been slept in, Miss Wren. Recently.
-c n How can you tell, Mr Pluck?
-b n It's still warm. And there's a grey hair on the pillow. A very long, very silky grey hair.
-s h It is the cat, Cornelia. It must be. A cat with a bed. A cat with a hat, and a key, and a bed.
-j h And a taste for ham, and a very good knowledge of hinges.
-c n If the cat has been keeping house all these years, then I shall have to ask its permission before moving any furniture.
+b h It's still warm, Miss Wren! The pillow, the quilt, even the little tin cup!
+j n And a long grey hair, as soft as silk. Cornelia, it belongs to a very well-fed cat.
+c n A cat with a bed, a hat, a key, and a ham habit. Mr Pluck, kindly leave a saucer of milk.
+b h And a note! I'll write it. Dear Cat. Thank you for looking after the Vaults. Yours, Barnaby.
+z h I have received less courteous correspondence from kings.
 == 229
-c n The Heart of the Deep Vaults. A great round chamber, domed in brick, with a single stone table in the middle. And, upon it, a casket.
-r n It is the casket from the seed, Cornelia. Open when the garden is lit.
-c n The garden is lit, Rosalind. Mr Pemberton, would you be so kind?
-h n It's not a lock, Cornelia. It's a mechanism. Three tumblers, each set to a note of the lullaby.
-z h The sixth note, Hugo. And the third, and the ninth.
-h w It's open. Inside, a key. A long, narrow, brass key. And a label. The Founder's Study.
+h n The casket has three tumblers. Each one wants a note from the lullaby, and the lullaby's in my head.
+z n The sixth, the third, and the ninth. I tell you, Hugo, it is the order of the stars in the Dome.
+h s Click. Click. Click. It's turning, Cornelia!
+c w It is a key. A single long brass key, and a wooden tag in a hand that I know. For the Founder's Study.
+p n Mr Bloom, a hush, please. I believe the Hall has just spoken.
 == 230
 c n The Rocking Chair. A small wooden chair on curved runners, with a faded blue cushion. It is an old friend of mine, and I did not know that it would be here.
 b s Miss Wren, you're crying.

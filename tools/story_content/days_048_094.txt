@@ -13,6 +13,7 @@ c n Hold it to the mirror, Mr Pluck.
 b s It says, in a very rushed hand: They are listening to the clocks.
 m n Um. Who is listening to the clocks?
 == 50
+a h Do come and look at this lamp, everyone. It has the most remarkable green glow, like a heron's eye.
 c n The Pendant Reading Lamp. A green glass shade on a brass chain, to be lowered over the reader's shoulder.
 a h Oh, lovely! One can read the finest print by this, even on a winter evening. Even without spectacles. Where did I put my spectacles?
 b h They're on your head, Professor.
@@ -40,6 +41,7 @@ a w The Archives are a great deal bigger than I remember, Cornelia. And the labe
 c n Someone has been refiling. Every drawer is in an order I cannot follow.
 j n Perhaps it is the same person who has been feeding the cat in the vault. It is a very thorough cat.
 == 54
+m n Um, excuse me. There is a very large book on the desk, and I am afraid to open it.
 c n The Ledger Desk. Twenty years of accounts, all added up in a hand so neat that it hurts to look at.
 s h I should like to take a long, careful look at that ledger. Purely as an academic exercise.
 c n Mr Vane, you will keep your academic exercises to the Tea Room.
@@ -60,6 +62,7 @@ b h Whee. Oh. Whee. I've got a card that says See also: Wednesday.
 s n It's an index of what the Society could not bear to forget. How very touching, and how very inconvenient.
 m h I think it's lovely. Someone once spent years writing every one of these by hand.
 == 57
+b h Miss Wren, there's a little lift in the wall, and it's got a sandwich plate on it!
 c n The Document Dumbwaiter. Paper goes in at the bottom, and arrives at the top with a small ding.
 b h It dinged just now, Miss Wren! And nobody was in it!
 a s I have noticed, over the past weeks, that things in this Hall have a habit of arriving without being sent.
@@ -94,6 +97,7 @@ s w A sinister kind of care. I like it less every minute.
 j n It could be a very careful mouse, Hugo.
 h h With a spanner? I'd like to meet that mouse.
 == 62
+b h Hugo's got the Music Box Cylinder on the bench, Miss Wren, and it's humming back at him!
 h h The Music Box Cylinder! Four hundred pins, and each one a note. I could listen to this all night.
 b h What does it play, Hugo?
 h n Let's see. Oh. It plays a lullaby. And look, Cornelia, one of the pins has been filed down, so it skips a note, always at the same place.
@@ -107,6 +111,7 @@ h n It is, Mark, and each one is hand-cut. See this little one? It does nothing.
 j h I have known cooks like that. Cheerful, useless, and the heart of the kitchen.
 c h Mr Pemberton, I should like to hire it.
 == 64
+j h I've brought the ladder, Hugo, and a very large cloth. A chandelier like that attracts a great deal of dust.
 h h The Tinkerer's Chandelier! Every arm a different clock, and all of them telling a different time.
 b n They're all wrong, Hugo.
 h n They're all right, Barnaby. They're telling the time in every city Ambrose ever visited, all at once. That one's Lisbon, and that one's Cairo, and that one...
@@ -127,6 +132,7 @@ j n You will find nothing but the best on my side of the Tea Room, Hugo. Come ov
 b h He won't come over, Miss Bose. He'll forget there is an over.
 h h He's quite right.
 == 67
+a n Something in this room is trembling, and it is not the needle. I think it is me.
 h h The Galvanometer! A needle on a copper coil, so sensitive that it can feel a whisper.
 a n Hugo, it is trembling at me. I am not doing anything. I am merely standing here.
 h n You're carrying a bird, Professor. In your left pocket.
@@ -140,6 +146,7 @@ s w Show me. Good Lord. Cornelia, that's him. That's Ambrose, at the top of the 
 c w It is a photograph from twenty years ago. It is not a ghost, Mr Vane.
 s s Then why is he looking at us?
 == 69
+a n The seismograph has drawn a line, Mr Pemberton, and I have timed it against my pocket watch.
 h n The Seismograph. It has been drawing a faint line across the paper, all night, every night. And last night, it jumped.
 c n The Hall has not had an earthquake.
 h n It had a very small tremor, Cornelia, from somewhere underneath the Founders' Gallery. Somebody's moving something heavy, very slowly.
@@ -286,6 +293,7 @@ z n I did, Sam. It was very pleasant. I have come back to say that the edge is a
 c w He has, Miss Blackwood?
 z w He left a mark on my chart, three years ago, in a hand I could not mistake. It said: Tell Cornelia. Not yet.
 == 91
+c n Miss Blackwood, those pieces are not furniture. Kindly do not sit on the left arm.
 z n The Torso in Pieces. Seven fragments of a marble figure, set out on a long table like a puzzle.
 c n We have never been able to assemble it. The Society's sculptors tried, and gave up.
 z h I should say they were looking at it the wrong way. Each piece is a map. Rotate them, so, and they form a coastline.

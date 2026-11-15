@@ -16,6 +16,26 @@ MILESTONES = ["20_11", "37_10", "43_11", "47_11", "52_11"]
 EXTRA_BEAT_ELEMENTS = {"02_001"}  # welcome beat, not a day beat
 MIN_LINES, MAX_LINES = 3, 8
 MAX_OPENER_REPEAT = 6  # same first three words opening more than this many beats
+MAX_OPENER4_REPEAT = 2  # same first four words opening more than this many beats
+MAX_FIRST_SPEAKER_SHARE = 0.75  # one speaker opening more than this share of a wing's beats
+MIN_WING_BEATS = 5  # smaller wings are exempt from the share check
+
+
+def repetition_problems(entries):
+    """entries: [(area, beat scene)]. Flags repeated 4-word openers and a dominant first speaker per wing."""
+    problems = []
+    openers = Counter(" ".join(b["lines"][0]["text"].split()[:4]).lower() for _a, b in entries)
+    problems += ["4-word opener %r used %d times" % (o, n) for o, n in openers.items() if n > MAX_OPENER4_REPEAT]
+    by_area = {}
+    for area, b in entries:
+        by_area.setdefault(area, []).append(b["lines"][0]["speaker"])
+    for area, firsts in sorted(by_area.items()):
+        if len(firsts) < MIN_WING_BEATS:
+            continue
+        who, n = Counter(firsts).most_common(1)[0]
+        if n / len(firsts) > MAX_FIRST_SPEAKER_SHARE:
+            problems.append("wing %d: %s opens %d of %d beats" % (area, who, n, len(firsts)))
+    return problems
 
 
 def check(through=None):
@@ -62,6 +82,10 @@ def check(through=None):
     problems += ["repeated line: %r" % t for t, n in lines.items() if n > 1]
     openers = Counter(" ".join(ln["text"].split()[:3]).lower() for s in beats for ln in s["lines"][:1])
     problems += ["opener %r used %d times" % (o, n) for o, n in openers.items() if n > MAX_OPENER_REPEAT]
+
+    wing_entries = [(el_by_id[fin[d]]["area"], by_id[el_by_id[fin[d]]["beat"]])
+                    for d in range(1, through + 1) if by_id.get(el_by_id[fin[d]]["beat"])]
+    problems += repetition_problems(wing_entries)
 
     if full:
         panels = [s for s in scenes if s["kind"] == "panel"]

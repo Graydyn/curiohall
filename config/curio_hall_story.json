@@ -1679,6 +1679,11 @@
   "trigger": "element:14_010",
   "lines": [
    {
+    "speaker": "aldous",
+    "expr": "happy",
+    "text": "Do come and look at this lamp, everyone. It has the most remarkable green glow, like a heron's eye."
+   },
+   {
     "speaker": "cornelia",
     "expr": "neutral",
     "text": "The Pendant Reading Lamp. A green glass shade on a brass chain, to be lowered over the reader's shoulder."
@@ -1822,6 +1827,11 @@
   "trigger": "element:15_007",
   "lines": [
    {
+    "speaker": "mark",
+    "expr": "neutral",
+    "text": "Um, excuse me. There is a very large book on the desk, and I am afraid to open it."
+   },
+   {
     "speaker": "cornelia",
     "expr": "neutral",
     "text": "The Ledger Desk. Twenty years of accounts, all added up in a hand so neat that it hurts to look at."
@@ -1927,6 +1937,11 @@
   "kind": "beat",
   "trigger": "element:15_017",
   "lines": [
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "Miss Wren, there's a little lift in the wall, and it's got a sandwich plate on it!"
+   },
    {
     "speaker": "cornelia",
     "expr": "neutral",
@@ -2108,6 +2123,11 @@
   "trigger": "element:16_013",
   "lines": [
    {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "Hugo's got the Music Box Cylinder on the bench, Miss Wren, and it's humming back at him!"
+   },
+   {
     "speaker": "hugo",
     "expr": "happy",
     "text": "The Music Box Cylinder! Four hundred pins, and each one a note. I could listen to this all night."
@@ -2176,6 +2196,11 @@
   "kind": "beat",
   "trigger": "element:16_022",
   "lines": [
+   {
+    "speaker": "anjali",
+    "expr": "happy",
+    "text": "I've brought the ladder, Hugo, and a very large cloth. A chandelier like that attracts a great deal of dust."
+   },
    {
     "speaker": "hugo",
     "expr": "happy",
@@ -2283,6 +2308,11 @@
   "trigger": "element:17_008",
   "lines": [
    {
+    "speaker": "aldous",
+    "expr": "neutral",
+    "text": "Something in this room is trembling, and it is not the needle. I think it is me."
+   },
+   {
     "speaker": "hugo",
     "expr": "happy",
     "text": "The Galvanometer! A needle on a copper coil, so sensitive that it can feel a whisper."
@@ -2351,6 +2381,11 @@
   "kind": "beat",
   "trigger": "element:17_017",
   "lines": [
+   {
+    "speaker": "aldous",
+    "expr": "neutral",
+    "text": "The seismograph has drawn a line, Mr Pemberton, and I have timed it against my pocket watch."
+   },
    {
     "speaker": "hugo",
     "expr": "neutral",
@@ -3125,6 +3160,11 @@
   "kind": "beat",
   "trigger": "element:21_010",
   "lines": [
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Miss Blackwood, those pieces are not furniture. Kindly do not sit on the left arm."
+   },
    {
     "speaker": "zephyrine",
     "expr": "neutral",
@@ -7244,34 +7284,29 @@
   "trigger": "element:40_006",
   "lines": [
    {
-    "speaker": "anjali",
-    "expr": "neutral",
-    "text": "The Coal Scuttle. A great iron bucket, black as night, with a lip like a duck. It is, I am told, the first thing one sees on entering the Deep Vaults."
-   },
-   {
     "speaker": "hugo",
     "expr": "neutral",
-    "text": "It's the first thing that stops you dead in the dark, more like."
+    "text": "Cold down here, and not a draught in sight. Odd. A cellar this deep ought to howl."
    },
    {
     "speaker": "barnaby",
     "expr": "worried",
-    "text": "Miss Bose, this place is very dark. And very cold. And I think I can hear something breathing."
+    "text": "Hugo, why is the Coal Scuttle full? Nobody's lit a furnace in twenty years."
+   },
+   {
+    "speaker": "hugo",
+    "expr": "surprised",
+    "text": "Fresh coal. Not a speck of damp on it. Somebody's been stacking this since the spring."
    },
    {
     "speaker": "cornelia",
     "expr": "neutral",
-    "text": "That is the draught, Mr Pluck. Or the furnace. Or, I suppose, the breathing of a very large cat."
+    "text": "Then the Vaults have a housekeeper, Mr Pluck, and a very fond opinion of tidy edges."
    },
    {
     "speaker": "anjali",
     "expr": "happy",
-    "text": "A cat! I should like a cat. A big one, with an opinion on soup."
-   },
-   {
-    "speaker": "barnaby",
-    "expr": "surprised",
-    "text": "Miss Bose, I do not think we want to meet this one."
+    "text": "Whoever it is, I hope they like soup. I am about to move in."
    }
   ]
  },
@@ -7283,27 +7318,27 @@
    {
     "speaker": "anjali",
     "expr": "happy",
-    "text": "The Sacks of Grain! Wheat, barley, oats, in great heavy bags, piled up to the ceiling. This is what a kitchen dreams of."
+    "text": "Wheat, barley, oats, all of it sound! Cornelia, I could weep. Not a weevil anywhere."
    },
    {
-    "speaker": "hugo",
+    "speaker": "aldous",
     "expr": "neutral",
-    "text": "They're sound, Anjali. Not a weevil in them. Somebody's kept them dry."
+    "text": "I counted four mice, Anjali, and each one carried an ear of corn as though it were on an errand."
    },
    {
     "speaker": "anjali",
     "expr": "neutral",
-    "text": "Somebody has kept them dry for twenty years, Hugo, and I am going to find out who. Because I would like to hire them."
+    "text": "Then they are paid staff. I shall not interfere with their wages."
    },
    {
-    "speaker": "barnaby",
-    "expr": "happy",
-    "text": "Miss Bose, I'll bet it's the cat."
-   },
-   {
-    "speaker": "anjali",
+    "speaker": "mark",
     "expr": "neutral",
-    "text": "Barnaby, the cat is a cat. A cat is a very good thief, but a very poor granary clerk."
+    "text": "The sacks are stacked in a pattern, um. Every third one faces the wall. I think it's a way of marking the weeks."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "worried",
+    "text": "Marking the weeks for whom, Mr Bloom?"
    }
   ]
  },
@@ -7313,34 +7348,29 @@
   "trigger": "element:40_018",
   "lines": [
    {
-    "speaker": "hugo",
+    "speaker": "sam",
     "expr": "neutral",
-    "text": "The Iron Door Hinge. Six inches of black iron, as thick as my wrist. It's been oiled, and recently."
+    "text": "Hinges, Cornelia. I know hinges the way a sommelier knows corks, and this one was oiled yesterday."
+   },
+   {
+    "speaker": "hugo",
+    "expr": "happy",
+    "text": "Nice work, too. Thin film, no drips. I'd hire him."
    },
    {
     "speaker": "sam",
-    "expr": "worried",
-    "text": "Hugo, how recently?"
-   },
-   {
-    "speaker": "hugo",
-    "expr": "neutral",
-    "text": "Yesterday, I'd say. By someone with a good oilcan and an even better knowledge of hinges."
-   },
-   {
-    "speaker": "cornelia",
-    "expr": "neutral",
-    "text": "Someone has been in the Deep Vaults, Mr Pemberton, since we began."
+    "expr": "happy",
+    "text": "Do not encourage me, Hugo. I am already halfway to admiring a burglar I have not met."
    },
    {
     "speaker": "prudence",
     "expr": "neutral",
-    "text": "It is perfectly consistent with the Archives, Cornelia. Every item in the Hall that was not in use has been maintained, on a schedule I cannot read."
+    "text": "The oilcan sits on the shelf beside it, with a label in a very small hand: For the Wednesday round."
    },
    {
-    "speaker": "hugo",
+    "speaker": "cornelia",
     "expr": "neutral",
-    "text": "It's a very good schedule, Prudence. I'd like to meet the man who set it."
+    "text": "A round, Miss Quill. A route, with a schedule. We are not the first to walk these stairs this month."
    }
   ]
  },
@@ -7350,29 +7380,29 @@
   "trigger": "element:40_024",
   "lines": [
    {
-    "speaker": "anjali",
-    "expr": "happy",
-    "text": "The Salted Hams! A rank of golden hams, hanging in a row from the ceiling, and every one cured to perfection."
-   },
-   {
-    "speaker": "aldous",
-    "expr": "neutral",
-    "text": "An astonishing sight. It looks like a row of rather fat bats."
-   },
-   {
-    "speaker": "anjali",
-    "expr": "neutral",
-    "text": "They are the finest hams in the Society. I helped to cure them myself, twenty years ago, on the night before the last expedition."
-   },
-   {
     "speaker": "barnaby",
     "expr": "happy",
-    "text": "And they've been hanging here since, Miss Bose? Without anyone eating them?"
+    "text": "Miss Wren, there's a ham missing from the end of the rack, and the cut's as clean as a ruler!"
    },
    {
     "speaker": "anjali",
     "expr": "worried",
-    "text": "Somebody has been eating them, Barnaby. Look. There is one missing from the end. Neatly sliced, as though by a very small and very particular knife."
+    "text": "Barnaby is right. That slice was made with a blade I would be proud to own."
+   },
+   {
+    "speaker": "zephyrine",
+    "expr": "neutral",
+    "text": "The crumbs lead off towards the passage on the left. Small crumbs. Very patient crumbs."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "happy",
+    "text": "A thief with manners, my dears. I find I am rather smitten."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "neutral",
+    "text": "Nobody is to follow the crumbs until we have had lunch. That is an order."
    }
   ]
  },
@@ -7382,34 +7412,34 @@
   "trigger": "element:40_030",
   "lines": [
    {
-    "speaker": "zephyrine",
+    "speaker": "prudence",
     "expr": "neutral",
-    "text": "The Sealed Amphorae. Forty tall clay jars, stoppered with wax, and each one stamped with the mark of a port on the Southern Sea."
-   },
-   {
-    "speaker": "cornelia",
-    "expr": "neutral",
-    "text": "What is in them, Miss Blackwood?"
+    "text": "Forty amphorae, every stopper sealed with a different port's wax. And a thirty-ninth that rattles."
    },
    {
     "speaker": "zephyrine",
     "expr": "neutral",
-    "text": "Olive oil, I should say. And wine. And one, at the very back, that rattles when you shake it."
+    "text": "The thirty-ninth is from Karsa, on the Southern Sea. Nobody trades with Karsa. It does not appear on any chart but mine."
    },
    {
     "speaker": "sam",
-    "expr": "happy",
-    "text": "I should like to shake that one."
+    "expr": "surprised",
+    "text": "Then how did it get into a locked vault, Zephyrine?"
    },
    {
     "speaker": "zephyrine",
-    "expr": "neutral",
-    "text": "It is not for shaking, Sam. It is for opening, very carefully, with the whole Society present."
+    "expr": "worried",
+    "text": "I have been asking myself that since I first lifted it."
+   },
+   {
+    "speaker": "aldous",
+    "expr": "happy",
+    "text": "If it rattles, it is a gift of some kind. Open it, someone. I am at an age where I enjoy a rattle."
    },
    {
     "speaker": "cornelia",
     "expr": "neutral",
-    "text": "Then we shall do it at dinner, and the whole Society shall bring forks."
+    "text": "At dinner, Professor, with forks, and a witness from every wing."
    }
   ]
  },
@@ -7419,29 +7449,29 @@
   "trigger": "element:40_036",
   "lines": [
    {
-    "speaker": "anjali",
+    "speaker": "aldous",
+    "expr": "neutral",
+    "text": "Garlic. A great deal of garlic. One does wonder whom the Society was keeping out."
+   },
+   {
+    "speaker": "mark",
     "expr": "happy",
-    "text": "The Hanging Garlic Plait! A great pale braid of bulbs, hung from a hook in the ceiling. It smells like a very strong cook, and a very strong cure."
+    "text": "It's, um, just for cooking, Professor. I think. Though somebody hung it over the stair as well."
    },
    {
     "speaker": "barnaby",
-    "expr": "neutral",
-    "text": "It keeps the vampires away, Miss Bose. That's what Aldous says."
-   },
-   {
-    "speaker": "aldous",
-    "expr": "surprised",
-    "text": "I said nothing of the kind. I said it keeps away the more fastidious sort of vampire."
+    "expr": "worried",
+    "text": "Over the stair going down, Mark. Not over the one going up."
    },
    {
     "speaker": "anjali",
     "expr": "neutral",
-    "text": "Whatever it keeps away, I shall use it in a soup. It is a very good soup, and a very bad omen for a very bad man."
+    "text": "That means it is not guarding the Vaults from the world. It is guarding the world from the Vaults."
    },
    {
     "speaker": "cornelia",
-    "expr": "happy",
-    "text": "Miss Bose, if you are referring to Mr Merrick, I am entirely in agreement."
+    "expr": "worried",
+    "text": "Miss Bose, you have said an extremely unhelpful thing."
    }
   ]
  },
@@ -7451,29 +7481,29 @@
   "trigger": "element:40_042",
   "lines": [
    {
-    "speaker": "prudence",
+    "speaker": "cornelia",
     "expr": "neutral",
-    "text": "The Coin Scoop and Scale. A little brass shovel, and a balance beam, for weighing sovereigns in bulk."
+    "text": "Mr Vane, why are your boots dusty and your hands empty?"
    },
    {
     "speaker": "sam",
-    "expr": "happy",
-    "text": "If I had these in 1889, I would have been a very rich man. And a very short-lived one."
+    "expr": "surprised",
+    "text": "I was looking at the scale, Cornelia. The little brass weights are all here, except the thousandth-of-a-grain one."
    },
    {
     "speaker": "prudence",
-    "expr": "neutral",
-    "text": "It is calibrated, Mr Vane, to a thousandth of a grain. It is the most honest object in the whole of the Vaults."
+    "expr": "worried",
+    "text": "That weight is the whole accuracy of the instrument. Without it, it merely guesses."
    },
    {
-    "speaker": "cornelia",
+    "speaker": "hugo",
     "expr": "neutral",
-    "text": "Then it will weigh the League's offer, Miss Quill. And we shall see how heavy a promise it is."
+    "text": "There's a muddy print on the counter, size ten, with a gold-tipped heel. Does anyone wear gold on their heels?"
    },
    {
-    "speaker": "prudence",
-    "expr": "neutral",
-    "text": "It will turn out to be a great deal lighter than their carriage, Cornelia. I shall bring the weights."
+    "speaker": "sam",
+    "expr": "worried",
+    "text": "Only one man I know. Lucian Merrick has been in our Vaults."
    }
   ]
  },
@@ -7483,34 +7513,29 @@
   "trigger": "element:40_048",
   "lines": [
    {
+    "speaker": "zephyrine",
+    "expr": "neutral",
+    "text": "The Guard's Lamp is lit, and it was not lit when we came down. Nobody has touched it."
+   },
+   {
     "speaker": "hugo",
-    "expr": "happy",
-    "text": "The Guard's Lamp. A solid brass lantern, with a thick glass and a very bright flame. It lit the Vaults for forty years, and never once went out."
+    "expr": "neutral",
+    "text": "I'll swear it on my spanners. The wick's not even wet."
    },
    {
     "speaker": "barnaby",
-    "expr": "worried",
-    "text": "It's lit, Hugo. All by itself. Look."
-   },
-   {
-    "speaker": "hugo",
-    "expr": "surprised",
-    "text": "Barnaby, I did not light it. I did not even touch it."
+    "expr": "happy",
+    "text": "I left a biscuit by it, Miss Blackwood, just in case. And it's gone!"
    },
    {
     "speaker": "aldous",
     "expr": "worried",
-    "text": "Then, my dear friends, either we have a ghost, or we have a very polite guest."
+    "text": "Biscuits do not vanish, Barnaby. They are eaten, or they are carried off, and there is a difference."
    },
    {
-    "speaker": "cornelia",
+    "speaker": "rosalind",
     "expr": "neutral",
-    "text": "We shall assume the latter. Mr Pluck, leave a biscuit on the desk."
-   },
-   {
-    "speaker": "barnaby",
-    "expr": "happy",
-    "text": "Right away, Miss Wren."
+    "text": "In a house like this, my dears, I am inclined to think they are accepted."
    }
   ]
  },
@@ -7520,34 +7545,29 @@
   "trigger": "element:40_054",
   "lines": [
    {
-    "speaker": "prudence",
+    "speaker": "rosalind",
     "expr": "neutral",
-    "text": "The Guard's Desk. A small oak desk, a logbook, and a pen. The last entry reads: All quiet. Nothing to report. The cat has the key."
-   },
-   {
-    "speaker": "cornelia",
-    "expr": "neutral",
-    "text": "The cat has the key?"
+    "text": "A Guard's Desk, a logbook, a pen with a split nib. How very touching, that someone kept watch down here."
    },
    {
     "speaker": "prudence",
-    "expr": "worried",
-    "text": "It does say so, Cornelia. And a drawing of a cat, in the margin. A very respectable cat, in a very small hat."
+    "expr": "neutral",
+    "text": "The last entry in his hand: All quiet. The cat has the key. A drawing follows, of a cat wearing a very small hat."
    },
    {
     "speaker": "barnaby",
     "expr": "happy",
-    "text": "I knew it, Miss Wren! It's the cat!"
+    "text": "I knew it was the cat! I said so, Miss Quill, I said it on Tuesday!"
    },
    {
     "speaker": "zephyrine",
     "expr": "neutral",
-    "text": "A cat that guards the keys of the Deep Vaults, and has done so for two decades. I have met few people who could say as much."
+    "text": "A cat holds the keys to the Deep Vaults and has done for twenty years. I do not find that more remarkable than half the people I know."
    },
    {
     "speaker": "sam",
     "expr": "neutral",
-    "text": "I have met none, Zephyrine, and I have met a great many."
+    "text": "Nor I. Most of them cannot even be trusted with the umbrella."
    }
   ]
  },
@@ -7558,33 +7578,28 @@
   "lines": [
    {
     "speaker": "hugo",
-    "expr": "happy",
-    "text": "The Vault Clock! A great brass dial, set into the wall, and still ticking. It's the oldest working clock in the Hall."
-   },
-   {
-    "speaker": "cornelia",
     "expr": "neutral",
-    "text": "Mr Pemberton, what time does it say?"
-   },
-   {
-    "speaker": "hugo",
-    "expr": "neutral",
-    "text": "It says a quarter to twelve, Cornelia. But it's been saying that for twenty years, and it is the most punctual clock I have ever met."
+    "text": "That clock has been running since before the Hall had gas, and it says a quarter to twelve."
    },
    {
     "speaker": "aldous",
     "expr": "neutral",
-    "text": "A clock that is always a quarter to twelve is a clock that is waiting for noon."
+    "text": "It said a quarter to twelve in the Study too, Hugo. And in the dictionary, I am told."
+   },
+   {
+    "speaker": "hugo",
+    "expr": "worried",
+    "text": "Different clocks, different makers, and they all agree. Clocks don't agree. They fight."
    },
    {
     "speaker": "prudence",
-    "expr": "neutral",
-    "text": "Noon, Professor, on a Wednesday. I begin to think that the word has a meaning for the whole Hall."
+    "expr": "worried",
+    "text": "Unless someone has set them all to the same hour on purpose, and then walked away."
    },
    {
     "speaker": "cornelia",
-    "expr": "worried",
-    "text": "Then we should be ready. Let us make a very large pot of tea."
+    "expr": "neutral",
+    "text": "Then someone has left the Hall waiting for a quarter to twelve. I should like to be there when it arrives."
    }
   ]
  },
@@ -7596,32 +7611,32 @@
    {
     "speaker": "anjali",
     "expr": "neutral",
-    "text": "The Sealed Sarcophagus. A heavy stone coffin, carved all over with little scarabs and moons."
+    "text": "It's not a tomb, Barnaby. Lift the lid. Gently. Tureens first, then the soup spoons."
    },
    {
     "speaker": "barnaby",
-    "expr": "worried",
-    "text": "Is there somebody in it, Miss Bose?"
-   },
-   {
-    "speaker": "anjali",
-    "expr": "neutral",
-    "text": "I should hope not. It is a dinner service for forty, Barnaby. The Society lost it in 1884, and has been looking for it ever since."
+    "expr": "happy",
+    "text": "Forty soup plates, and a ladle shaped like a swan! Miss Bose, you were right!"
    },
    {
     "speaker": "sam",
     "expr": "happy",
-    "text": "You are joking, Anjali. They hid a dinner service in a sarcophagus?"
+    "text": "Who hides a dinner service in a sarcophagus? Rosalind, it is the cleverest idea in the Hall."
    },
    {
-    "speaker": "anjali",
-    "expr": "happy",
-    "text": "It was a very good hiding place. Who looks for a tureen in a tomb?"
+    "speaker": "rosalind",
+    "expr": "neutral",
+    "text": "It is the cleverest in three centuries, Sam, and it was mine. I did it after the dinner party that ended in a duel."
    },
    {
     "speaker": "cornelia",
-    "expr": "neutral",
-    "text": "We shall take it up in the lift, Miss Bose. Along with the mice."
+    "expr": "surprised",
+    "text": "Rosalind!"
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "happy",
+    "text": "Over the soup, dear. Entirely over the soup."
    }
   ]
  },
@@ -7631,34 +7646,29 @@
   "trigger": "element:40_072",
   "lines": [
    {
+    "speaker": "hugo",
+    "expr": "happy",
+    "text": "A camphor chest lined with lead! Anjali, you'll have to forgive me, I'm going to stand very still and admire the joinery."
+   },
+   {
     "speaker": "anjali",
     "expr": "happy",
-    "text": "The Tea Chest! Oh, my dears. It is a great square box of camphor wood, lined with lead and stamped with a dozen Chinese characters. I could weep."
+    "text": "Open it, Hugo. My hands are shaking."
    },
    {
-    "speaker": "cornelia",
+    "speaker": "hugo",
     "expr": "neutral",
-    "text": "Miss Bose, you are weeping."
+    "text": "Lead lining, three layers of oiled silk, and a tin scoop. That's four hundred and sixty-two cups' worth."
    },
    {
     "speaker": "anjali",
-    "expr": "neutral",
-    "text": "Cornelia, I have seen this chest in my dreams. It was on the Wanderer, on the longest voyage the Society ever took. It brought us home, and it brought us all together."
+    "expr": "worried",
+    "text": "The Society's tea. The last chest from the Wanderer's final voyage. We drank all but this."
    },
    {
     "speaker": "aldous",
     "expr": "neutral",
-    "text": "What does it contain, Anjali?"
-   },
-   {
-    "speaker": "anjali",
-    "expr": "happy",
-    "text": "The finest tea in the world, Professor. Enough for four hundred and sixty-two cups. I have been saving it for the right occasion."
-   },
-   {
-    "speaker": "cornelia",
-    "expr": "worried",
-    "text": "Then I think, Miss Bose, that the occasion is coming."
+    "text": "I hope you will brew a cup for the Society, Anjali. It is a long time since we all had the same thing in our hands."
    }
   ]
  },
@@ -7668,34 +7678,29 @@
   "trigger": "element:40_078",
   "lines": [
    {
-    "speaker": "aldous",
-    "expr": "happy",
-    "text": "The Elephant Tusk Pair! They stand, curved and ivory-pale, on either side of an iron door. And, Cornelia, I believe this is the thirteenth. The one missing from the Hall of Giants."
+    "speaker": "mark",
+    "expr": "neutral",
+    "text": "The thirteenth tusk! It's, um, a pair with the twelfth, and they're holding up a door."
    },
    {
     "speaker": "prudence",
+    "expr": "happy",
+    "text": "At last. The thinner dust in the bracket. I knew the Index was telling the truth."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "They're like a pair of curved gateposts, and they're holding up a little iron door, with a lock shaped like a crab!"
+   },
+   {
+    "speaker": "sam",
     "expr": "neutral",
-    "text": "The matching bracket, with the thinner dust. I knew it. I knew it."
+    "text": "Another lock, another key. I begin to feel like a man in a very elaborate reading list."
    },
    {
     "speaker": "cornelia",
     "expr": "neutral",
-    "text": "Why are there two, Miss Quill?"
-   },
-   {
-    "speaker": "prudence",
-    "expr": "neutral",
-    "text": "It is a pair, Cornelia. The twelfth and the thirteenth. They have been in the Vaults the whole time."
-   },
-   {
-    "speaker": "hugo",
-    "expr": "neutral",
-    "text": "They look like a pair of gate posts. It's a door, isn't it?"
-   },
-   {
-    "speaker": "zephyrine",
-    "expr": "happy",
-    "text": "It is a door, Hugo. And, on the other side, I rather suspect, is a staircase."
+    "text": "We have the crab key from the Archives. Mr Vane, if you would be so kind as to stand aside."
    }
   ]
  },
@@ -7707,32 +7712,27 @@
    {
     "speaker": "zephyrine",
     "expr": "happy",
-    "text": "The Spiral Descent Rail! A long iron banister, winding down into the dark, like a very elegant corkscrew."
+    "text": "Spiral stair, iron rail, a long dark drop. I have been down it three times, Barnaby, and each time I came back up with a better story."
    },
    {
     "speaker": "barnaby",
     "expr": "worried",
-    "text": "I'm not going down, Miss Blackwood. I have a very strong feeling about this."
+    "text": "This time I'd like to come back up with just myself."
    },
    {
-    "speaker": "zephyrine",
+    "speaker": "hugo",
     "expr": "neutral",
-    "text": "It is a perfectly safe staircase, Barnaby. I have been down it three times, and each time I came up with a story."
+    "text": "I'll go first. I've tested every rivet. And I've put a little oil on the rail so it doesn't squeak."
    },
    {
     "speaker": "sam",
     "expr": "neutral",
-    "text": "The first time you came up with a monkey."
+    "text": "How very considerate, Hugo. You have made a spiral staircase polite."
    },
    {
-    "speaker": "zephyrine",
-    "expr": "neutral",
-    "text": "The monkey was a story, Sam. A very good one."
-   },
-   {
-    "speaker": "cornelia",
-    "expr": "neutral",
-    "text": "We shall go down together, Mr Pluck. And you will hold my hand, and say nothing of it afterwards."
+    "speaker": "aldous",
+    "expr": "happy",
+    "text": "And I shall go last, to count the steps, and to bring up the rear of any unfortunate descent."
    }
   ]
  },
@@ -7742,34 +7742,29 @@
   "trigger": "element:40_090",
   "lines": [
    {
+    "speaker": "aldous",
+    "expr": "happy",
+    "text": "Spiders! The loveliest web I have seen since Patagonia. Look at the silver on it, Mark, and look how it sways."
+   },
+   {
     "speaker": "mark",
-    "expr": "worried",
-    "text": "The Spiderweb Chandelier. Um, it's not actually a chandelier. It's a very large web, full of dew. And it's lit from the inside."
+    "expr": "happy",
+    "text": "She's called, um, Madame Archimedes. I've been feeding her. She's lonely, I think."
    },
    {
     "speaker": "rosalind",
     "expr": "happy",
-    "text": "Mark, it is the most extraordinary thing. A web of silver threads, and the light running through it like water."
-   },
-   {
-    "speaker": "aldous",
-    "expr": "happy",
-    "text": "A common garden spider, I should say. But a very ambitious one."
+    "text": "A web with a chandelier's ambitions. I shall paint her in blue and silver, with the dew as pearls."
    },
    {
     "speaker": "barnaby",
     "expr": "neutral",
-    "text": "Is it safe, Professor?"
+    "text": "She's looking right at me, Miss Thorne. All eight eyes."
    },
    {
-    "speaker": "aldous",
+    "speaker": "rosalind",
     "expr": "neutral",
-    "text": "It is a very safe spider, Barnaby. She has lived here for twenty years and has never caught anything bigger than a moth. I think she is rather lonely."
-   },
-   {
-    "speaker": "mark",
-    "expr": "happy",
-    "text": "I'll bring her some, um, flies."
+    "text": "That means she approves, Barnaby. Spiders only stare at those they like."
    }
   ]
  },
@@ -7781,32 +7776,27 @@
    {
     "speaker": "prudence",
     "expr": "happy",
-    "text": "The Mushroom Library! Oh, my dears. A whole shelf of books, grown over with the most beautiful fungi. Purple, gold, and a very pale blue."
-   },
-   {
-    "speaker": "cornelia",
-    "expr": "neutral",
-    "text": "Miss Quill, you are smiling again."
-   },
-   {
-    "speaker": "prudence",
-    "expr": "neutral",
-    "text": "It is the first library I have ever seen where the books are growing back. I should like to catalogue every spore."
-   },
-   {
-    "speaker": "mark",
-    "expr": "happy",
-    "text": "They're, um, edible, mostly. The blue ones are not."
+    "text": "Books! Grown all over with mushrooms in every colour of the rainbow, and not one of them damp. I'm in love."
    },
    {
     "speaker": "anjali",
     "expr": "neutral",
-    "text": "Mark, I should like a basket of the gold ones. For a very particular risotto."
+    "text": "The gold ones are chanterelles. The blue ones I'd leave alone. And the purple are, I think, only very shy."
+   },
+   {
+    "speaker": "mark",
+    "expr": "neutral",
+    "text": "They've been growing for years, Anjali. I think the spores keep the paper dry, somehow."
    },
    {
     "speaker": "prudence",
-    "expr": "worried",
-    "text": "Do not touch the volumes, Anjali. They are, on the whole, a great deal more sensitive than they look."
+    "expr": "neutral",
+    "text": "Which means the library is protected, not decaying. Mark, you have made the most important discovery of the month."
+   },
+   {
+    "speaker": "mark",
+    "expr": "surprised",
+    "text": "I didn't discover it, Prudence. I only stood still next to it."
    }
   ]
  },
@@ -7817,38 +7807,28 @@
   "lines": [
    {
     "speaker": "zephyrine",
-    "expr": "worried",
-    "text": "The Seer's Mirror Pool. A round, black pool of water, in a ring of stone. It does not reflect the ceiling. It reflects something else."
-   },
-   {
-    "speaker": "cornelia",
     "expr": "neutral",
-    "text": "What do you see, Miss Blackwood?"
-   },
-   {
-    "speaker": "zephyrine",
-    "expr": "neutral",
-    "text": "I see a ship, Cornelia. With her lamps lit. Her name is on the stern, and it is the Meridian. She is sailing very slowly across a sea of stars."
+    "text": "The pool does not reflect the ceiling. It reflects a deck, and a lantern, and a very large sea."
    },
    {
     "speaker": "barnaby",
     "expr": "worried",
-    "text": "Is there anybody on board, Miss Blackwood?"
+    "text": "Miss Blackwood, there's a ship in it."
    },
    {
     "speaker": "zephyrine",
     "expr": "worried",
-    "text": "There is one lamp lit, in the stern cabin. And someone is sitting at the window, with a cup of tea. I cannot see the face."
+    "text": "The Meridian, Barnaby. Every lamp lit, no one on the deck. A cup of tea on the captain's table, steaming."
    },
    {
-    "speaker": "sam",
+    "speaker": "cornelia",
     "expr": "neutral",
-    "text": "Is he looking at us?"
+    "text": "Is the cup full?"
    },
    {
     "speaker": "zephyrine",
-    "expr": "happy",
-    "text": "No, Sam. He is looking at the horizon. And he is smiling."
+    "expr": "neutral",
+    "text": "It is half full, Cornelia. As though somebody had put it down, only a moment ago, and meant to come back."
    }
   ]
  },
@@ -7858,29 +7838,29 @@
   "trigger": "element:40_108",
   "lines": [
    {
-    "speaker": "hugo",
-    "expr": "happy",
-    "text": "The Phantom Lantern! A tall lamp on a tall post, burning with a pale green flame. It gives off no heat, and it casts no shadow."
-   },
-   {
-    "speaker": "cornelia",
-    "expr": "neutral",
-    "text": "It is a very peculiar light, Mr Pemberton."
-   },
-   {
-    "speaker": "hugo",
-    "expr": "neutral",
-    "text": "It's lit by something I don't understand, Cornelia. And I'll tell you, I've never been so keen to learn."
-   },
-   {
     "speaker": "aldous",
-    "expr": "happy",
-    "text": "It is the light of a friend, I believe. A friend who is very far away, and has not forgotten us."
+    "expr": "neutral",
+    "text": "The Phantom Lantern has no flame, and no wick, and no shadow, and yet I can read my notes by it quite well."
+   },
+   {
+    "speaker": "hugo",
+    "expr": "neutral",
+    "text": "It's cold, too. I held my hand against the glass. Not warm in the slightest."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "neutral",
+    "text": "It is a light that is not for seeing by. It is for being seen by, I think."
+   },
+   {
+    "speaker": "sam",
+    "expr": "worried",
+    "text": "By whom, Rosalind?"
    },
    {
     "speaker": "rosalind",
     "expr": "worried",
-    "text": "Aldous, that is the most lovely thing I have heard you say. Do you know, I think you may be right."
+    "text": "By anyone who is lost in the dark, and wondering which way is home."
    }
   ]
  },
@@ -7892,32 +7872,27 @@
    {
     "speaker": "barnaby",
     "expr": "happy",
-    "text": "The Sleeper's Bed! A little iron cot, with a patchwork quilt, and a very small pillow. It's been slept in, Miss Wren. Recently."
-   },
-   {
-    "speaker": "cornelia",
-    "expr": "neutral",
-    "text": "How can you tell, Mr Pluck?"
-   },
-   {
-    "speaker": "barnaby",
-    "expr": "neutral",
-    "text": "It's still warm. And there's a grey hair on the pillow. A very long, very silky grey hair."
-   },
-   {
-    "speaker": "sam",
-    "expr": "happy",
-    "text": "It is the cat, Cornelia. It must be. A cat with a bed. A cat with a hat, and a key, and a bed."
+    "text": "It's still warm, Miss Wren! The pillow, the quilt, even the little tin cup!"
    },
    {
     "speaker": "anjali",
-    "expr": "happy",
-    "text": "And a taste for ham, and a very good knowledge of hinges."
+    "expr": "neutral",
+    "text": "And a long grey hair, as soft as silk. Cornelia, it belongs to a very well-fed cat."
    },
    {
     "speaker": "cornelia",
     "expr": "neutral",
-    "text": "If the cat has been keeping house all these years, then I shall have to ask its permission before moving any furniture."
+    "text": "A cat with a bed, a hat, a key, and a ham habit. Mr Pluck, kindly leave a saucer of milk."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "And a note! I'll write it. Dear Cat. Thank you for looking after the Vaults. Yours, Barnaby."
+   },
+   {
+    "speaker": "zephyrine",
+    "expr": "happy",
+    "text": "I have received less courteous correspondence from kings."
    }
   ]
  },
@@ -7927,34 +7902,29 @@
   "trigger": "element:40_120",
   "lines": [
    {
-    "speaker": "cornelia",
-    "expr": "neutral",
-    "text": "The Heart of the Deep Vaults. A great round chamber, domed in brick, with a single stone table in the middle. And, upon it, a casket."
-   },
-   {
-    "speaker": "rosalind",
-    "expr": "neutral",
-    "text": "It is the casket from the seed, Cornelia. Open when the garden is lit."
-   },
-   {
-    "speaker": "cornelia",
-    "expr": "neutral",
-    "text": "The garden is lit, Rosalind. Mr Pemberton, would you be so kind?"
-   },
-   {
     "speaker": "hugo",
     "expr": "neutral",
-    "text": "It's not a lock, Cornelia. It's a mechanism. Three tumblers, each set to a note of the lullaby."
+    "text": "The casket has three tumblers. Each one wants a note from the lullaby, and the lullaby's in my head."
    },
    {
     "speaker": "zephyrine",
-    "expr": "happy",
-    "text": "The sixth note, Hugo. And the third, and the ninth."
+    "expr": "neutral",
+    "text": "The sixth, the third, and the ninth. I tell you, Hugo, it is the order of the stars in the Dome."
    },
    {
     "speaker": "hugo",
+    "expr": "surprised",
+    "text": "Click. Click. Click. It's turning, Cornelia!"
+   },
+   {
+    "speaker": "cornelia",
     "expr": "worried",
-    "text": "It's open. Inside, a key. A long, narrow, brass key. And a label. The Founder's Study."
+    "text": "It is a key. A single long brass key, and a wooden tag in a hand that I know. For the Founder's Study."
+   },
+   {
+    "speaker": "prudence",
+    "expr": "neutral",
+    "text": "Mr Bloom, a hush, please. I believe the Hall has just spoken."
    }
   ]
  },
@@ -8339,29 +8309,29 @@
   "trigger": "element:43_006",
   "lines": [
    {
-    "speaker": "hugo",
-    "expr": "neutral",
-    "text": "The Hollow Suit of Armour. A full suit of plate, empty, with a little brass door in the back. Behind the door, a spiral stair."
-   },
-   {
     "speaker": "barnaby",
-    "expr": "happy",
-    "text": "Hugo, there's a person-sized secret passage in the armour! This is the best day of my life."
+    "expr": "surprised",
+    "text": "Miss Wren, I put my shoulder to the suit of armour and it swung round on a pin like a door!"
    },
    {
     "speaker": "hugo",
     "expr": "happy",
-    "text": "It's the best engineering I've seen in years, Barnaby. Look at the hinges. The whole suit swings on a single pin."
+    "text": "A pivoting suit! No hinges to give it away. Whoever built it had a fine sense of mischief."
+   },
+   {
+    "speaker": "prudence",
+    "expr": "neutral",
+    "text": "The Index lists a Passage, one line only. See also: Wall."
    },
    {
     "speaker": "cornelia",
     "expr": "neutral",
-    "text": "The Hidden Passage. I suppose every Hall has one. I did not expect to be so fond of it."
+    "text": "It is a very short entry for such a long corridor. Come along, and do bring the lantern."
    },
    {
     "speaker": "sam",
     "expr": "happy",
-    "text": "I have been trying to find this passage for thirty years, Cornelia. I find that I have walked through it in about four minutes, and I'm slightly offended."
+    "text": "I have been looking for this passage for thirty years, and I have walked into it in four minutes. I find I am offended."
    }
   ]
  },
@@ -8372,33 +8342,28 @@
   "lines": [
    {
     "speaker": "anjali",
-    "expr": "happy",
-    "text": "The Servant's Bell Board! Forty little bells on forty little springs, each one labelled with a room. Every time somebody rang, a footman came running."
-   },
-   {
-    "speaker": "barnaby",
-    "expr": "neutral",
-    "text": "Miss Bose, one of them is ringing."
-   },
-   {
-    "speaker": "anjali",
-    "expr": "neutral",
-    "text": "Nonsense, Barnaby. Which one?"
-   },
-   {
-    "speaker": "barnaby",
     "expr": "worried",
-    "text": "The Tea Room. It is ringing for a pot of tea, with two cups."
+    "text": "Forty bells, each one labelled with a room, and the one marked Tea Room is ringing for two cups."
+   },
+   {
+    "speaker": "barnaby",
+    "expr": "happy",
+    "text": "I'll go, Miss Bose! I'll take the biscuits!"
    },
    {
     "speaker": "cornelia",
-    "expr": "worried",
-    "text": "Mr Pluck, would you be so kind as to go and see who is in the Tea Room?"
+    "expr": "neutral",
+    "text": "Mr Pluck, you will take Mr Pemberton, and you will not eat them on the way."
    },
    {
-    "speaker": "barnaby",
+    "speaker": "hugo",
+    "expr": "neutral",
+    "text": "Fine by me. If someone's ringing, I'll tell them the Tea Room's closed for refurbishment."
+   },
+   {
+    "speaker": "anjali",
     "expr": "happy",
-    "text": "Right away, Miss Wren! Oh, and, er, I'd best take a plate of biscuits."
+    "text": "Go and look, both of you. And if there is a visitor, they are to be given the best chair and the best lemon cake."
    }
   ]
  },
@@ -8410,27 +8375,27 @@
    {
     "speaker": "mark",
     "expr": "neutral",
-    "text": "The Emergency Candle Box. A tin box, full of beeswax candles, each one wrapped in a twist of paper. And, um, a note on the lid. In case of darkness, light one. In case of light, light two."
-   },
-   {
-    "speaker": "anjali",
-    "expr": "happy",
-    "text": "That is a very sensible instruction. I should like to have it embroidered on a cushion."
-   },
-   {
-    "speaker": "mark",
-    "expr": "happy",
-    "text": "I should like to read it every morning. It, um, makes me feel as though somebody was looking out for me."
-   },
-   {
-    "speaker": "rosalind",
-    "expr": "neutral",
-    "text": "Mark, somebody was. I think you will find that was rather the point of the founder."
+    "text": "There's a tin of candles, and, um, a note on the lid. In case of darkness, light one. In case of light, light two."
    },
    {
     "speaker": "zephyrine",
+    "expr": "happy",
+    "text": "Light two, then, and we shall see what the passage thinks of it."
+   },
+   {
+    "speaker": "aldous",
     "expr": "neutral",
-    "text": "Light two, then. In case of light. One can never have too much."
+    "text": "It thinks, I believe, that a corridor which has not seen light in twenty years deserves a little extra."
+   },
+   {
+    "speaker": "anjali",
+    "expr": "worried",
+    "text": "It has also got longer, has it not? We have walked for twenty minutes, and I can still see the armour."
+   },
+   {
+    "speaker": "mark",
+    "expr": "surprised",
+    "text": "Oh. Um. I think the passage has been, um, moving."
    }
   ]
  },
@@ -8440,29 +8405,29 @@
   "trigger": "element:43_024",
   "lines": [
    {
-    "speaker": "hugo",
-    "expr": "happy",
-    "text": "The Spiral Newel Post! A great oak column, carved with a spiral, and as smooth as glass. The whole staircase turns round it."
-   },
-   {
     "speaker": "barnaby",
     "expr": "happy",
-    "text": "I slid down it, Hugo! All the way from the top! It took four seconds, and I lost a button!"
+    "text": "I slid down the Spiral Newel Post, Miss Wren, and I'm very sorry, and I've lost a button."
    },
    {
     "speaker": "hugo",
     "expr": "neutral",
-    "text": "You've got to be careful, Barnaby. The post is a part of the clock mechanism. When it turns, it winds the great spring in the Tower."
+    "text": "Barnaby, stop. Put your hand on the post. It's turning."
    },
    {
     "speaker": "prudence",
     "expr": "neutral",
-    "text": "The staircase is a key, then. Every time a person climbs, the Tower is wound a little more."
+    "text": "The staircase is wound by those who use it. Every step we take is winding something above us."
+   },
+   {
+    "speaker": "rosalind",
+    "expr": "happy",
+    "text": "How very Ambrose. A house that is powered by the people who love it."
    },
    {
     "speaker": "cornelia",
     "expr": "worried",
-    "text": "Which means, Miss Quill, that we have been winding it ourselves, all these weeks. By coming and going. By carrying the Hall up and down on our own two feet."
+    "text": "Then the whole Hall is a clockwork, Mr Pemberton, and we are all part of the mechanism."
    }
   ]
  },
@@ -8472,29 +8437,29 @@
   "trigger": "element:43_030",
   "lines": [
    {
+    "speaker": "mark",
+    "expr": "happy",
+    "text": "Forty-two bats, hanging from the ledge, and every one of them asleep. They look like a row of very old bankers."
+   },
+   {
     "speaker": "aldous",
     "expr": "happy",
-    "text": "The Bat Colony Ledge! A narrow shelf of stone, and, hanging from it, forty-two bats. Every one of them asleep, and every one of them upside down."
+    "text": "Mark, that is exactly right. I shall steal it for my next lecture."
+   },
+   {
+    "speaker": "sam",
+    "expr": "neutral",
+    "text": "I have met bankers who looked like bats. It is a kinder comparison for the bats."
    },
    {
     "speaker": "barnaby",
     "expr": "neutral",
-    "text": "Professor, I'd say they're looking at me."
+    "text": "I'm not breathing, Professor. In case they wake up and think I'm a very large moth."
    },
    {
     "speaker": "aldous",
     "expr": "neutral",
-    "text": "They are not looking at you, Barnaby. They are asleep. They are dreaming about moths."
-   },
-   {
-    "speaker": "mark",
-    "expr": "happy",
-    "text": "I think they're lovely. They have little faces, like very old and very kind bankers."
-   },
-   {
-    "speaker": "aldous",
-    "expr": "happy",
-    "text": "Mark, that is exactly right. I have always said that a bat is a banker who has found his true vocation."
+    "text": "Nonsense, my boy. A moth would be more graceful."
    }
   ]
  },
@@ -8506,27 +8471,27 @@
    {
     "speaker": "zephyrine",
     "expr": "neutral",
-    "text": "The Watchman's Stool. A three-legged seat of oak, polished by two hundred years of waiting. The ideal place from which to guard a secret."
-   },
-   {
-    "speaker": "sam",
-    "expr": "happy",
-    "text": "I should like to sit on it, Zephyrine. I would be a wonderful watchman. I would see everything, and report none of it."
-   },
-   {
-    "speaker": "zephyrine",
-    "expr": "neutral",
-    "text": "You would be a dreadful watchman, Sam. You would sell the passage to the highest bidder."
-   },
-   {
-    "speaker": "sam",
-    "expr": "neutral",
-    "text": "I would be a dreadful watchman, Zephyrine, but I would be a very well-paid one."
+    "text": "The stool is worn smooth by two hundred years of people waiting. I think I'll sit on it for a moment."
    },
    {
     "speaker": "cornelia",
     "expr": "neutral",
-    "text": "Miss Blackwood, watch the door. Mr Vane, watch Miss Blackwood."
+    "text": "Miss Blackwood, if you vanish, I shall take it personally."
+   },
+   {
+    "speaker": "zephyrine",
+    "expr": "happy",
+    "text": "I shan't vanish, Cornelia. I merely like to see what the watchman saw. Down this corridor, with his lamp, and his thoughts."
+   },
+   {
+    "speaker": "sam",
+    "expr": "neutral",
+    "text": "And what did he see?"
+   },
+   {
+    "speaker": "zephyrine",
+    "expr": "worried",
+    "text": "A door. And the door had a wren on it. I think we shall have to find it soon."
    }
   ]
  },
@@ -8538,27 +8503,27 @@
    {
     "speaker": "prudence",
     "expr": "happy",
-    "text": "The Secret Reader's Chair! Oh, how delightful. A deep green leather armchair, tucked into an alcove, with a footstool and a little brass candle-holder at the elbow."
-   },
-   {
-    "speaker": "cornelia",
-    "expr": "neutral",
-    "text": "Miss Quill, you look as though you have been struck by a thunderbolt."
-   },
-   {
-    "speaker": "prudence",
-    "expr": "neutral",
-    "text": "Cornelia, I have been looking for a chair like this all my life. A place where no one will find me, and I may read as long as I like."
+    "text": "A secret reader's chair. A deep green armchair, a footstool, a candle-holder at the elbow, and a shelf of small and treasonable novels."
    },
    {
     "speaker": "rosalind",
     "expr": "happy",
-    "text": "It is a perfect hideaway, Prudence. I am slightly jealous."
+    "text": "Prudence, you are blushing. I do not think I have ever seen it."
    },
    {
     "speaker": "prudence",
     "expr": "neutral",
-    "text": "You may use it on Tuesdays. I shall have it on all the other days."
+    "text": "I am not blushing. It is the candlelight. And the novels are, I'm told, entirely educational."
+   },
+   {
+    "speaker": "sam",
+    "expr": "happy",
+    "text": "One of them is called The Countess and the Cabin Boy. I should like to be educated."
+   },
+   {
+    "speaker": "prudence",
+    "expr": "surprised",
+    "text": "Mr Vane, put that back at once."
    }
   ]
  },
@@ -8569,28 +8534,28 @@
   "lines": [
    {
     "speaker": "hugo",
-    "expr": "happy",
-    "text": "The Quiet Clock! A little brass mantel clock with a very soft tick. It doesn't chime, and it doesn't strike. It just keeps time, and it keeps it kindly."
-   },
-   {
-    "speaker": "cornelia",
     "expr": "neutral",
-    "text": "Mr Pemberton, what is the time?"
-   },
-   {
-    "speaker": "hugo",
-    "expr": "neutral",
-    "text": "A quarter to twelve, Cornelia. It's the same time as the Vault Clock. It's the same as the dictionary."
+    "text": "It doesn't strike, doesn't chime, doesn't even tick loudly. It just keeps the time. And it says a quarter to twelve."
    },
    {
     "speaker": "aldous",
     "expr": "neutral",
-    "text": "They are all in agreement, then. It is a quarter to twelve in the whole of the Hall."
+    "text": "The fourth clock, Hugo. All of them agree. All of them are waiting."
+   },
+   {
+    "speaker": "anjali",
+    "expr": "neutral",
+    "text": "For what? I would like to be told what we are waiting for, so I can put the kettle on in good time."
    },
    {
     "speaker": "hugo",
     "expr": "worried",
-    "text": "It's not a mistake. It's a clock set to wait. It's counting down to something, and it's very nearly there."
+    "text": "It's not waiting for midnight, Anjali. It's a quarter to twelve in the morning. It's waiting for noon."
+   },
+   {
+    "speaker": "cornelia",
+    "expr": "worried",
+    "text": "Noon, on a Wednesday, I suppose. I begin to dislike that day on principle."
    }
   ]
  },
@@ -8602,32 +8567,27 @@
    {
     "speaker": "barnaby",
     "expr": "happy",
-    "text": "The Library Cat Bed! Miss Wren, it's the cat's bed! A little round basket with a cushion and a very small hat on a peg."
-   },
-   {
-    "speaker": "cornelia",
-    "expr": "neutral",
-    "text": "It is a very respectable bed, Mr Pluck."
-   },
-   {
-    "speaker": "barnaby",
-    "expr": "happy",
-    "text": "And she's in it! She's looking at me! She's a grey cat with a white chin and enormous whiskers, and she's got a little brass key around her neck!"
+    "text": "A basket with a cushion, a tiny hat on a peg, and, oh! She's in it! She's looking at me!"
    },
    {
     "speaker": "anjali",
     "expr": "happy",
-    "text": "Oh, you beauty. May I give her a slice of ham?"
+    "text": "Grey, with a white chin and whiskers like a sea captain. And a key on a ribbon round her neck."
    },
    {
     "speaker": "cornelia",
     "expr": "neutral",
-    "text": "Miss Bose, you may give her the entire ham. She has earned it."
+    "text": "Good afternoon. You must be the housekeeper."
    },
    {
     "speaker": "barnaby",
     "expr": "happy",
-    "text": "Her name tag says Wednesday! She's been Wednesday all along!"
+    "text": "Her tag says Wednesday! She's Wednesday! She's been Wednesday all along!"
+   },
+   {
+    "speaker": "aldous",
+    "expr": "happy",
+    "text": "Splendid. A Wednesday that has been watching over us for twenty years, and has never once been late."
    }
   ]
  },
@@ -8637,29 +8597,29 @@
   "trigger": "element:43_060",
   "lines": [
    {
+    "speaker": "prudence",
+    "expr": "neutral",
+    "text": "A night light, Cornelia. The Index says it was lit every evening, at dusk, whether anyone was home or not."
+   },
+   {
     "speaker": "cornelia",
     "expr": "neutral",
-    "text": "The Secret Reading Lamp. A little green shade, and a flame that flickers on and off as though it were breathing."
+    "text": "Why would a man leave a lamp lit in an empty passage?"
    },
    {
     "speaker": "prudence",
     "expr": "neutral",
-    "text": "It has been left on, Cornelia, every night for twenty years. I looked it up in the Index. It was the founder's night light."
-   },
-   {
-    "speaker": "cornelia",
-    "expr": "neutral",
-    "text": "Left on for him, I suppose. So that he could find his way home."
+    "text": "So that if he ever came back in the dark, he would not trip over the cat."
    },
    {
     "speaker": "rosalind",
-    "expr": "neutral",
-    "text": "Oh, my dear, it is so like him. To leave a light on, and a door unlocked, and a cat."
+    "expr": "happy",
+    "text": "Oh, my dears, it is so very like him. A light, an open door, and a cat. And a great many clues, because he never could resist a puzzle."
    },
    {
     "speaker": "cornelia",
     "expr": "happy",
-    "text": "And a very long and complicated trail of clues, Rosalind. I confess I find it rather irritating."
+    "text": "And a great deal of irritation for the rest of us, Rosalind."
    }
   ]
  },
@@ -8669,34 +8629,29 @@
   "trigger": "element:43_066",
   "lines": [
    {
-    "speaker": "barnaby",
-    "expr": "happy",
-    "text": "The Hush Bell! A little silver bell that makes no sound, but when it's rung, everyone in the room goes quiet and listens."
-   },
-   {
     "speaker": "zephyrine",
-    "expr": "neutral",
-    "text": "I have used one of these to call a council meeting on a mountain."
+    "expr": "happy",
+    "text": "I have used a bell like this on a mountain in Persia, to call a council. Everyone stops talking, and listens."
    },
    {
     "speaker": "hugo",
     "expr": "neutral",
-    "text": "Does it really make everyone quiet, Zephyrine?"
+    "text": "Does it work, Zephyrine? Really?"
    },
    {
     "speaker": "zephyrine",
     "expr": "neutral",
-    "text": "Try it, Hugo."
+    "text": "Ring it, Hugo."
    },
    {
     "speaker": "hugo",
     "expr": "surprised",
-    "text": "I'm not, I'm, I'm sorry, I can't hear myself speak. It's wonderful."
+    "text": "I can't hear a thing. I mean, I can't hear myself think. It's wonderful."
    },
    {
     "speaker": "cornelia",
     "expr": "neutral",
-    "text": "It is a very good bell. I shall keep it on my desk, for the committee."
+    "text": "Then it shall live on my desk, Mr Pemberton, and it shall be rung at every committee meeting."
    }
   ]
  },
@@ -8707,33 +8662,28 @@
   "lines": [
    {
     "speaker": "aldous",
+    "expr": "neutral",
+    "text": "A single candle on the hidden stair. It burns an inch a night, and every morning it is an inch taller."
+   },
+   {
+    "speaker": "hugo",
+    "expr": "neutral",
+    "text": "That's a wick on a spring, Professor. Clever work, with a little reservoir of wax in the base."
+   },
+   {
+    "speaker": "mark",
     "expr": "happy",
-    "text": "The Hidden Stair Candle! A fat red candle, set in an iron cup, burning with a steady flame. Every night, apparently, it burns exactly four inches."
+    "text": "I think it's lovely. Whoever made it wanted somebody to have a light, every night."
    },
    {
     "speaker": "barnaby",
-    "expr": "happy",
-    "text": "And every morning, Professor, it's four inches tall again!"
-   },
-   {
-    "speaker": "aldous",
     "expr": "neutral",
-    "text": "It is a very obliging candle, Barnaby. I should like to have one for my study."
+    "text": "But who's it for, Mr Bloom? Nobody's been down this stair in twenty years."
    },
    {
-    "speaker": "hugo",
-    "expr": "neutral",
-    "text": "It's got a wick that grows back, Aldous. It's a very good bit of clockwork, if you look at it the right way."
-   },
-   {
-    "speaker": "cornelia",
-    "expr": "neutral",
-    "text": "There is a great deal of very good clockwork in the Hall, Mr Pemberton. Where does it all go?"
-   },
-   {
-    "speaker": "hugo",
+    "speaker": "mark",
     "expr": "worried",
-    "text": "Up, Cornelia. It all goes up. To the Tower."
+    "text": "Somebody has. The wax on the step is a few hours old."
    }
   ]
  },
@@ -8745,32 +8695,32 @@
    {
     "speaker": "rosalind",
     "expr": "happy",
-    "text": "The Shadow Puppet Screen! A great sheet of paper stretched on a frame, and behind it a lamp. Draw the curtain, and we shall have a performance."
+    "text": "Draw the curtain, put the lamp behind it, and we shall have a performance! Barnaby, you shall be the rabbit."
    },
    {
     "speaker": "barnaby",
     "expr": "happy",
-    "text": "Can I do the rabbit, Miss Thorne?"
-   },
-   {
-    "speaker": "rosalind",
-    "expr": "happy",
-    "text": "You may do the rabbit, Barnaby. And the dove. And a very fine heron, if you have the fingers."
+    "text": "I can do a rabbit, and a dove, and, er, a very bad dog."
    },
    {
     "speaker": "sam",
     "expr": "neutral",
-    "text": "Let me try a swan. Observe. The neck, the beak, the, um, the wing."
+    "text": "Allow me. This is a swan, of a rather brooding disposition."
    },
    {
     "speaker": "anjali",
     "expr": "neutral",
-    "text": "Sam, that looks like a lobster."
+    "text": "Sam, that is a lobster."
    },
    {
     "speaker": "sam",
+    "expr": "happy",
+    "text": "Anjali, it is a swan in a lobster's mood. Rosalind, you must paint me on the screen."
+   },
+   {
+    "speaker": "rosalind",
     "expr": "neutral",
-    "text": "Anjali, it is meant to look like a lobster. It is a swan in a very poor mood."
+    "text": "You are already there, darling. Do not move."
    }
   ]
  },
@@ -8782,27 +8732,27 @@
    {
     "speaker": "hugo",
     "expr": "happy",
-    "text": "The Chamber Lantern Ring! A great iron hoop, hung with sixteen lanterns, in a circle. It lights the whole of the Chamber from above, and it turns, ever so slightly, in the draught."
+    "text": "A ring of sixteen lanterns turning very slowly overhead. That's the light for a very important room, Cornelia."
    },
    {
     "speaker": "cornelia",
     "expr": "neutral",
-    "text": "The Chamber itself must be very near. Miss Quill, do you have the plans?"
+    "text": "Miss Quill, do we have a plan of the Chamber?"
    },
    {
     "speaker": "prudence",
     "expr": "neutral",
-    "text": "There are no plans, Cornelia. There is only a single line on the Index. Chamber: see Dome."
+    "text": "We have a single line. Chamber: see Dome. And a drawing of a roof, but without any building under it."
    },
    {
     "speaker": "zephyrine",
-    "expr": "happy",
-    "text": "Then we need to find the Dome. Did anyone notice a painted ceiling on the way?"
+    "expr": "neutral",
+    "text": "A Dome with no room beneath it. Or a room with no roof above."
    },
    {
     "speaker": "barnaby",
     "expr": "neutral",
-    "text": "A fragment, Miss Blackwood. A bit of one. It's in the next room, leaning on a cabinet."
+    "text": "There's a bit of painted plaster in the next passage, Miss Blackwood. It's leaning on a cabinet. It looks like stars."
    }
   ]
  },
@@ -8814,27 +8764,27 @@
    {
     "speaker": "rosalind",
     "expr": "neutral",
-    "text": "The Painted Dome Fragment. A great slab of plaster, painted with the night sky, and every star picked out in gold leaf."
+    "text": "That is my sky. I painted it for him, the winter before he left. Every star, in gold leaf."
    },
    {
     "speaker": "zephyrine",
     "expr": "neutral",
-    "text": "It is my chart, Rosalind. The edge of the world, as seen from the Meridian. I have a copy in my cabin."
+    "text": "It is the edge of the chart, Rosalind. I know that sky. I saw it from the stern of the Meridian."
    },
    {
     "speaker": "rosalind",
     "expr": "worried",
-    "text": "My dear, I painted this. I painted it for him, as a gift, the winter before he left. And he told me that it was a map, but I never understood how."
+    "text": "He told me it was a map, and I thought he was being charming."
    },
    {
     "speaker": "cornelia",
-    "expr": "worried",
-    "text": "Is it a map of the Hall, Rosalind?"
+    "expr": "neutral",
+    "text": "A map of what, Rosalind?"
    },
    {
     "speaker": "rosalind",
     "expr": "neutral",
-    "text": "It is a map of the Hall's own ceiling, Cornelia. It is the Chamber's dome. The dome that has not yet been put up, because he never had the time."
+    "text": "Of the ceiling of the Chamber, my dear. A roof for a room that has not been built yet, because he ran out of time."
    }
   ]
  },
@@ -8844,34 +8794,29 @@
   "trigger": "element:43_096",
   "lines": [
    {
-    "speaker": "hugo",
-    "expr": "happy",
-    "text": "The Chamber Bellows! A huge leather concertina in an oak frame, for blowing air into the great organ. It's got a very satisfying wheeze."
-   },
-   {
     "speaker": "barnaby",
     "expr": "happy",
-    "text": "Can I pump it, Hugo?"
+    "text": "I pumped the bellows and the whole wall began to sing, Miss Wren!"
    },
    {
     "speaker": "hugo",
+    "expr": "happy",
+    "text": "It's an organ pipe, built into the stonework. Same lullaby, a little flat."
+   },
+   {
+    "speaker": "aldous",
     "expr": "neutral",
-    "text": "Go on, then. Gently."
+    "text": "Flat, Hugo? It sounds to me like somebody trying to hum along, and not quite finding the note."
    },
    {
-    "speaker": "barnaby",
+    "speaker": "mark",
     "expr": "happy",
-    "text": "Oh! Oh, listen! The whole room's singing!"
+    "text": "Then we should help it. Together, on the sixth."
    },
    {
     "speaker": "cornelia",
     "expr": "neutral",
-    "text": "Mr Pluck, there appears to be an organ pipe in the wall. It has begun to play the lullaby."
-   },
-   {
-    "speaker": "aldous",
-    "expr": "happy",
-    "text": "A little flat, Cornelia, as if somebody had been trying to sing along."
+    "text": "All of you, please. I shall conduct. Do not look at me. Look at the pipes."
    }
   ]
  },
@@ -8883,27 +8828,27 @@
    {
     "speaker": "prudence",
     "expr": "neutral",
-    "text": "The Rolled Blueprints. A tall oak rack, holding a hundred long cardboard tubes, each one tied with a ribbon. Every plan for every wing of the Hall."
+    "text": "A hundred rolled blueprints, tied with ribbon, and every one is for a wing of the Hall."
    },
    {
     "speaker": "hugo",
     "expr": "neutral",
-    "text": "It's all here. The Gasworks. The Orrery. The pipes. Every single bit of it, drawn by hand."
+    "text": "The Gasworks, the Orrery, the pipes. All his own sketches. And the last tube, Prudence, is it sealed?"
    },
    {
     "speaker": "prudence",
-    "expr": "neutral",
-    "text": "And here is the last. A drawing of the Hall, seen from above. And look, Cornelia. It is not a building. It is a ship."
+    "expr": "worried",
+    "text": "It is. And inside is a plan of the Hall seen from above, and it is not a building at all. It is a ship."
    },
    {
     "speaker": "cornelia",
     "expr": "worried",
-    "text": "A ship."
+    "text": "The Clock Tower is the mast, and every wing a deck. And she is riding at anchor, waiting for a crew."
    },
    {
-    "speaker": "prudence",
-    "expr": "worried",
-    "text": "A very large, very still ship, riding at anchor. With the Clock Tower for a mast, and every wing for a deck. It is a vessel, Cornelia, and it has been waiting for a crew."
+    "speaker": "aldous",
+    "expr": "happy",
+    "text": "A ship! That explains the flag on the Relief Model. And the stairs. And the creaking."
    }
   ]
  },
@@ -8913,44 +8858,34 @@
   "trigger": "element:43_108",
   "lines": [
    {
-    "speaker": "rosalind",
-    "expr": "worried",
-    "text": "The Chamber Throne. A great carved chair, with a high back and a gilt crown. It has stood empty for twenty years, and I think I know whom it is for."
+    "speaker": "sam",
+    "expr": "happy",
+    "text": "A throne, Cornelia, and it is plainly meant for you. I propose a toast."
    },
    {
     "speaker": "cornelia",
     "expr": "neutral",
-    "text": "It is not for me, Rosalind."
+    "text": "I do not wish to sit on a throne, Mr Vane."
    },
    {
     "speaker": "rosalind",
     "expr": "neutral",
-    "text": "It is not for Ambrose either, my dear. It is for whoever sits in it. The Society has no president. It has a chair. The founder always said that it was for the person who minded the Hall best."
-   },
-   {
-    "speaker": "sam",
-    "expr": "happy",
-    "text": "I nominate Cornelia."
-   },
-   {
-    "speaker": "aldous",
-    "expr": "happy",
-    "text": "Seconded."
+    "text": "It is not a throne, my dear. The Society has no president. It has a chair, and the chair is for whoever minds the Hall best."
    },
    {
     "speaker": "anjali",
     "expr": "happy",
-    "text": "I shall bring the cushion."
+    "text": "Then it has been waiting for you since the first morning, and I shall bring a cushion."
    },
    {
     "speaker": "cornelia",
     "expr": "worried",
-    "text": "Please. I really would rather not. But I shall sit, if only to say that I told you so."
+    "text": "If I sit in it, I shall sit only to tell you that I told you so."
    },
    {
     "speaker": "rosalind",
-    "expr": "neutral",
-    "text": "And, Cornelia, now I may tell you what the Hall was for. It was for finding. Everything that was lost, and everyone that was lost with it. Including a seven-year-old girl on the steps."
+    "expr": "worried",
+    "text": "And now I may tell you what the Hall was for. It was for finding what was lost. Including a girl on the steps."
    }
   ]
  },
@@ -8962,32 +8897,27 @@
    {
     "speaker": "cornelia",
     "expr": "neutral",
-    "text": "The Final Door. Iron, oak, and brass, with a single great keyhole, in the shape of a wren."
+    "text": "A door of iron and oak, with a keyhole in the shape of a wren. I should like a moment alone with it, please."
    },
    {
     "speaker": "barnaby",
     "expr": "happy",
-    "text": "It's the shape of your name, Miss Wren!"
+    "text": "I'll stand guard, Miss Wren! Nobody gets past me, except you!"
    },
    {
-    "speaker": "cornelia",
+    "speaker": "zephyrine",
     "expr": "neutral",
-    "text": "I noticed, Mr Pluck. The key is in my pocket. It has been there since the Deep Vaults."
+    "text": "The key that was under the feather, Cornelia, in drawer W. It was never for the Study at all."
    },
    {
     "speaker": "hugo",
     "expr": "neutral",
-    "text": "Cornelia, it's the Founder's Study key. It's a key for a door in a different part of the Hall."
-   },
-   {
-    "speaker": "zephyrine",
-    "expr": "happy",
-    "text": "It is a key, Hugo, for any door that has been waiting for Cornelia. It will open them all."
+    "text": "It's not a lock, it's a promise. Look at the wards. They've been cut to fit one particular key, and one particular hand."
    },
    {
     "speaker": "cornelia",
-    "expr": "neutral",
-    "text": "Then let us see, Miss Blackwood. Behind the door is the Chart Room of Lost Lands. And, if I am right, a great deal of the truth."
+    "expr": "worried",
+    "text": "Then I shall turn it myself. Behind this door, I think, is a great many maps, and a great deal of the truth."
    }
   ]
  },
