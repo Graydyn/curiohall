@@ -1,0 +1,20 @@
+The Bucket Chain | a rusted iron chain hung with three small wooden buckets descending into a dark shaft in the floor | Rusty iron | chain | brass | gilded
+The Glow-Moss Wall | a patch of wall thickly covered in pale softly glowing moss lighting the passage | Green | moss | glow | frost
+The Rope Bannister | a thick knotted rope threaded through iron rings along a rough stone stair wall | Hemp | rope | gilded | silvered
+The Spiral Newel Post | a heavy oak post at the centre of a twisting stair carved with leaves and eyes | Oak | post | gilded | rosewood
+The Lost Glove | a single faded lady's glove lying on the stair with a pearl button, dusty | Faded | glove | silvered | gilded
+The Crooked Candle Bracket | a bent iron bracket on the stone wall with a half melted candle and wax stalagmites | Iron | bracket | glow | brass
+The Stair Window Niche | a tiny arched niche in the stair wall holding a dusty vase and a dry flower | Stone | niche | gilded | porcelain
+The Tripwire Bell | a thin wire strung across the stair with a small brass bell hanging from a nail | Wire | bell | brass | gilded
+The Rolling Stone Cart | a small wheeled cart with a round stone boulder sitting on a ramp, secured by a thin pin | Stone | cart | iron | brass
+The Bat Colony Ledge | a rock ledge high on the wall with a row of small bats hanging upside down | Dark | ledge | gilded | frost
+The Painted Arrow | a faded painted arrow on the stair wall pointing downward with an eye above | Faded paint | arrow | gilded | glow
+The Stone Newel Gargoyle | a small gargoyle at the stair's turn with its mouth open to spout water | Stone | gargoyle | bronze | gilded
+The Spyhole Slider | a little brass plate in a stone wall that slides aside to reveal a view of the Hall | Brass | slider | silvered | gilded
+The Secret Library Shelf | a short hidden bookshelf behind a swinging panel crammed with forgotten volumes | Wood | shelf | rosewood | gilded
+The Stair Torch Basket | a wire cage holding wrapped torches against the wall of the stair | Wire | basket | brass | gilded
+The Watchman's Stool | a small three-legged stool with a half-burned candle and a coat hook where a watchman once waited | Wood | stool | gilded | velvet
+The Rope-and-Pulley Hoist | a winch with a handle and a rope wound around a drum above a stair well | Wood and iron | hoist | brass | gilded
+The Mouldy Boots | a pair of old muddy boots on the stair edge, laces tangled and mould creeping up | Muddy leather | boots | gilded | bronze
+The Turning Statue Niche | a statue of a small owl on a revolving plinth in a wall niche that turns with a click | Stone | owl | gilded | marble
+The Staircase Clockwork Door | a small door with brass cog-wheels on its panel that open with a gentle whirring | Brass | door | gilded | clockwork

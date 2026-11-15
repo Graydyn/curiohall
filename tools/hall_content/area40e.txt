@@ -1,0 +1,20 @@
+The Stair Torch Sconce | an iron wall bracket holding a thick smoky pitch torch with a small fire in a cave-like stone corridor | Iron | torch | brass | glow
+The Dripping Stalactite | a pale limestone stalactite hanging from the ceiling dripping into a small stone basin | Limestone | stalactite | crystal | gilded
+The Glowing Fungus Patch | a cluster of pale blue luminous mushrooms growing on a dark wet rock with a few little spore clouds | Blue glow | fungus | glow | gilded
+The Spiral Descent Rail | a section of twisted iron handrail on a narrow stone spiral stair that vanishes into darkness | Rusty iron | rail | brass | gilded
+The Echo Chamber Gong | a huge flat bronze gong hung from chains on an iron frame with a heavy leather mallet | Bronze | gong | gilded | verdigris
+The Bone Pile | a loose heap of old animal bones and a skull in a shadowy corner with a feather quill, harmless and dusty | Pale bones | pile | gilded | frost
+The Rune Stone | a flat grey standing stone carved with a swirl of abstract glowing spiral lines, no letters | Grey stone | stone | glow | gilded
+The Underground River Rail | a short iron railing at the edge of a dark stone channel with black water flowing quietly past | Iron | rail | glow | frost
+The Pale Eel Pool | a deep circular stone pool of black water with a pale white eel curling at the bottom | Black water | pool | glow | crystal
+The Spiderweb Chandelier | a rusted iron chandelier draped in dusty webs, with burned-down candle stubs | Rusty | chandelier | gilded | glow
+The Crystal Cluster Cave | a hollow in the rock lined with tall translucent quartz crystals glowing faintly | Quartz | cave | amber | sapphire
+The Mine Cart Track | a short curved section of iron rail with a small wooden-wheeled cart rusted to the rail | Rusty | cart | gilded | brass
+The Sunken Statue | a weathered stone statue of an animal head half sunk in a sandy floor with tangled tree roots | Mossy | statue | gilded | marble
+The Blind Cave Fish Tank | a rock pool in a glass tank holding pale blind fish and white shrimp | Pale | tank | glow | crystal
+The Lava Lamp Fissure | a cracked rock opening with a slow glowing orange seam of molten rock bubbling inside | Dark rock | fissure | glow | gilded
+The Mushroom Library | a shelf of stone shelves with shelves of giant glowing mushrooms of different shapes growing on them | Pale | shelf | glow | crystal
+The Ancient Pillar | a thick stone pillar carved with winding vines and tiny faces, holding up the cave roof, cracked | Weathered stone | pillar | gilded | glow
+The Echo Well | a deep round stone well with a rusted windlass, a bucket and a long rope trailing into darkness | Stone | well | gilded | mossy
+The Idol of the Deep | a squat carved stone idol with a fish-like face and wide shell-like eyes on a rock | Dark stone | idol | gilded | glow
+The Hidden Door | a heavy arched stone door half covered in moss with a round iron ring in the centre, no inscription | Stone | door | gilded | glow

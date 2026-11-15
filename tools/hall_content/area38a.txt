@@ -1,0 +1,23 @@
+@subrooms The Palm House; The Aviary Wing
+The Broken Pane Bucket | a metal bucket of broken greenhouse glass shards and a roll of putty and a glazier's diamond cutter, next to a cracked frame | Glass shards | bucket | brass | teal
+The Glasshouse Shade Blind | a roll-up slatted wooden shade blind hanging from a frame with a pulley cord, sun-bleached | Faded slats | blind | teal | gilded
+The Glasshouse Thermometer | a tall white-painted thermometer stand with a glass tube of red spirit and a plain scale, hung on a post | White paint | thermometer | brass | silvered
+The Watering Trolley | a wheeled cart with a big copper watering can, a rubber hose and a spray, dripping | Copper | trolley | teal | gilded
+The Potting Shed Bench | a long shelf-bench with seed trays, a trowel, a ball of twine and a stack of empty pots | Pale wood | bench | ash | teal
+The Heating Pipe Coil | a long cast-iron pipe running along the base wall with brass valves and a puddle of condensation | Black iron | pipe | brass | copper
+The Fern Basket | a hanging wire basket lined with moss overflowing with boston ferns and trailing ivy | Wire basket | basket | gilded | frost
+The Palm House Steps | a short flight of curved cast-iron steps with a handrail leading up to a raised walkway, with moss between the treads | Cast iron | steps | white | verdigris
+The Glasshouse Tiled Floor | a section of encaustic floor tiles in terracotta, cream and teal patterns, muddy | Muddy tiles | tiles | mosaic | marble
+The Orange Tree Tub | a large wooden Versailles tub planted with a clipped orange tree bearing bright ripe oranges | Orange tree | tree | white | gilded
+The Tortoise Pen | a low wooden pen with a bed of straw and lettuce leaves and a very large tortoise with a patterned shell | Straw | pen | gilded | jade
+The Chameleon Branch | a branch on a stand with a green chameleon with turned eyes and a curled tail clinging to it | Green | chameleon | gilded | glow
+The Parrot Perch | a tall brass stand with a ring perch and two dishes, a bright red and blue parrot on it | Red and blue | parrot | gilded | porcelain
+The Monkey Swing | a small wooden swing frame with a rope, a trapeze bar and a tiny monkey in a waistcoat | Rope | swing | gilded | velvet
+The Lemur Tree | a slim trunk with a branched top where a ring-tailed lemur sits holding a banana | Branch | tree | gilded | frost
+The Hummingbird Feeder | a glass hanging feeder with a red tube and a tiny whirring hummingbird hovering at it | Glass | feeder | crystal | gilded
+The Sloth Hammock | a hammock of rope slung between two tree trunks with a very slow sloth hanging underneath | Rope | hammock | velvet | gilded
+The Aquarium Corner | a glass tank on an iron stand with tropical fish in bright colours among plants | Glass | tank | glow | emerald
+The Iguana Rock | a warm flat rock under a heat lamp with a sleepy green iguana on it | Rock | iguana | gilded | jade
+The Toucan Branch | a big branch with a huge colourful-beaked toucan sitting on it and a bowl of fruit | Toucan | branch | gilded | porcelain
+The Tropical Pond | a tiled pond with a mini waterfall, large lily pads and a pair of bright orange koi | Tiled pond | pond | glow | mossy
+The Meerkat Mound | a mound of sand with burrow holes and three meerkats standing alert, in a glass case | Sand mound | mound | gilded | glow

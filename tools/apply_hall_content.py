@@ -58,6 +58,12 @@ PRESETS = {
     "stone": ("Carved stone", "make the {n} carved grey stone with soft moss in the cracks"),
     "paper": ("Paper craft", "make the {n} folded from cream paper and thin card with painted details"),
     "clockwork": ("Clockwork", "make the {n} a brass clockwork automaton with visible gears and a wind-up key"),
+    "leather": ("Tooled leather", "make the {n} covered in tooled tan leather with brass studs and stitching"),
+    "teak": ("Teak", "make the {n} warm golden teak with fine grain and brass fittings"),
+    "paint": ("Painted", "paint the {n} in cheerful cream, teal and burgundy with fine gold lines"),
+    "silk": ("Embroidered silk", "make the {n} shimmering silk embroidered with fine metallic thread and tassels"),
+    "white": ("Whitewashed", "paint the {n} clean white with sky-blue trim and a few brass fittings"),
+    "green": ("Racing green", "paint the {n} deep racing green with gold pinstripes and brass fittings"),
     "chintz": ("Chintz", "make the {n} covered in cream chintz with large pink cabbage roses"),
 }
 SUFFIX = ", keep the same object, framing, viewpoint and lighting"

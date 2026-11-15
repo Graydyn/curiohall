@@ -650,7 +650,7 @@
   ],
   "subrooms": [
    {
-    "name": "Room 1",
+    "name": "The Print & Poster Room",
     "size": [
      720,
      2600
@@ -670,14 +670,14 @@
   ],
   "subrooms": [
    {
-    "name": "Room 1",
+    "name": "The Shipwright's Hall",
     "size": [
      720,
      3120
     ]
    },
    {
-    "name": "Room 2",
+    "name": "The Harbour Gallery",
     "size": [
      720,
      1560
@@ -697,14 +697,14 @@
   ],
   "subrooms": [
    {
-    "name": "Room 1",
+    "name": "The Envelope Loft",
     "size": [
      720,
      3120
     ]
    },
    {
-    "name": "Room 2",
+    "name": "The Launch Deck",
     "size": [
      720,
      1280
@@ -725,7 +725,7 @@
   ],
   "subrooms": [
    {
-    "name": "Room 1",
+    "name": "The Observatory Walk",
     "size": [
      720,
      2600
@@ -745,7 +745,7 @@
   ],
   "subrooms": [
    {
-    "name": "Room 1",
+    "name": "The Moonlit Courtyard",
     "size": [
      720,
      2600
@@ -765,7 +765,7 @@
   ],
   "subrooms": [
    {
-    "name": "Room 1",
+    "name": "The Reflecting Pool",
     "size": [
      720,
      2600
@@ -785,14 +785,14 @@
   ],
   "subrooms": [
    {
-    "name": "Room 1",
+    "name": "The Palm House",
     "size": [
      720,
      3120
     ]
    },
    {
-    "name": "Room 2",
+    "name": "The Aviary Wing",
     "size": [
      720,
      1820
@@ -812,7 +812,7 @@
   ],
   "subrooms": [
    {
-    "name": "Room 1",
+    "name": "The Night Garden",
     "size": [
      720,
      2080
@@ -832,21 +832,21 @@
   ],
   "subrooms": [
    {
-    "name": "Room 1",
+    "name": "The Cellar Vault",
     "size": [
      720,
      3120
     ]
    },
    {
-    "name": "Room 2",
+    "name": "The Strongroom",
     "size": [
      720,
      3120
     ]
    },
    {
-    "name": "Room 3",
+    "name": "The Lowest Vault",
     "size": [
      720,
      3120
@@ -866,7 +866,7 @@
   ],
   "subrooms": [
    {
-    "name": "Room 1",
+    "name": "The Forgotten Wing",
     "size": [
      720,
      2080
@@ -886,7 +886,7 @@
   ],
   "subrooms": [
    {
-    "name": "Room 1",
+    "name": "The Founder's Study",
     "size": [
      720,
      2860
@@ -906,21 +906,21 @@
   ],
   "subrooms": [
    {
-    "name": "Room 1",
+    "name": "The Winding Passage",
     "size": [
      720,
      3120
     ]
    },
    {
-    "name": "Room 2",
+    "name": "The Secret Library",
     "size": [
      720,
      3120
     ]
    },
    {
-    "name": "Room 3",
+    "name": "The Hollow Chamber",
     "size": [
      720,
      2860
@@ -940,14 +940,14 @@
   ],
   "subrooms": [
    {
-    "name": "Room 1",
+    "name": "The Chart Room",
     "size": [
      720,
      3120
     ]
    },
    {
-    "name": "Room 2",
+    "name": "The Lost Lands Annex",
     "size": [
      720,
      1280
@@ -967,14 +967,14 @@
   ],
   "subrooms": [
    {
-    "name": "Room 1",
+    "name": "The Ballroom Floor",
     "size": [
      720,
      3120
     ]
    },
    {
-    "name": "Room 2",
+    "name": "The Musicians' Gallery",
     "size": [
      720,
      1280
@@ -994,7 +994,7 @@
   ],
   "subrooms": [
    {
-    "name": "Room 1",
+    "name": "The Clock Tower",
     "size": [
      720,
      2860
@@ -1014,7 +1014,7 @@
   ],
   "subrooms": [
    {
-    "name": "Room 1",
+    "name": "The Attic of Marvels",
     "size": [
      720,
      2080

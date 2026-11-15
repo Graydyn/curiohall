@@ -1,0 +1,25 @@
+@subrooms The Forgotten Wing
+The Shrouded Furniture | a pile of old chairs and tables draped in grey dust sheets with the shapes of legs showing | Dust sheets | furniture | tartan | velvet
+The Cobwebbed Chandelier | a once-grand crystal chandelier hanging in a net of grey cobwebs with half its drops missing | Dusty crystal | chandelier | gilded | glow
+The Peeling Wallpaper Panel | a wall panel of flowered wallpaper in faded green and pink peeling in long curls | Faded paper | panel | mosaic | chintz
+The Fallen Plaster Pile | a heap of broken plaster, lath and dust on the floor beneath a ceiling hole, with a brush and shovel | Plaster | pile | gilded | marble
+The Boarded Window | a tall window nailed shut with rough planks with thin beams of light slipping between | Planks | window | glow | gilded
+The Rocking Chair | a creaky wooden rocking chair with a frayed cushion, rocking slightly by itself | Worn wood | chair | velvet | chintz
+The Dust-Covered Piano | an old upright piano with a cracked lid and a mouse nest inside, covered in dust and cobwebs | Dusty black | piano | rosewood | gilded
+The Broken Mirror | a tall standing dressing mirror in a cracked wooden frame with a long shard missing | Cracked glass | mirror | gilded | silvered
+The Dollhouse | a large dilapidated Victorian dollhouse with a hinged front, tiny furniture and a spider in the attic | Faded paint | dollhouse | teal | gilded
+The Rolled Carpet | a long rolled-up carpet of faded red and green with a moth-eaten edge, tied with string | Moth-eaten | carpet | velvet | tartan
+The Birdcage on a Hook | an empty tarnished brass birdcage hanging from a hook with a feather caught in its bars | Tarnished brass | cage | gilded | silvered
+The Old Wardrobe | a tall dark mahogany wardrobe with a warped door hanging ajar and a few moth-eaten coats | Dark wood | wardrobe | burgundy | rosewood
+The Trunk of Toys | an open travelling trunk full of old toys: a wooden horse, a drum, a spinning top and a tin soldier | Leather | trunk | gilded | teal
+The Grandmother Clock | a tall silent clock with a stopped pendulum and a cracked glass door, the dial dust-grey | Stopped | clock | midnight | gilded
+The Writing Slope Left Open | an open lap desk with a dusty blank page, a dried-up pen and an unopened sealed letter | Dusty | slope | rosewood | gilded
+The Ghostly Gramophone | a gramophone with a huge morning-glory horn that crackles with a faint tune, covered in dust | Dusty horn | gramophone | glow | gilded
+The Tea Set Under Glass | a bell jar covering a dusty china tea set laid out as for a party, with a forgotten sugar bowl | Dusty china | teaset | porcelain | gilded
+The Rusted Birdbath Fountain | an indoor stone fountain basin with a rusted pipe and a moss-grown bird figure | Mossy stone | fountain | marble | verdigris
+The Spinning Wheel | an old wooden spinning wheel with a thread of dusty wool still on the spindle | Wooden | wheel | gilded | velvet
+The Moth-Eaten Tapestry | a large woven tapestry of a hunting forest scene, no figures, with great holes chewed through | Faded wool | tapestry | gilded | midnight
+The Portrait Turned to the Wall | a large gilt-framed painting turned with its back showing, a dusty ribbon and a hook above | Gilt frame | frame | gilded | ebony
+The Forgotten Orchid Greenhouse | a small glass and iron plant case with a single hardy orchid still blooming in the dust | Cracked glass | case | glow | gilded
+The Hidden Music Box | a small music box that plays a faint lullaby when its lid is lifted, dust on its tiny dancer | Dusty box | box | gilded | enamel
+The Wing's Heart | a grand curved window seat with fading velvet cushions looking out over rooftops, where a single beam of sunlight falls | Faded velvet | seat | gilded | glow

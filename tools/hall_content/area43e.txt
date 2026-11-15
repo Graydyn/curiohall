@@ -1,0 +1,17 @@
+The Echoing Floor Grate | a round iron grate in the stone floor of a domed chamber with a faint breeze and faint distant dripping | Iron | grate | brass | glow
+The Hollow Wall Drum | a large taut drum built into a recess in the wall that thumps hollowly when touched | Skin | drum | gilded | teal
+The Brass Ear of the Hall | a large brass ear-shaped listening cup on an iron arm bracketed to the dome wall | Brass | ear | silvered | gilded
+The Chamber Lantern Ring | an iron ring hung from the dome ceiling with a dozen small lanterns, only some lit | Iron | ring | gilded | glow
+The Floor Mosaic of Doors | a round mosaic in the floor of dozens of little coloured doors arranged in rings | Mosaic | mosaic | gilded | glow
+The Hanging Key Cage | a round wire cage hanging from a chain filled with a tangle of old keys | Wire | cage | gilded | silvered
+The Stone Bench Ring | a circle of low stone benches around a central dais, worn smooth | Stone | benches | marble | teak
+The Candle Orrery | a ring of tall candles on a rotating brass frame turning slowly like planets | Brass | orrery | gilded | glow
+The Trapdoor Rope Pull | a heavy rope hanging from a hole in the dome with a wooden toggle at the end | Hemp | rope | gilded | silvered
+The Painted Dome Fragment | a section of curved plaster with a painted fresco of a night sky with stars, flaking | Painted plaster | fragment | midnight | gilded
+The Glass Floor Panel | a thick glass panel set in the floor revealing a deep shaft beneath with a faint glow | Glass | panel | crystal | glow
+The Sleeping Lanternfish | a glass bowl in a nook holding a pale blind lanternfish with a glowing lure | Glass | bowl | glow | gilded
+The Silver Cord | a taut silver cord running from the dome across the chamber to a brass cleat, humming | Silver | cord | gilded | glow
+The Ritual Basin | a wide shallow stone basin with a bronze rim of animals, holding still water | Stone | basin | marble | glow
+The Padlocked Cabinet | a small iron cabinet in an alcove sealed with a heavy padlock and a chain wrapped around | Iron | cabinet | gilded | brass
+The Chamber Bellows | a huge leather bellows on a wooden frame feeding a small brazier that glows orange | Leather | bellows | brass | glow
+The Founder's Mark Pillar | a round pillar carved with a star-and-compass emblem rising to a ring of brass | Stone | pillar | gilded | glow

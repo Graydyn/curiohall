@@ -1,0 +1,14 @@
+The Brigantine Model | a two-masted brigantine model with square and fore-and-aft sails, brass cannon and a carved stern, on a dark stand | Cream sails | brigantine | midnight | silvered
+The Man-o'-War Model | a big three-decked warship model with tiers of tiny gun ports, tan sails and red trim on a stand | Tan sails | warship | gilded | bronze
+The Paddle Steamer Model | a river paddle steamer model with a tall funnel, a big side paddle wheel and white railings, on a wooden base | White deck | steamer | teal | clockwork
+The Lifeboat Model | a small clinker-built wooden lifeboat model with oars shipped and a coil of rope, on a trolley with wheels | Clinker wood | lifeboat | burgundy | ash
+The Lighthouse Model | a tall tapering model lighthouse with red bands, a gallery and a glass lamp room, on a rocky base | Red and white | lighthouse | glow | silvered
+The Dock Crane | a wooden quayside crane model with a pulley arm, a rope and a hook lifting a tiny barrel | Wood crane | crane | iron | brass
+The Harbour Wall Diorama | a model stone harbour wall with mooring posts, barrels and a small rowboat, in a glass case | Grey stone | diorama | marble | mossy
+The Anchor Chain Display | a thick black iron chain coiled in a pile with a small anchor hung on a wooden frame | Black iron | chain | brass | verdigris
+The Compass Binnacle | a tall brass binnacle housing a compass under glass and a hooded oil lamp, on a short wooden stand | Brass | binnacle | silvered | ebony
+The Ship's Bell | a big brass ship's bell on a bracket with a knotted rope pull, polished and gleaming | Brass | bell | gilded | verdigris
+The Model Dockyard | a large table-top model of a shipyard with slipway, sheds, tiny ships being built and wooden cranes, on a table | Painted wood | dockyard | glow | gilded
+The Harbour Master's Desk | a roll-top desk with a brass telescope, a tide table frame with no numerals, a ledger and a bell | Roll-top oak | desk | teak | burgundy
+The Sunken Treasure Chest | a barnacle-crusted wooden sea chest bound in iron, half open with spilling coins and jewels | Barnacled wood | chest | gilded | crystal
+The Grand Clipper | a magnificent long three-masted clipper ship model under full sail with a gilded figurehead and white sails, on a carved cradle | White sails | clipper | midnight | gilded

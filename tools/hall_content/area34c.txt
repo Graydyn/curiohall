@@ -1,0 +1,12 @@
+The Balloon Basket Scale | a heavy iron platform scale with a brass beam and weights next to a wicker basket, loaded with sandbags | Black iron | scale | brass | teal
+The Fuel Barrel | a squat metal drum painted dark red with a brass tap and a small funnel on a wooden trestle | Red paint | barrel | green | iron
+The Launch Rope Reel | a big wooden reel of thick rope with a crank handle beside the launch cart | Wooden | reel | brass | teal
+The Wind Sock | a long tapered striped fabric windsock on a tall iron pole with a ring | Striped fabric | windsock | midnight | gilded
+The Anemometer Cups | a tall brass post with four whirling cups on a crossbar at the loft's open edge | Brass | anemometer | silvered | copper
+The Launch Deck Bell | a ship-style brass bell on a bracket with a pull cord, for signalling take-off | Brass | bell | gilded | verdigris
+The Takeoff Flag Post | a tall wooden post flying a chequered flag in teal and cream, the rope frayed | Chequered flag | post | burgundy | gilded
+The Aeronaut's Armchair | a wicker armchair with a tartan rug and a flask on a wooden tray, set on the open launch deck | Wicker | armchair | tartan | velvet
+The Boarding Steps | a small set of folding wooden steps with an iron handrail that lets passengers climb into a basket | Pale wood | steps | teak | iron
+The Landing Beacon | a tall iron lighthouse-like beacon with a rotating glass lamp for guiding balloons home | Iron | beacon | glow | brass
+The Cloudgazer's Perch | a high round wooden platform with a telescope on a bracket and a rail around it, painted white | White paint | perch | teal | ash
+The Great Balloon Launch | a tall striped balloon rising on its tether from a wicker basket on a wooden launch platform, ready to fly, with bunting | Striped balloon | balloon | midnight | glow

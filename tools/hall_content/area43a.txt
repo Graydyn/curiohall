@@ -1,0 +1,21 @@
+@subrooms The Winding Passage; The Secret Library; The Hollow Chamber
+The Sliding Bookcase | a tall oak bookcase on hidden rails standing slightly open to reveal a dark gap behind it | Oak | bookcase | rosewood | gilded
+The Wall Sconce | a plain iron wall bracket holding a thick candle in a glass shield, dripping wax | Iron | sconce | brass | glow
+The Dust Footprints Strip | a long narrow strip of old runner carpet covered in a trail of footprints in thick dust | Dusty | runner | tartan | gilded
+The Secret Lever | an old brass lever sticking out of a carved stone panel in the wall with a worn black handle | Brass | lever | silvered | gilded
+The Cobweb Curtain | a velvet curtain over a niche thick with dusty webs, a gap showing a small door | Dusty velvet | curtain | burgundy | frost
+The Hollow Suit of Armour | a tarnished empty suit of armour standing in an alcove with a loose helm and a gauntlet pointing | Tarnished steel | armour | gilded | bronze
+The Passage Lamp | a hanging oil lamp with a smoked chimney on a short chain from a low beam | Smoked glass | lamp | brass | glow
+The Brick Mouse Hole | a small arched hole in the base of a brick wall with a bit of cheese rind and a tiny scrap of ribbon | Brick | hole | gilded | glow
+The Secret Panel Handle | a carved wooden rosette in a panelled wall with a keyhole that is really a catch | Wood | rosette | gilded | silvered
+The Passage Skirting | a long section of dark wooden skirting board with a hidden compartment lid slightly raised | Dark wood | skirting | gilded | rosewood
+The Draughty Window Slit | a tall narrow arrow-slit window with a thin curtain stirring in a draught and a pale light | Stone | window | frost | glow
+The Servant's Bell Board | a board of little brass bells on curled springs with a plain painted room-name tab-free panel above | Brass bells | board | gilded | silvered
+The Dumb Waiter Shaft | a rope-and-pulley hatch in the wall with a small wooden lift tray at its mouth | Wood | shaft | gilded | teal
+The Peephole Painting | a landscape painting with a tiny hole at the centre of the eye of a heron, a light behind it | Oil painting | painting | gilded | glow
+The Mouse Mender's Kit | a tiny sewing basket with scraps of cloth and a needle in a corner of the passage floor | Wicker | basket | gilded | velvet
+The Passage Spider | a huge black house spider on a perfect web in a corner between two stone blocks, with a dewdrop | Black | spider | gilded | glow
+The Cracked Plaster Wall | a section of plaster wall with a long crack through which a draught and light seep | Cracked plaster | wall | gilded | mosaic
+The Emergency Candle Box | a tin box of candles and matches on a ledge with a note-free lid | Tin | box | teal | gilded
+The Flagstone Trapdoor | a square flagstone with an iron ring set flush in the floor, lifted a crack | Stone | trapdoor | iron | gilded
+The Whispering Gallery Horn | a flared brass speaking horn set in the wall that carries distant echoes | Brass | horn | silvered | gilded

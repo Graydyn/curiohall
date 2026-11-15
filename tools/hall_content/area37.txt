@@ -1,0 +1,31 @@
+@subrooms The Reflecting Pool
+The Pond Skimmer Net | a long-handled fine net on a bamboo pole propped on a stone edge with a heap of pond weed in a bucket | Bamboo | net | brass | teal
+The Reed Clump | a thick clump of tall brown reeds and bulrushes with fluffy heads at the pool's edge | Brown reeds | reeds | glow | frost
+The Stepping Stones | a curved line of five flat grey stones across shallow water, slippery with algae | Grey stones | stones | marble | mosaic
+The Pool Edge Bench | a long stone bench by the water with a carved fish at each end and a puddle beneath | Wet stone | bench | marble | teak
+The Water Lily Pad | a big round flat green lily pad with a closed pink bud, floating on a few ripples | Green pad | lily | gilded | glow
+The Dragonfly Perch | a thin bamboo cane stuck in the mud with a blue dragonfly resting on its tip | Bamboo | perch | silvered | glow
+The Rowing Skiff | a small wooden rowing boat pulled up on the bank with two oars shipped and a rope, with a puddle in the bottom | Weathered wood | skiff | teal | gilded
+The Heron Statue | a tall stone heron standing on one leg in shallow water with its long beak lowered, moss on its wings | Mossy stone | heron | bronze | gilded
+The Pool Lantern Float | a round paper lantern floating on the water on a little wooden base, unlit | Paper | lantern | glow | amber
+The Willow Branch | a long trailing weeping-willow branch dipping into the water with slim silver-green leaves | Green willow | willow | gilded | frost
+The Duck House | a tiny wooden house with a pitched roof and a ramp on the water for ducks, with a few feathers around it | Painted wood | house | teal | white
+The Koi Pond Rim | a curved stone rim around a koi pond with glazed tile detailing and a few orange fish | Stone | rim | mosaic | gilded
+The Moonflower Trellis | an arched iron trellis by the water covered in white moonflowers just opening | White flowers | trellis | glow | iron
+The Pond Pump House | a small brick pump house with an iron wheel, a hose and a brass dial with no numerals | Brick | pump | brass | verdigris
+The Mirror Pool Stone | a huge round polished black stone laid at the water's edge so that it reflects the sky | Black stone | stone | silvered | crystal
+The Lily Pad Bridge | a small arched wooden footbridge with a handrail across a narrow stretch of water | Wooden | bridge | iron | mossy
+The Fountain Jet | a single brass nozzle in the pool throwing a thin arc of water into the air, glittering | Brass | fountain | crystal | gilded
+The Swan Boat | a boat painted white in the shape of a swan with a curved neck and a bench seat, floating on the water | White paint | boat | gilded | porcelain
+The Frog Prince | a stone frog wearing a tiny gold crown sitting on a lily pad statue at the edge of the pool | Stone frog | frog | gilded | jade
+The Pavilion Reflection | a small garden pavilion with a curved roof and slender pillars standing at the water's edge | White wood | pavilion | teal | gilded
+The Pond Weed Bucket | a dented tin bucket of green stringy weed and a small dredging net, with a muddy shovel | Tin | bucket | copper | enamel
+The Fishing Rod Stand | a bamboo rod rack holding three long fishing poles, with a basket and a tin of bait | Bamboo | rack | rosewood | teal
+The Ripple Gong | a large brass gong hung in a wooden frame, with a mallet, near the water, ringing out ripples | Brass | gong | silvered | gilded
+The Waterfall Rockery | a small stack of mossy rocks with a trickling waterfall into the pool and tiny ferns | Mossy rock | rockery | glow | frost
+The Pool Gate | a low iron gate with scrolled panels that opens onto a landing stage at the water | Iron | gate | gilded | verdigris
+The Floating Pavilion | a small wooden octagonal pavilion on pilings in the pool with a pagoda roof and paper lanterns | Wood | pavilion | midnight | gilded
+The Starlight Basin | a big shallow circular basin of black marble holding perfectly still water that reflects a sky full of stars | Black marble | basin | glow | crystal
+The Mirror Lily | a huge circular water lily leaf that reflects like a mirror with a single silver bloom at its centre | Green | lily | silvered | glow
+The Heron's Throne | a high flat stone like a seat set into the water with a carved back of reeds, a grey heron resting on it | Grey stone | throne | marble | gilded
+The Great Reflecting Pool Fountain | a grand multi-tier fountain in the middle of the pool with four bronze fish spouting arcs of water and a stone crown | Stone and bronze | fountain | gilded | glow

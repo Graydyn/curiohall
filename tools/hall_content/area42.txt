@@ -1,0 +1,37 @@
+@subrooms The Founder's Study
+The Study Hearth Rug | a worn sheepskin hearth rug in front of a cold fireplace, ash dusting its fringe | Worn sheepskin | rug | tartan | velvet
+The Coal Scuttle and Tongs | a brass coal scuttle with a hooded top, a poker, tongs and a small brush on a fender | Brass | scuttle | silvered | copper
+The Study Fender | a low brass fender rail around a hearth with a leather-topped seat bench at each end, tarnished | Dull brass | fender | gilded | silvered
+The Reading Lamp Table | a small round table with a green-shaded oil lamp, a half-finished cup of tea and a dust-filmed book | Walnut | table | burgundy | marble
+The Founder's Armchair | a wide cracked leather armchair with a footstool and the dent of a long-gone sitter in its seat | Cracked leather | armchair | velvet | tartan
+The Specimen Drawer Chest | a big chest of wide flat drawers each labelled with a paper-free brass plate, one drawer open on carefully pinned insects | Oak | chest | rosewood | gilded
+The Founder's Walking Stick Stand | a stand with three canes and a furled umbrella, one cane topped with a silver fox head | Silver heads | stand | gilded | ebony
+The Folded Newspapers | a neat stack of folded newspapers with pictures only and no headlines beside a pipe in a tray | Newsprint | newspapers | paper | gilded
+The Wall Map of Unknown Lands | a vast wall map of an invented continent hung on a roller bar with stitched seas and cartouches, no lettering | Parchment | map | midnight | gilded
+The Pipe Rack and Humidor | a wooden pipe rack holding six pipes beside a humidor box with a brass hinge | Wood | rack | burgundy | ebony
+The Founder's Specimen Jar Shelf | a shelf of glass jars with bits of odd things: a lizard, a coral and a seed pod, in liquid | Glass | shelf | amber | gilded
+The Drinks Tantalus | a locked oak tantalus holding three cut-glass decanters of amber, ruby and green liquid | Cut glass | tantalus | gilded | silvered
+The Study Chess Table | a small inlaid chess table with a half-played game of carved ivory and ebony pieces | Ivory and ebony | table | marble | gilded
+The Founder's Globe Bar | a large antique globe that opens at the equator to reveal glasses and bottles | Aged globe | globe | gilded | midnight
+The Stuffed Squirrel Under Glass | a red squirrel holding a nut in a small glass dome on a mahogany stand, dusty | Red fur | squirrel | gilded | frost
+The Founder's Telescope | a long brass and leather telescope on a three-legged stand pointing at the window | Brass | telescope | silvered | gilded
+The Hidden Safe Behind the Painting | a hinged landscape painting swung open to reveal a small iron wall safe with a dial | Iron safe | safe | gilded | teal
+The Study Bookcase | a tall glass-doored bookcase of leather volumes with plain spines and a small ladder | Oak | bookcase | rosewood | gilded
+The Founder's Letter Opener | a long silver paper knife with a carved ivory handle on a green blotter with a seal | Silver | knife | gilded | bronze
+The Wax Cylinder Recorder | a small brass recording machine with a wax cylinder and a horn, with a stack of cylinders in a case | Brass | recorder | gilded | clockwork
+The Study Window Seat | a cushioned window seat with a heavy curtain, a cat's hair on the cushion and the garden outside | Faded | seat | velvet | chintz
+The Founder's Diary Stack | a stack of six identical leather diaries with brass clasps, ribbon-marked, on a side table | Brown leather | diaries | teal | gilded
+The Cabinet of Maps | a flat cabinet of wide shallow drawers with a half-pulled drawer of blank navigation charts | Wood | cabinet | rosewood | gilded
+The Fossil Paperweights | a tray of small polished fossils used as paperweights: ammonite, trilobite, fern | Stone | paperweights | amber | gilded
+The Founder's Orrery Desk | a desk topped with a small working orrery made of brass and ivory beside a pot of pens | Brass | orrery | gilded | glow
+The Sealed Letters Box | a leather letter box with a brass lock tied with a ribbon and a sealing wax stick | Leather | box | gilded | teal
+The Founder's Tea Tray | a silver tea tray with a teapot, a cup and a plate of long-dried biscuits | Tarnished silver | tray | porcelain | gilded
+The Study Barometer | a tall mahogany stick barometer with a long glass tube and a brass scale, no numbers | Mahogany | barometer | gilded | silvered
+The Founder's Travelling Chess | a leather case unfolding into a small board with ivory pieces and a folded compass | Leather | case | gilded | teal
+The Mounted Antlers | a pair of broad antlers mounted on a shield-shaped oak plaque with a hat hung on one tine | Antlers | plaque | bronze | gilded
+The Study Skeleton Key | an oversized skeleton key hung on a hook with a leather tag, the bow shaped like a fox | Iron | key | gilded | silvered
+The Founder's Spyglass Case | a leather telescope case with a belt and a folded collapsible spyglass inside | Leather | case | gilded | brass
+The Study Fireplace | a large carved stone fireplace with a clock on the mantel and a dead fire laid ready to light | Cold stone | fireplace | marble | glow
+The Founder's Writing Chair | a high-backed wooden desk chair with a velvet seat that swivels on a cast-iron base | Wood | chair | burgundy | iron
+The Great Study Desk | a huge partner's desk of dark wood with leather top, brass lamps, inkwells and a glass dome of specimens | Dark wood | desk | gilded | burgundy
+The Founder's Unfinished Letter | a single sheet on a blotter with a quill and a drop of ink, an unfinished flourish and nothing else | Cream paper | letter | gilded | glow

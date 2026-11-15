@@ -1,0 +1,19 @@
+@subrooms The Shipwright's Hall; The Harbour Gallery
+The Rope Coil | a thick coil of tarred hemp rope with a worn splice sitting on a wooden pallet | Tarred hemp | coil | wicker | gilded
+The Tar Bucket | a battered wooden bucket with an iron handle half full of black tar and a stiff brush standing in it | Black tar | bucket | copper | teal
+The Sail Needle Roll | a canvas roll of curved sail needles, a palm thimble and a waxed thread reel laid on a sailcloth scrap | Canvas | roll | leather | burgundy
+The Shipwright's Adze | a heavy curved-bladed adze with a worn ash handle leaning on a half-shaped oak plank | Iron blade | adze | silvered | gilded
+The Hull Template Rack | a wall rack of thin curved wooden ribs and templates, marked with chalk lines and notches | Pale wood | rack | rosewood | ash
+The Glue Pot | a copper glue pot with a hinged lid and a wooden brush, steam rising from it | Copper | pot | brass | enamel
+The Bottle Ship Rack | a long wooden rack of glass bottles each holding a tiny rigged sailing ship, dusty | Dusty bottles | rack | crystal | amber
+The Blocks and Tackle | a bundle of wooden pulley blocks and rope sheaves hung on a hook, with a coil of line | Wooden blocks | tackle | brass | gilded
+The Ship's Lantern | a copper and brass ship's lantern with a thick curved glass chimney and a ring handle | Copper | lantern | gilded | glow
+The Plank Steamer | a long steaming box made of planks with an iron boiler and a hose, with a length of bent oak resting in it | Wooden box | steamer | copper | brass
+The Deck Planks | a short stack of pale new planks with brass screw heads and fresh sawdust on a trestle | Pale planks | planks | teak | mossy
+The Mast Maker's Lathe | a long wooden lathe with a pole spinning, a chisel and curled shavings on a sawdust floor | Wood lathe | lathe | brass | iron
+The Figurehead Blank | a half-carved wooden mermaid emerging from a rough pine log, unpainted with chisel marks | Raw pine | figurehead | gilded | midnight
+The Brass Porthole | a round brass porthole with heavy bolts and a thick glass lens, in a wooden frame leaning on a crate | Brass | porthole | silvered | crystal
+The Rigging Loft | a tall wooden frame hung with a spiderweb of thin rope rigging and wooden belaying pins | Tarred rope | rigging | gilded | silvered
+The Ship in a Bottle | a large green glass bottle containing a full-rigged ship with white sails on a putty sea | Glass | bottle | frosted | sapphire
+The Cutter Model | a small cutter sailing yacht model with a single mast and white sails on a wooden stand | White sails | cutter | gilded | porcelain
+The Schooner Model | a long two-masted schooner model with white and tan sails and a painted hull, on a stand | White sails | schooner | midnight | gilded

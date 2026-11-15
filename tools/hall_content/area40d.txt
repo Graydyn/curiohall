@@ -1,0 +1,20 @@
+The Pirate Hoard Chest | a battered sea chest bound in iron with the lid thrown back showing gold coins, a goblet and a string of pearls | Iron-bound | chest | gilded | crystal
+The Cursed Crown | a heavy dark iron crown set with a single black gem, hung on a hook with a cobweb | Dark iron | crown | gilded | frost
+The Sleeping Dragon Hoard | a mound of gold coins, cups and jewels with a long sleeping dragon's tail curled around it | Gold coins | hoard | silvered | glow
+The Bag of Gold | a fat leather drawstring pouch, full of gold coins spilling | Brown leather | pouch | velvet | gilded
+The Ruby Chalice | a tall gold chalice set with rubies, standing on a velvet cushion with dust | Gold chalice | chalice | silvered | crystal
+The Sealed Sarcophagus | a stone coffin with a heavy carved lid sealed with wax and ropes, in the middle of the room | Stone | sarcophagus | gilded | onyx
+The Emerald Idol | a small green stone idol of an animal figure with tiny eyes of garnet, on a stone base | Green stone | idol | gilded | jade
+The Gold Spoon Collection | a velvet tray of dozens of small ornate gold teaspoons in neat rows | Gold | spoons | silvered | enamel
+The Crystal Skull Vault | a lead-lined case holding a polished crystal skull gleaming in a cone of pale light | Crystal | skull | gilded | amber
+The Spice Chest | a small carved chest of fragrant wood holding pouches of rare red and yellow spices | Carved wood | chest | gilded | teal
+The Silk Bale | a tight bale of rolled colourful silk wrapped in canvas and stamped with a plain wax mark | Canvas | bale | velvet | gilded
+The Tea Chest | a wooden tea chest lined with foil holding loose tea, with a scoop | Wooden | chest | teal | gilded
+The Perfume Cabinet | a small cabinet of crystal scent bottles with silver stoppers in a velvet-lined case | Crystal | cabinet | gilded | ebony
+The Strongbox of Letters | a flat strongbox with a lock holding a bundle of letters tied with ribbon and a small brooch | Black metal | box | gilded | teal
+The Gold Leaf Book | a thin book of gold leaf sheets between tissue, with a small brush and a knife | Gold | book | silvered | paper
+The Diamond Pillow | a satin cushion with a pile of cut diamonds, a jeweller's loupe and tweezers | Satin | cushion | midnight | velvet
+The Opium Pipe Rack | a decorative long wooden pipe rack holding six curved ornamental pipes with carved bowls, unlit | Carved wood | rack | gilded | ebony
+The Elephant Tusk Pair | a curved pair of yellowed ivory tusks on a wooden stand with brass bands, stored | Ivory | tusks | gilded | bronze
+The Ming Vase | a tall blue-and-white vase painted with dragons with a crack mended in gold | Blue and white | vase | gilded | enamel
+The Crown Jewel Case | a velvet-lined glass case holding a collection of rings, a diadem and an ornate necklace | Gem-set | case | gilded | midnight

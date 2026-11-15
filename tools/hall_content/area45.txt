@@ -1,0 +1,43 @@
+@subrooms The Ballroom Floor; The Musicians' Gallery
+The Floor Polish Tin | a squat tin of beeswax floor polish with a stiff buffing brush and a soft cloth on a stone step | Tin | tin | brass | teal
+The Ballroom Mop Bucket | a galvanised bucket on wheels with a wringer and a long cotton mop, still damp | Galvanised | bucket | copper | teal
+The Gilt Chair Stack | a stack of delicate gilt ballroom chairs with cane seats, a few pushed askew | Gilt | chairs | velvet | white
+The Dance Card Rack | a small brass wall stand with a row of tiny pencils on cords and blank paper cards | Brass | rack | silvered | gilded
+The Wallflower Bench | a long upholstered bench along a mirrored wall with a worn velvet seat | Faded velvet | bench | teal | burgundy
+The Ballroom Mirror Panel | a tall gilt-framed mirror panel between two columns, the glass speckled with age | Speckled | mirror | gilded | silvered
+The Wall Sconce Pair | a pair of curled brass wall sconces with frosted glass tulips and soot marks above | Brass | sconces | gilded | glow
+The Punch Bowl | a huge cut-glass punch bowl on a stand with a silver ladle and twelve little cups | Cut glass | bowl | silvered | gilded
+The Refreshments Table | a long table with a white cloth, platters of tiny cakes and a silver samovar, dusty | White cloth | table | burgundy | gilded
+The Potted Palm Pair | a pair of tall palms in brass pots flanking a doorway with dusty fronds | Dusty | palms | gilded | frost
+The Floor Chalk Pattern | a large round pattern of chalk swirls on the polished floor where a waltz was practised | Chalk | pattern | gilded | glow
+The Dancing Master's Cane | a tall cane with a silver knob and a ribbon for beating time, in a stand | Ebony | cane | silvered | gilded
+The Orchestra Stands | a curved row of five folding music stands with sheets of blank staves, one fallen | Brass | stands | gilded | silvered
+The Velvet Curtain Swag | a heavy burgundy velvet curtain drawn back by a gold tassel and swag at a tall window | Faded velvet | curtain | teal | midnight
+The Gaslit Chandelier Ring | a huge round iron ring holding fifty small gas jets hung low from the ceiling, unlit | Iron | chandelier | gilded | glow
+The Parquet Floor Medallion | a large round medallion of inlaid wood in sunburst pattern in the floor, scuffed | Inlaid wood | medallion | marble | gilded
+The Ball Gown Mannequin | a wooden dress form wearing a pale pink silk ball gown with a bustle, dusty | Faded silk | gown | burgundy | midnight
+The Opera Glasses Stand | a stand with three pairs of mother-of-pearl opera glasses on hooks | Pearl | glasses | gilded | silvered
+The Fan Collection | a velvet tray of folding fans of painted silk and lace, bone sticks | Painted silk | fans | gilded | paper
+The Tea Dance Table | a small round table with a lace cloth, a teapot and tiered cake stand | Lace | table | porcelain | gilded
+The Ballroom Clock | a tall ornate gilded clock on a marble stand with a dial of dots, no numerals | Gilded | clock | marble | midnight
+The Pillar Garlands | a thick ivy and rose garland winding around a white fluted pillar | Faded | garland | gilded | frost
+The Cloakroom Hatch | a small counter hatch with brass bell and hooks on a rail of fur stoles | Brass | hatch | gilded | velvet
+The Floral Centrepiece | a huge ornate silver epergne holding drooping dried flowers on the buffet table | Silver | centrepiece | gilded | crystal
+The Window Seat Cushions | a pair of tassel-edged window seat cushions in dusty rose silk | Dusty rose | cushions | teal | chintz
+The Musicians' Platform | a low carpeted wooden platform with a brass rail and small chairs at the end of the room | Wood | platform | burgundy | gilded
+The Waltz Music Box | a tall wind-up music box in an inlaid wooden case with a tiny pair of dancers spinning | Wood | box | gilded | enamel
+The Ballroom Harp | a gilded harp with an arched column and carved top standing on the orchestra platform | Gilded | harp | ebony | silvered
+The Silver Candelabra Pair | two tall silver candelabra with five arms each and drip trays on the buffet | Silver | candelabra | gilded | crystal
+The Bandleader's Podium | a small carpeted podium with a brass rail and a tall music stand | Wood | podium | burgundy | gilded
+The Cornet Collection | a rack of shiny cornets, trumpets and a trombone hung on a velvet board | Brass | rack | silvered | gilded
+The Grand Staircase Newel | a tall carved newel post topped with a bronze lamp figure at the bottom of a sweeping staircase | Bronze | newel | gilded | glow
+The Dance Floor Compass | a large brass compass rose inlaid into the centre of the floor | Brass | compass | marble | glow
+The Ballroom Glass Doors | a pair of tall glass doors with fanlights opening onto a terrace, with brass handles | Glass | doors | gilded | frost
+The Terrace Urns | a pair of large stone urns of tall ferns on the terrace outside the doors | Stone | urns | gilded | marble
+The Cut Glass Chandelier | an immense crystal chandelier hung with thousands of glass drops and lit candles, dusty | Crystal | chandelier | gilded | amber
+The Ballroom Piano | a polished black grand piano with the lid up and a brass candlestick, silver tray of glasses beside | Black | piano | rosewood | gilded
+The Society Banner | a vast silk banner in teal and burgundy with a gold compass-star emblem hung on a brass pole | Silk | banner | gilded | midnight
+The Great Waltz | a musical clockwork tableau of dozens of mechanical couples in beautiful dress waltzing on a mirrored floor, under a glass dome | Clockwork | tableau | gilded | glow
+The Gallery Balcony Rail | a curved wrought-iron balcony rail with gilt scrollwork overlooking the ballroom floor | Iron | rail | gilded | brass
+The Musicians' Great Organ | a huge pipe organ with gilded pipes and a carved wooden case and bench in the gallery | Gilded pipes | organ | ebony | glow
+The Last Dance Slippers | a pair of pale pink silk dancing slippers with crossed ribbon ties resting on a velvet cushion beneath a glass dome, one toe slightly worn | Pink silk | slippers | gilded | glow

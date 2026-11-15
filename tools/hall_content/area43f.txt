@@ -1,0 +1,17 @@
+The Spindle Stair Base | the bottom landing of a spiral stair with a worn stone step and a carved newel with a glimmering orb | Stone | stair | brass | glow
+The Brass Compass Floor | a huge compass rose in polished brass set into the stone floor with a central pin | Brass | compass | gilded | glow
+The Night Sky Hammock | a hammock strung under a painted star ceiling with a blanket and a tiny telescope | Canvas | hammock | midnight | gilded
+The Tin Soldier Parade | a row of a dozen tin soldiers in red coats marching across a stone ledge, with a drum | Painted tin | parade | gilded | enamel
+The Rolled Blueprints | a bundle of large blueprints tied with ribbon that show the Hall's hidden passages, no writing | Blue | blueprints | gilded | paper
+The Skeleton Key Wall | a wall panel with hooks holding one huge ornate key and many small ones in decreasing sizes | Dark iron | wall | gilded | silvered
+The Mapped Ceiling | a ceiling section painted like a chart with stars, ships and lines connecting little dots | Painted | ceiling | glow | gilded
+The Hidden Observatory Window | a small round window with a brass telescope aimed through it at the sky | Brass | window | gilded | glow
+The Brass Birdcage Elevator | a small cage-like lift with a sliding brass gate and a pulley rope, just big enough for one | Brass | lift | gilded | clockwork
+The Glowing Mushroom Garden | a damp stone planter of luminous blue and green mushrooms in a corner | Mushrooms | garden | glow | frost
+The Chamber Throne | a plain high-backed stone chair carved with owls on the arms, cold and dusty | Stone | throne | gilded | marble
+The Starlit Pool | a tiny round pool in the floor reflecting a skylight full of stars | Water | pool | glow | crystal
+The Mouse Parliament | a tiny stage of acorn cap chairs and thimble tables where a dozen little mice sit in a circle | Wood | stage | gilded | porcelain
+The Locket on the Chain | a small silver locket hanging from a chain on a hook above a stone shelf, its lid ajar | Silver | locket | gilded | pearl
+The Secret Passage Map | a cloth map pinned flat on a table showing the passages as glowing lines on dark blue | Cloth | map | glow | midnight
+The Hall's Heartbeat | a huge brass heart-shaped clockwork engine beating slowly within a glass dome, tubes and pipes leading from it | Brass | heart | gilded | glow
+The Final Door | a tall double door of black iron panelled with brass studs and a round central lock that glows faintly gold | Black iron | door | gilded | glow

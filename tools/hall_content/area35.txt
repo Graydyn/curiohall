@@ -1,0 +1,31 @@
+@subrooms The Observatory Walk
+The Fallen Leaves Pile | a heap of brown and gold fallen leaves swept against a stone edge with a besom broom leaning in them | Dry leaves | pile | frost | glow
+The Gravel Rake | a long wooden rake with iron tines leaning against a wheelbarrow with a small spade | Wood and iron | rake | brass | teal
+The Walk Bench | a slatted wooden park bench on curly iron ends with a patina of moss and bird droppings | Mossy wood | bench | iron | teak
+The Path Lantern Post | a short iron lamp post with a glass lantern on top, rusty with ivy winding up it | Rusty iron | lamp | gilded | glow
+The Telescope Bench | a long bench of stone with a flat cushion and a small brass telescope on a swivel arm beside it | Stone | bench | marble | velvet
+The Stargazer's Planter | a big stone urn planted with silvery lavender and tall stars-of-bethlehem with a broken lip | Stone urn | planter | verdigris | porcelain
+The Meridian Marker | a short stone post with a bronze plaque inlaid with a line and notches, no numbers, set into the paving | Stone and bronze | marker | gilded | frost
+The Sundial Walk | a round brass sundial on a stone pedestal at a path crossing, with lichen | Brass dial | sundial | silvered | marble
+The Stone Obelisk | a slender grey stone obelisk on a stepped base with a bronze cap | Grey stone | obelisk | marble | gilded
+The Star Chart Hedge | a trimmed evergreen hedge cut into a pattern of stars and crescents with a few unclipped shoots | Green hedge | hedge | frost | glow
+The Walk Gate | a pair of wrought-iron garden gates with scrolled tops and a latch standing open between brick piers | Black iron | gate | gilded | verdigris
+The Bird Bath | a stone bird bath with a shallow bowl and pebbles, a robin perched on its edge | Stone | bath | marble | verdigris
+The Weather Station | a white louvred wooden box on legs with thermometer-tubes, a rain gauge and a mast with a vane | White paint | station | brass | teal
+The Stone Planisphere | a flat round stone table carved with a map of the heavens in lines and dots, no lettering, on a short pillar | Carved stone | planisphere | bronze | glow
+The Pergola Walk | a short arbour of wooden posts and cross beams covered with climbing roses and wisteria | Bare wood | pergola | iron | mossy
+The Telescope Folly | a small round stone folly with a pointed roof and an open front with a brass telescope inside | Weathered stone | folly | marble | midnight
+The Moon Gate | a round opening in a low garden wall, ringed in glazed tiles, with a stone step beneath | Brick | gate | mosaic | glow
+The Cloud Watcher's Chair | a deep reclining wooden deck chair with a canvas seat and a small table holding a cup | Canvas chair | chair | tartan | teal
+The Lantern Tree | a small tree hung with dozens of glass lanterns of different colours on thin wires | Bare tree | tree | glow | frost
+The Boundary Stones | a low line of five rounded grey standing stones each with a carved ring pattern, in the grass | Grey stone | stones | mossy | gilded
+The Orrery Garden | a garden planted in a big circle with planets as stone spheres on rings of pebbles around a golden sun | Stone spheres | garden | gilded | glow
+The Celestial Fountain | a round fountain with carved zodiac beasts around the rim, a bowl and a central jet in silver and stone | Grey stone | fountain | silvered | midnight
+The Observer's Pavilion | a small octagonal cast-iron bandstand-style pavilion with a glass roof and a bench ring | Iron | pavilion | teal | gilded
+The Wind Harp | a tall wooden frame strung with gut strings between two posts for the wind to play, with a feather on a string | Wood and gut | harp | silvered | glow
+The Comet Gate | a grand iron gate with a spreading comet-tail arch of gilt rods and star-shaped finials | Black iron | gate | gilded | frost
+The Great Sundial Court | a huge flat paved circle with a giant bronze gnomon and engraved hour lines (no numerals) across the ground | Bronze gnomon | sundial | gilded | silvered
+The Star Terrace | a stone terrace with a balustrade of carved star-shaped balusters and a flight of broad steps down to the lawn | Pale stone | terrace | marble | glow
+The Walk's Telescope | a big brass telescope on a stone plinth with a pivoting iron mount and a crank, pointed at the sky | Brass | telescope | gilded | midnight
+The Observatory Dome Model | a small domed model of the observatory on a plinth with a slit that opens, its dome of copper | Copper dome | model | gilded | verdigris
+The Watchers' Lantern | a huge freestanding iron lantern as tall as a person with glass panels that glows from within, on a stepped stone plinth | Dark iron | lantern | gilded | glow

@@ -1,0 +1,20 @@
+The Blank-Backed Journals | a stack of identical journals bound in plain green cloth with ribbon markers and no titles | Green cloth | journals | burgundy | leather
+The Manuscript Drawer | a flat map-chest drawer pulled open showing a scrolled manuscript pinned beneath glass | Old vellum | drawer | gilded | rosewood
+The Illuminated Missal | a small hand-painted prayer-book style volume with gilded borders and tiny painted animals, no lettering | Gilded | missal | gilded | enamel
+The Bookbinder's Corner | a small bench with a bone folder, a sewing frame and a pot of paste beside a half-bound book | Wood | bench | teal | brass
+The Library Spiral Stair | a short iron spiral stair leading up to a gallery of books with a curling handrail | Iron | stair | brass | gilded
+The Hush Bell | a muted brass handbell with a felt-wrapped clapper on a library table | Brass | bell | silvered | verdigris
+The Reading Globe | a small globe on a pivoting arm clamped to a desk, with imaginary continents | Painted | globe | midnight | gilded
+The Pen Wiper Penguin | a small brass penguin with a bristle brush body used to wipe pens, on a desk | Brass | penguin | silvered | porcelain
+The Lost Letter Hatch | a small brass flap in a wall labelled only by a tiny picture of an envelope | Brass | hatch | gilded | silvered
+The Library Ceiling Rose | a large plaster ceiling rose with a hanging lamp and a trailing cobweb | Plaster | rose | gilded | glow
+The Map-Drawer Hearth | a tiny fireplace with a brass-bound grate and a basket of paper spills for lighting candles | Stone | hearth | glow | marble
+The Hidden Stair Candle | a tall candle in a deep glass chimney holder placed on a spiral stair step | Glass | candle | glow | gilded
+The Moth-Eaten Armchair | a shabby armchair with its stuffing coming out and a moth hole through the seat | Worn velvet | armchair | velvet | tartan
+The Book Wyrm | a long winding brass and wood toy worm threading through gaps in a row of books, with a smile | Brass | wyrm | gilded | clockwork
+The Library Hourglass | a tall hourglass of ash wood and brass on a desk with grey sand | Sand | hourglass | gilded | crystal
+The Silent Lamp Mirror | a round bevelled mirror on a bracket angled to reflect light onto a book | Mirror | mirror | gilded | silvered
+The Cracked Teacup Tray | a small tray holding a cracked blue and white teacup and a bent spoon, left on a stack | Cracked china | tray | porcelain | gilded
+The Shadow Puppet Screen | a framed paper screen with a lamp behind it and a cut-out bird silhouette | Paper | screen | glow | gilded
+The Pocket Secrets Coat | a tweed coat hung on a hook with its many pockets bulging with scraps of paper and a hidden key | Tweed | coat | tartan | velvet
+The Heart of the Hidden Library | a vast circular reading table surrounded by towering bookshelves under a skylight, with a glowing lamp at the centre | Oak table | table | gilded | glow

@@ -1,0 +1,13 @@
+@subrooms The Print & Poster Room
+The Ink-Stained Apron Hook | a wooden wall peg board with a canvas printer's apron, a paper hat and a rag all smeared with black ink | Ink-stained | apron | teal | tartan
+The Type Case Stack | a stack of shallow wooden type cases with many small compartments holding blank metal type blocks, dusty | Dusty wood | cases | rosewood | gilded
+The Brayer and Ink Slab | a small iron slab with a smear of black ink and a wooden-handled roller on top | Black ink | slab | brass | ebony
+The Paper Reams | a tall stack of cream blank paper in brown paper wrappers tied with string, one torn open | Cream paper | stack | marble | mossy
+The Drying Line | a rope strung between two posts hung with a row of pegged damp printed sheets in blue and red ink, abstract patterns only | Pegged sheets | line | gilded | midnight
+The Composing Stick Set | a brass and steel composing stick holding rows of metal type, a pair of tweezers and a small mallet on a green cloth | Brass and steel | set | silvered | ebony
+The Printer's Stool | a tall four-legged wooden printer's stool with a worn flat seat and a footrest | Worn wood | stool | teal | velvet
+The Proof Press | a small hand-operated wooden proof press with an iron lever and a roller bed, speckled with ink | Wood and iron | press | brass | burgundy
+The Lithographer's Stones | a stack of three flat grey limestone slabs with a faint reversed drawing of a bird etched on the top one | Grey stone | stones | marble | onyx
+The Woodblock Collection | a tray of carved wooden printing blocks of birds, ships and flowers, with inked edges | Carved wood | blocks | gilded | jade
+The Colour Ink Cans | a rack of tin cans of printers' ink in red, yellow, blue and green with a palette knife | Tin cans | rack | enamel | porcelain
+The Poster Tube Barrel | a barrel-shaped tub holding rolled posters of different sizes with abstract pictures only, tied with ribbons | Wooden barrel | barrel | teal | gilded

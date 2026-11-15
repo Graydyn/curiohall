@@ -1,0 +1,19 @@
+@subrooms The Envelope Loft; The Launch Deck
+The Ballast Sacks | a pile of fat canvas sandbags tied with rope with a few split and spilling pale sand | Canvas | sacks | burgundy | tartan
+The Sail Needle Bench | a long low bench heaped with folded silk panels, a spool of strong thread and large curved needles | Pale silk | bench | teak | teal
+The Silk Offcuts Basket | a big wicker basket of coloured silk offcuts in striped red, yellow and blue, spilling over | Silk scraps | basket | gilded | porcelain
+The Rope Hank Wall | a wall of thick coiled ropes of different thicknesses on wooden pegs, with a couple of leather straps | Hemp | ropes | silvered | gilded
+The Wind Vane Cockerel | a small copper weathercock on a short mast with a brass cross-arm, green with age | Green copper | weathercock | gilded | bronze
+The Basket Maker's Bench | a low stool-like bench with a half-woven wicker basket, a bundle of cane and a knife | Cane | bench | ash | teal
+The Gas Hose Coil | a thick rubberised hose coiled up with brass fittings and a valve wheel at one end | Black rubber | hose | brass | copper
+The Pump Handle | a tall iron hand pump with a long lever and a brass spout, with a bucket beneath | Iron pump | pump | brass | verdigris
+The Wicker Gondola | a round wicker balloon basket with leather trim and rope handles, empty on the floor | Wicker | gondola | teak | burgundy
+The Bunting Line | a long string of triangular silk flags in teal, burgundy, cream and gold hung from a rope, with no markings | Faded silk | bunting | gilded | glow
+The Altimeter Dial | a round brass altimeter instrument with a glass face and a single needle, plain tick marks and no numbers, on a wall mount | Brass | altimeter | silvered | enamel
+The Hot Air Burner | a brass and iron burner with a wide funnel and twin pipes over a small blue flame, on a metal tripod | Black iron | burner | copper | glow
+The Passenger Hamper | a lidded wicker picnic hamper with leather straps holding a tea set and a folded cloth | Wicker | hamper | teal | gilded
+The Flight Log Stand | a small slanted wooden stand with a blank leather logbook, a pencil on a string and a brass compass | Leather | stand | ebony | burgundy
+The Weather Glass | a tall brass-framed barometer on a bracket with a plain dial and a glass tube, no numbers | Brass | barometer | silvered | rosewood
+The Gas Lamp Cart | a wheeled cart carrying a big glass-and-brass lamp and a canister, parked beside the loft wall | Painted tin | cart | teal | brass
+The Silk Envelope Pattern | a flat table spread with a huge panelled balloon fabric of coloured silk stripes pinned out with brass tacks | Striped silk | envelope | gilded | midnight
+The Launch Cart | a wooden trolley with large spoked wheels and ropes to hold a balloon basket steady for launching | Wood | cart | teal | iron

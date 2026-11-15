@@ -1,0 +1,21 @@
+@subrooms The Cellar Vault; The Strongroom; The Lowest Vault
+The Cellar Cobwebs | a thick draping of grey cobwebs hung between two beams with a dusty glass bottle caught in them | Grey webs | webs | frost | gilded
+The Vault Stair Lamp | a small iron candle lantern hung on a hook at the foot of a stone stair, its candle burned to a stub | Iron | lantern | glow | brass
+The Crate Stack | a tall stack of wooden crates stencilled with plain marks, one split open and spilling straw | Wooden crates | crates | teal | gilded
+The Wine Rack | a diamond lattice wooden wine rack holding dusty green bottles lying on their sides with sealed corks | Dusty bottles | rack | rosewood | glow
+The Barrel Row | a row of three big oak barrels bound with iron hoops, with a tap and a drip tray beneath | Oak barrels | barrels | brass | teal
+The Coal Scuttle | a black iron coal scuttle with a handle and a small shovel on a heap of coal | Black coal | scuttle | brass | copper
+The Candle Stub Box | a battered wooden box of half-burnt candle stubs and a tin snuffer, with a drip of wax on it | Wax stubs | box | gilded | amber
+The Vault Broom | a broad old broom of stiff bristles leaning against a brick wall, with a long cobweb on it | Old broom | broom | brass | teal
+The Wheeled Hand Truck | a two-wheeled iron sack barrow with long handles, tilted against a pile of crates | Iron | truck | teal | brass
+The Cellar Door Padlock | a huge iron padlock hanging on a thick chain through the ring of a heavy wooden door | Black iron | padlock | gilded | silvered
+The Iron Ring Wall | a section of brick wall studded with big iron rings and a short length of chain | Brick and iron | wall | gilded | verdigris
+The Sacks of Grain | a pile of fat canvas sacks of grain, one split open and trickling golden grain into a heap | Canvas | sacks | tartan | gilded
+The Rat Trap | a big iron spring trap baited with a crumb of cheese on a wooden plank | Iron | trap | brass | gilded
+The Ladder to Nowhere | a tall wooden ladder leaning against a rough stone wall, its top rung missing | Wooden | ladder | iron | teal
+The Mould-Spotted Wine Crate | a wooden wine crate furred with white and green mould with a few cobwebbed bottles inside | Mouldy wood | crate | gilded | frost
+The Oil Barrel Tap | a squat barrel with a big brass tap and a tin funnel on a stone slab, oil dripping | Dark barrel | barrel | brass | copper
+The Slate Floor Grate | a large iron grating set in a stone floor with a faint light and warm air rising from below | Iron | grate | gilded | glow
+The Iron Door Hinge | a huge black iron strap hinge with rivets on a heavy oak door panel | Black iron | hinge | brass | silvered
+The Stone Water Trough | a long rough stone trough fed by a drip from the ceiling, with slimy green weed | Stone | trough | marble | mossy
+The Vault Bench | a heavy plank bench on stone blocks with a smoothed seat, cold and damp | Plank | bench | iron | teak

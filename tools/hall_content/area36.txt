@@ -1,0 +1,31 @@
+@subrooms The Moonlit Courtyard
+The Cobbled Courtyard Broom | a stiff twig broom and a tin dustpan leaning on a rain barrel, with piles of wet leaves around the cobbles | Twig broom | broom | brass | teal
+The Courtyard Well | a round stone wellhead with a little iron winch, a wooden bucket and a pitched wooden roof, covered in moss | Mossy stone | well | marble | verdigris
+The Wrought Iron Table | a small round wrought-iron cafe table with curly legs and a mosaic top, rusted | Rusty iron | table | teal | gilded
+The Wrought Iron Chairs | a pair of curly iron cafe chairs with slatted seats, flaking paint | Flaking paint | chairs | white | verdigris
+The Flagstone Fountain | a small lion-head wall fountain with a stone basin that trickles slowly, green with algae | Mossy | fountain | gilded | marble
+The Terracotta Pots Row | a row of five terracotta pots of different sizes with dried flowers and a trowel on a stone step | Dried flowers | pots | enamel | mossy
+The Courtyard Lantern | a tall wrought-iron lantern post with a glass lamp and a hooked arm, spotted with rust | Rusty | lantern | gilded | glow
+The Moon Dial | a flat stone disc set into the paving carved with moon phases and a thin bronze marker on it | Carved stone | dial | frost | silvered
+The Ivy Wall | a brick wall corner densely covered in ivy with a small arched niche holding a mossy statue of a toad | Green ivy | wall | frost | gilded
+The Ghost Roses | a rose bush with pale white roses and thin silver-grey leaves trained against a trellis | Pale roses | roses | glow | crystal
+The Toadstool Ring | a circle of red spotted mushrooms in the grass around a small mossy stump | Red toadstools | ring | glow | porcelain
+The Moon Bench | a curved stone bench with a carved crescent moon on each end and a bed of lavender behind | Stone | bench | marble | frost
+The Courtyard Gate Arch | a stone arch with wrought iron gates and a lantern hung from its top | Stone arch | arch | iron | mossy
+The Night Jasmine Trellis | a tall wooden trellis covered in white star-shaped jasmine flowers with little glowing blooms | White flowers | trellis | glow | iron
+The Silver Fountain | a three-tier stone fountain that glitters in the moon, with silver fish spouts | Stone | fountain | silvered | frost
+The Wishing Pond | a small round stone pond edged with pebbles and lily pads with a scatter of coins gleaming in the bottom | Stone | pond | glow | crystal
+The Courtyard Statue of a Fox | a stone fox statue sitting upright on a pedestal with its tail curled round its feet, mossy | Mossy stone | fox | bronze | gilded
+The Hanging Lantern Cluster | a cluster of paper and glass lanterns of different sizes tied on a rope between two walls, unlit | Paper | lanterns | glow | amber
+The Wind Chime Tree | a small tree hung with glass and brass wind chimes of all lengths | Glass chimes | tree | silvered | gilded
+The Courtyard Clock | a round iron wall clock on a bracket with a dial of dots and two delicate hands | Black iron | clock | gilded | midnight
+The Sleeping Cat's Cushion | a round woven basket with a plump cushion and a folded blanket where a cat sleeps, in a quiet corner | Wicker | basket | velvet | tartan
+The Cobweb Gazebo | a small white iron gazebo with a pointed roof and curling ironwork draped in spiderwebs sparkling with dew | White iron | gazebo | frost | gilded
+The Midnight Garden Bed | a raised bed planted with dark blue and white flowers that glow slightly, with a low edge of dark bricks | Dark flowers | bed | glow | frost
+The Courtyard Orchard Tree | a small gnarled apple tree with silver blossom in a tub, with a ladder leaning against it | Silver blossom | tree | gilded | frost
+The Moon Mosaic | a large circular floor mosaic of a crescent moon and stars in tiny tiles, chipped at the edge | Mosaic | mosaic | glow | gilded
+The Owl's Perch | a tall carved wooden post topped by a stone owl with big eyes, standing in the centre of a lawn | Stone owl | owl | gilded | frost
+The Courtyard Greenhouse | a small lean-to glass greenhouse against the wall with ferns and a watering can inside | Glass | greenhouse | glow | white
+The Silver Birch Grove | a cluster of three slender silver birch trees with peeling white bark and a few late golden leaves | White bark | trees | frost | gilded
+The Courtyard Bandstand | a small wooden bandstand with a conical roof and decorative scrollwork and a few folding chairs | Painted wood | bandstand | white | gilded
+The Great Moon Lantern | an enormous round paper and wire lantern like a full moon on a tall pole, glowing softly white and gold | White paper | lantern | glow | gilded

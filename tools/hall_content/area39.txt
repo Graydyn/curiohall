@@ -1,0 +1,25 @@
+@subrooms The Night Garden
+The Overgrown Path Edging | a row of curved terracotta edging tiles half buried in grass and creeping thyme along a garden path | Mossy tiles | edging | glow | mosaic
+The Garden Shears | a pair of long-handled iron garden shears hanging from a hook on a post wrapped in ivy, rusted | Rusty iron | shears | silvered | gilded
+The Night Gardener's Barrow | a wooden wheelbarrow tipped over with dark soil, a trowel and a few pale bulbs spilling out | Wood and iron | barrow | teal | gilded
+The Glow Worm Jar | a stoppered glass jar of damp moss with a handful of tiny glowing green glowworms on a flat stone | Green glow | jar | amber | frosted
+The Moth Lamp Post | a tall iron lamp post whose lantern attracts a dozen pale moths fluttering around its frosted glass | Iron lamp | lamp | gilded | glow
+The Pale Primrose Bed | a low bed of pale yellow evening primroses opening in the dusk beside a stone edging | Yellow | bed | glow | frost
+The Moonstone Path | a winding path of smooth white and grey pebbles that gleam softly | Pale pebbles | path | glow | crystal
+The Night-Scented Stock Planter | a tall stone planter holding purple and white flowers heavy with scent | Stone | planter | gilded | glow
+The Bat Box | a wooden box on a pole with a narrow slot and a tiny bat hanging at the entrance | Weathered wood | box | teal | gilded
+The Owl Post | a short wooden post with a flat top and a rounded stone owl peering over the garden, with a mouse hole | Wood | post | gilded | frost
+The Hedgehog Hollow | a hollow log full of leaves with a prickly hedgehog curled in the middle and a bowl of milk | Mossy log | hollow | gilded | glow
+The Lantern Vine | a tall wire frame growing a vine covered in glowing lantern-shaped flowers | Green vine | vine | glow | crystal
+The Silver Birch Seat | a seat made from a curved silver birch trunk with a bark back, with mushrooms growing beside it | White bark | seat | gilded | frost
+The Fireflies' Glass House | a small glass-walled hut full of flickering golden fireflies with a rounded roof | Glass | hut | glow | gilded
+The Midnight Rose Arbour | an arch of dark iron covered in deep burgundy roses that seem nearly black in the dark | Dark roses | arbour | glow | frost
+The Starlight Pond | a small round pond with floating lilies and tiny glowing blue petals on the dark water | Dark water | pond | crystal | glow
+The Foxglove Tower | a tall bank of purple foxgloves swaying beside a mossy stone wall | Purple | foxgloves | gilded | frost
+The Moon Gate Garden | a circular stone arch framing a path with a bright moon-white flower bed beyond | Stone | gate | marble | glow
+The Night-Blooming Cactus Bed | a bed of spiky cacti with several large white flowers open in the moonlight | White bloom | cactus | glow | gilded
+The Fairy Ring | a ring of small white toadstools around a flat stone, with tiny glass lanterns | White toadstools | ring | glow | gilded
+The Wishing Tree | an old gnarled tree hung with hundreds of tiny ribbons and glass beads, a few glowing | Gnarled tree | tree | gilded | frost
+The Night Garden Swing | a wooden swing hung from a branch with a cushion and a rope tied with ribbons | Wood | swing | gilded | velvet
+The Garden Bell Tower | a tiny pointed wooden tower with a small brass bell that tolls softly in the wind | Brass | bell | gilded | silvered
+The Great Moon Garden Fountain | a tall fountain of white marble crowned by a crescent moon that pours silver water into three basins, ringed with night flowers | White marble | fountain | glow | gilded

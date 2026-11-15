@@ -1,0 +1,43 @@
+@subrooms The Chart Room; The Lost Lands Annex
+The Chart Room Lamp Stand | a tall brass floor lamp with a green shade angled over a long chart table, tarnished | Brass | lamp | silvered | glow
+The Rolled Chart Rack | a large wooden pigeonhole rack stuffed with rolled charts, ends fraying | Wood | rack | rosewood | gilded
+The Pencil and Dividers Box | a long wooden box of sharpened pencils, brass dividers and parallel rulers in a velvet tray | Wood | box | ebony | silvered
+The Chart Weights | a row of brass weights shaped like little animals pinning down the corners of a blank chart | Brass | weights | silvered | gilded
+The Wall Chart of Winds | a framed chart showing swirling lines of winds and currents around an imaginary ocean, no lettering | Painted | chart | midnight | gilded
+The Star Fixing Table | a round table inlaid with a star chart, with a brass pointer arm and compass | Inlaid | table | glow | midnight
+The Navigator's Stool | a high wooden stool with a footrest and a leather seat beside a chart table | Wood | stool | velvet | teak
+The Coastline Plaster Model | a plaster scale model of a rocky coastline with tiny painted ships and lighthouses | Painted | model | marble | glow
+The Blank Chart Roll | a huge parchment roll left half unrolled across a table with brass weights and a pen | Parchment | roll | silk | gilded
+The Cartographer's Inks | a rack of little glass ink bottles in sea blue, land green, desert gold and ice white | Glass | inks | crystal | enamel
+The Brass Sounding Lead | a heavy lead weight on a coiled rope with a brass cap hung on a hook | Lead | lead | brass | gilded
+The Chart Room Clock | a plain round ship's clock on the wall with a brass bezel and dots instead of numbers | Brass | clock | silvered | midnight
+The Lost Continent Globe | a large pale globe showing a lost continent of green hills and golden deserts, partly faded | Faded | globe | glow | gilded
+The Whale Road Map | a framed map showing winding lines of sea paths with painted whales and sea monsters, no lettering | Painted | map | gilded | midnight
+The Latitude Instrument | a delicate brass instrument with an arc and sights on a wooden handle | Brass | instrument | silvered | gilded
+The Treasure Island Model | a small relief model of an island with palm trees, a cove and a tiny X-marked hill under glass | Painted | island | gilded | glow
+The Chart Drawer of Unknowns | a wide shallow drawer partly open with a heap of unfinished maps and torn corners | Wood | drawer | rosewood | gilded
+The Polar Map Table | a round table with a map of the white north covered in blue ice lines and a brass pole in the middle | Painted | table | frost | silvered
+The Desert Compass | a big brass desert compass with a sun-shaped needle in a leather case | Brass | compass | gilded | enamel
+The Jungle Chart | a framed chart showing an imaginary jungle in greens and ochres with a dotted river | Painted | chart | gilded | emerald
+The Mountain Relief Model | a model of a snow-capped mountain range with a tiny red flag at the summit | Painted | model | frost | marble
+The Ocean Current Mobile | a hanging mobile of blue glass and brass arrows showing the swirl of sea currents | Brass | mobile | glow | crystal
+The Ship's Log Stand | an angled oak stand holding a heavy log book with a brass pen and a bell | Oak | stand | gilded | rosewood
+The Lost Maps Cabinet | a tall glass cabinet of aged map scrolls tied with faded ribbons | Glass | cabinet | gilded | glow
+The Parchment Press | a flat wooden press for flattening curled maps with a screw handle | Wood | press | brass | rosewood
+The Chart Room Skylight | a big skylight with a brass frame casting a square of light across the chart table | Glass | skylight | glow | gilded
+The Sea Serpent Model | a long scaly sea serpent model coiled around a rock with open jaws, in a glass case | Green | serpent | gilded | jade
+The Sailor's Knots Board | a framed board with a dozen different elaborate rope knots on it | Rope | board | gilded | teal
+The Stolen Chart | a small unfinished chart with an obviously cut corner and a note-free pin through it, in a frame | Parchment | chart | gilded | midnight
+The Cartographer's Easel | a tall drawing easel with a huge sheet half-drawn, a palette of colours and a jar of brushes | Wood | easel | gilded | teal
+The Pole Star Lamp | a tall lamp whose shade is pierced with a single bright star shape, on a brass stem | Brass | lamp | glow | silvered
+The Sunken City Model | a glass tank holding a small sunken city of towers and domes under green water | Glass | city | glow | crystal
+The Mythical Beasts Frieze | a long carved frieze of unicorns, griffins and sea-serpents in a wooden frame | Carved wood | frieze | gilded | mosaic
+The Meridian Brass Strip | a long brass strip inlaid in the floor with tiny dots, running across the room | Brass | strip | gilded | silvered
+The Great Wall Map | a huge hand-painted wall map of the whole world with unknown regions faded to white, in a gilt frame | Painted | map | gilded | midnight
+The Explorer's Table | a vast chart table with a stack of dividers, brass lamp and a rolled map ready to unfurl | Oak | table | rosewood | gilded
+The Chart Room Orrery | a delicate brass orrery with an extra ring for a lost planet, in the corner | Brass | orrery | gilded | glow
+The Lost Lands Door | a small arched oak door with a brass star-shaped handle leading to the annex, ajar with golden light | Oak | door | gilded | glow
+The Atlas of Lost Places | a colossal atlas on a stand with a ribbon marker, pictures of vanished islands and drowned cities, no lettering | Leather | atlas | gilded | midnight
+The Lost Lands Mural | a huge painted mural of a hidden valley with waterfalls, pagodas and a giant rock arch, in a gilt frame | Painted | mural | gilded | glow
+The Lost Lands Compass | a monumental brass compass rose set in a circular table with a fine needle spinning wildly | Brass | compass | gilded | glow
+The Map of Everything | a vast circular chart under a glass dome showing every known and unknown land in glowing inks, with a brass pointer arm that swings slowly | Painted | chart | gilded | glow

@@ -1,0 +1,37 @@
+@subrooms The Clock Tower
+The Tower Stair Lamp | a small iron oil lamp on a hook halfway up the tower stair with a sooty chimney | Sooty iron | lamp | brass | glow
+The Oil Can and Rag | a long-spouted brass oiler and a greasy rag beside a drip tray under a gear | Brass | oiler | silvered | copper
+The Winding Handle | a huge iron crank handle on a square shaft with a wooden grip, for winding the great clock | Iron | handle | brass | gilded
+The Cog Basket | a wicker basket of spare brass and iron cogs of many sizes, rust-flecked | Wicker | basket | gilded | silvered
+The Tower Window Slit | a narrow arched window letting in a beam of light across a floor of gear dust | Stone | window | glow | frost
+The Pigeon Perch | a ledge of the tower wall with a plump grey pigeon, feathers and an egg in a hollow | Stone ledge | perch | gilded | frost
+The Weight Chain | a thick iron chain coiled around a drum with a heavy cast-iron weight at the end | Iron | chain | brass | gilded
+The Pendulum Bob | a huge brass pendulum bob like a lens swinging slowly on a long rod | Brass | pendulum | silvered | gilded
+The Bell Rope | a long rope with a woven grip hanging from the ceiling to ring the bell, frayed | Hemp | rope | gilded | velvet
+The Gearbox Cover | a heavy iron cover plate removed from a gearbox showing greasy teeth inside | Iron | cover | brass | gilded
+The Dial Back Glass | a huge round opal glass clock face seen from behind with shadowy hands and dots | Opal glass | dial | glow | gilded
+The Clock Mechanic's Chair | a small stool with a tool tray hung on it and a lantern hook above it | Wood | stool | brass | teal
+The Bell Hammer | a heavy iron hammer mounted on a lever poised above a great bell | Iron | hammer | brass | gilded
+The Great Bell | a huge bronze bell hanging from an oak frame in the tower, green with age | Bronze | bell | gilded | verdigris
+The Tower Flag Staff | a tall flagstaff with a rope and pulley and a tattered pennant | Wood | flagstaff | brass | gilded
+The Spiral Staircase Rail | a spiral iron handrail winding up around the tower's inner wall | Iron | rail | brass | gilded
+The Tower Telescope | a small brass telescope on a bracket pointing across the town from an arched window | Brass | telescope | silvered | gilded
+The Quarter Chimes | a row of five tubular bells in graduated lengths hung from a wooden bar with little hammers | Brass | chimes | silvered | gilded
+The Wooden Escapement | a big carved wooden escapement wheel and anchor shaped like a bird's head, creaking | Wood | escapement | brass | gilded
+The Pigeon Post Basket | a small wicker basket strapped to the tower wall with a few rolled messages and a pigeon | Wicker | basket | gilded | teal
+The Moonface Dial | a clock dial painted with a smiling moon face that peeks behind a gilt sun | Painted | dial | gilded | midnight
+The Eclipse Gear | a large black brass-edged disc that slowly rotates across a golden gear like an eclipse | Black brass | gear | gilded | glow
+The Planet Gear Train | a small train of gears each in the shape of a planet linked in a row | Brass | gears | gilded | silvered
+The Astronomical Clock Face | a round chart of the sky with a moving sun and moon pointer, plain dots and no numerals | Brass | clock | midnight | gilded
+The Chime Barrel | a huge pinned wooden barrel studded with brass pegs that plays the tower's tune | Wood | barrel | brass | gilded
+The Clockmaker's Bench | a long oak workbench with a lamp, loupe, tiny screwdrivers and a half-dismantled watch | Oak | bench | rosewood | gilded
+The Hands Storage | a rack of spare clock hands of different lengths painted black and gold | Black and gold | hands | silvered | gilded
+The Counterweight Well | a square shaft in the middle of the floor with a heavy weight suspended in the gloom on a chain | Dark | well | brass | glow
+The Tower Attic Hatch | a trapdoor with an iron ring in the ceiling and a ladder beneath | Wood | hatch | gilded | brass
+The Great Mainspring | a vast coiled steel spring in a drum as big as a cartwheel, held in a brass-bound frame | Steel | spring | gilded | glow
+The Hour Lamp | a brass lamp that glows brighter for each hour, with little windows around its base | Brass | lamp | glow | gilded
+The Master Clockwork | a bewildering mass of interlocking gears, escapements and shafts of all sizes, polished and ticking | Brass and iron | clockwork | gilded | glow
+The Tower Cat's Cushion | a velvet cushion on a ledge by the warm gears where a tabby cat sleeps | Velvet | cushion | tartan | gilded
+The Mechanical Cuckoo | a huge cuckoo that bursts from a carved door above the great dial when the hour strikes | Carved wood | cuckoo | clockwork | gilded
+The Gear Garden | a little tabletop garden where tiny brass flowers and leaves of cogs bloom in a trough of oiled sand | Brass | garden | gilded | glow
+The Great Clock Tower Dial | a vast illuminated clock face with golden hands and a ring of stars, with plain dots and no numerals, viewed in its stone frame | Gold and cream | dial | midnight | glow

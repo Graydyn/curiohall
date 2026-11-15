@@ -1,0 +1,25 @@
+@subrooms The Attic of Marvels
+The Attic Skylight Dust | a round skylight with beams of dusty light falling on a heap of cobwebbed junk | Dusty glass | skylight | glow | frost
+The Packing Straw Heap | a fluffy pile of straw and crumpled paper from old crates with a few scattered corks | Straw | heap | gilded | frost
+The Old Steamer Trunks | a pair of battered steamer trunks, one on top of the other, with faded stickers of pictures only and brass clasps | Battered | trunks | teal | burgundy
+The Moth-Eaten Rug Roll | a rolled-up faded carpet leaning against a chimney, with moth holes | Faded wool | rug | velvet | tartan
+The Hatbox Tower | a precarious stack of round hatboxes in faded stripes with tissue peeping out | Striped | hatboxes | gilded | enamel
+The Broken Rocking Horse | a dapple-grey wooden rocking horse missing one rocker and its tail, with a painted red saddle | Worn paint | horse | gilded | midnight
+The Dress Form | a headless wooden dressmaker's dummy draped in an old paisley shawl | Wood | dummy | velvet | gilded
+The Old Birdcage Collection | three empty wire and brass birdcages of different sizes nested together and hung from a hook | Wire | cages | gilded | silvered
+The Dust Sheeted Chair | a high-backed chair covered in a dust sheet with a cat curled on the seat | Grey cloth | chair | velvet | tartan
+The Telescope Tripod | a battered brass telescope on a wobbly wooden tripod pointing out of the dormer window | Brass | telescope | silvered | gilded
+The Kite Frame | a large broken diamond kite of paper and bamboo with a tail of coloured rags | Paper | kite | silk | enamel
+The Magic Lantern Slides | a wooden box of painted glass slides and a small brass lantern beside it | Glass | slides | glow | gilded
+The Toy Theatre | a small cardboard toy theatre with painted scenery, a curtain and tiny paper actors on sticks | Painted card | theatre | gilded | velvet
+The Taxidermy Odds | a shelf of mismatched stuffed animals: a badger, a duck and a very surprised owl | Dusty fur | animals | gilded | frost
+The Spare Chandelier | a dismantled chandelier lying in a crate with prisms wrapped in tissue | Crystal | chandelier | gilded | amber
+The Diving Helmet | a big round brass diving helmet with three small glass windows and a lead-weighted corselet | Brass | helmet | copper | gilded
+The Curio Cabinet of Cabinets | a small glass cabinet filled with even smaller miniature cabinets, trunks and chests of drawers | Wood | cabinet | rosewood | gilded
+The Wishing Well Bucket | a wooden bucket on a rope hanging from a little beam with a few coins | Wood | bucket | gilded | copper
+The Candle Lantern Collection | a row of old tin and brass candle lanterns of different shapes on a ledge | Tin | lanterns | gilded | glow
+The Gramophone Horns | a tangle of brass and tin gramophone horns of different shapes lying in a heap | Brass | horns | gilded | silvered
+The Ship's Figurehead | a tall carved wooden mermaid figurehead with flowing hair and a chipped nose leaning against a beam | Faded paint | figurehead | gilded | bronze
+The Treasure Map Trunk | a small open trunk of faded maps with ribbons, a compass and a rusty key, hinting at adventures | Leather | trunk | gilded | midnight
+The Box of Marvels | an old wooden box with a leather strap that opens to reveal tiny marvels: glowing stars, a miniature storm and a pearl | Wood | box | gilded | glow
+The Founder's Last Marvel | a tall glass dome on an ornate pedestal containing a tiny glowing model of the whole museum with a golden star above it | Glass dome | dome | gilded | glow

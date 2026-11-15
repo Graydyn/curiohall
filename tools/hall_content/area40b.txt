@@ -1,0 +1,20 @@
+The Vintage Cask | a big oak cask lying on its side in a stone cradle with a hoop of iron bands, a brass spigot and some dust | Oak cask | cask | gilded | burgundy
+The Cheese Wheel Shelf | a slatted wooden shelf holding three big wheels of aged cheese under muslin, with a cheese iron | Waxed | shelf | gilded | teal
+The Preserve Jars | a shelf of glass preserving jars of pickled and jammy contents in orange, red and green, with cloth lids | Cloth lids | jars | amber | gilded
+The Salted Hams | a pair of big cloth-wrapped hams hung from iron hooks on a ceiling beam with a drip tin | Cloth wrapped | hams | gilded | teal
+The Root Cellar Bin | a slatted wooden bin of potatoes, onions and carrots with soil and a small scoop | Wooden bin | bin | brass | teal
+The Vegetable Sack Pile | a heap of burlap sacks of turnips and beets with a few spilled onto the floor | Burlap | sacks | tartan | gilded
+The Beer Keg | a hooped oak keg on a wooden tripod with a brass tap and a tin tankard | Oak keg | keg | copper | gilded
+The Cider Press | a heavy wooden cider press with a big screw, a stone base and baskets of apple pulp | Wood and stone | press | iron | brass
+The Bottle Brush Set | a bundle of long wire bottle brushes of different sizes with wooden handles in a stone jar | Wire | brushes | brass | silvered
+The Sealed Amphorae | a cluster of three tall clay amphorae with pointed bases and sealed with wax, leaning in a stand | Clay | amphorae | gilded | porcelain
+The Vault Pickle Barrel | a short barrel with a heavy lid and a stone weight on top with a ladle hanging on the side | Oak | barrel | teal | gilded
+The Butter Churn | a tall wooden churn with a plunger handle and iron bands, creamy at the edges | Wooden | churn | copper | porcelain
+The Ice Block Crate | a wooden crate packed in sawdust holding a big clear block of ice dripping onto a tray | Ice | crate | frost | crystal
+The Cold Larder Safe | a tall wooden food safe with a punched-tin door and a bowl of milk inside, ventilated | Punched tin | safe | teal | gilded
+The Dumbwaiter Rope | a thick rope running up through a hatch in the ceiling to a hoisting pulley and a hook | Hemp | rope | gilded | silvered
+The Hanging Garlic Plait | a long plait of white garlic bulbs and onions hung from a rafter with a bit of twine | Dry | plait | gilded | velvet
+The Dried Herb Rafters | bundles of drying thyme, rosemary and bay hanging from a low beam | Herbs | bundles | gilded | frost
+The Lead-Lined Chest | a heavy grey chest lined with lead and fastened by a bar with a padlock, sitting on the floor | Grey lead | chest | gilded | iron
+The Bone Barrel | a barrel half full of old bones and a skull peeking over the rim, covered with a cloth | Wooden | barrel | gilded | bronze
+The Vault Spring | a tiny stone basin catching a thin trickle of water from a pipe in the wall, with a tin cup on a chain | Stone | spring | crystal | glow
