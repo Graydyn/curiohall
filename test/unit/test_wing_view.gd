@@ -122,10 +122,17 @@ func _home() -> HomeScreen:
     add_child_autofree(h)
     h.size = Vector2(720, 1280)
     h.setup(g)
+    await _dismiss_story(h)
     return h
 
+## The map plays pending story scenes (the wing 1 panel) on setup; clear them.
+func _dismiss_story(h: HomeScreen) -> void:
+    await wait_process_frames(2)
+    while h.story_player.is_playing():
+        h.story_player.skip()
+
 func test_reopen_wing_has_sprites() -> void:
-    var h := _home()
+    var h := await _home()
     h.open_wing(1)
     assert_eq(h.wing_view.sprite_count(), 2)
     h.go_back()
@@ -133,7 +140,7 @@ func test_reopen_wing_has_sprites() -> void:
     assert_eq(h.wing_view.sprite_count(), 2)
 
 func test_back_with_mandatory_picker_stays() -> void:
-    var h := _home()
+    var h := await _home()
     h.open_wing(1)
     for i in 4:
         h.wing_view.tap_element("01_001")
@@ -144,7 +151,7 @@ func test_back_with_mandatory_picker_stays() -> void:
     assert_not_null(h.wing_view.picker)
 
 func test_back_closes_card_then_leaves() -> void:
-    var h := _home()
+    var h := await _home()
     h.open_wing(1)
     h.wing_view.tap_element("01_001")
     assert_not_null(h.wing_view.task_card)
@@ -165,6 +172,7 @@ func test_home_opens_wing_and_returns() -> void:
     add_child_autofree(h)
     h.size = Vector2(720, 1280)
     h.setup(g)
+    await _dismiss_story(h)
     h.open_wing(1, "01_002")
     assert_eq(h.current_screen(), "wing")
     assert_true(h.wing_view.visible)

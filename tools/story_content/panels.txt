@@ -1,0 +1,170 @@
+# Panels: "=P <id> <trigger> [cast codes]" then one "> caption" line per panel.
+=P area_01_opened area_opened:1 c b
+> A weathered placard on the gates reads Curio Hall, By Appointment of the Society, and beneath it, in smaller letters, Do Wipe Your Boots. Beyond the ivy, a long gravel drive curves toward a great dark house, and one lit window.
+> Cornelia Wren has been holding the keys since the winter the founder disappeared. She hands them over now with a very straight back, and Barnaby Pluck carries the first lantern.
+=P area_03_opened area_opened:3 c b
+> Behind the Atrium, a narrow vestibule smells of wet umbrellas and old wool. Hooks line the walls, and a barometer on the far panel has been stuck at Stormy since before anyone can remember.
+> Every cloakroom in the world has a secret, and this one has a hamper of hats nobody ever came back for.
+=P area_04_opened area_opened:4 c a
+> The Curator's Office sits at the top of a short flight of stairs, its door painted the green of old brass. Inside, a desk the size of a small boat faces a window that looks out over the entire Hall.
+> A single card has been propped against the inkwell. It reads: Wednesday. Come back for the rest.
+=P area_05_opened area_opened:5 c b
+> The Tea Room doors swing wide, and a smell of lemon, cardamom, and long-cold ashes drifts out. Every table is laid for four, as if the guests had only stepped out for a moment.
+> The Society runs on tea, as everyone knows. Without it, nothing in the Hall has quite the right temperature.
+=P area_06_opened area_opened:6 c a
+> The Hall of Feathers is a tall room full of whispering wings. Cases of sparrows, parrots, and a very surprised owl line the walls, and a great skylight pours down a column of pale gold.
+> Somewhere in the rafters, something rustles that is not a mouse.
+=P area_07_opened area_opened:7 c a
+> The Butterfly House is built of glass and cast iron, and when the door opens a warm breath of damp earth and flowers rolls out. Pins gleam in the dark like a thousand small stars.
+> No living butterfly has flown here in twenty years. Barnaby swears one landed on his hat.
+=P area_08_opened area_opened:8 c s
+> The Conservatory has grown wild. Ferns have pushed through the floor tiles, gourds drape the arches, and a pitcher plant the size of a hat has taken the best chair.
+> Someone has been misting the leaves. The droplets are fresh.
+=P area_09_opened area_opened:9 a b
+> Down a wide stone corridor, the Fossil Gallery opens like a ribcage. Pale bones rise into the shadows, and the floor is dusted with the grey powder of ancient stone.
+> Aldous Finch says it is the quietest room in the Hall. Barnaby says that is exactly why he does not like it.
+=P area_10_opened area_opened:10 c b
+> The Mineral Vault is lined with iron shelves and velvet drawers, and the lamplight catches in a hundred hidden crystals. At the far end, a round steel door the size of a cartwheel stands closed.
+> Cornelia does not say what is behind it. She only says that the Society was very careful.
+=P area_11_opened area_opened:11 c m
+> The Shell and Coral Room is cool and hushed, like the inside of a conch. Pearl-lined cases glow faintly in the dark, and somewhere very near, the sound of the sea is playing from a spiral shell.
+> It is the sort of room that makes one speak very quietly, and then not speak at all.
+=P area_12_opened area_opened:12 c j
+> Green light ripples across the walls of the Aquarium Grotto. Great glass tanks, long empty, wait for the water to come back, and at the bottom of the largest one, something small and square is shining.
+> The light moves, and it seems, for a moment, that it is waving.
+=P area_13_opened area_opened:13 c z
+> The Map Room is lined from floor to ceiling with charts, rolled and flat, pinned and framed. Every coast is inked in a different hand, and a great brass compass is sunk into the floor.
+> A single black pin sits in the middle of a map, with no thread attached to it at all.
+=P area_14_opened area_opened:14 c p
+> The Library of Expeditions climbs three storeys, with iron galleries and a ladder on a rail. The books are shelved by voyage, and each voyage has its own colour of spine.
+> On the highest shelf, a single blue book sits slightly out of line, as if it had been put back in a hurry.
+=P area_15_opened area_opened:15 p c
+> Rolling shelves fill the Archives, and every drawer is labelled in a tiny neat hand. Someone has been here in the dark, and everything has been refiled. Not one thing is where it was.
+> It smells of old paper, ink, and, very faintly, of ham sandwiches.
+=P area_16_opened area_opened:16 h c
+> The Clockwork Workshop rattles with a faint, invisible ticking. Benches hold a thousand half-built wonders, and from the ceiling hang chains of cogs, like a mechanical orchard.
+> Every spring in the room is wound to precisely the right tension. Nobody has wound a thing in twenty years.
+=P area_17_opened area_opened:17 h c
+> The Hall of Instruments gleams like a jeweller's window. Brass and glass line every wall: galvanometers, theodolites, a great seismograph with its needle trembling over a blank roll of paper.
+> Everything here measures something. Cornelia suspects it is measuring them.
+=P area_18_opened area_opened:18 a c
+> A spiral stair climbs into the Astronomy Dome, and at the top the night sky wheels slowly overhead, painted on a great hemisphere of dark blue glass. Telescopes point in every direction, and one of them is pointing at the door.
+> The stars on the ceiling are in the right places. It is the first thing about the Hall that has been entirely reliable.
+=P area_19_opened area_opened:19 a h
+> The Orrery Landing is a gallery of dusty planets. Moons hang from their wires, a banded giant sits sulking in the corner, and a comet sleeps in a case marked Do Not Wake.
+> The great orrery in the centre is missing its sun.
+=P area_20_opened area_opened:20 c h
+> The Gaslight Gallery is a long hall of glass globes and brass pipes, and every lamp is out. Someone, long ago, filled every jet with a little oil, and then walked away.
+> When the first one is lit, it is as though the Hall draws in a long breath.
+=P area_21_opened area_opened:21 z c
+> The Sculpture Court is a square of pale stone open to the sky, with a dry fountain at its heart and marble figures standing about in the leaves. One of them has lost its head, and another seems to be looking for it.
+> A stone bench sits against the far wall, and on it, someone has left a half-eaten apple.
+=P area_22_opened area_opened:22 a p
+> The Hall of Giants soars over the visitor's head. A giraffe's neck disappears into the gloom, a pair of tusks curve like cathedral arches, and an enormous spider crab stretches across the floor like a mournful carpet.
+> A very small door is set into the base of one skeleton. It is, Barnaby decides, for mice.
+=P area_23_opened area_opened:23 m a
+> The Insectarium hums with a thousand silent wings. Cases of beetles glitter like pirate treasure, and a great glass nest sits in the middle of the floor, quite empty, but not entirely quiet.
+> Everything here is very small and very well organised. The Hall approves.
+=P area_24_opened area_opened:24 r m
+> The Herbarium smells of hay and sunlit paper. Pressed flowers are framed in their hundreds, and a long worktable is set with magnifiers, tweezers, and an enormous unfinished atlas.
+> A single page in the atlas has been left blank, with a little pressed flower beside it that no one can name.
+=P area_25_opened area_opened:25 j m
+> The Apothecary Annex is a dark panelled room of tiny drawers, and every drawer is labelled in Latin. Bottles of every colour wait on the shelves, and a big brass bell sits on the counter, begging to be rung.
+> A faint sweet smell hangs over everything: sulphur, honey, and, strangely, mint.
+=P area_26_opened area_opened:26 r s
+> The Gemstone Salon is lined with blue velvet, and the cases glitter in the light of a single lamp. Every stone has its place on a cushion of silk, and every place has its own little brass plate.
+> Sam Vane stands in the doorway for a very long time, with his hands very firmly in his pockets.
+=P area_27_opened area_opened:27 z h
+> The Meteorite Chamber is a round room with a black floor, and the walls are hung with fragments of the sky. Some are warm to the touch. All of them are very, very old.
+> Zephyrine says that stones that have fallen from the sky always remember the way back up.
+=P area_28_opened area_opened:28 c b
+> The Cabinet of Whispers is a narrow room of mahogany panels and curved brass horns. As the door closes, a hush falls, and then, very softly, from every wall, a murmur begins.
+> Nobody can make out the words. Everybody agrees that they were meant for somebody in particular.
+=P area_29_opened area_opened:29 r c
+> A grand stair sweeps up from the Gallery, and every step is hung with portraits. Duchesses, explorers, and one very stern bishop watch the visitor climb. The last frame at the turn is empty.
+> The paintings are not looking at the visitor. They are all looking at the same spot on the stairs.
+=P area_30_opened area_opened:30 c p
+> The Founders' Gallery is a long, quiet room, with a cold hearth at one end and a great window at the other. Nine chairs stand around a table of dark wood, and one of them is pulled back, as if someone had just risen.
+> On the table, a pen rests in an inkwell. The ink is still wet.
+=P area_31_opened area_opened:31 h r
+> The Music Box Parlor is a little room of velvet and brass. Hundreds of music boxes stand in rows, each with a tiny key, and all of them are wound just enough to begin.
+> When the door closes, they all play the same lullaby, a little out of time. They have been waiting to be asked.
+=P area_32_opened area_opened:32 p h
+> The Print and Poster Room smells of ink and hot lead. Wooden type fills every drawer, and old posters flap on a line like washing: A Talk on Larks, A Debate on the Moon, A Concert for Seventeen Triangles.
+> A great iron press crouches in the corner, still faintly warm.
+=P area_33_opened area_opened:33 h z
+> The Model Ship Hall is a long vaulted space, with ships in bottles, ships on shelves, and a whole fleet in full sail across the floor. The ceiling is painted with a thousand little waves.
+> The place of honour at the centre of the fleet is empty, with a small brass plate: Meridian.
+=P area_34_opened area_opened:34 b h
+> A ladder and a trapdoor lead up to the Balloon Loft, where silk billows in the rafters like sleeping clouds. Baskets are woven, burners polished, and a rope hangs out of the roof, down into the dark.
+> A launch deck juts into the evening sky. Barnaby does not look down.
+=P area_35_opened area_opened:35 a z
+> The Observatory Walk runs along the roof of the Hall, with a stone balustrade, a row of lamps, and the whole night spread out like a sea. Telescopes stand on every corner, and every one is pointed at the same star.
+> It is a quiet, windy, wonderful place, and the birds have already found it.
+=P area_36_opened area_opened:36 r m
+> The Moonlit Courtyard is a square of cool green in the middle of the Hall. A single old tree stands at the centre, and its leaves are silver in the moonlight.
+> The Hall is quiet here. It feels, for the first time, like a house with someone sleeping in it.
+=P area_37_opened area_opened:37 z c
+> The Reflecting Pool is long and black and perfectly still, and it holds the sky as a plate holds a cake. At the far end, a stone fountain stands dry, and a small white boat is tied to a post.
+> Everything in the pool is a little different from what stands above it. A lantern is lit in the reflection that is not lit in the room.
+=P area_38_opened area_opened:38 m a
+> The Glasshouse Menagerie steams gently in the dark, a great cage of glass and iron with a canopy of palms. Things move between the leaves: a flash of colour, a ripple of scales, a soft and dignified cough.
+> The Hall's strangest exhibits are all here, and none of them are entirely stuffed.
+=P area_39_opened area_opened:39 r m
+> The Night Garden opens only after dark. Pale flowers unfold in the gloom, lanterns hang from the vines, and a round stone doorway frames the moon.
+> Rosalind says that she has never painted a garden she loved so much, because she has never been able to see one clearly.
+=P area_40_opened area_opened:40 c j
+> A heavy iron door at the end of the Hall swings open, and a stair descends into the dark. The air is cold and smells of earth, apples, and old iron. Somewhere below, a lamp is already burning.
+> The Deep Vaults hold what the Society stored, what it saved, and what it could not bring itself to throw away.
+=P area_41_opened area_opened:41 c r
+> The Forgotten Wing lies at the end of a corridor that appears on no plan. The wallpaper is faded to the colour of milk, and every door is slightly too small.
+> Cornelia stands at the threshold for a long time. Then she opens it herself.
+=P area_42_opened area_opened:42 c r
+> The Founder's Study is a small, warm room that smells of pipe smoke and ink. A fire has been laid in the grate. A chair is drawn up to a desk, and a cup of tea stands on the blotter, with the steam just beginning to fade.
+> Nobody is there. Everybody holds their breath anyway.
+=P area_43_opened area_opened:43 h p
+> Behind a suit of armour, a stair leads into the walls of the Hall. The Hidden Passage winds on, narrow and low, past little doors and little lamps and the faint sound of a clock that is trying not to be heard.
+> Barnaby counts the steps. He loses count at three hundred and eleven.
+=P area_44_opened area_opened:44 z c
+> The Chart Room of Lost Lands is a circular room of silent maps. Every wall is covered in charts of places that are not on any other chart: coasts no one has landed on, mountains no one has climbed, seas that were only ever rumoured.
+> Zephyrine Blackwood takes off her hat, for the first time in the whole of the Hall.
+=P area_45_opened area_opened:45 r s
+> The Grand Ballroom is a hall of mirrors and chandeliers, with a floor of waxed oak that has not known a dancer in twenty years. Dust sheets cover a hundred chairs, and a little gold clock hangs high above the bandstand.
+> It is the loveliest room in the Hall, and the saddest. It was built for a party that never took place.
+=P area_46_opened area_opened:46 h c
+> The Clock Tower rises over the Hall like a great stone mast. Within it, stair after stair of iron winds up around the great pendulum, and the whole building ticks with the slow heartbeat of a very large and very patient machine.
+> A single pigeon watches from a beam. It has been watching for a long time.
+=P area_47_opened area_opened:47 c b
+> The last stair ends in the Attic of Marvels, a huge, low, dusty space under the roof, crowded with trunks and crates and things under sheets. Light falls through a round window onto a rocking horse, a lantern, and a well.
+> It is the oddest room in the Hall, and the one that was kept for last.
+=P arrival_aldous day:12 a
+> A reedy voice drifts down from the east rafters, along with a few feathers. Professor Aldous Finch, ornithologist and absent-minded guardian of the natural history wings, has been living up there with the swifts for twenty years, and has just noticed that someone has opened the doors.
+=P arrival_sam day:20 s
+> A man in a very good coat is leaning in the doorway of the Hall of Feathers, as if he owned it. Sam Vane, collector, rival, and charming rogue of the Society, has heard about the restoration. He would like to see what has been done to the place. He would also like to see what is still lying about.
+=P arrival_mark day:30 m
+> Among the ferns of the Conservatory, a young man stands very still, holding a watering can. Mark Bloom has been tending the living collections in secret for twenty years, and he is not at all sure he is ready to be seen.
+=P arrival_anjali day:40 j
+> The smell of baking arrives before she does. Anjali Bose, expedition chef and confectioner, sweeps into the Hall with a basket on each arm, takes one look at the Tea Room, and rolls up her sleeves.
+=P arrival_hugo day:60 h
+> From deep within the Hall, a great brass gear begins to turn. Hugo Pemberton, clockwork engineer, has heard the clocks ticking again, and has come, spanner in hand, to see who has been winding them.
+=P arrival_prudence day:80 p
+> A pair of spectacles glints at the top of the Archives stair. Prudence Quill, the Society's exacting archivist, has watched the Hall wake up through a skylight for weeks, and has finally come to tell everyone where they have been filing things wrong.
+=P arrival_zephyrine day:90 z
+> A woman in a salt-stained coat sits on the Court Bench with a rolled chart across her knees. Zephyrine Blackwood, cartographer, has just come back from the edge of the world, and she has a message that she is not quite ready to deliver.
+=P arrival_rosalind day:100 r
+> A sweep of lavender silk, a faint scent of roses, and a very long umbrella. Rosalind Thorne, botanical illustrator and the Society's patroness, has come to see whether the Hall is worth the twenty years of her subscription, and has a secret she was asked to keep.
+=P chronicle_20_11 task:20_11 c s
+> Volume I: The Hall Wakes. The gates are open, the Atrium is lit, and the first wings have been restored. A rival collector arrives in the Hall of Feathers, and the Society's old rhythm begins, at last, to turn.
+> The founder's bust looks on from the stairs, and for the first time in twenty years, it seems to approve.
+=P chronicle_37_10 task:37_10 s c
+> Volume II: The Deep Water. The Shell and Coral Room is restored, and with it comes a confession: Sam Vane was not looking for treasure. He was looking for the founder.
+> In the glass of the Kraken's Eye, a small square box can be seen, far below, on the floor of the Aquarium.
+=P chronicle_43_11 task:43_11 c j
+> Volume III: The Box in the Aquarium. The Great Aquarium fills at last, and the little brass box is recovered from the depths. Inside is a single key, and a note: Archives, when you are ready.
+> The members of the Society gather around the tea urn for the first time, and begin to feel like a society.
+=P chronicle_47_11 task:47_11 z c
+> Volume IV: Where I Shall Be. The Great Relief Model rises from its crates, and the Map Room is whole. On the Atlas Lectern, a page lies open to a blank map with a single title, in the founder's own hand.
+> The Library is next, and the founder's own folio.
+=P chronicle_52_11 task:52_11 c p
+> Volume V: The Founder's Folio. The Library of Expeditions is restored, and the blue-bound folio is opened at last. The final page reads: The Hall was never meant to be finished. It was meant to be kept.
+> Several pages have been cut out, with a very sharp blade, and nobody knows by whom.

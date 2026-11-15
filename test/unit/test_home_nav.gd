@@ -20,6 +20,9 @@ func _boot() -> Node:
     var main: Node = (load("res://scenes/main.tscn") as PackedScene).instantiate()
     add_child_autofree(main)
     await wait_process_frames(2)
+    # Skip any pending story scene (e.g. the wing 1 panel) so the map is clear.
+    while main.home.story_player.is_playing():
+        main.home.story_player.skip()
     return main
 
 func test_boot_shows_home() -> void:

@@ -1,0 +1,310 @@
+== 236
+p n The Study Bookcase. Six hundred volumes, every one of them annotated in pencil. I would know that handwriting anywhere.
+c n Is that, then, the founder's hand?
+p n It is, Cornelia. And it is the most bewildering hand I have ever had the pleasure to catalogue. Notes on notes on notes, with arrows between them, and, in every margin, a tiny drawing of a clock.
+h n Every margin, Prudence?
+p n Every one. Even the dictionary. Under the word Time, he has drawn a clock that has stopped at a quarter to twelve.
+a w The Vault Clock, as well. It has been saying the same thing for twenty years.
+== 237
+h h The Fossil Paperweights! Twelve little ammonites, each one set on a brass base, and each one holding down a very important sheet of paper.
+b h The papers are all blank, Hugo!
+h n They're not blank, Barnaby. They've got writing in lemon juice. Hold it up to the lamp.
+z w It is a list. Of places. Every one of them an island that is not on the map, and every one of them crossed out. Except the last.
+c n What is the last, Miss Blackwood?
+z n Home. And beside it, in a very small hand: Not yet. Not quite.
+== 238
+r n The Mounted Antlers. A grand pair of stag's horns, hung over the fireplace, and every one of the tines is a coat hook.
+b h There's a muffler on the top one, Miss Thorne! And a pair of gloves! And, oh, a hat!
+r h It is his, Barnaby. His muffler, his gloves, and his second-best hat. I gave him the muffler for his fiftieth birthday, and he wore it every single day, to the great alarm of the Society.
+c n It is a warm muffler. Someone has been wearing it, Miss Thorne. Very recently.
+r w I know, my dear. I am trying very hard to be sensible about it.
+== 239
+c n The Founder's Unfinished Letter. A single sheet, half written, on the desk. The ink is still wet. It is addressed to the Society.
+s n Cornelia, it is wet. It cannot be. It has been twenty years.
+c n The ink has been wet for twenty years, Mr Vane. I think that is the whole point.
+r w Read it, Cornelia. Please. I do not trust myself.
+c w It says: My dear friends. If the Hall is awake, you have done what I could not. The Hall was built to keep the things that are lost, and the people who are lost with them. I went to find the last of them, and I will be home in time for, and then the sentence stops.
+p w In time for what, Cornelia?
+c n It does not say, Miss Quill. But I rather think it ends with the word Wednesday.
+== 240
+h n The Hollow Suit of Armour. A full suit of plate, empty, with a little brass door in the back. Behind the door, a spiral stair.
+b h Hugo, there's a person-sized secret passage in the armour! This is the best day of my life.
+h h It's the best engineering I've seen in years, Barnaby. Look at the hinges. The whole suit swings on a single pin.
+c n The Hidden Passage. I suppose every Hall has one. I did not expect to be so fond of it.
+s h I have been trying to find this passage for thirty years, Cornelia. I find that I have walked through it in about four minutes, and I'm slightly offended.
+== 241
+j h The Servant's Bell Board! Forty little bells on forty little springs, each one labelled with a room. Every time somebody rang, a footman came running.
+b n Miss Bose, one of them is ringing.
+j n Nonsense, Barnaby. Which one?
+b w The Tea Room. It is ringing for a pot of tea, with two cups.
+c w Mr Pluck, would you be so kind as to go and see who is in the Tea Room?
+b h Right away, Miss Wren! Oh, and, er, I'd best take a plate of biscuits.
+== 242
+m n The Emergency Candle Box. A tin box, full of beeswax candles, each one wrapped in a twist of paper. And, um, a note on the lid. In case of darkness, light one. In case of light, light two.
+j h That is a very sensible instruction. I should like to have it embroidered on a cushion.
+m h I should like to read it every morning. It, um, makes me feel as though somebody was looking out for me.
+r n Mark, somebody was. I think you will find that was rather the point of the founder.
+z n Light two, then. In case of light. One can never have too much.
+== 243
+h h The Spiral Newel Post! A great oak column, carved with a spiral, and as smooth as glass. The whole staircase turns round it.
+b h I slid down it, Hugo! All the way from the top! It took four seconds, and I lost a button!
+h n You've got to be careful, Barnaby. The post is a part of the clock mechanism. When it turns, it winds the great spring in the Tower.
+p n The staircase is a key, then. Every time a person climbs, the Tower is wound a little more.
+c w Which means, Miss Quill, that we have been winding it ourselves, all these weeks. By coming and going. By carrying the Hall up and down on our own two feet.
+== 244
+a h The Bat Colony Ledge! A narrow shelf of stone, and, hanging from it, forty-two bats. Every one of them asleep, and every one of them upside down.
+b n Professor, I'd say they're looking at me.
+a n They are not looking at you, Barnaby. They are asleep. They are dreaming about moths.
+m h I think they're lovely. They have little faces, like very old and very kind bankers.
+a h Mark, that is exactly right. I have always said that a bat is a banker who has found his true vocation.
+== 245
+z n The Watchman's Stool. A three-legged seat of oak, polished by two hundred years of waiting. The ideal place from which to guard a secret.
+s h I should like to sit on it, Zephyrine. I would be a wonderful watchman. I would see everything, and report none of it.
+z n You would be a dreadful watchman, Sam. You would sell the passage to the highest bidder.
+s n I would be a dreadful watchman, Zephyrine, but I would be a very well-paid one.
+c n Miss Blackwood, watch the door. Mr Vane, watch Miss Blackwood.
+== 246
+p h The Secret Reader's Chair! Oh, how delightful. A deep green leather armchair, tucked into an alcove, with a footstool and a little brass candle-holder at the elbow.
+c n Miss Quill, you look as though you have been struck by a thunderbolt.
+p n Cornelia, I have been looking for a chair like this all my life. A place where no one will find me, and I may read as long as I like.
+r h It is a perfect hideaway, Prudence. I am slightly jealous.
+p n You may use it on Tuesdays. I shall have it on all the other days.
+== 247
+h h The Quiet Clock! A little brass mantel clock with a very soft tick. It doesn't chime, and it doesn't strike. It just keeps time, and it keeps it kindly.
+c n Mr Pemberton, what is the time?
+h n A quarter to twelve, Cornelia. It's the same time as the Vault Clock. It's the same as the dictionary.
+a n They are all in agreement, then. It is a quarter to twelve in the whole of the Hall.
+h w It's not a mistake. It's a clock set to wait. It's counting down to something, and it's very nearly there.
+== 248
+b h The Library Cat Bed! Miss Wren, it's the cat's bed! A little round basket with a cushion and a very small hat on a peg.
+c n It is a very respectable bed, Mr Pluck.
+b h And she's in it! She's looking at me! She's a grey cat with a white chin and enormous whiskers, and she's got a little brass key around her neck!
+j h Oh, you beauty. May I give her a slice of ham?
+c n Miss Bose, you may give her the entire ham. She has earned it.
+b h Her name tag says Wednesday! She's been Wednesday all along!
+== 249
+c n The Secret Reading Lamp. A little green shade, and a flame that flickers on and off as though it were breathing.
+p n It has been left on, Cornelia, every night for twenty years. I looked it up in the Index. It was the founder's night light.
+c n Left on for him, I suppose. So that he could find his way home.
+r n Oh, my dear, it is so like him. To leave a light on, and a door unlocked, and a cat.
+c h And a very long and complicated trail of clues, Rosalind. I confess I find it rather irritating.
+== 250
+b h The Hush Bell! A little silver bell that makes no sound, but when it's rung, everyone in the room goes quiet and listens.
+z n I have used one of these to call a council meeting on a mountain.
+h n Does it really make everyone quiet, Zephyrine?
+z n Try it, Hugo.
+h s I'm not, I'm, I'm sorry, I can't hear myself speak. It's wonderful.
+c n It is a very good bell. I shall keep it on my desk, for the committee.
+== 251
+a h The Hidden Stair Candle! A fat red candle, set in an iron cup, burning with a steady flame. Every night, apparently, it burns exactly four inches.
+b h And every morning, Professor, it's four inches tall again!
+a n It is a very obliging candle, Barnaby. I should like to have one for my study.
+h n It's got a wick that grows back, Aldous. It's a very good bit of clockwork, if you look at it the right way.
+c n There is a great deal of very good clockwork in the Hall, Mr Pemberton. Where does it all go?
+h w Up, Cornelia. It all goes up. To the Tower.
+== 252
+r h The Shadow Puppet Screen! A great sheet of paper stretched on a frame, and behind it a lamp. Draw the curtain, and we shall have a performance.
+b h Can I do the rabbit, Miss Thorne?
+r h You may do the rabbit, Barnaby. And the dove. And a very fine heron, if you have the fingers.
+s n Let me try a swan. Observe. The neck, the beak, the, um, the wing.
+j n Sam, that looks like a lobster.
+s n Anjali, it is meant to look like a lobster. It is a swan in a very poor mood.
+== 253
+h h The Chamber Lantern Ring! A great iron hoop, hung with sixteen lanterns, in a circle. It lights the whole of the Chamber from above, and it turns, ever so slightly, in the draught.
+c n The Chamber itself must be very near. Miss Quill, do you have the plans?
+p n There are no plans, Cornelia. There is only a single line on the Index. Chamber: see Dome.
+z h Then we need to find the Dome. Did anyone notice a painted ceiling on the way?
+b n A fragment, Miss Blackwood. A bit of one. It's in the next room, leaning on a cabinet.
+== 254
+r n The Painted Dome Fragment. A great slab of plaster, painted with the night sky, and every star picked out in gold leaf.
+z n It is my chart, Rosalind. The edge of the world, as seen from the Meridian. I have a copy in my cabin.
+r w My dear, I painted this. I painted it for him, as a gift, the winter before he left. And he told me that it was a map, but I never understood how.
+c w Is it a map of the Hall, Rosalind?
+r n It is a map of the Hall's own ceiling, Cornelia. It is the Chamber's dome. The dome that has not yet been put up, because he never had the time.
+== 255
+h h The Chamber Bellows! A huge leather concertina in an oak frame, for blowing air into the great organ. It's got a very satisfying wheeze.
+b h Can I pump it, Hugo?
+h n Go on, then. Gently.
+b h Oh! Oh, listen! The whole room's singing!
+c n Mr Pluck, there appears to be an organ pipe in the wall. It has begun to play the lullaby.
+a h A little flat, Cornelia, as if somebody had been trying to sing along.
+== 256
+p n The Rolled Blueprints. A tall oak rack, holding a hundred long cardboard tubes, each one tied with a ribbon. Every plan for every wing of the Hall.
+h n It's all here. The Gasworks. The Orrery. The pipes. Every single bit of it, drawn by hand.
+p n And here is the last. A drawing of the Hall, seen from above. And look, Cornelia. It is not a building. It is a ship.
+c w A ship.
+p w A very large, very still ship, riding at anchor. With the Clock Tower for a mast, and every wing for a deck. It is a vessel, Cornelia, and it has been waiting for a crew.
+== 257
+r w The Chamber Throne. A great carved chair, with a high back and a gilt crown. It has stood empty for twenty years, and I think I know whom it is for.
+c n It is not for me, Rosalind.
+r n It is not for Ambrose either, my dear. It is for whoever sits in it. The Society has no president. It has a chair. The founder always said that it was for the person who minded the Hall best.
+s h I nominate Cornelia.
+a h Seconded.
+j h I shall bring the cushion.
+c w Please. I really would rather not. But I shall sit, if only to say that I told you so.
+r n And, Cornelia, now I may tell you what the Hall was for. It was for finding. Everything that was lost, and everyone that was lost with it. Including a seven-year-old girl on the steps.
+== 258
+c n The Final Door. Iron, oak, and brass, with a single great keyhole, in the shape of a wren.
+b h It's the shape of your name, Miss Wren!
+c n I noticed, Mr Pluck. The key is in my pocket. It has been there since the Deep Vaults.
+h n Cornelia, it's the Founder's Study key. It's a key for a door in a different part of the Hall.
+z h It is a key, Hugo, for any door that has been waiting for Cornelia. It will open them all.
+c n Then let us see, Miss Blackwood. Behind the door is the Chart Room of Lost Lands. And, if I am right, a great deal of the truth.
+== 259
+z h The Star Fixing Table! A great round table of black glass, ruled with silver lines, for plotting the position of the stars.
+c n Miss Blackwood, you look like a woman who has come home.
+z n I do, rather. I spent more evenings at a table like this than I did in any bed. Every star I ever measured is a friend, and every one of them is on this glass.
+s n Zephyrine, you have not mentioned that you are an astronomer.
+z n I am a cartographer, Sam. An astronomer is a cartographer who has given up on the ground.
+== 260
+h h The Chart Room Clock! A tall case clock, as thin as a spar, with a face as clear as the moon. It says a quarter to twelve. I wondered when we should come to it.
+a n The fifth clock, Hugo. And it is, I believe, the one that tells the others what to do.
+h n It's got a pendulum with a window in it. Look. There's a tiny brass ship, swinging back and forth.
+c n The Meridian.
+h w She's been swinging for twenty years, Cornelia. And every swing, she gets a little closer to the shore.
+== 261
+z h The Polar Map Table! The whole of the White North, in embossed leather and polished ivory. I have walked across half of it.
+j n And I have cooked on the other half. I have a recipe for seal that I will take to my grave.
+z n Anjali, please do not take it to the grave. I should like to try it, in the right circumstances.
+s n I should like to try it in any circumstances, as long as there is a decent bottle of claret.
+c n I note that the table has a hand-drawn arrow pointing at a spot just off the edge, labelled: Here.
+== 262
+p n The Lost Maps Cabinet. Eighty drawers, each with a map of a place that has never been found. Every one of them labelled, and every one of them in order.
+z h Prudence, this is the loveliest thing I have ever seen. Every one of these is a place that someone once believed in.
+p n There is a drawer for the last of them, Zephyrine, and it is empty. The label says: The Hall.
+c n Then the Hall is the last of the lost places. And we are in it.
+p w It is rather a tidy thought, Cornelia. I do not know whether I find it comforting, or merely complete.
+== 263
+r h The Cartographer's Easel! A tall oak frame, with a great sheet of paper stretched across it, and a box of fine brushes. I should like to draw the whole Hall, from the Gates to the Tower.
+z n Rosalind, you will draw it as you see it. I will draw it as I know it. We will see where they differ.
+r n They will differ in every particular, my dear, and I can think of nothing I should rather do.
+m h I'll mix the colours, Miss Thorne. I'd like to, um, get the green right.
+r h Mark, that is the first time I have heard you volunteer for anything. I accept, with pleasure.
+== 264
+c n The Explorer's Table. A long, scarred oak table with a lamp at each end and a place laid for every member of the Society. The cups are warm.
+b h Miss Wren, there's a place for me! There's a cup with my name on it!
+c n There is a place for everybody, Mr Pluck. Including the cat.
+b h There's a saucer by the cat's place, and it's got milk in it, and it's still warm. Somebody put it there this morning!
+s w Cornelia, I have been in a great many strange rooms. I have never been in one where the tea is warm and there is nobody to be seen.
+c n It is a very polite sort of haunting, Mr Vane. I would not like to disturb it.
+== 265
+z h The Map of Everything! A great chart that covers the whole wall, from floor to ceiling, and every line on it has been drawn in a different hand.
+c n It is the Society's own map of the world. And, in the centre, a small cross. Here.
+z n The Hall. And a line running from it, a long red line, off the edge of the paper and on to the wall. To the Clock Tower.
+p n It is a route, Cornelia. And it is dated, in every stage. A Wednesday in March. A Wednesday in April. A Wednesday in May. Every week for twenty years.
+c w He has been coming back every Wednesday. And we have not been here to meet him.
+b w Miss Wren, I've counted on my cuff. It's Wednesday today, again.
+== 266
+s h The Ballroom Mirror Panel! A great sheet of silvered glass, framed in gilt, and reflecting an entire floor of waxed oak. I look splendid in it.
+r n Sam, you look exactly the same as you did at twenty. A little more varnished.
+s n Rosalind, I shall treasure that. As a compliment, I think.
+c n The Grand Ballroom is the last great room of the Hall. The League has a card on the table. They wish to attend our reopening gala.
+j h We shall invite them. We shall feed them. And we shall make them feel that they have never been so welcome in their lives.
+c h Miss Bose, that is the most dangerous kind of hospitality.
+== 267
+h h The Dancing Master's Cane! A tall black stick with a silver knob, for tapping out the beat. It's got a lovely weight.
+b h Hugo, can you waltz?
+h n I can polka, Barnaby. It's a different thing. It's mostly a question of tempo and not looking down.
+b n I can't polka. I can only fall over in time.
+a h That is the first principle of the waltz, Barnaby. It is merely falling over in a very graceful circle.
+r n Come, my dears. We shall have lessons on Thursday, in the Ballroom, and everyone shall be bad at it together.
+== 268
+p n The Opera Glasses Stand. A row of little brass binoculars on a velvet rail, each one with a mother-of-pearl handle. I recommend them for observing the Society.
+c n I have used them for years, Miss Quill. They are good for watching people who think they are not being watched.
+p n I see Mr Merrick, in the gallery, wearing a green carnation and a very tight smile.
+s h He is always in the gallery, Prudence. It is the best seat, and the cheapest.
+c n Do not look, but he is looking at us. And, I think, at the founder's portrait.
+== 269
+m h The Floral Centrepiece! A great arrangement of white roses, ivory lilies, and, um, the flower from the edge of the map. In a silver bowl, as big as a cartwheel.
+r h Mark, you have outdone yourself. It is the loveliest thing I have seen in a ballroom. And, I should say, quite as tall as I am.
+m n It, um, wasn't just me. Mr Pluck held the ladder, and Anjali held the vase, and Hugo held the, um, the bolts.
+j h And I held my tongue, Mark. Which is the greatest feat of all.
+c n The Society has done it together. I do not think I have ever been so proud of a flower.
+== 270
+h h The Bandleader's Podium! A little round platform, with a brass rail and a music stand. I'm to conduct, Cornelia.
+c n Mr Pemberton, you cannot conduct. You cannot even read music.
+h n I can read the lullaby, Cornelia. It's the only tune in the Hall. We'll play it as a waltz.
+z h A waltz in six-eight, with the sixth note held. Hugo, that is genius.
+h h I know. I'm as surprised as you are. I think the Hall's been teaching me, and I haven't noticed.
+b w Miss Wren, there's a man at the door in a green carnation.
+== 271
+r h The Cut Glass Chandelier! Four thousand crystals, hung in nine tiers, all blazing. It is the finest thing in the Ballroom, and the finest thing I have ever seen in a ceiling.
+c n Mr Merrick has just arrived. He is in the doorway, looking up.
+s n He is looking at the chandelier, Cornelia. And then at the clock. And then at the door to the Tower.
+c n He knows the Tower is the thing. I wonder what else he knows.
+s w That the founder will return, Cornelia. And that he will be the first to find him. It is what the League has been planning for twenty years.
+c n Then they shall have the pleasure of waiting, as we have.
+== 272
+c n The Last Dance Slippers. A pair of little silk shoes, white as snow, and worn very slightly at the toe. I have wanted to dance in them since I was seven.
+r h Then dance, Cornelia. Here, with all of us, before the League and the whole Society.
+c n Mr Merrick, I have a proposal. The League may attend our gala, take our tea, and sit in our chairs. In return, you will sign the Charter, and agree to be a member like any other.
+s n Lucian, I should take it. I have found, in my experience, that membership is a great deal more fun than ownership.
+a h Splendid! A man who signs the Charter is a man who must also dance. And I should like to see it.
+b h He's signing it, Miss Wren! He's signed it! He's in!
+c h Then the League has been dissolved, and the Society restored. Play the waltz, Mr Pemberton.
+== 273
+a h The Pigeon Perch! A little ledge, high on the north face of the Tower, with a hundred little holes, and a hundred pigeons.
+b h They're all looking at me, Professor.
+a n They are looking at the crumbs in your pocket, Barnaby. You have been giving them biscuits.
+b s I have not! Only a few. Only the ones with raisins.
+c n Mr Pluck, the Hall is a place of rules. Biscuits are not for pigeons.
+a h Cornelia, every great Hall in the world has had its pigeons. And every great Hall in the world has made its peace with them.
+== 274
+h h The Clock Mechanic's Chair! A stool on a spindle, with a toolbox in a leather satchel, and a spanner in the shape of a seahorse. This is the best chair I've ever seen.
+c n It is yours, Mr Pemberton. I think it has been waiting for you.
+h w I feel as if I've sat in it before. I know where everything is. I could close my eyes, and put my hand on the right screw.
+a n It is a very familiar sensation, Hugo. I have it all the time in the Hall of Feathers.
+h n It's the hands, Aldous. They remember what the head forgets.
+== 275
+z h The Quarter Chimes! Four brass bells, in a row, each a different pitch. They ring every fifteen minutes, and they have not rung for twenty years.
+c n Mr Pemberton, are we ready?
+h n We're ready, Cornelia. Barnaby, stand by the rope.
+b h Aye, Mr Pemberton! Four bells. Do-re-mi-fa. Oh, listen! The whole Hall is chiming!
+r w It sounds like the Hall is waking up. For the last time, and the first.
+c n It is a quarter past eleven, Miss Thorne. We have forty-five minutes.
+== 276
+a n The Astronomical Clock Face. A great dial of blue enamel, with the sun and the moon in brass, and the constellations in silver. It tells the hour, the day, the month, and the position of the planets.
+h n It's the most complicated clock I've ever had in my hands, Aldous. It's got more wheels than the Hall has rooms.
+z n It is a map of the sky, and a map of the year, and a map of the day. And, I think, it is also a map of someone's heart.
+c n Miss Blackwood, do not be sentimental.
+z n I am a cartographer, Cornelia. It is a form of sentiment. We just draw it better.
+== 277
+h h The Great Mainspring! A coil of steel as long as a rowing boat, wound in a spiral inside a brass drum. And it's wound, Cornelia. It's wound all the way.
+c n Do you mean that every step in the Hall has wound it, Mr Pemberton?
+h n Every step. Every bit of tea carried up the stairs. Every door that opened. It's been waiting for us, and for twenty years, and it's now at full tension.
+p n It is a quarter to twelve, Cornelia. By every clock in the Hall.
+c w Then we shall climb. All of us, together. And we shall see what the Dial has to say.
+== 278
+c n The Great Clock Tower Dial. A face as large as a house, glowing in the midday sun. It is eleven fifty-nine, and the hands are about to meet.
+b w Miss Wren, I'm holding my breath.
+c n We all are, Mr Pluck. We have all been holding it for a great deal longer than twenty years.
+r w The big hand has met the little hand, my dears. It is noon.
+a h The clock is striking! Twelve. And, oh, my goodness, a thirteenth!
+z w And behind the dial, a door is opening. And on the other side, a staircase, and a very faint light. And a smell of tea.
+== 279
+b h The Broken Rocking Horse! A beautiful dapple-grey horse, with a cracked leg and a missing ear. I could fix him in an afternoon.
+h h I'll help, Barnaby. We'll make him as good as new. A new rocker, a bit of glue, and a very good ear.
+c n The Attic of Marvels. It is the last wing, and it is as dusty as the first.
+j h I should like to bring up a pot of tea, and sit among the marvels for a week.
+c n You may, Miss Bose. But first, we must find what the founder left behind. Come, all of you. Be careful where you tread.
+== 280
+r h The Magic Lantern Slides! A box of glass plates, painted with scenes of every place the founder ever visited. Hold one up to the light, and it glows.
+z n It is a journey, Rosalind. Hold them in order. The Gates, the Atrium, the Library, the Deep Vaults, the Tower. And the last, a great white sea, and a small boat.
+a w There is a figure standing in the boat. He is waving. And behind him, the Meridian, with all her lamps lit.
+c w He is not lost, Professor. Look at his face. He is exactly where he intended to be.
+b h And he's smiling, Miss Wren. He's smiling at us.
+== 281
+p n The Wishing Well Bucket. A little copper pail on a rope, at the bottom of a very deep well. At the bottom, a coin, and a folded note.
+c n Miss Quill, will you read it?
+p w It says: Dear Cornelia. I wished, long ago, that you would have a Hall to come home to. I wished that you would not be alone. And I wished, most of all, that you would never need to find me.
+c w He wished that I would not need to find him. And yet we have all spent twenty years doing precisely that.
+r n Cornelia, my dear, that is exactly what it was for. A Hall is a place that is found, not a place that is left.
+s n Then I am found, I think. I have been, for some time.
+== 282
+c n The Founder's Last Marvel. Every wing is restored, every room is lit, and every member is gathered. And on the table, a single, very small card.
+b h Miss Wren! It's addressed to everybody!
+c n It reads: Dear friends. The Hall is yours. Keep it as I could not. I have gone ahead to see what is next, and I shall be back by Wednesday.
+s h Which Wednesday?
+a h He did not say, Sam. That is the whole joy of it.
+r h Then we shall wait, my dears. With the lamps lit, and the door unlocked, and the kettle on.
+c h And in the meantime, Mr Pluck, there is a very great deal of Hall to look after. Fetch the polish. Gently.
