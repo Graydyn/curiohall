@@ -3,7 +3,7 @@
   "id": "01_001",
   "area": 1,
   "subroom": 0,
-  "name": "Exhibit 01_001",
+  "name": "The Gatekeeper's Lantern",
   "tasks": [
    "1_1",
    "1_2",
@@ -14,19 +14,19 @@
    90,
    320
   ],
-  "subject": "",
+  "subject": "a tall black wrought-iron post lantern with a glass lamp-house, a little rust blooming at its scrollwork base, a dusty brass burner inside",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Rusty iron",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Freshly lit",
+    "instruction": "make the lantern gleaming black iron with a warm amber flame glowing in clean glass and gilded tips on the scrolls, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Verdigris copper",
+    "instruction": "recast the lantern in green-patinated copper with a pointed hood and a soft teal glow, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -35,7 +35,7 @@
   "id": "01_002",
   "area": 1,
   "subroom": 0,
-  "name": "Exhibit 01_002",
+  "name": "The Griffin Gateposts",
   "tasks": [
    "1_5",
    "1_6",
@@ -45,19 +45,19 @@
    270,
    320
   ],
-  "subject": "",
+  "subject": "a pair of weathered stone gateposts each topped by a seated griffin with folded wings, ivy creeping up the pillars, joined by a short run of iron railing",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Mossy stone",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Gilded griffins",
+    "instruction": "make the griffins gilded with brass-capped pillars and the railings freshly painted burgundy, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Bronze guardians",
+    "instruction": "recast the griffins as dark polished bronze on pale cream stone pillars with trimmed ivy, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -561,7 +561,7 @@
   "id": "03_001",
   "area": 3,
   "subroom": 0,
-  "name": "Exhibit 03_001",
+  "name": "The Boot Scraper",
   "tasks": [
    "8_1",
    "8_2",
@@ -572,19 +572,19 @@
    90,
    320
   ],
-  "subject": "",
+  "subject": "a low cast-iron boot scraper shaped like a crouching hedgehog, a stiff bristle brush beside it, caked with dried mud",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Muddy iron",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Polished brass",
+    "instruction": "make the hedgehog polished brass with a clean new brush and a teal enamel base plate, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Terracotta hog",
+    "instruction": "make the hedgehog glazed terracotta with a speckled green glaze and a wicker brush, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -593,7 +593,7 @@
   "id": "03_002",
   "area": 3,
   "subroom": 0,
-  "name": "Exhibit 03_002",
+  "name": "The Hat Stand",
   "tasks": [
    "8_5",
    "8_6",
@@ -603,19 +603,19 @@
    270,
    320
   ],
-  "subject": "",
+  "subject": "a tall carved walnut hat stand with curling brass pegs, a single battered bowler hat and a dusty top hat hanging on it",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Walnut",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Bentwood",
+    "instruction": "make the stand pale steam-bent bentwood with a round wire hoop for umbrellas near the base, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Antler stand",
+    "instruction": "make the stand a rack of branching antlers on a dark oak post, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -624,7 +624,7 @@
   "id": "03_003",
   "area": 3,
   "subroom": 0,
-  "name": "Exhibit 03_003",
+  "name": "The Coat Rail",
   "tasks": [
    "8_8",
    "8_9",
@@ -634,19 +634,19 @@
    450,
    320
   ],
-  "subject": "",
+  "subject": "a long dark-oak coat rail with brass hooks bearing a few moth-eaten tweed overcoats and a gentleman's scarf",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Moth-eaten",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Fresh tweed",
+    "instruction": "make the coats crisp new tweed in teal, cream and burgundy with bright brass hooks, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Velvet capes",
+    "instruction": "replace the coats with plush velvet evening capes in burgundy and deep teal with fur collars, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -655,7 +655,7 @@
   "id": "03_004",
   "area": 3,
   "subroom": 0,
-  "name": "Exhibit 03_004",
+  "name": "The Umbrella Barrel",
   "tasks": [
    "9_1",
    "9_2",
@@ -666,19 +666,19 @@
    630,
    320
   ],
-  "subject": "",
+  "subject": "a squat oak barrel bound with iron hoops, full of furled black umbrellas and walking sticks with carved handles",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Oak barrel",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Brass pail",
+    "instruction": "make the barrel a tall hammered brass pail with lion-mask handles and silk umbrellas in jewel colours, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Painted tub",
+    "instruction": "make the barrel painted deep teal with gilt stripes and a rim of cream parasols, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -687,7 +687,7 @@
   "id": "03_005",
   "area": 3,
   "subroom": 0,
-  "name": "Exhibit 03_005",
+  "name": "The Ticket Stamp Counter",
   "tasks": [
    "9_5",
    "9_6",
@@ -697,19 +697,19 @@
    90,
    580
   ],
-  "subject": "",
+  "subject": "a small mahogany cloakroom counter with a brass hand bell, rows of blank brass tag hooks and a rubber stamp on a pad",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Mahogany",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Marble top",
+    "instruction": "give the counter a creamy marble top, brass edging and a glossy green leather mat, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Pigeonhole bureau",
+    "instruction": "make the counter a tall pigeonhole bureau of pale ash with a roll-top front, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -718,7 +718,7 @@
   "id": "03_006",
   "area": 3,
   "subroom": 0,
-  "name": "Exhibit 03_006",
+  "name": "The Lost Property Hamper",
   "tasks": [
    "9_8",
    "9_9",
@@ -728,19 +728,19 @@
    270,
    580
   ],
-  "subject": "",
+  "subject": "a wicker laundry-style hamper with a hinged lid, overflowing with odd gloves, a single shoe and a knitted scarf",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Wicker",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Strapped trunk",
+    "instruction": "make the hamper a leather-bound travelling trunk with brass corners and the oddments neatly folded, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Gilded basket",
+    "instruction": "make the hamper a gilded wire basket lined with burgundy velvet with the gloves in matched pairs, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -749,7 +749,7 @@
   "id": "03_007",
   "area": 3,
   "subroom": 0,
-  "name": "Exhibit 03_007",
+  "name": "The Vestibule Bench",
   "tasks": [
    "10_1",
    "10_2",
@@ -759,19 +759,19 @@
    450,
    580
   ],
-  "subject": "",
+  "subject": "a long upholstered waiting bench with carved scroll ends, its dusty green cushion faded and buttons missing",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Faded green",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Burgundy buttons",
+    "instruction": "make the cushion deep burgundy velvet with crisp brass-studded buttons, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Pale chinoiserie",
+    "instruction": "make the bench painted cream with delicate hand-painted blossom on the seat and back, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -780,7 +780,7 @@
   "id": "03_008",
   "area": 3,
   "subroom": 0,
-  "name": "Exhibit 03_008",
+  "name": "The Tiled Floor Medallion",
   "tasks": [
    "10_4",
    "10_5",
@@ -790,19 +790,19 @@
    630,
    580
   ],
-  "subject": "",
+  "subject": "a round Victorian encaustic tile medallion in geometric patterns of teal, cream, ochre and oxblood, set in a square slab of plain flagstones",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Encaustic tile",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Mosaic star",
+    "instruction": "make the medallion a fine mosaic star of tiny glass tesserae in gold and teal, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Black and white",
+    "instruction": "make the medallion bold black and white marble with a brass compass inlay, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -811,7 +811,7 @@
   "id": "03_009",
   "area": 3,
   "subroom": 0,
-  "name": "Exhibit 03_009",
+  "name": "The Mirror in the Mist",
   "tasks": [
    "10_7",
    "10_8",
@@ -821,19 +821,19 @@
    90,
    840
   ],
-  "subject": "",
+  "subject": "a tall arched mirror in a heavy gilt frame, clouded and spotted with age, on a small marble console",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Gilt and misted",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Bright and clean",
+    "instruction": "make the mirror clear and bright with a freshly gilded frame and a vase of cream roses on the console, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Ebonised frame",
+    "instruction": "make the frame black ebonised wood with gold beading and a polished silver-grey glass, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -842,7 +842,7 @@
   "id": "03_010",
   "area": 3,
   "subroom": 0,
-  "name": "Exhibit 03_010",
+  "name": "The Barometer Board",
   "tasks": [
    "10_10",
    "10_11"
@@ -851,19 +851,19 @@
    270,
    840
   ],
-  "subject": "",
+  "subject": "a carved oak wall barometer with a round brass-bound dial, a slender thermometer tube and a pointer set at a gentle breeze, dial marks without numbers",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Oak and brass",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Ship's barometer",
+    "instruction": "make the barometer a ship's pattern in polished teak with a rope-bound frame, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Gilded sunburst",
+    "instruction": "make the barometer a gilded sunburst with a mirrored glass dial, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -872,7 +872,7 @@
   "id": "03_011",
   "area": 3,
   "subroom": 0,
-  "name": "Exhibit 03_011",
+  "name": "The Brass Letter Box",
   "tasks": [
    "11_1",
    "11_2",
@@ -883,19 +883,19 @@
    450,
    840
   ],
-  "subject": "",
+  "subject": "a freestanding pillar-style brass letter box with a flap slot and a little padlock, slightly tarnished",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Tarnished brass",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Red pillar",
+    "instruction": "make the box glossy burgundy red enamel with brass fittings, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Teal postmaster",
+    "instruction": "make the box deep teal with gilt edging and a crowned cap, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -904,7 +904,7 @@
   "id": "03_012",
   "area": 3,
   "subroom": 0,
-  "name": "Exhibit 03_012",
+  "name": "The Visitors' Umbrella Rack",
   "tasks": [
    "11_5",
    "11_6",
@@ -914,19 +914,19 @@
    630,
    840
   ],
-  "subject": "",
+  "subject": "a long wrought-iron rack of curving hooped stalls, each with a little drip tray of beaten copper",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Wrought iron",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Brass and glass",
+    "instruction": "make the rack polished brass with etched glass drip trays, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Ironwork vines",
+    "instruction": "make the rack iron cast as winding vines and leaves, painted teal, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -935,7 +935,7 @@
   "id": "03_013",
   "area": 3,
   "subroom": 0,
-  "name": "Exhibit 03_013",
+  "name": "The Vestibule Chandelier",
   "tasks": [
    "11_8",
    "11_9",
@@ -945,19 +945,19 @@
    90,
    1100
   ],
-  "subject": "",
+  "subject": "a small crystal chandelier of eight gas arms hung from a plaster rose, dusty with a few missing drops, unlit",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Dusty crystal",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Aglow",
+    "instruction": "make the chandelier clean and sparkling with every arm lit warm amber, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Gilt tulips",
+    "instruction": "make the chandelier gilt brass with frosted tulip-shaped shades, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -966,7 +966,7 @@
   "id": "04_001",
   "area": 4,
   "subroom": 0,
-  "name": "Exhibit 04_001",
+  "name": "The Overflowing Wastepaper Basket",
   "tasks": [
    "12_1",
    "12_2",
@@ -976,19 +976,19 @@
    90,
    320
   ],
-  "subject": "",
+  "subject": "a wicker wastepaper basket stuffed with crumpled blank paper balls and a snapped quill",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Wicker",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Brass bin",
+    "instruction": "make the basket a pierced brass bin with a velvet liner and neatly rolled paper, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Lacquered pail",
+    "instruction": "make the basket a black lacquered pail with gold flowers painted on, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -997,7 +997,7 @@
   "id": "04_002",
   "area": 4,
   "subroom": 0,
-  "name": "Exhibit 04_002",
+  "name": "The Curator's Rug",
   "tasks": [
    "12_4",
    "12_5",
@@ -1007,19 +1007,19 @@
    270,
    320
   ],
-  "subject": "",
+  "subject": "a worn rectangular Persian-style rug in faded burgundy and teal with a fringed edge, trodden thin in the middle",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Faded wool",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Silk weave",
+    "instruction": "make the rug glossy silk in rich burgundy, teal and gold with perfect fringe, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Tiger skin",
+    "instruction": "make the rug a tawny velvet-soft tiger-skin rug with a stitched felt border, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -1028,7 +1028,7 @@
   "id": "04_003",
   "area": 4,
   "subroom": 0,
-  "name": "Exhibit 04_003",
+  "name": "The Pen Tray",
   "tasks": [
    "12_7",
    "12_8",
@@ -1038,19 +1038,19 @@
    450,
    320
   ],
-  "subject": "",
+  "subject": "a heavy cut-glass inkwell with a brass lid, two quills and a steel nib pen laid in a small walnut tray",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Glass and walnut",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Silver set",
+    "instruction": "make the set polished silver with a tray of chased silver filigree, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Malachite set",
+    "instruction": "make the tray and inkwell polished green malachite with gold fittings, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -1059,7 +1059,7 @@
   "id": "04_004",
   "area": 4,
   "subroom": 0,
-  "name": "Exhibit 04_004",
+  "name": "The Specimen Filing Cabinet",
   "tasks": [
    "12_10",
    "12_11"
@@ -1068,19 +1068,19 @@
    630,
    320
   ],
-  "subject": "",
+  "subject": "a tall oak filing cabinet of many small drawers with brass pulls and blank card holders, one drawer hanging open",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Oak drawers",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Teal lacquer",
+    "instruction": "make the cabinet teal lacquer with gilt trim and brass pulls shaped like little shells, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Apothecary style",
+    "instruction": "make the cabinet a pale wood apothecary chest with tiny curved glass-knobbed drawers, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -1089,7 +1089,7 @@
   "id": "04_005",
   "area": 4,
   "subroom": 0,
-  "name": "Exhibit 04_005",
+  "name": "The Green-Shaded Reading Lamp",
   "tasks": [
    "13_1",
    "13_2",
@@ -1100,19 +1100,19 @@
    90,
    580
   ],
-  "subject": "",
+  "subject": "a brass desk lamp with a green glass shade on a flexible stem, set on a little round base",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Green glass",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Opaline shade",
+    "instruction": "make the shade milky opaline glass with a gold rim, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Tulip lamp",
+    "instruction": "make the lamp a brass tulip bloom with a ruffled frosted shade, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -1121,7 +1121,7 @@
   "id": "04_006",
   "area": 4,
   "subroom": 0,
-  "name": "Exhibit 04_006",
+  "name": "The Pigeonhole Bureau",
   "tasks": [
    "13_5",
    "13_6",
@@ -1131,19 +1131,19 @@
    270,
    580
   ],
-  "subject": "",
+  "subject": "a wide walnut desk bureau with a rolled-top lid half open on rows of empty pigeonholes",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Walnut",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Rosewood",
+    "instruction": "make the bureau glossy rosewood with inlaid brass stringing and tooled leather writing surface, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Painted bureau",
+    "instruction": "make the bureau cream with hand-painted birds and flowers in teal and gold, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -1152,7 +1152,7 @@
   "id": "04_007",
   "area": 4,
   "subroom": 0,
-  "name": "Exhibit 04_007",
+  "name": "The Overstuffed Wing Chair",
   "tasks": [
    "13_8",
    "13_9",
@@ -1162,19 +1162,19 @@
    450,
    580
   ],
-  "subject": "",
+  "subject": "a deep wing-backed armchair in buttoned oxblood leather with a sagging seat and a crocheted antimacassar",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Oxblood leather",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Tartan",
+    "instruction": "make the chair upholstered in teal and burgundy tartan wool, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Chintz bloom",
+    "instruction": "make the chair soft cream chintz with large pink cabbage roses, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -1183,7 +1183,7 @@
   "id": "04_008",
   "area": 4,
   "subroom": 0,
-  "name": "Exhibit 04_008",
+  "name": "The Curator's Magnifier",
   "tasks": [
    "14_1",
    "14_2",
@@ -1194,19 +1194,19 @@
    630,
    580
   ],
-  "subject": "",
+  "subject": "a large brass-mounted magnifying glass on a swing arm clamped to a small oak stand, its lens cloudy",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Cloudy lens",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Crystal clear",
+    "instruction": "make the lens bright and clear with a polished brass swing arm, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Jewel loupe",
+    "instruction": "replace it with a heavy jeweller's loupe in a gold ring mount on a velvet cushion, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -1215,7 +1215,7 @@
   "id": "04_009",
   "area": 4,
   "subroom": 0,
-  "name": "Exhibit 04_009",
+  "name": "The Card Index",
   "tasks": [
    "14_5",
    "14_6",
@@ -1225,19 +1225,19 @@
    90,
    840
   ],
-  "subject": "",
+  "subject": "a squat oak box of long narrow index drawers each with a brass slot for a blank card, set on short turned feet",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Oak index",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Mother-of-pearl",
+    "instruction": "make the box dark wood inlaid with swirls of mother-of-pearl, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Brass bound",
+    "instruction": "make the box bound in brass at every corner with a leather top, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -1246,7 +1246,7 @@
   "id": "04_010",
   "area": 4,
   "subroom": 0,
-  "name": "Exhibit 04_010",
+  "name": "The Hall at Dusk",
   "tasks": [
    "14_8",
    "14_9",
@@ -1256,19 +1256,19 @@
    270,
    840
   ],
-  "subject": "",
+  "subject": "a large oil painting of a grand Victorian museum facade at dusk with glowing windows, in a heavy gilt frame, hung slightly askew",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Oil painting",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Watercolour",
+    "instruction": "make the picture a soft pale watercolour in a slim cream mount and narrow brass frame, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Engraving",
+    "instruction": "make the picture a fine black-and-white steel engraving in an ebony frame, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -1277,7 +1277,7 @@
   "id": "04_011",
   "area": 4,
   "subroom": 0,
-  "name": "Exhibit 04_011",
+  "name": "The Hall Plan Table",
   "tasks": [
    "15_1",
    "15_2",
@@ -1287,19 +1287,19 @@
    450,
    840
   ],
-  "subject": "",
+  "subject": "a large drafting table spread with a rolled architectural plan of the museum drawn as blank outlines, weighed down by brass paperweights",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Plan table",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Model table",
+    "instruction": "replace the plan with a tiny scale model of the Hall in cream card under a glass hood, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Gilded easel",
+    "instruction": "make the table a slanted gilt-edged drawing board with set squares and compasses, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -1308,7 +1308,7 @@
   "id": "04_012",
   "area": 4,
   "subroom": 0,
-  "name": "Exhibit 04_012",
+  "name": "The Specimen Safe",
   "tasks": [
    "15_4",
    "15_5",
@@ -1318,19 +1318,19 @@
    630,
    840
   ],
-  "subject": "",
+  "subject": "a squat black iron strongbox with a gilded combination dial of unlabelled marks and heavy brass hinges",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Black iron",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Teal enamel",
+    "instruction": "make the safe teal enamel with gilt scrolls and a glossy brass dial, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Open treasure",
+    "instruction": "swing the door open showing a lining of burgundy velvet and a velvet-wrapped pearl, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -1339,7 +1339,7 @@
   "id": "04_013",
   "area": 4,
   "subroom": 0,
-  "name": "Exhibit 04_013",
+  "name": "The Curator's Orrery Clock",
   "tasks": [
    "15_7",
    "15_8",
@@ -1349,19 +1349,19 @@
    90,
    1100
   ],
-  "subject": "",
+  "subject": "a small brass desk clock combined with a rotating model of planets on slim arms, dial without numerals",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Brass orrery",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Silver planets",
+    "instruction": "make the planets enamelled spheres of silver and blue on a black onyx base, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Glass dome",
+    "instruction": "enclose it all in a glass dome on a walnut plinth, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -1370,7 +1370,7 @@
   "id": "04_014",
   "area": 4,
   "subroom": 0,
-  "name": "Exhibit 04_014",
+  "name": "The Curator's Desk",
   "tasks": [
    "15_10",
    "15_11"
@@ -1379,19 +1379,19 @@
    270,
    1100
   ],
-  "subject": "",
+  "subject": "a monumental mahogany partners' desk with a green leather top, claw-footed, strewn with blank papers, a lamp and an inkwell",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Mahogany",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Ebony and gilt",
+    "instruction": "make the desk black ebony with gilded carvings and a burgundy leather top, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Satinwood",
+    "instruction": "make the desk pale satinwood with inlaid marquetry stars and polished brass handles, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -1400,7 +1400,7 @@
   "id": "05_001",
   "area": 5,
   "subroom": 0,
-  "name": "Exhibit 05_001",
+  "name": "The Dusty Doily Table",
   "tasks": [
    "16_1",
    "16_2",
@@ -1410,19 +1410,19 @@
    90,
    320
   ],
-  "subject": "",
+  "subject": "a small round tea table with a carved pedestal and a yellowed lace doily, bare of cups",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Walnut pedestal",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Marble top",
+    "instruction": "give the table a pink-veined marble top and a brass-banded foot, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Painted tin",
+    "instruction": "make the table cream painted iron with a scalloped tin top and rosebuds, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -1431,7 +1431,7 @@
   "id": "05_002",
   "area": 5,
   "subroom": 0,
-  "name": "Exhibit 05_002",
+  "name": "Anjali's Spice Rack",
   "tasks": [
    "16_4",
    "16_5",
@@ -1441,19 +1441,19 @@
    270,
    320
   ],
-  "subject": "",
+  "subject": "a wall-hung wooden rack of small glass jars filled with tea leaves and whole spices in amber, green and red, jars unlabelled",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Pine rack",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Brass shelves",
+    "instruction": "make the rack polished brass shelving with blown glass jars, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Tin canisters",
+    "instruction": "replace the jars with round painted tin canisters in teal and burgundy, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -1462,7 +1462,7 @@
   "id": "05_003",
   "area": 5,
   "subroom": 0,
-  "name": "Exhibit 05_003",
+  "name": "The Samovar",
   "tasks": [
    "16_7",
    "16_8",
@@ -1472,19 +1472,19 @@
    450,
    320
   ],
-  "subject": "",
+  "subject": "a tall brass samovar with a round belly, tap and a little crown teapot on top, tarnished dark",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Tarnished brass",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Silver plate",
+    "instruction": "make the samovar bright silver plate with ebony handles, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Enamelled urn",
+    "instruction": "make the samovar blue enamelled with gold flowers and a brass tap, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -1493,7 +1493,7 @@
   "id": "05_004",
   "area": 5,
   "subroom": 0,
-  "name": "Exhibit 05_004",
+  "name": "The Tiered Cake Stand",
   "tasks": [
    "16_10",
    "16_11"
@@ -1502,19 +1502,19 @@
    630,
    320
   ],
-  "subject": "",
+  "subject": "a three-tier china cake stand holding stale fondant fancies and a sad sponge, with a chipped middle plate",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Stale cakes",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Fresh bakes",
+    "instruction": "fill the stand with fresh pastel iced fancies, little tarts and a cherry sponge, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Silver stand",
+    "instruction": "make the stand ornate silver with glass plates and sugared violets, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -1523,7 +1523,7 @@
   "id": "05_005",
   "area": 5,
   "subroom": 0,
-  "name": "Exhibit 05_005",
+  "name": "The Anjali Teapot Collection",
   "tasks": [
    "17_1",
    "17_2",
@@ -1533,19 +1533,19 @@
    90,
    580
   ],
-  "subject": "",
+  "subject": "a crowded dresser shelf of mismatched teapots in the shapes of a cottage, a cabbage, a pumpkin and a pug dog",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Mismatched pots",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Blue and white",
+    "instruction": "make all the teapots blue-and-white porcelain in matching willow patterns, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Gold lustre",
+    "instruction": "make the teapots shiny gold lustre ware with ivory handles, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -1554,7 +1554,7 @@
   "id": "05_006",
   "area": 5,
   "subroom": 0,
-  "name": "Exhibit 05_006",
+  "name": "The Tea Room Chaise",
   "tasks": [
    "17_4",
    "17_5",
@@ -1564,19 +1564,19 @@
    270,
    580
   ],
-  "subject": "",
+  "subject": "a curved chaise longue in faded rose velvet with a scroll arm and tassel cushion",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Rose velvet",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Teal damask",
+    "instruction": "make the chaise deep teal damask with gilt feet and a brass-studded edge, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Wicker lounge",
+    "instruction": "make the chaise white wicker with plump striped cushions, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -1585,7 +1585,7 @@
   "id": "05_007",
   "area": 5,
   "subroom": 0,
-  "name": "Exhibit 05_007",
+  "name": "The Great Tea Urn",
   "tasks": [
    "17_7",
    "17_8",
@@ -1595,19 +1595,19 @@
    450,
    580
   ],
-  "subject": "",
+  "subject": "a vast gleaming copper tea urn on a trolley with a tap, cups hanging from hooks, a little steam curling",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Copper urn",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Steam engine",
+    "instruction": "give the urn a tiny brass piston, pipes and a pressure gauge with no numbers, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Gilded fountain",
+    "instruction": "make the urn a tiered gilded fountain pouring gently into a saucer-basin, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -1616,7 +1616,7 @@
   "id": "06_001",
   "area": 6,
   "subroom": 0,
-  "name": "Exhibit 06_001",
+  "name": "The Perching Pole",
   "tasks": [
    "18_1",
    "18_2",
@@ -1626,19 +1626,19 @@
    90,
    320
   ],
-  "subject": "",
+  "subject": "a long varnished wooden perch on iron brackets with a scatter of fallen grey feathers beneath",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Bare perch",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Mossy branch",
+    "instruction": "make the perch a natural branch wound with moss and dry ivy, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Brass rail",
+    "instruction": "make the perch a polished brass rail with a velvet cushion, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -1647,7 +1647,7 @@
   "id": "06_002",
   "area": 6,
   "subroom": 0,
-  "name": "Exhibit 06_002",
+  "name": "The Egg Tray",
   "tasks": [
    "18_4",
    "18_5",
@@ -1657,19 +1657,19 @@
    270,
    320
   ],
-  "subject": "",
+  "subject": "a shallow velvet-lined wooden tray of speckled bird eggs in graduated sizes, in little round hollows, a few hollows empty",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Speckled eggs",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Gilded eggs",
+    "instruction": "make the eggs polished gold and silver with fine enamel patterns, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Nest of twigs",
+    "instruction": "replace the tray with a woven twig nest holding the same eggs, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -1678,7 +1678,7 @@
   "id": "06_003",
   "area": 6,
   "subroom": 0,
-  "name": "Exhibit 06_003",
+  "name": "The Feather Duster Stand",
   "tasks": [
    "18_7",
    "18_8",
@@ -1688,19 +1688,19 @@
    450,
    320
   ],
-  "subject": "",
+  "subject": "a tall brass stand holding a bouquet of feather dusters in cream, peacock-green and grey",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Plain feathers",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Ostrich plumes",
+    "instruction": "make the dusters huge soft ostrich plumes dyed teal and burgundy, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Fan stand",
+    "instruction": "make the dusters spread silk-and-feather fans in a gilded frame, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -1709,7 +1709,7 @@
   "id": "06_004",
   "area": 6,
   "subroom": 0,
-  "name": "Exhibit 06_004",
+  "name": "Aldous's Field Journal Desk",
   "tasks": [
    "19_1",
    "19_2",
@@ -1719,19 +1719,19 @@
    630,
    320
   ],
-  "subject": "",
+  "subject": "a small slanted writing desk with a leather-bound blank notebook, a brass spyglass, binoculars and a pot of dried grasses",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Field desk",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Teak and brass",
+    "instruction": "make the desk polished teak with brass corner guards, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Campaign desk",
+    "instruction": "make the desk a folding canvas campaign desk with leather straps, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -1740,7 +1740,7 @@
   "id": "06_005",
   "area": 6,
   "subroom": 0,
-  "name": "Exhibit 06_005",
+  "name": "The Barn Owl",
   "tasks": [
    "19_4",
    "19_5",
@@ -1750,19 +1750,19 @@
    90,
    580
   ],
-  "subject": "",
+  "subject": "a stuffed barn owl with a pale heart-shaped face and wings half open, perched on a gnarled branch",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Barn owl",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Snowy owl",
+    "instruction": "make the owl a white snowy owl with dark flecks perched on a pale birch branch, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Brass owl",
+    "instruction": "recast the owl as a polished brass automaton owl with gear-patterned wings, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -1771,7 +1771,7 @@
   "id": "06_006",
   "area": 6,
   "subroom": 0,
-  "name": "Exhibit 06_006",
+  "name": "The Kingfisher Diorama",
   "tasks": [
    "19_7",
    "19_8",
@@ -1781,19 +1781,19 @@
    270,
    580
   ],
-  "subject": "",
+  "subject": "a small glass-fronted case showing a kingfisher on a reed above a painted stream, the glass dusty",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Dusty case",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Gilded case",
+    "instruction": "make the case a clean glass box with a gilded frame and sparkling water, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Winter river",
+    "instruction": "make the scene frosty with icicles on the reed and a pale grey-blue stream, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -1802,7 +1802,7 @@
   "id": "06_007",
   "area": 6,
   "subroom": 0,
-  "name": "Exhibit 06_007",
+  "name": "The Great Hornbill",
   "tasks": [
    "20_1",
    "20_2",
@@ -1812,19 +1812,19 @@
    450,
    580
   ],
-  "subject": "",
+  "subject": "a large stuffed hornbill with a huge curved casque bill perched on a cut log",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Hornbill",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Porcelain bird",
+    "instruction": "make the bird glazed white porcelain with bright gold and red painting, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Carved wood",
+    "instruction": "make the bird carved and lacquered wood in black and orange, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -1833,7 +1833,7 @@
   "id": "06_008",
   "area": 6,
   "subroom": 0,
-  "name": "Exhibit 06_008",
+  "name": "The Peacock Screen",
   "tasks": [
    "20_4",
    "20_5",
@@ -1843,19 +1843,19 @@
    630,
    580
   ],
-  "subject": "",
+  "subject": "a tall folding screen painted with a spread peacock tail in blues and greens, a frame of carved ebony",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Painted screen",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Embroidered silk",
+    "instruction": "make the screen embroidered silk with shimmering metallic thread, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Stained glass",
+    "instruction": "make the peacock a stained-glass panel lit from behind, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -1864,7 +1864,7 @@
   "id": "06_009",
   "area": 6,
   "subroom": 0,
-  "name": "Exhibit 06_009",
+  "name": "The Hummingbird Cabinet",
   "tasks": [
    "20_7",
    "20_8",
@@ -1874,19 +1874,19 @@
    90,
    840
   ],
-  "subject": "",
+  "subject": "a narrow glass-fronted walnut cabinet containing rows of tiny jewel-coloured hummingbirds pinned among paper flowers",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Walnut cabinet",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Brass cabinet",
+    "instruction": "make the cabinet a polished brass-framed vitrine with velvet-lined shelves, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Glow cabinet",
+    "instruction": "make the birds softly glowing with firefly light in a dark blue lined cabinet, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -1895,7 +1895,7 @@
   "id": "06_010",
   "area": 6,
   "subroom": 0,
-  "name": "Exhibit 06_010",
+  "name": "The Phoenix of the Hall",
   "tasks": [
    "20_10",
    "20_11"
@@ -1904,19 +1904,19 @@
    270,
    840
   ],
-  "subject": "",
+  "subject": "a large taxidermy firebird with long trailing orange-gold tail feathers and wings arching over a brass perch stand",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Gilded plumes",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Cinder phoenix",
+    "instruction": "make the phoenix dark charcoal with glowing ember-orange feather edges, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Ice phoenix",
+    "instruction": "make the phoenix crystalline pale blue and white with frosted feather tips, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -1925,7 +1925,7 @@
   "id": "07_001",
   "area": 7,
   "subroom": 0,
-  "name": "Exhibit 07_001",
+  "name": "The Garden Trowel Rack",
   "tasks": [
    "21_1",
    "21_2",
@@ -1935,19 +1935,19 @@
    90,
    320
   ],
-  "subject": "",
+  "subject": "a wooden rack of small garden trowels, a watering can and a pair of secateurs hung on iron hooks",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Weathered wood",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Copper tools",
+    "instruction": "make the tools bright copper with polished wooden handles, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Tidy shed",
+    "instruction": "make the rack painted sage green with each tool clean and sharp, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -1956,7 +1956,7 @@
   "id": "07_002",
   "area": 7,
   "subroom": 0,
-  "name": "Exhibit 07_002",
+  "name": "The Misting Pipe",
   "tasks": [
    "21_4",
    "21_5",
@@ -1966,19 +1966,19 @@
    270,
    320
   ],
-  "subject": "",
+  "subject": "a curved brass pipe with a fine spray rose over a drain, dripping",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Dripping brass",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Fountain mist",
+    "instruction": "make the pipe spray a soft glittering mist in the light, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Bamboo",
+    "instruction": "make the pipe a bamboo flume on a driftwood base, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -1987,7 +1987,7 @@
   "id": "07_003",
   "area": 7,
   "subroom": 0,
-  "name": "Exhibit 07_003",
+  "name": "The Netting Frame",
   "tasks": [
    "21_7",
    "21_8",
@@ -1997,19 +1997,19 @@
    450,
    320
   ],
-  "subject": "",
+  "subject": "a tall pole frame hung with soft white gauze netting forming a little tent",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Gauze tent",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Embroidered veil",
+    "instruction": "make the gauze lace-trimmed with embroidered flowers, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Lantern net",
+    "instruction": "make the net hung with tiny glowing paper lanterns, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -2018,7 +2018,7 @@
   "id": "07_004",
   "area": 7,
   "subroom": 0,
-  "name": "Exhibit 07_004",
+  "name": "The Pupae Shelf",
   "tasks": [
    "21_10",
    "21_11",
@@ -2028,19 +2028,19 @@
    630,
    320
   ],
-  "subject": "",
+  "subject": "a mossy wooden shelf of small glass jars each holding a twig and a hanging chrysalis in green and gold",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Jarred chrysalises",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Cocoon rack",
+    "instruction": "make the jars hanging silk cocoons on thin wires, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Hatching",
+    "instruction": "make the chrysalises splitting open with new damp wings emerging, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -2049,7 +2049,7 @@
   "id": "07_005",
   "area": 7,
   "subroom": 0,
-  "name": "Exhibit 07_005",
+  "name": "The Nectar Fountain",
   "tasks": [
    "22_1",
    "22_2",
@@ -2060,19 +2060,19 @@
    90,
    580
   ],
-  "subject": "",
+  "subject": "a small tiered stone bowl brimming with orange slices, sugar water and bright flowers",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Stone bowl",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Glass dish",
+    "instruction": "make the bowl a hand-blown glass dish set in brass, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Floral urn",
+    "instruction": "make the bowl a cream urn with trailing nasturtiums, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -2081,7 +2081,7 @@
   "id": "07_006",
   "area": 7,
   "subroom": 0,
-  "name": "Exhibit 07_006",
+  "name": "The Swallowtail Frame",
   "tasks": [
    "22_5",
    "22_6",
@@ -2091,19 +2091,19 @@
    270,
    580
   ],
-  "subject": "",
+  "subject": "a framed display of a large yellow-and-black swallowtail butterfly pinned on cream card in a glass case",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Pinned specimen",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Live and fluttering",
+    "instruction": "make the butterfly alive with wings spread above a blossom, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Gilded wings",
+    "instruction": "make the wings fine gold leaf with delicate teal edges, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -2112,7 +2112,7 @@
   "id": "07_007",
   "area": 7,
   "subroom": 0,
-  "name": "Exhibit 07_007",
+  "name": "The Morpho Case",
   "tasks": [
    "22_8",
    "22_9",
@@ -2122,19 +2122,19 @@
    450,
    580
   ],
-  "subject": "",
+  "subject": "a glass-topped wooden case holding brilliant iridescent blue morpho butterflies in a fan pattern",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Blue morpho",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Sunset morpho",
+    "instruction": "make the butterflies orange, rose and gold, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Moon morpho",
+    "instruction": "make the butterflies pearl-white and silver, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -2143,7 +2143,7 @@
   "id": "07_008",
   "area": 7,
   "subroom": 0,
-  "name": "Exhibit 07_008",
+  "name": "The Orchid Arbour",
   "tasks": [
    "23_1",
    "23_2",
@@ -2153,19 +2153,19 @@
    630,
    580
   ],
-  "subject": "",
+  "subject": "a curved white-painted iron arbour covered in climbing orchids and ferns",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Orchid trellis",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Rose arch",
+    "instruction": "make the arbour twined with blush-pink climbing roses, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Wisteria arch",
+    "instruction": "make the arbour dripping with purple wisteria, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -2174,7 +2174,7 @@
   "id": "07_009",
   "area": 7,
   "subroom": 0,
-  "name": "Exhibit 07_009",
+  "name": "The Chrysalis Chandelier",
   "tasks": [
    "23_4",
    "23_5",
@@ -2184,19 +2184,19 @@
    90,
    840
   ],
-  "subject": "",
+  "subject": "a hanging brass chandelier whose arms hold glass cases of sleeping chrysalises, glowing faintly",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Glass chandelier",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Silk lantern",
+    "instruction": "make it a cluster of silk-wrapped lanterns glowing amber, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Starlight",
+    "instruction": "make the glow cool blue-white like tiny stars, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -2205,7 +2205,7 @@
   "id": "07_010",
   "area": 7,
   "subroom": 0,
-  "name": "Exhibit 07_010",
+  "name": "The Monarch Migration Globe",
   "tasks": [
    "23_7",
    "23_8",
@@ -2215,19 +2215,19 @@
    270,
    840
   ],
-  "subject": "",
+  "subject": "a large glass globe on a stand filled with dozens of orange monarch butterflies in flight around a miniature tree",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Monarch globe",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Winter globe",
+    "instruction": "make the globe full of snow-white butterflies on a bare frosted tree, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Jewelled globe",
+    "instruction": "make the butterflies cut jewels of garnet and topaz, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -2236,7 +2236,7 @@
   "id": "08_001",
   "area": 8,
   "subroom": 0,
-  "name": "Exhibit 08_001",
+  "name": "The Cracked Plant Pots",
   "tasks": [
    "24_1",
    "24_2",
@@ -2246,19 +2246,19 @@
    90,
    320
   ],
-  "subject": "",
+  "subject": "a stack of three terracotta flower pots, one cracked, with dried soil and a small hand fork leaning on them",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Cracked terracotta",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Glazed pots",
+    "instruction": "make the pots glossy teal glazed ceramic with gilt rims, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Mossy stone",
+    "instruction": "make the pots weathered grey stone troughs with moss, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -2267,7 +2267,7 @@
   "id": "08_002",
   "area": 8,
   "subroom": 0,
-  "name": "Exhibit 08_002",
+  "name": "The Wrought-Iron Plant Stand",
   "tasks": [
    "24_4",
    "24_5",
@@ -2277,19 +2277,19 @@
    270,
    320
   ],
-  "subject": "",
+  "subject": "a tall iron plant stand in tiers of scrolled shelves holding small ferns and a dried-out begonia",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Black iron",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Verdigris",
+    "instruction": "make the stand verdigris green with bright new leaves, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "White enamel",
+    "instruction": "make the stand white-painted with gilt tips, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -2298,7 +2298,7 @@
   "id": "08_003",
   "area": 8,
   "subroom": 0,
-  "name": "Exhibit 08_003",
+  "name": "The Watering Can Collection",
   "tasks": [
    "24_7",
    "24_8",
@@ -2308,19 +2308,19 @@
    450,
    320
   ],
-  "subject": "",
+  "subject": "a trio of galvanised and copper watering cans with long spouts and rose heads, dented",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Dented tin",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Polished copper",
+    "instruction": "make the cans polished copper with brass roses, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Painted cans",
+    "instruction": "make the cans painted in burgundy, teal and cream with flowers, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -2329,7 +2329,7 @@
   "id": "08_004",
   "area": 8,
   "subroom": 0,
-  "name": "Exhibit 08_004",
+  "name": "The Fern Case",
   "tasks": [
    "24_10",
    "24_11",
@@ -2339,19 +2339,19 @@
    630,
    320
   ],
-  "subject": "",
+  "subject": "a glass Wardian case, like a small greenhouse with a pitched roof, filled with lush ferns and moss on a wooden base",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Wardian case",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Gilded frame",
+    "instruction": "make the case brass-framed with a gold finial and glowing within, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Bell jar",
+    "instruction": "make the case a tall glass bell jar over a single curling fern, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -2360,7 +2360,7 @@
   "id": "08_005",
   "area": 8,
   "subroom": 0,
-  "name": "Exhibit 08_005",
+  "name": "Mark's Potting Bench",
   "tasks": [
    "25_1",
    "25_2",
@@ -2371,19 +2371,19 @@
    90,
    580
   ],
-  "subject": "",
+  "subject": "a long slatted wooden potting bench with seed trays, a trowel and a coil of twine, scattered with soil",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Rough pine",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Zinc top",
+    "instruction": "give the bench a zinc top with bright new seedlings, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Painted bench",
+    "instruction": "make the bench cream paint with teal drawers, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -2392,7 +2392,7 @@
   "id": "08_006",
   "area": 8,
   "subroom": 0,
-  "name": "Exhibit 08_006",
+  "name": "The Rain Barrel Fountain",
   "tasks": [
    "25_5",
    "25_6",
@@ -2402,19 +2402,19 @@
    270,
    580
   ],
-  "subject": "",
+  "subject": "a staved oak rain barrel with an iron tap above a mossy stone basin, dripping into a trough",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Oak barrel",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Copper basin",
+    "instruction": "make the basin hammered copper with a gleaming brass tap, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Stone lion",
+    "instruction": "make the tap a stone lion's head spouting clear water, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -2423,7 +2423,7 @@
   "id": "08_007",
   "area": 8,
   "subroom": 0,
-  "name": "Exhibit 08_007",
+  "name": "The Climbing Gourd Arch",
   "tasks": [
    "25_8",
    "25_9",
@@ -2433,19 +2433,19 @@
    450,
    580
   ],
-  "subject": "",
+  "subject": "a rustic wooden arch twined with vines and hanging striped gourds and pumpkins",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Rustic arch",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Brass arch",
+    "instruction": "make the arch scrolling brass with glass gourds, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Moonflowers",
+    "instruction": "make the arch covered in white moonflowers glowing softly, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -2454,7 +2454,7 @@
   "id": "08_008",
   "area": 8,
   "subroom": 0,
-  "name": "Exhibit 08_008",
+  "name": "The Giant Lily Pad Basin",
   "tasks": [
    "26_1",
    "26_2",
@@ -2464,19 +2464,19 @@
    630,
    580
   ],
-  "subject": "",
+  "subject": "a round stone pool with enormous flat lily pads and a single pink bloom",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Stone pool",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Tiled pool",
+    "instruction": "make the pool lined with teal glazed tiles and blue koi, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Brass tub",
+    "instruction": "make the pool a brass bathtub-shaped basin with white blooms, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -2485,7 +2485,7 @@
   "id": "08_009",
   "area": 8,
   "subroom": 0,
-  "name": "Exhibit 08_009",
+  "name": "The Tree Fern Tub",
   "tasks": [
    "26_4",
    "26_5",
@@ -2495,19 +2495,19 @@
    90,
    840
   ],
-  "subject": "",
+  "subject": "a large barrel tub planted with a tall tree fern with arching fronds",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Barrel tub",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Glass vase",
+    "instruction": "make the tub a huge cut-glass planter, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Cast urn",
+    "instruction": "make the tub a cast-iron urn with lion handles, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -2516,7 +2516,7 @@
   "id": "08_010",
   "area": 8,
   "subroom": 0,
-  "name": "Exhibit 08_010",
+  "name": "The Bird of Paradise",
   "tasks": [
    "26_7",
    "26_8",
@@ -2526,19 +2526,19 @@
    270,
    840
   ],
-  "subject": "",
+  "subject": "a big potted bird-of-paradise plant with sharp orange-and-blue blooms in a stone urn",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Orange blooms",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "White blooms",
+    "instruction": "make the flowers ivory and pale gold, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Blue blooms",
+    "instruction": "make the flowers deep indigo and silver, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -2547,7 +2547,7 @@
   "id": "08_011",
   "area": 8,
   "subroom": 0,
-  "name": "Exhibit 08_011",
+  "name": "The Carnivorous Collection",
   "tasks": [
    "26_10",
    "26_11"
@@ -2556,19 +2556,19 @@
    450,
    840
   ],
-  "subject": "",
+  "subject": "a glass terrarium of pitcher plants and a Venus flytrap with toothy green traps, on a wooden stand",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Terrarium",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Gilded cage",
+    "instruction": "make the glass enclosure a gilded birdcage with ornate bars, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Crystal garden",
+    "instruction": "make the plants shimmering crystal and glass, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -2577,7 +2577,7 @@
   "id": "09_001",
   "area": 9,
   "subroom": 0,
-  "name": "Exhibit 09_001",
+  "name": "The Rubble Barrow",
   "tasks": [
    "27_1",
    "27_2",
@@ -2588,19 +2588,19 @@
    90,
    320
   ],
-  "subject": "",
+  "subject": "a rusted iron wheelbarrow heaped with broken chalk stones and dust, a small pick and a soft brush resting on top",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Rusty barrow",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Gilded barrow",
+    "instruction": "make the barrow polished brass with a teal painted wheel and the rubble neatly sorted into trays, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Geode haul",
+    "instruction": "fill the barrow with split crystal geodes glittering violet and white, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -2609,7 +2609,7 @@
   "id": "09_002",
   "area": 9,
   "subroom": 0,
-  "name": "Exhibit 09_002",
+  "name": "The Trilobite Slab",
   "tasks": [
    "27_5",
    "27_6",
@@ -2619,19 +2619,19 @@
    270,
    320
   ],
-  "subject": "",
+  "subject": "a flat grey slate slab crowded with a cluster of ribbed trilobite fossils pressed into the stone, propped on a small wooden stand",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Grey stone",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Amber slab",
+    "instruction": "make the slab clear honey-coloured amber with the trilobites glowing within, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Pyrite slab",
+    "instruction": "make the trilobites bright golden pyrite on dark polished slate, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -2640,7 +2640,7 @@
   "id": "09_003",
   "area": 9,
   "subroom": 0,
-  "name": "Exhibit 09_003",
+  "name": "The Dinosaur Egg Nest",
   "tasks": [
    "27_8",
    "27_9",
@@ -2650,19 +2650,19 @@
    450,
    320
   ],
-  "subject": "",
+  "subject": "a large clutch of speckled cream fossil eggs in a nest of dried grass on a low round wooden plinth",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Stone eggs",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Opal eggs",
+    "instruction": "make the eggs opal with rainbow flashes of teal and pink, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Hatching",
+    "instruction": "make one egg cracked open with a tiny scaly snout peeking out and fresh grass in the nest, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -2671,7 +2671,7 @@
   "id": "09_004",
   "area": 9,
   "subroom": 0,
-  "name": "Exhibit 09_004",
+  "name": "The Ichthyosaur Swimmer",
   "tasks": [
    "28_1",
    "28_2",
@@ -2682,19 +2682,19 @@
    630,
    320
   ],
-  "subject": "",
+  "subject": "a fossil ichthyosaur skeleton arched mid-swim in a slab of pale rock, with a long toothed snout and flipper bones",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Fossil in rock",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Bronze cast",
+    "instruction": "cast the skeleton in dark polished bronze on a black marble base, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Moonlit bones",
+    "instruction": "make the bones softly glowing silver-blue as if lit by the moon, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -2703,7 +2703,7 @@
   "id": "09_005",
   "area": 9,
   "subroom": 0,
-  "name": "Exhibit 09_005",
+  "name": "The Great Ammonite Wall",
   "tasks": [
    "28_5",
    "28_6",
@@ -2713,19 +2713,19 @@
    90,
    580
   ],
-  "subject": "",
+  "subject": "a stone wall panel studded with a dozen spiral ammonites of various sizes, set into a frame of grey rock",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Grey stone",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Gilded spirals",
+    "instruction": "make the ammonites gilded with a deep teal stone background, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Opal spirals",
+    "instruction": "make every ammonite shimmer opal with pink and green fire, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -2734,7 +2734,7 @@
   "id": "09_006",
   "area": 9,
   "subroom": 0,
-  "name": "Exhibit 09_006",
+  "name": "The Tyrannosaur Skull",
   "tasks": [
    "28_8",
    "28_9",
@@ -2744,19 +2744,19 @@
    270,
    580
   ],
-  "subject": "",
+  "subject": "a gigantic fossil predator skull with long curved teeth and empty eye sockets, resting on a heavy carved stone block",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Bone skull",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Bronze skull",
+    "instruction": "make the skull dark bronze with a green patina on a black marble block, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Crystal skull",
+    "instruction": "make the skull clear quartz crystal with glints of amber light in its teeth, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -2765,7 +2765,7 @@
   "id": "10_001",
   "area": 10,
   "subroom": 0,
-  "name": "Exhibit 10_001",
+  "name": "The Miner's Lamp",
   "tasks": [
    "29_1",
    "29_2",
@@ -2776,19 +2776,19 @@
    90,
    320
   ],
-  "subject": "",
+  "subject": "a battered brass miner's safety lamp with a wire-gauze chimney and a hooked carry handle, stained with soot and long unlit",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Sooty brass",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Polished and lit",
+    "instruction": "make the lamp bright polished brass with a warm yellow flame glowing in clean glass, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Blackened iron",
+    "instruction": "recast the lamp in dark blackened iron with a cold blue-green flame and a copper hook, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -2797,7 +2797,7 @@
   "id": "10_002",
   "area": 10,
   "subroom": 0,
-  "name": "Exhibit 10_002",
+  "name": "The Ore Cart",
   "tasks": [
    "29_5",
    "29_6",
@@ -2807,19 +2807,19 @@
    270,
    320
   ],
-  "subject": "",
+  "subject": "a small iron mine cart with spoked wheels on a short length of rail, heaped with raw grey and rust-red ore lumps",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Rusty cart",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Painted cart",
+    "instruction": "make the cart painted deep teal with polished brass wheels and the ore turned to bright copper nuggets, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Crystal cart",
+    "instruction": "fill the cart with sparkling clear quartz clusters and give it burgundy paint, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -2828,7 +2828,7 @@
   "id": "10_003",
   "area": 10,
   "subroom": 0,
-  "name": "Exhibit 10_003",
+  "name": "The Pickaxe Rack",
   "tasks": [
    "29_8",
    "29_9",
@@ -2838,19 +2838,19 @@
    450,
    320
   ],
-  "subject": "",
+  "subject": "a rough oak rack holding three iron pickaxes and a small geologist's hammer, their handles worn smooth and dark",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Worn tools",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Gilded heads",
+    "instruction": "make the tool heads gilded and the handles pale ash with burgundy leather grips, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Silver steel",
+    "instruction": "make the heads polished steel with ebony handles and brass collars, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -2859,7 +2859,7 @@
   "id": "10_004",
   "area": 10,
   "subroom": 0,
-  "name": "Exhibit 10_004",
+  "name": "The Sample Drawers",
   "tasks": [
    "30_1",
    "30_2",
@@ -2869,19 +2869,19 @@
    630,
    320
   ],
-  "subject": "",
+  "subject": "a low oak chest of shallow drawers, one pulled out to show rows of small mineral chips resting on cotton wool",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Oak drawers",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Mahogany and brass",
+    "instruction": "make the chest dark mahogany with brass corners and a green baize top, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Glass fronts",
+    "instruction": "make every drawer front clear glass in a brass frame so the stones gleam, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -2890,7 +2890,7 @@
   "id": "10_005",
   "area": 10,
   "subroom": 0,
-  "name": "Exhibit 10_005",
+  "name": "The Quartz Cluster",
   "tasks": [
    "30_4",
    "30_5",
@@ -2900,19 +2900,19 @@
    90,
    580
   ],
-  "subject": "",
+  "subject": "a big cluster of clear and smoky quartz points rising from a rough grey stone base",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Smoky quartz",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Rose quartz",
+    "instruction": "make the crystals soft translucent rose pink with a pearly glow, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Amethyst",
+    "instruction": "make the crystals deep violet with pale tips, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -2921,7 +2921,7 @@
   "id": "10_006",
   "area": 10,
   "subroom": 0,
-  "name": "Exhibit 10_006",
+  "name": "The Split Geode",
   "tasks": [
    "30_7",
    "30_8",
@@ -2931,19 +2931,19 @@
    270,
    580
   ],
-  "subject": "",
+  "subject": "a large grey geode cracked open to show a hollow lined with glittering purple crystals, sitting on a small brass ring stand",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Purple lining",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Celestite",
+    "instruction": "make the crystal lining pale sky blue celestite, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Gold lining",
+    "instruction": "make the lining sparkling pyrite gold with white crystal tips, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -2952,7 +2952,7 @@
   "id": "10_007",
   "area": 10,
   "subroom": 0,
-  "name": "Exhibit 10_007",
+  "name": "The Malachite Boulder",
   "tasks": [
    "30_10",
    "30_11"
@@ -2961,19 +2961,19 @@
    450,
    580
   ],
-  "subject": "",
+  "subject": "a rough boulder streaked with banded green malachite and rust-orange copper ore, on a thick wooden slab",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Raw boulder",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Polished swirl",
+    "instruction": "make the stone cut and polished to a glossy swirl of dark and bright greens, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Gilded veins",
+    "instruction": "make the mineral veins gleaming gold threads through dark stone, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -2982,7 +2982,7 @@
   "id": "10_008",
   "area": 10,
   "subroom": 0,
-  "name": "Exhibit 10_008",
+  "name": "The Salt Crystal Lamp",
   "tasks": [
    "31_1",
    "31_2",
@@ -2992,19 +2992,19 @@
    630,
    580
   ],
-  "subject": "",
+  "subject": "a lump of rough pink rock salt hollowed out to hold a glowing flame, standing on a small brass dish",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Pink salt",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "White salt",
+    "instruction": "make the salt pure snowy white glowing softly, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Amber salt",
+    "instruction": "make the salt deep honey-orange like glowing amber, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -3013,7 +3013,7 @@
   "id": "10_009",
   "area": 10,
   "subroom": 0,
-  "name": "Exhibit 10_009",
+  "name": "The Stalagmite Pair",
   "tasks": [
    "31_4",
    "31_5",
@@ -3023,19 +3023,19 @@
    90,
    840
   ],
-  "subject": "",
+  "subject": "two tall pale limestone cave formations, one slender and one thick, rising from a flat round stone base",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Dry limestone",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Dripping wet",
+    "instruction": "make the formations wet and glistening with silver droplets and a thin green algae sheen, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Crystal frost",
+    "instruction": "make the formations crusted with sparkling white calcite crystals, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -3044,7 +3044,7 @@
   "id": "10_010",
   "area": 10,
   "subroom": 0,
-  "name": "Exhibit 10_010",
+  "name": "The Meteoric Nugget",
   "tasks": [
    "31_7",
    "31_8",
@@ -3054,19 +3054,19 @@
    270,
    840
   ],
-  "subject": "",
+  "subject": "a heavy pitted dark metallic nugget with melted edges, resting on a little round marble plinth",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Pitted iron",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Etched surface",
+    "instruction": "make the surface etched with bright interlocking crosshatch patterns, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Glowing embers",
+    "instruction": "make cracks glow orange as if cooling from the fire, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -3075,7 +3075,7 @@
   "id": "10_011",
   "area": 10,
   "subroom": 0,
-  "name": "Exhibit 10_011",
+  "name": "The Assay Scales",
   "tasks": [
    "31_10",
    "31_11"
@@ -3084,19 +3084,19 @@
    450,
    840
   ],
-  "subject": "",
+  "subject": "a brass apothecary balance with two shallow pans on a wooden base and a small set of weights beside it",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Brass scales",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Silver scales",
+    "instruction": "make the scales polished silver with an ebony beam, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Golden scales",
+    "instruction": "make the scales gold with clear glass pans, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -3105,7 +3105,7 @@
   "id": "10_012",
   "area": 10,
   "subroom": 0,
-  "name": "Exhibit 10_012",
+  "name": "The Gem Table",
   "tasks": [
    "32_1",
    "32_2",
@@ -3116,19 +3116,19 @@
    630,
    840
   ],
-  "subject": "",
+  "subject": "a low glass-topped display table holding cut gemstones fanned on dark velvet inside a wooden frame",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Dark velvet",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Teal velvet",
+    "instruction": "make the lining deep teal velvet with brass edging, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Mirror top",
+    "instruction": "make the case lined with mirror so each gem shows a double glitter, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -3137,7 +3137,7 @@
   "id": "10_013",
   "area": 10,
   "subroom": 0,
-  "name": "Exhibit 10_013",
+  "name": "The Opal Tree",
   "tasks": [
    "32_5",
    "32_6",
@@ -3147,19 +3147,19 @@
    90,
    1100
   ],
-  "subject": "",
+  "subject": "a delicate gilt wire tree with leaves of tiny opals, planted in a small black stone pot",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Opal leaves",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Emerald leaves",
+    "instruction": "make the leaves faceted green emeralds on silver wire, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Ruby leaves",
+    "instruction": "make the leaves faceted red rubies on gold wire, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -3168,7 +3168,7 @@
   "id": "10_014",
   "area": 10,
   "subroom": 0,
-  "name": "Exhibit 10_014",
+  "name": "The Vault Door",
   "tasks": [
    "32_8",
    "32_9",
@@ -3178,19 +3178,19 @@
    270,
    1100
   ],
-  "subject": "",
+  "subject": "a round steel vault door with a heavy spoked wheel handle and thick bolts, standing slightly ajar in a stone arch",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Steel door",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Brass door",
+    "instruction": "make the door gleaming brass with ornate scrollwork around the hinges, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Teal and gilt",
+    "instruction": "make the door painted deep teal with gold banding and a brass wheel, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -3199,7 +3199,7 @@
   "id": "10_015",
   "area": 10,
   "subroom": 0,
-  "name": "Exhibit 10_015",
+  "name": "The Crystal Skull",
   "tasks": [
    "33_1",
    "33_2",
@@ -3209,19 +3209,19 @@
    450,
    1100
   ],
-  "subject": "",
+  "subject": "a polished clear crystal skull resting on a burgundy velvet cushion inside a glass case with brass corners",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Clear crystal",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Smoky quartz",
+    "instruction": "make the skull dark smoky quartz with a golden glow in the eyes, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Rose crystal",
+    "instruction": "make the skull pale pink rose quartz on a cream cushion, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -3230,7 +3230,7 @@
   "id": "10_016",
   "area": 10,
   "subroom": 0,
-  "name": "Exhibit 10_016",
+  "name": "The Rough Diamond",
   "tasks": [
    "33_4",
    "33_5",
@@ -3240,19 +3240,19 @@
    630,
    1100
   ],
-  "subject": "",
+  "subject": "a large uncut diamond with milky faces held in a brass claw mount on a velvet pad, under a little glass dome",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Rough stone",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Brilliant cut",
+    "instruction": "make the diamond cut and faceted, throwing rainbow sparks, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Black diamond",
+    "instruction": "make the diamond jet black with sharp white glints, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -3261,7 +3261,7 @@
   "id": "10_017",
   "area": 10,
   "subroom": 0,
-  "name": "Exhibit 10_017",
+  "name": "The Great Amethyst",
   "tasks": [
    "33_7",
    "33_8",
@@ -3271,19 +3271,19 @@
    90,
    1360
   ],
-  "subject": "",
+  "subject": "a huge amethyst geode standing open on a carved stone base like a small purple cave, its crystals thick and glossy",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Violet crystal",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Golden citrine",
+    "instruction": "make the crystals warm golden-yellow citrine, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Green quartz",
+    "instruction": "make the crystals pale mint-green, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -3292,7 +3292,7 @@
   "id": "10_018",
   "area": 10,
   "subroom": 0,
-  "name": "Exhibit 10_018",
+  "name": "The Heart of the Mountain",
   "tasks": [
    "33_10",
    "33_11"
@@ -3301,19 +3301,19 @@
    270,
    1360
   ],
-  "subject": "",
+  "subject": "a large smooth red-orange crystal shaped like a heart, cradled in a ring of wrought iron, with a faint inner glow",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Red crystal",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Sapphire heart",
+    "instruction": "make the crystal deep blue with a cool inner glow, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Pearl heart",
+    "instruction": "make the crystal pure white and radiant, set in a gilded ring, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -3322,7 +3322,7 @@
   "id": "11_001",
   "area": 11,
   "subroom": 0,
-  "name": "Exhibit 11_001",
+  "name": "The Sand Bucket Shelf",
   "tasks": [
    "34_1",
    "34_2",
@@ -3333,19 +3333,19 @@
    90,
    320
   ],
-  "subject": "",
+  "subject": "a driftwood shelf of tin sand pails, a wooden spade and a faded rake, still crusted with dry sand",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Faded tin",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Brass pails",
+    "instruction": "make the pails polished brass with teal handles and the spade neatly oiled, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Striped pails",
+    "instruction": "make the pails enamelled in cheerful cream and burgundy stripes, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -3354,7 +3354,7 @@
   "id": "11_002",
   "area": 11,
   "subroom": 0,
-  "name": "Exhibit 11_002",
+  "name": "The Starfish Net",
   "tasks": [
    "34_5",
    "34_6",
@@ -3364,19 +3364,19 @@
    270,
    320
   ],
-  "subject": "",
+  "subject": "a faded fishing net draped over an iron hook, tangled with dried starfish, sea urchins and a bleached sand dollar",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Tangled net",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Gilded net",
+    "instruction": "make the net fine gold cord with the starfish glittering in pale pink and ivory, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Neat display",
+    "instruction": "make the net stretched flat on a teal board with each starfish pinned in rows, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -3385,7 +3385,7 @@
   "id": "11_003",
   "area": 11,
   "subroom": 0,
-  "name": "Exhibit 11_003",
+  "name": "The Conch Horn",
   "tasks": [
    "34_8",
    "34_9",
@@ -3395,19 +3395,19 @@
    450,
    320
   ],
-  "subject": "",
+  "subject": "a large glossy pink-lipped conch shell with a brass mouthpiece fitted to its tip, lying on a folded cloth",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Pink conch",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Brass horn",
+    "instruction": "make the shell sheathed in engraved brass with a flared bell, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Silver conch",
+    "instruction": "make the shell polished silver-white with a gold lip and a coiled tassel, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -3416,7 +3416,7 @@
   "id": "11_004",
   "area": 11,
   "subroom": 0,
-  "name": "Exhibit 11_004",
+  "name": "The Cowrie Cabinet",
   "tasks": [
    "35_1",
    "35_2",
@@ -3427,19 +3427,19 @@
    630,
    320
   ],
-  "subject": "",
+  "subject": "a shallow wooden tray cabinet of glossy cowrie and cone shells, sorted in little velvet nests of cream, brown and orange",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Wooden tray",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Mother-of-pearl",
+    "instruction": "make every shell lustrous mother-of-pearl with a rainbow sheen, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Enamelled shells",
+    "instruction": "make the shells hand-painted in teal and burgundy patterns, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -3448,7 +3448,7 @@
   "id": "11_005",
   "area": 11,
   "subroom": 0,
-  "name": "Exhibit 11_005",
+  "name": "The Tide Pool Basin",
   "tasks": [
    "35_5",
    "35_6",
@@ -3458,19 +3458,19 @@
    90,
    580
   ],
-  "subject": "",
+  "subject": "a round stone basin filled with clear water, small anemones, a hermit crab and scattered pebbles",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Stone basin",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Glass bowl",
+    "instruction": "make the basin a wide blown glass bowl on brass legs with a sparkling surface, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Moonlit pool",
+    "instruction": "make the water deep blue with softly glowing anemones, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -3479,7 +3479,7 @@
   "id": "11_006",
   "area": 11,
   "subroom": 0,
-  "name": "Exhibit 11_006",
+  "name": "The Pearl Oyster Bed",
   "tasks": [
    "35_8",
    "35_9",
@@ -3489,19 +3489,19 @@
    270,
    580
   ],
-  "subject": "",
+  "subject": "an open wooden crate lined with straw holding a dozen gaping oysters, one showing a bright round pearl",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Raw oysters",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Silver shells",
+    "instruction": "make the shells silvered metal with enormous glossy pearls, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Gold shells",
+    "instruction": "make the shells gilded with pink pearls, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -3510,7 +3510,7 @@
   "id": "11_007",
   "area": 11,
   "subroom": 0,
-  "name": "Exhibit 11_007",
+  "name": "The Nautilus Spiral",
   "tasks": [
    "36_1",
    "36_2",
@@ -3520,19 +3520,19 @@
    450,
    580
   ],
-  "subject": "",
+  "subject": "a cut-away nautilus shell on a brass stand, its chambered spiral gleaming cream and tiger-striped",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Natural shell",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Gilded chambers",
+    "instruction": "make the spiral chambers gilded and the shell polished like pearl, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Glass nautilus",
+    "instruction": "make the nautilus clear blown glass with teal swirls, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -3541,7 +3541,7 @@
   "id": "11_008",
   "area": 11,
   "subroom": 0,
-  "name": "Exhibit 11_008",
+  "name": "The Coral Branch Vase",
   "tasks": [
    "36_4",
    "36_5",
@@ -3551,19 +3551,19 @@
    630,
    580
   ],
-  "subject": "",
+  "subject": "a tall glass vase holding branches of white and red coral like a small underwater tree",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "White coral",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Pink coral",
+    "instruction": "make the coral soft pink and peach, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Black coral",
+    "instruction": "make the coral glossy black with gold tips, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -3572,7 +3572,7 @@
   "id": "11_009",
   "area": 11,
   "subroom": 0,
-  "name": "Exhibit 11_009",
+  "name": "The Giant Clam",
   "tasks": [
    "36_7",
    "36_8",
@@ -3582,19 +3582,19 @@
    90,
    840
   ],
-  "subject": "",
+  "subject": "an enormous open giant clam shell with ruffled lips and a fluted outer shell, propped on a stone block",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Plain shell",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Mother-of-pearl",
+    "instruction": "line the clam's inside with shimmering pearl and a luminous pearl inside, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Fountain clam",
+    "instruction": "make water flow from the clam into a tiny shell basin, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -3603,7 +3603,7 @@
   "id": "11_010",
   "area": 11,
   "subroom": 0,
-  "name": "Exhibit 11_010",
+  "name": "The Mermaid's Mirror",
   "tasks": [
    "36_10",
    "36_11"
@@ -3612,19 +3612,19 @@
    270,
    840
   ],
-  "subject": "",
+  "subject": "a hand mirror with a handle and frame of fine silvered coral and tiny shells, face clouded with age, laid on a velvet cushion",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Silvered coral",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Bright glass",
+    "instruction": "make the mirror bright and clear and the frame polished silver, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Pearl frame",
+    "instruction": "make the frame a ring of seed pearls with a gold handle, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -3633,7 +3633,7 @@
   "id": "11_011",
   "area": 11,
   "subroom": 0,
-  "name": "Exhibit 11_011",
+  "name": "The Shell Chandelier",
   "tasks": [
    "37_1",
    "37_2",
@@ -3644,19 +3644,19 @@
    450,
    840
   ],
-  "subject": "",
+  "subject": "a hanging chandelier of scallop and cockleshells on brass chains, dull with dust",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Dull shells",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Lit",
+    "instruction": "make the shells glowing warmly from candle bulbs, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Pearly",
+    "instruction": "make the shells iridescent mother-of-pearl, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -3665,7 +3665,7 @@
   "id": "11_012",
   "area": 11,
   "subroom": 0,
-  "name": "Exhibit 11_012",
+  "name": "The Lighthouse in a Bottle",
   "tasks": [
    "37_5",
    "37_6",
@@ -3675,19 +3675,19 @@
    630,
    840
   ],
-  "subject": "",
+  "subject": "a large glass carboy holding a delicate model lighthouse with a tiny glowing lamp, set on a bed of sand and shells",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Glass bottle",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Brass lighthouse",
+    "instruction": "make the lighthouse polished brass with a bright beam, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Storm bottle",
+    "instruction": "make the bottle filled with grey stormy water, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -3696,7 +3696,7 @@
   "id": "11_013",
   "area": 11,
   "subroom": 0,
-  "name": "Exhibit 11_013",
+  "name": "The Kraken's Eye",
   "tasks": [
    "37_8",
    "37_9",
@@ -3706,19 +3706,19 @@
    90,
    1100
   ],
-  "subject": "",
+  "subject": "an enormous preserved sea-monster eyeball as big as a football, deep teal with a black slit pupil, held in a coral-encrusted brass ring on a stand",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Teal eye",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Golden eye",
+    "instruction": "make the eye amber with a black slit pupil, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Crystal eye",
+    "instruction": "make the eye pale blue crystal, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -3727,7 +3727,7 @@
   "id": "12_001",
   "area": 12,
   "subroom": 0,
-  "name": "Exhibit 12_001",
+  "name": "The Fish Food Pail",
   "tasks": [
    "38_1",
    "38_2",
@@ -3737,19 +3737,19 @@
    90,
    320
   ],
-  "subject": "",
+  "subject": "a dented tin pail with a small tin scoop, filled with dried shrimp and fish flakes in dull orange",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Dented tin",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Brass pail",
+    "instruction": "make the pail polished brass with a teal rim and a bright new scoop, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Enamel pail",
+    "instruction": "make the pail white enamel with a burgundy rim and a wooden-handled scoop, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -3758,7 +3758,7 @@
   "id": "12_002",
   "area": 12,
   "subroom": 0,
-  "name": "Exhibit 12_002",
+  "name": "The Landing Net",
   "tasks": [
    "38_4",
    "38_5",
@@ -3768,19 +3768,19 @@
    270,
    320
   ],
-  "subject": "",
+  "subject": "a long wooden pole with a round net of knotted cord on an iron hoop, the mesh torn in several places",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Torn net",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Mended net",
+    "instruction": "make the net whole with fine new cord, a brass hoop and a varnished pole, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Silk gauze net",
+    "instruction": "make the net delicate pale silk gauze on a gilded hoop with a tassel, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -3789,7 +3789,7 @@
   "id": "12_003",
   "area": 12,
   "subroom": 0,
-  "name": "Exhibit 12_003",
+  "name": "The Slate Tank Stand",
   "tasks": [
    "38_7",
    "38_8",
@@ -3799,19 +3799,19 @@
    450,
    320
   ],
-  "subject": "",
+  "subject": "a heavy black iron table stand with a thick slate top for an aquarium tank, rusting at the joints",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Rusty iron",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Teal iron",
+    "instruction": "make the stand glossy deep teal with gilt scroll details, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Pale oak",
+    "instruction": "make the stand pale oak with brass feet and a green marble top, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -3820,7 +3820,7 @@
   "id": "12_004",
   "area": 12,
   "subroom": 0,
-  "name": "Exhibit 12_004",
+  "name": "The Glass Float Basket",
   "tasks": [
    "38_10",
    "38_11"
@@ -3829,19 +3829,19 @@
    630,
    320
   ],
-  "subject": "",
+  "subject": "a round wicker basket of hand-blown glass fishing floats in green and blue, each wrapped in knotted cord",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Netted floats",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Jewel floats",
+    "instruction": "make the floats jewel-coloured glass in burgundy, teal and amber with gold swirls inside, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Frosted floats",
+    "instruction": "make the floats frosted white glass glowing softly from within, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -3850,7 +3850,7 @@
   "id": "12_005",
   "area": 12,
   "subroom": 0,
-  "name": "Exhibit 12_005",
+  "name": "The Weedy Jar",
   "tasks": [
    "39_1",
    "39_2",
@@ -3861,19 +3861,19 @@
    90,
    580
   ],
-  "subject": "",
+  "subject": "a tall glass jar of waving green water weed and curling ribbon grass standing on a round stone base",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Green weed",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Crimson weed",
+    "instruction": "make the weeds crimson and burgundy with bright copper-red tips, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Water lilies",
+    "instruction": "make the jar hold floating white water lilies and little green pads, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -3882,7 +3882,7 @@
   "id": "12_006",
   "area": 12,
   "subroom": 0,
-  "name": "Exhibit 12_006",
+  "name": "The Goldfish Bowl",
   "tasks": [
    "39_5",
    "39_6",
@@ -3892,19 +3892,19 @@
    270,
    580
   ],
-  "subject": "",
+  "subject": "a large round glass bowl on a carved wooden stand holding three fat orange goldfish and a tiny ceramic castle",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Goldfish",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Koi pond",
+    "instruction": "make the fish long spotted koi in white, red and black among pebbles, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Silver fish",
+    "instruction": "make the fish shimmering silver with fan tails and the bowl rimmed in brass, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -3913,7 +3913,7 @@
   "id": "12_007",
   "area": 12,
   "subroom": 0,
-  "name": "Exhibit 12_007",
+  "name": "The Seahorse Frame",
   "tasks": [
    "39_8",
    "39_9",
@@ -3923,19 +3923,19 @@
    450,
    580
   ],
-  "subject": "",
+  "subject": "a shallow gilt frame holding a row of dried seahorses pinned on pale blue cloth",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Dried seahorses",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Gilded seahorses",
+    "instruction": "make the seahorses cast gold on deep teal velvet, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Glass seahorses",
+    "instruction": "make the seahorses delicate blown glass in rose pink and sea blue, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -3944,7 +3944,7 @@
   "id": "12_008",
   "area": 12,
   "subroom": 0,
-  "name": "Exhibit 12_008",
+  "name": "The Octopus Fountain",
   "tasks": [
    "40_1",
    "40_2",
@@ -3955,19 +3955,19 @@
    630,
    580
   ],
-  "subject": "",
+  "subject": "a bronze octopus with curling arms coiled around a round stone basin, spouting a thin stream of water",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Bronze octopus",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Verdigris",
+    "instruction": "make the bronze streaked green with age and water stains, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Gilded octopus",
+    "instruction": "make the octopus bright gold with small ruby eyes on a black marble basin, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -3976,7 +3976,7 @@
   "id": "12_009",
   "area": 12,
   "subroom": 0,
-  "name": "Exhibit 12_009",
+  "name": "The Jellyfish Lamp",
   "tasks": [
    "40_5",
    "40_6",
@@ -3986,19 +3986,19 @@
    90,
    840
   ],
-  "subject": "",
+  "subject": "a tall glass cylinder on a brass base, filled with softly pulsing white jellyfish lit from beneath",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "White jellies",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Electric blue",
+    "instruction": "make the jellyfish glowing electric blue against dark water, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Rose pink",
+    "instruction": "make the jellyfish glowing rose pink with trailing violet tendrils, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -4007,7 +4007,7 @@
   "id": "12_010",
   "area": 12,
   "subroom": 0,
-  "name": "Exhibit 12_010",
+  "name": "The Diving Bell",
   "tasks": [
    "40_8",
    "40_9",
@@ -4017,19 +4017,19 @@
    270,
    840
   ],
-  "subject": "",
+  "subject": "a riveted brass diving bell with round glass portholes and a lifting ring, hung from an iron frame by a chain",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Brass bell",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Copper bell",
+    "instruction": "make the bell dull copper with a green patina and barnacles, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Silver bell",
+    "instruction": "make the bell polished silver with deep blue glass portholes, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -4038,7 +4038,7 @@
   "id": "12_011",
   "area": 12,
   "subroom": 0,
-  "name": "Exhibit 12_011",
+  "name": "The Wreck in a Tank",
   "tasks": [
    "41_1",
    "41_2",
@@ -4049,19 +4049,19 @@
    450,
    840
   ],
-  "subject": "",
+  "subject": "a glass tank on a stand holding a miniature sunken sailing ship with torn sails, resting in sand with small fish",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Sunken ship",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Treasure wreck",
+    "instruction": "make the wreck spilling gold coins, pearls and jewels across the sand, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Ghost ship",
+    "instruction": "make the wreck glowing pale green with drifting mist, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -4070,7 +4070,7 @@
   "id": "12_012",
   "area": 12,
   "subroom": 0,
-  "name": "Exhibit 12_012",
+  "name": "The Giant Squid",
   "tasks": [
    "41_5",
    "41_6",
@@ -4080,19 +4080,19 @@
    630,
    840
   ],
-  "subject": "",
+  "subject": "a huge pale preserved squid with long trailing tentacles coiled inside a long glass case on a wooden stand",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Pale squid",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Crimson squid",
+    "instruction": "make the squid deep red with silver spots, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Glass squid",
+    "instruction": "make the squid clear translucent crystal with a faint inner blue glow, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -4101,7 +4101,7 @@
   "id": "12_013",
   "area": 12,
   "subroom": 0,
-  "name": "Exhibit 12_013",
+  "name": "The Shark Jaw Trophy",
   "tasks": [
    "41_8",
    "41_9",
@@ -4111,19 +4111,19 @@
    90,
    1100
   ],
-  "subject": "",
+  "subject": "an enormous pair of shark jaws mounted open on an oak shield, rows of white serrated teeth",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "White jaws",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Gilded teeth",
+    "instruction": "make the teeth gilded on a burgundy velvet shield, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Fossil jaws",
+    "instruction": "make the jaws dark mineralised fossil stone on a slate base, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -4132,7 +4132,7 @@
   "id": "12_014",
   "area": 12,
   "subroom": 0,
-  "name": "Exhibit 12_014",
+  "name": "The Anglerfish Lantern",
   "tasks": [
    "42_1",
    "42_2",
@@ -4143,19 +4143,19 @@
    270,
    1100
   ],
-  "subject": "",
+  "subject": "a squat deep-sea anglerfish with jagged teeth and a long glowing lure, hung from a curved iron bracket",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Glowing lure",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Brass lantern lure",
+    "instruction": "make the lure a tiny brass storm lantern, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Pearl lure",
+    "instruction": "make the lure a luminous pearl on a gold stalk, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -4164,7 +4164,7 @@
   "id": "12_015",
   "area": 12,
   "subroom": 0,
-  "name": "Exhibit 12_015",
+  "name": "The Moon Jelly Chandelier",
   "tasks": [
    "42_5",
    "42_6",
@@ -4174,19 +4174,19 @@
    450,
    1100
   ],
-  "subject": "",
+  "subject": "a hanging cluster of glass jellyfish shades with trailing glass tentacles on brass chains",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Clear glass",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Rainbow glass",
+    "instruction": "make the shades iridescent rainbow glass, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Amber glass",
+    "instruction": "make the shades warm amber glass glowing like honey, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -4195,7 +4195,7 @@
   "id": "12_016",
   "area": 12,
   "subroom": 0,
-  "name": "Exhibit 12_016",
+  "name": "The Reef in Glass",
   "tasks": [
    "42_8",
    "42_9",
@@ -4205,19 +4205,19 @@
    630,
    1100
   ],
-  "subject": "",
+  "subject": "a round glass tank on a stand showing a vivid coral reef alive with bright striped fish",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Daylight reef",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Night reef",
+    "instruction": "make the reef dark with glowing fish and bioluminescent coral, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Gilded reef",
+    "instruction": "make the coral and fish gilded and enamelled like jewellery, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -4226,7 +4226,7 @@
   "id": "12_017",
   "area": 12,
   "subroom": 0,
-  "name": "Exhibit 12_017",
+  "name": "The Mermaid's Throne",
   "tasks": [
    "43_1",
    "43_2",
@@ -4236,19 +4236,19 @@
    90,
    1360
   ],
-  "subject": "",
+  "subject": "a carved seat shaped like a large scallop shell in pale stone, topped with a coral crown and draped in green kelp",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Stone throne",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Pearl throne",
+    "instruction": "make the throne pearlescent with an iridescent sheen, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Gold throne",
+    "instruction": "make the throne gilded with turquoise cushions, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -4257,7 +4257,7 @@
   "id": "12_018",
   "area": 12,
   "subroom": 0,
-  "name": "Exhibit 12_018",
+  "name": "The Whale Skeleton",
   "tasks": [
    "43_4",
    "43_5",
@@ -4267,19 +4267,19 @@
    270,
    1360
   ],
-  "subject": "",
+  "subject": "a small articulated model of a great whale skeleton, mounted on brass rods on a polished wooden base",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Bone model",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Brass skeleton",
+    "instruction": "make the skeleton brass on a black marble base, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Glass skeleton",
+    "instruction": "make the skeleton clear glass with a pale blue inner glow, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -4288,7 +4288,7 @@
   "id": "12_019",
   "area": 12,
   "subroom": 0,
-  "name": "Exhibit 12_019",
+  "name": "The Leviathan's Tooth",
   "tasks": [
    "43_7",
    "43_8",
@@ -4298,19 +4298,19 @@
    450,
    1360
   ],
-  "subject": "",
+  "subject": "a giant curved tooth the size of a person's arm, ivory with fine cracks, lying on a cushion on a stone plinth",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Ivory tooth",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Gilded tooth",
+    "instruction": "make the tooth gold with engraved spirals on a burgundy cushion, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Fossil tooth",
+    "instruction": "make the tooth dark mineralised stone on a pale slate plinth, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -4319,7 +4319,7 @@
   "id": "12_020",
   "area": 12,
   "subroom": 0,
-  "name": "Exhibit 12_020",
+  "name": "The Great Aquarium",
   "tasks": [
    "43_10",
    "43_11"
@@ -4328,19 +4328,19 @@
    630,
    1360
   ],
-  "subject": "",
+  "subject": "a huge rectangular glass tank in a brass frame holding a rocky grotto, swaying plants and glittering fish, glowing blue",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Blue water",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Golden water",
+    "instruction": "make the water golden and the fish glowing like embers, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Emerald water",
+    "instruction": "make the water emerald green with luminous plants and a teal frame, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -4349,7 +4349,7 @@
   "id": "13_001",
   "area": 13,
   "subroom": 0,
-  "name": "Exhibit 13_001",
+  "name": "The Rolled Map Bin",
   "tasks": [
    "44_1",
    "44_2",
@@ -4360,19 +4360,19 @@
    90,
    320
   ],
-  "subject": "",
+  "subject": "a tall oak barrel-shaped bin crammed with rolled blank parchment charts tied with faded ribbons, dust on its rim",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Plain oak",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Brass bound",
+    "instruction": "make the bin dark walnut with polished brass bands and fresh silk ribbons in teal and burgundy, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Leather tubes",
+    "instruction": "replace the bin with a rack of tooled brown leather map tubes with brass caps, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -4381,7 +4381,7 @@
   "id": "13_002",
   "area": 13,
   "subroom": 0,
-  "name": "Exhibit 13_002",
+  "name": "The Drafting Table",
   "tasks": [
    "44_5",
    "44_6",
@@ -4391,19 +4391,19 @@
    270,
    320
   ],
-  "subject": "",
+  "subject": "a large oak drafting table with a tilting top, brass ruler and dividers laid on a blank sheet, ink-spotted",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Oak table",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Mahogany",
+    "instruction": "make the table glossy mahogany with inlaid brass edges and a green leather top, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Glass lightbox",
+    "instruction": "make the top frosted glass lit from beneath, on gilded cast-iron legs, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -4412,7 +4412,7 @@
   "id": "13_003",
   "area": 13,
   "subroom": 0,
-  "name": "Exhibit 13_003",
+  "name": "The Pin Board",
   "tasks": [
    "44_8",
    "44_9",
@@ -4422,19 +4422,19 @@
    450,
    320
   ],
-  "subject": "",
+  "subject": "a large cork board covered in coloured pins joined by taut red string, hung over a small wooden shelf",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Cork board",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Velvet board",
+    "instruction": "make the board dark green buttoned velvet with gilded pins and gold thread, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Brass plate",
+    "instruction": "make the board a sheet of engraved brass with jewelled enamel pins, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -4443,7 +4443,7 @@
   "id": "13_004",
   "area": 13,
   "subroom": 0,
-  "name": "Exhibit 13_004",
+  "name": "The Brass Sextant",
   "tasks": [
    "45_1",
    "45_2",
@@ -4454,19 +4454,19 @@
    630,
    320
   ],
-  "subject": "",
+  "subject": "a brass navigator's sextant with a curved arc, little mirrors and a short telescope, lying open in a fitted velvet-lined box",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Tarnished brass",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Silver and ebony",
+    "instruction": "make the sextant bright silver with an ebony handle in a teal velvet box, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Gilt and pearl",
+    "instruction": "make the sextant gold-plated with a mother-of-pearl handle, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -4475,7 +4475,7 @@
   "id": "13_005",
   "area": 13,
   "subroom": 0,
-  "name": "Exhibit 13_005",
+  "name": "The Surveyor's Theodolite",
   "tasks": [
    "45_5",
    "45_6",
@@ -4485,19 +4485,19 @@
    90,
    580
   ],
-  "subject": "",
+  "subject": "a brass surveying theodolite with a telescope and spirit levels mounted on a slim wooden tripod",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Weathered brass",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Teal enamel",
+    "instruction": "make the instrument painted deep teal with gilt fittings and a polished lens, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Silver steel",
+    "instruction": "make it polished silver steel on a black lacquered tripod, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -4506,7 +4506,7 @@
   "id": "13_006",
   "area": 13,
   "subroom": 0,
-  "name": "Exhibit 13_006",
+  "name": "The Compass Rose Inlay",
   "tasks": [
    "45_8",
    "45_9",
@@ -4516,19 +4516,19 @@
    270,
    580
   ],
-  "subject": "",
+  "subject": "a large round floor panel inlaid with an eight-pointed compass rose in pale and dark woods around a brass centre disc",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Inlaid wood",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Coloured marble",
+    "instruction": "make the inlay cut from cream, teal and burgundy marble, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Gilded star",
+    "instruction": "make the points gilded on a deep blue ground with a polished brass rim, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -4537,7 +4537,7 @@
   "id": "13_007",
   "area": 13,
   "subroom": 0,
-  "name": "Exhibit 13_007",
+  "name": "The Pocket Globe Cabinet",
   "tasks": [
    "46_1",
    "46_2",
@@ -4548,19 +4548,19 @@
    450,
    580
   ],
-  "subject": "",
+  "subject": "a small walnut cabinet with fitted trays holding three pocket globes of imaginary continents, no lettering",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Walnut",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Glass globes",
+    "instruction": "make the globes clear blown glass with etched coastlines, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Gold globes",
+    "instruction": "make the globes solid gold with enamel seas in the trays, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -4569,7 +4569,7 @@
   "id": "13_008",
   "area": 13,
   "subroom": 0,
-  "name": "Exhibit 13_008",
+  "name": "The Long Brass Telescope",
   "tasks": [
    "46_5",
    "46_6",
@@ -4579,19 +4579,19 @@
    630,
    580
   ],
-  "subject": "",
+  "subject": "a long brass telescope with a leather-wrapped barrel mounted on a carved wooden tripod, pointing upward",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Aged brass",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Copper",
+    "instruction": "make the telescope warm copper with a verdigris edge, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Gilded",
+    "instruction": "make the telescope gilded with a black enamel eyepiece, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -4600,7 +4600,7 @@
   "id": "13_009",
   "area": 13,
   "subroom": 0,
-  "name": "Exhibit 13_009",
+  "name": "The Atlas Lectern",
   "tasks": [
    "46_8",
    "46_9",
@@ -4610,19 +4610,19 @@
    90,
    840
   ],
-  "subject": "",
+  "subject": "a tall oak lectern holding an enormous open atlas of imaginary lands in soft colours, no lettering on the pages",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Oak lectern",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Brass eagle",
+    "instruction": "make the lectern a polished brass eagle with outspread wings, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Gilded stand",
+    "instruction": "make the lectern gilded with burgundy tassels and a velvet page marker, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -4631,7 +4631,7 @@
   "id": "13_010",
   "area": 13,
   "subroom": 0,
-  "name": "Exhibit 13_010",
+  "name": "The Unfurled Treasure Chart",
   "tasks": [
    "47_1",
    "47_2",
@@ -4641,19 +4641,19 @@
    270,
    840
   ],
-  "subject": "",
+  "subject": "a large cream parchment chart hung unrolled from a brass rail, showing an imaginary coastline, a dotted red route and a small cross, no lettering",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Parchment",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Embroidered silk",
+    "instruction": "make the chart embroidered silk with shimmering metallic thread, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Stained glass",
+    "instruction": "make the chart a leaded stained-glass panel in sea blues and sand golds, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -4662,7 +4662,7 @@
   "id": "13_011",
   "area": 13,
   "subroom": 0,
-  "name": "Exhibit 13_011",
+  "name": "The Explorer's Trunk",
   "tasks": [
    "47_4",
    "47_5",
@@ -4672,19 +4672,19 @@
    450,
    840
   ],
-  "subject": "",
+  "subject": "an open leather steamer trunk with brass corners holding rolled blankets, a battered canteen and a coil of rope",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Battered leather",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Painted trunk",
+    "instruction": "make the trunk painted deep teal with gold banding and tidy fittings, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Gilded chest",
+    "instruction": "make the trunk gilded with burgundy velvet lining, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -4693,7 +4693,7 @@
   "id": "13_012",
   "area": 13,
   "subroom": 0,
-  "name": "Exhibit 13_012",
+  "name": "The Chronometer Globe",
   "tasks": [
    "47_7",
    "47_8",
@@ -4703,19 +4703,19 @@
    630,
    840
   ],
-  "subject": "",
+  "subject": "a large globe of imaginary continents in a brass ring with a built-in clock face without numbers and a barometer, on a walnut stand",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Parchment globe",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Silver globe",
+    "instruction": "make the globe silvered with deep blue seas, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Teal and gilt",
+    "instruction": "make the globe deep teal with golden continents and a gilt ring, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -4724,7 +4724,7 @@
   "id": "13_013",
   "area": 13,
   "subroom": 0,
-  "name": "Exhibit 13_013",
+  "name": "The Great Relief Model",
   "tasks": [
    "47_10",
    "47_11"
@@ -4733,19 +4733,19 @@
    90,
    1100
   ],
-  "subject": "",
+  "subject": "a huge raised-relief model of an imaginary mountainous continent in painted plaster with brass edges and tiny glass lakes",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Painted plaster",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Bronze cast",
+    "instruction": "cast the whole landscape in dark bronze with polished peaks, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Glowing rivers",
+    "instruction": "make the rivers and lakes glow softly silver-blue in dark teal land, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -4754,7 +4754,7 @@
   "id": "14_001",
   "area": 14,
   "subroom": 0,
-  "name": "Exhibit 14_001",
+  "name": "The Rolling Ladder",
   "tasks": [
    "48_1",
    "48_2",
@@ -4765,19 +4765,19 @@
    90,
    320
   ],
-  "subject": "",
+  "subject": "a tall oak library ladder on brass wheels with a curved top rail, dusty and standing slightly crooked",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Dusty oak",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Pale ash and brass",
+    "instruction": "make the ladder pale ash with bright polished brass rails and wheels, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Teal iron",
+    "instruction": "make the ladder wrought iron painted deep teal with a gilded handrail and rubber-shod feet, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -4786,7 +4786,7 @@
   "id": "14_002",
   "area": 14,
   "subroom": 0,
-  "name": "Exhibit 14_002",
+  "name": "The Reading Armchair",
   "tasks": [
    "48_5",
    "48_6",
@@ -4796,19 +4796,19 @@
    270,
    320
   ],
-  "subject": "",
+  "subject": "a deep buttoned armchair in worn brown leather beside a small round side table, a folded tartan blanket over one arm",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Worn leather",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Teal velvet",
+    "instruction": "make the chair deep teal velvet with gilt nails and a burgundy blanket, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "White wicker",
+    "instruction": "make the chair white wicker with plump cream cushions and a little tea tray beside it, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -4817,7 +4817,7 @@
   "id": "14_003",
   "area": 14,
   "subroom": 0,
-  "name": "Exhibit 14_003",
+  "name": "The Banker's Lamp",
   "tasks": [
    "48_8",
    "48_9",
@@ -4827,19 +4827,19 @@
    450,
    320
   ],
-  "subject": "",
+  "subject": "a brass desk lamp with a curved green glass shade on a short stem, cold and unlit, dusty",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Green glass",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Warmly lit",
+    "instruction": "make the lamp lit with a warm amber glow beneath the green glass shade, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Milk opal",
+    "instruction": "make the shade smooth milk-white opal glass with a gilded rim and a porcelain base, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -4848,7 +4848,7 @@
   "id": "14_004",
   "area": 14,
   "subroom": 0,
-  "name": "Exhibit 14_004",
+  "name": "The Book Trolley",
   "tasks": [
    "48_11",
    "48_12",
@@ -4858,19 +4858,19 @@
    630,
    320
   ],
-  "subject": "",
+  "subject": "a low wooden trolley on brass wheels stacked with blank-spined leather volumes in tilting piles",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Brown leather",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Teal and cream",
+    "instruction": "make the books bound in teal and cream cloth with gilded spines on a polished trolley, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Burgundy and gold",
+    "instruction": "make the books deep burgundy with gold borders and the trolley brass-trimmed, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -4879,7 +4879,7 @@
   "id": "14_005",
   "area": 14,
   "subroom": 0,
-  "name": "Exhibit 14_005",
+  "name": "The Globe Bookends",
   "tasks": [
    "49_1",
    "49_2",
@@ -4890,19 +4890,19 @@
    90,
    580
   ],
-  "subject": "",
+  "subject": "a pair of heavy brass bookends shaped like small globes with a short row of leather books held between them",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Brass globes",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Marble spheres",
+    "instruction": "make the bookends cream marble spheres with thin brass equator rings, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Glass spheres",
+    "instruction": "make the bookends clear glass spheres swirling with teal and gold, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -4911,7 +4911,7 @@
   "id": "14_006",
   "area": 14,
   "subroom": 0,
-  "name": "Exhibit 14_006",
+  "name": "The Catalogue Cabinet",
   "tasks": [
    "49_5",
    "49_6",
@@ -4921,19 +4921,19 @@
    270,
    580
   ],
-  "subject": "",
+  "subject": "a wide oak cabinet of narrow drawers, each with a brass pull and an empty brass card-holder, on bracket feet",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Oak drawers",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Painted cabinet",
+    "instruction": "make the cabinet painted teal and cream with bright brass pulls, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Walnut and pearl",
+    "instruction": "make the cabinet dark walnut with mother-of-pearl pulls and a green marble top, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -4942,7 +4942,7 @@
   "id": "14_007",
   "area": 14,
   "subroom": 0,
-  "name": "Exhibit 14_007",
+  "name": "The Writing Slope",
   "tasks": [
    "49_8",
    "49_9",
@@ -4952,19 +4952,19 @@
    450,
    580
   ],
-  "subject": "",
+  "subject": "a hinged leather-topped travelling writing box opened to show a green blotter, a steel pen and a glass inkwell, on a small folding stand",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Tooled leather",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Tortoiseshell",
+    "instruction": "make the box inlaid with mottled tortoiseshell and brass hinges, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Rosewood",
+    "instruction": "make the box polished rosewood with ivory trim and a velvet writing surface, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -4973,7 +4973,7 @@
   "id": "14_008",
   "area": 14,
   "subroom": 0,
-  "name": "Exhibit 14_008",
+  "name": "The Reading Lectern",
   "tasks": [
    "50_1",
    "50_2",
@@ -4984,19 +4984,19 @@
    630,
    580
   ],
-  "subject": "",
+  "subject": "a sloped carved oak lectern holding a heavy open volume with blank pages, a silk bookmark ribbon and a small brass reading lamp",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Oak lectern",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Gothic oak",
+    "instruction": "make the lectern dark gothic carved oak with a pointed arched canopy, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Bronze lectern",
+    "instruction": "make the lectern dark bronze with a gilded edge and a burgundy cushion, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -5005,7 +5005,7 @@
   "id": "14_009",
   "area": 14,
   "subroom": 0,
-  "name": "Exhibit 14_009",
+  "name": "The Journal Cabinet",
   "tasks": [
    "50_5",
    "50_6",
@@ -5015,19 +5015,19 @@
    90,
    840
   ],
-  "subject": "",
+  "subject": "a tall glass-doored oak cabinet with sloped shelves showing open field journals of sketched unknown animals and plants, sketches only, no lettering",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Oak cabinet",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Brass vitrine",
+    "instruction": "make the cabinet a slim polished brass-framed vitrine with green velvet shelves, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Gilded cabinet",
+    "instruction": "make the cabinet gilded with carved garlands and a teal interior, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -5036,7 +5036,7 @@
   "id": "14_010",
   "area": 14,
   "subroom": 0,
-  "name": "Exhibit 14_010",
+  "name": "The Pendant Reading Lamp",
   "tasks": [
    "50_8",
    "50_9",
@@ -5046,19 +5046,19 @@
    270,
    840
   ],
-  "subject": "",
+  "subject": "a long iron chain pendant lamp hung with three round opal glass shades, turned low",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Iron and opal",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Polished brass",
+    "instruction": "make the lamp polished brass with clear amber glass shades, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Crystal drops",
+    "instruction": "make the shades cut crystal hung with sparkling glass drops, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -5067,7 +5067,7 @@
   "id": "14_011",
   "area": 14,
   "subroom": 0,
-  "name": "Exhibit 14_011",
+  "name": "The Reading Table",
   "tasks": [
    "51_1",
    "51_2",
@@ -5077,19 +5077,19 @@
    450,
    840
   ],
-  "subject": "",
+  "subject": "a long refectory table in scarred oak with a row of green-shaded lamps and two plain benches",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Scarred oak",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Teal painted",
+    "instruction": "make the table painted deep teal with cream benches and brass lamps, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Marble top",
+    "instruction": "make the table a long cream marble slab on carved dark wood trestles, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -5098,7 +5098,7 @@
   "id": "14_012",
   "area": 14,
   "subroom": 0,
-  "name": "Exhibit 14_012",
+  "name": "The Explorer's Bookcase",
   "tasks": [
    "51_4",
    "51_5",
@@ -5108,19 +5108,19 @@
    630,
    840
   ],
-  "subject": "",
+  "subject": "a towering carved oak bookcase packed with leather volumes, rolled charts and curios like a little stuffed bird and a brass compass",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Dark oak",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Ebony and gilt",
+    "instruction": "make the bookcase black ebony with gilded carving and fluted columns, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Teal and cream",
+    "instruction": "make the bookcase painted teal with cream shelves and brass edges, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -5129,7 +5129,7 @@
   "id": "14_013",
   "area": 14,
   "subroom": 0,
-  "name": "Exhibit 14_013",
+  "name": "The Spiral Stair",
   "tasks": [
    "51_7",
    "51_8",
@@ -5139,19 +5139,19 @@
    90,
    1100
   ],
-  "subject": "",
+  "subject": "a small cast-iron spiral staircase with open treads and a curling rail, leading up to a book gallery, rusty",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Rusty iron",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Brass spiral",
+    "instruction": "make the stair polished brass with a teak handrail, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Verdigris",
+    "instruction": "make the stair iron painted soft verdigris green with gold tipped balusters, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -5160,7 +5160,7 @@
   "id": "14_014",
   "area": 14,
   "subroom": 0,
-  "name": "Exhibit 14_014",
+  "name": "The Leather Map Table",
   "tasks": [
    "51_10",
    "51_11"
@@ -5169,19 +5169,19 @@
    270,
    1100
   ],
-  "subject": "",
+  "subject": "a round oak table whose top is inlaid with a world of imaginary continents in different tooled leathers, with brass studs",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Tooled leather",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Silver map",
+    "instruction": "make the continents silver on a deep teal lacquer sea, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Gold map",
+    "instruction": "make the continents raised gold on a dark burgundy sea, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -5190,7 +5190,7 @@
   "id": "14_015",
   "area": 14,
   "subroom": 0,
-  "name": "Exhibit 14_015",
+  "name": "The Chart Case",
   "tasks": [
    "52_1",
    "52_2",
@@ -5200,19 +5200,19 @@
    450,
    1100
   ],
-  "subject": "",
+  "subject": "a flat glass-topped display case of old unrolled blank charts and instruments laid on faded green felt",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Faded felt",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Silk lined",
+    "instruction": "make the lining plush burgundy silk with brass corners, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Mirrored",
+    "instruction": "make the case lined with mirror so every chart glints, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -5221,7 +5221,7 @@
   "id": "14_016",
   "area": 14,
   "subroom": 0,
-  "name": "Exhibit 14_016",
+  "name": "The Reading Window Seat",
   "tasks": [
    "52_4",
    "52_5",
@@ -5231,19 +5231,19 @@
    630,
    1100
   ],
-  "subject": "",
+  "subject": "a deep arched window recess with a long cushioned seat, tasselled cushions and a closed pair of velvet drapes",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Faded velvet",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Evening seat",
+    "instruction": "make the seat deep teal with gold tassels and the drapes burgundy, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Moonlit seat",
+    "instruction": "make the cushions pale blue with silver tassels and moonlight on the glass, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -5252,7 +5252,7 @@
   "id": "14_017",
   "area": 14,
   "subroom": 0,
-  "name": "Exhibit 14_017",
+  "name": "The Explorers' Roll",
   "tasks": [
    "52_7",
    "52_8",
@@ -5262,19 +5262,19 @@
    90,
    1360
   ],
-  "subject": "",
+  "subject": "a long illuminated parchment scroll with decorative borders and blank panels where names would be, displayed flat under a glass lid",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Parchment scroll",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Silk scroll",
+    "instruction": "make the scroll silk with gold thread borders, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Metal scroll",
+    "instruction": "make the scroll a hinged sheet of engraved silver with a gilded edge, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -5283,7 +5283,7 @@
   "id": "14_018",
   "area": 14,
   "subroom": 0,
-  "name": "Exhibit 14_018",
+  "name": "The Founder's Folio",
   "tasks": [
    "52_10",
    "52_11"
@@ -5292,19 +5292,19 @@
    270,
    1360
   ],
-  "subject": "",
+  "subject": "a huge ancient leather-bound book with brass clasps and a large embossed seal on a stout oak stand, closed",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Brown leather",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Teal and gold",
+    "instruction": "make the book teal leather with gilded clasps and a golden seal, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Jewelled",
+    "instruction": "make the cover set with garnets and pearls in an ornate gilt frame, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -5313,7 +5313,7 @@
   "id": "15_001",
   "area": 15,
   "subroom": 0,
-  "name": "Exhibit 15_001",
+  "name": "The Sweeping Brush Stand",
   "tasks": [
    "53_1",
    "53_2",
@@ -5324,19 +5324,19 @@
    90,
    320
   ],
-  "subject": "",
+  "subject": "a tall wooden stand holding a long-handled feather duster, a soft broom and a dustpan, all grey with cobwebs",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Cobwebbed",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Brass and ostrich",
+    "instruction": "make the stand brass with a fresh ostrich-feather duster in teal and burgundy, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Painted wood",
+    "instruction": "make the stand painted cream with teal stripes and a neat set of bristle brushes, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -5345,7 +5345,7 @@
   "id": "15_002",
   "area": 15,
   "subroom": 0,
-  "name": "Exhibit 15_002",
+  "name": "The Stack of Document Boxes",
   "tasks": [
    "53_5",
    "53_6",
@@ -5355,19 +5355,19 @@
    270,
    320
   ],
-  "subject": "",
+  "subject": "a leaning tower of grey cardboard archive boxes tied with faded pink ribbon, dusty and unlabelled",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Grey boxes",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Marbled boxes",
+    "instruction": "make the boxes covered in swirled marbled paper in teal, burgundy and cream with brass corners, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Leather boxes",
+    "instruction": "make the boxes tooled green leather with gilded edges and silk ribbons, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -5376,7 +5376,7 @@
   "id": "15_003",
   "area": 15,
   "subroom": 0,
-  "name": "Exhibit 15_003",
+  "name": "The Archive Stool",
   "tasks": [
    "53_8",
    "53_9",
@@ -5386,19 +5386,19 @@
    450,
    320
   ],
-  "subject": "",
+  "subject": "a low round wooden stool with three splayed legs and a worn leather seat, a pair of white cotton gloves left on it",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Worn leather",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Teal cushion",
+    "instruction": "make the stool upholstered in deep teal velvet with brass nails, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Library steps",
+    "instruction": "make the stool a two-step folding library stool in polished mahogany, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -5407,7 +5407,7 @@
   "id": "15_004",
   "area": 15,
   "subroom": 0,
-  "name": "Exhibit 15_004",
+  "name": "The Rolling Shelves",
   "tasks": [
    "53_11",
    "53_12",
@@ -5417,19 +5417,19 @@
    630,
    320
   ],
-  "subject": "",
+  "subject": "a tall iron-framed compact shelving unit on rails, loaded with flat grey archive boxes, one run pulled partly open",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Iron frame",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Brass frame",
+    "instruction": "make the unit polished brass with dark wood shelves, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Painted frame",
+    "instruction": "make the unit painted deep teal with gilded edges and burgundy boxes, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -5438,7 +5438,7 @@
   "id": "15_005",
   "area": 15,
   "subroom": 0,
-  "name": "Exhibit 15_005",
+  "name": "The Wax Seal Station",
   "tasks": [
    "54_1",
    "54_2",
@@ -5449,19 +5449,19 @@
    90,
    580
   ],
-  "subject": "",
+  "subject": "a small walnut tray with a stub of burgundy sealing wax, a brass seal stamp with a plain crest and a snuffed candle",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Burgundy wax",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Gold wax",
+    "instruction": "make the wax glowing gold and the stamp polished silver, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Teal wax",
+    "instruction": "make the wax deep teal and the stamp an ornate gilt dragon, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -5470,7 +5470,7 @@
   "id": "15_006",
   "area": 15,
   "subroom": 0,
-  "name": "Exhibit 15_006",
+  "name": "The Pigeonhole Wall",
   "tasks": [
    "54_5",
    "54_6",
@@ -5480,19 +5480,19 @@
    270,
    580
   ],
-  "subject": "",
+  "subject": "a huge oak wall of small square pigeonholes each stuffed with rolled papers, tied with string",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Oak wall",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Painted wall",
+    "instruction": "make the wall painted cream with teal tied scrolls, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Brass wall",
+    "instruction": "make the wall of polished brass with ivory scrolls, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -5501,7 +5501,7 @@
   "id": "15_007",
   "area": 15,
   "subroom": 0,
-  "name": "Exhibit 15_007",
+  "name": "The Ledger Desk",
   "tasks": [
    "54_8",
    "54_9",
@@ -5511,19 +5511,19 @@
    450,
    580
   ],
-  "subject": "",
+  "subject": "a tall slanted clerk's desk with a high stool, an open ledger of blank ruled pages and a steel pen",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Clerk's oak",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Mahogany",
+    "instruction": "make the desk mahogany with inlaid edges and a green leather top, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Teal lacquer",
+    "instruction": "make the desk teal lacquer with gilt trim and a brass rail, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -5532,7 +5532,7 @@
   "id": "15_008",
   "area": 15,
   "subroom": 0,
-  "name": "Exhibit 15_008",
+  "name": "The Archivist's Magnifier Lamp",
   "tasks": [
    "55_1",
    "55_2",
@@ -5543,19 +5543,19 @@
    630,
    580
   ],
-  "subject": "",
+  "subject": "a brass desk lamp with a large round magnifying lens in a swing arm, its glass dusty, clamped to a small oak base",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Dusty lens",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Lit and clear",
+    "instruction": "make the lens crystal clear and the lamp glowing with a warm amber light, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Silver and pearl",
+    "instruction": "make the lamp polished silver with a pearl-white glass shade, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -5564,7 +5564,7 @@
   "id": "15_009",
   "area": 15,
   "subroom": 0,
-  "name": "Exhibit 15_009",
+  "name": "The Rocking Blotter",
   "tasks": [
    "55_5",
    "55_6",
@@ -5574,19 +5574,19 @@
    90,
    840
   ],
-  "subject": "",
+  "subject": "a curved wooden ink blotter with a brass knob handle and fresh pink blotting paper, beside a squat glass inkwell",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Pink paper",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Green marble",
+    "instruction": "make the blotter polished green marble with a brass handle, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Painted flowers",
+    "instruction": "make the blotter painted cream with teal flowers and a gilded rim, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -5595,7 +5595,7 @@
   "id": "15_010",
   "area": 15,
   "subroom": 0,
-  "name": "Exhibit 15_010",
+  "name": "The Fireproof Safe",
   "tasks": [
    "55_8",
    "55_9",
@@ -5605,19 +5605,19 @@
    270,
    840
   ],
-  "subject": "",
+  "subject": "a tall black iron strongbox with a round brass combination dial with no numbers, heavy hinges and flaking gilt scrolls",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Black iron",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Teal enamel",
+    "instruction": "make the safe deep teal enamel with bright gilt scrolls and a polished brass dial, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Burgundy lacquer",
+    "instruction": "make the safe glossy burgundy with gold banding and brass hinges, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -5626,7 +5626,7 @@
   "id": "15_011",
   "area": 15,
   "subroom": 0,
-  "name": "Exhibit 15_011",
+  "name": "The Map Chest",
   "tasks": [
    "56_1",
    "56_2",
@@ -5637,19 +5637,19 @@
    450,
    840
   ],
-  "subject": "",
+  "subject": "a wide shallow oak chest of flat drawers, one drawer open to show folded blank parchment charts",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Plain oak",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Mahogany",
+    "instruction": "make the chest mahogany with brass corners and a green baize top, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Painted compass",
+    "instruction": "make the chest painted cream with a teal compass rose on its lid, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -5658,7 +5658,7 @@
   "id": "15_012",
   "area": 15,
   "subroom": 0,
-  "name": "Exhibit 15_012",
+  "name": "The Sealed Letter Bundle",
   "tasks": [
    "56_5",
    "56_6",
@@ -5668,19 +5668,19 @@
    630,
    840
   ],
-  "subject": "",
+  "subject": "a bundle of yellowed letters tied with a faded red ribbon and fixed with a burgundy wax seal, resting on a small silver tray",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Yellowed paper",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Blue stationery",
+    "instruction": "make the letters pale blue paper tied with silver ribbon and a silver seal, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Gilt edged",
+    "instruction": "make the letters gold-edged cream paper tied with gold ribbon and a teal seal, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -5689,7 +5689,7 @@
   "id": "15_013",
   "area": 15,
   "subroom": 0,
-  "name": "Exhibit 15_013",
+  "name": "The Rotary Card Wheel",
   "tasks": [
    "56_8",
    "56_9",
@@ -5699,19 +5699,19 @@
    90,
    1100
   ],
-  "subject": "",
+  "subject": "a tall rotating brass wheel of blank index cards on a spindle, mounted on a small oak stand",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Brass wheel",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Silver wheel",
+    "instruction": "make the wheel polished silver with pale enamel cards, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Carved oak",
+    "instruction": "make the wheel carved oak with ivory cards and brass spokes, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -5720,7 +5720,7 @@
   "id": "15_014",
   "area": 15,
   "subroom": 0,
-  "name": "Exhibit 15_014",
+  "name": "The Family Tree Scroll",
   "tasks": [
    "57_1",
    "57_2",
@@ -5730,19 +5730,19 @@
    270,
    1100
   ],
-  "subject": "",
+  "subject": "a very long parchment scroll of branching family-tree lines with empty boxes and no writing, partly unrolled over the edge of an oak desk",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Parchment",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Silk banner",
+    "instruction": "make the scroll hand-embroidered silk with metallic thread branches, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Gold leaf",
+    "instruction": "make the branches shining gold leaf on deep teal vellum, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -5751,7 +5751,7 @@
   "id": "15_015",
   "area": 15,
   "subroom": 0,
-  "name": "Exhibit 15_015",
+  "name": "The Inkwell Collection",
   "tasks": [
    "57_4",
    "57_5",
@@ -5761,19 +5761,19 @@
    450,
    1100
   ],
-  "subject": "",
+  "subject": "a wooden tray of six glass and brass inkwells in different shapes, some with dried ink, with a few quills standing in them",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Glass wells",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Silver wells",
+    "instruction": "make the inkwells chased silver with cut crystal lids, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Enamel wells",
+    "instruction": "make the inkwells painted enamel in teal and burgundy with gold lids, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -5782,7 +5782,7 @@
   "id": "15_016",
   "area": 15,
   "subroom": 0,
-  "name": "Exhibit 15_016",
+  "name": "The Hanging Document Rack",
   "tasks": [
    "57_7",
    "57_8",
@@ -5792,19 +5792,19 @@
    630,
    1100
   ],
-  "subject": "",
+  "subject": "a wall-mounted brass rail with iron hooks holding folded blank documents tied with string, over a worn oak ledge",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Brass rail",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Dark oak",
+    "instruction": "make the rail carved dark oak with black iron hooks and cream documents, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Gilded rail",
+    "instruction": "make the rail gilded with a burgundy velvet back panel and silk-tied documents, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -5813,7 +5813,7 @@
   "id": "15_017",
   "area": 15,
   "subroom": 0,
-  "name": "Exhibit 15_017",
+  "name": "The Document Dumbwaiter",
   "tasks": [
    "57_10",
    "57_11"
@@ -5822,19 +5822,19 @@
    90,
    1360
   ],
-  "subject": "",
+  "subject": "a small wooden lift cabinet with a rope pulley and two shelves of folded papers, set in a brass-framed hatch",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Plain wood",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Teal paint",
+    "instruction": "make the lift painted deep teal with cream shelves and shining brass trim, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Black lacquer",
+    "instruction": "make the lift glossy black lacquer with fine gold lines and a silk rope, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -5843,7 +5843,7 @@
   "id": "15_018",
   "area": 15,
   "subroom": 0,
-  "name": "Exhibit 15_018",
+  "name": "The Chained Reference Book",
   "tasks": [
    "58_1",
    "58_2",
@@ -5853,19 +5853,19 @@
    270,
    1360
   ],
-  "subject": "",
+  "subject": "a giant old book with a cracked leather cover chained by an iron chain to a sloping oak stand, open to blank thick pages",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Oak stand",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Wrought iron",
+    "instruction": "make the stand wrought iron with a heavy brass chain, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Silver stand",
+    "instruction": "make the stand a gleaming brass lectern with a silver chain and the book bound in teal, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -5874,7 +5874,7 @@
   "id": "15_019",
   "area": 15,
   "subroom": 0,
-  "name": "Exhibit 15_019",
+  "name": "The Label Press",
   "tasks": [
    "58_4",
    "58_5",
@@ -5884,19 +5884,19 @@
    450,
    1360
   ],
-  "subject": "",
+  "subject": "a small black iron letterpress machine with a hand lever and a tray of tiny blank wooden blocks, ink-stained",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Black iron",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Brass press",
+    "instruction": "make the press polished brass with an ebony handle, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Teal press",
+    "instruction": "make the press painted teal with gilt scrolls and a clean tray, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -5905,7 +5905,7 @@
   "id": "15_020",
   "area": 15,
   "subroom": 0,
-  "name": "Exhibit 15_020",
+  "name": "The Archivist's Chair",
   "tasks": [
    "58_7",
    "58_8",
@@ -5915,19 +5915,19 @@
    630,
    1360
   ],
-  "subject": "",
+  "subject": "an upright carved oak chair with a high back and worn velvet cushion beside a small table of quills and a tall brass lamp",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Worn oak",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Teal velvet",
+    "instruction": "make the chair upholstered in deep teal velvet with gilded carvings, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Burgundy leather",
+    "instruction": "make the chair buttoned burgundy leather with brass studs, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -5936,7 +5936,7 @@
   "id": "15_021",
   "area": 15,
   "subroom": 0,
-  "name": "Exhibit 15_021",
+  "name": "The Quill Pot",
   "tasks": [
    "58_10",
    "58_11"
@@ -5945,19 +5945,19 @@
    90,
    1620
   ],
-  "subject": "",
+  "subject": "a tall earthenware jar bristling with goose, swan and peacock quill pens in cream, grey and green, standing on a folded blotter",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Earthenware",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Silver urn",
+    "instruction": "make the jar a chased silver urn with ostrich plumes, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Painted jar",
+    "instruction": "make the jar blue-and-white porcelain with gold-tipped feathers, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -5966,7 +5966,7 @@
   "id": "15_022",
   "area": 15,
   "subroom": 0,
-  "name": "Exhibit 15_022",
+  "name": "The Records Vault Door",
   "tasks": [
    "59_1",
    "59_2",
@@ -5977,19 +5977,19 @@
    270,
    1620
   ],
-  "subject": "",
+  "subject": "a heavy round iron door with a big bolt wheel and rows of rivets set into a stone arch, stiff with rust",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Rusty iron",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Painted door",
+    "instruction": "make the door painted deep teal with gold lines and a polished brass wheel, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Silver door",
+    "instruction": "make the door gleaming steel with etched silver scrollwork, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -5998,7 +5998,7 @@
   "id": "15_023",
   "area": 15,
   "subroom": 0,
-  "name": "Exhibit 15_023",
+  "name": "The Pneumatic Tube Station",
   "tasks": [
    "59_5",
    "59_6",
@@ -6008,19 +6008,19 @@
    450,
    1620
   ],
-  "subject": "",
+  "subject": "a brass pneumatic message tube terminal with a trumpet mouth, a glass canister and a pressure gauge with no numbers, on a wall plate",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Dull brass",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Polished and glowing",
+    "instruction": "make the brass bright with a warm glow in the glass canister, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Copper pipes",
+    "instruction": "make the fittings warm copper with green glass and ivory handles, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -6029,7 +6029,7 @@
   "id": "15_024",
   "area": 15,
   "subroom": 0,
-  "name": "Exhibit 15_024",
+  "name": "The Society Charter Case",
   "tasks": [
    "59_8",
    "59_9",
@@ -6039,19 +6039,19 @@
    630,
    1620
   ],
-  "subject": "",
+  "subject": "a tall glass case displaying a huge parchment charter with a heavy wax seal hanging on a cord, flanked by brass candlesticks",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Parchment",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Illuminated",
+    "instruction": "make the charter glow with gold-leaf borders and painted flowers, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Silk charter",
+    "instruction": "make the charter embroidered silk with a gold tassel seal, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -6060,7 +6060,7 @@
   "id": "15_025",
   "area": 15,
   "subroom": 0,
-  "name": "Exhibit 15_025",
+  "name": "The Great Index",
   "tasks": [
    "59_11",
    "59_12",
@@ -6070,19 +6070,19 @@
    90,
    1880
   ],
-  "subject": "",
+  "subject": "a colossal carved oak card index tower with hundreds of tiny drawers, each with a brass pull, taller than a doorway",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Oak tower",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Painted tower",
+    "instruction": "make the tower painted teal and cream with gold pulls, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Mirror tower",
+    "instruction": "make the tower inlaid with mirror glass and brass, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -6091,7 +6091,7 @@
   "id": "16_001",
   "area": 16,
   "subroom": 0,
-  "name": "Exhibit 16_001",
+  "name": "The Oil Can Shelf",
   "tasks": [
    "60_1",
    "60_2",
@@ -6101,19 +6101,19 @@
    90,
    320
   ],
-  "subject": "",
+  "subject": "a plank shelf of long-spouted brass oil cans and little tins of grease, drips of black oil down the wall",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Greasy brass",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Gleaming set",
+    "instruction": "make the cans polished brass and copper with clean drip trays beneath, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Enamelled cans",
+    "instruction": "make the cans painted teal and burgundy with gold bands, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -6122,7 +6122,7 @@
   "id": "16_002",
   "area": 16,
   "subroom": 0,
-  "name": "Exhibit 16_002",
+  "name": "The Sawdust Broom",
   "tasks": [
    "60_4",
    "60_5",
@@ -6132,19 +6132,19 @@
    270,
    320
   ],
-  "subject": "",
+  "subject": "a wide stiff-bristled push broom leaning beside a tin dustpan, with a heap of brass filings and wood shavings",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Dusty bristles",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Brass broom",
+    "instruction": "make the broom a brass-handled sweeper with fresh teal bristles, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Corn broom",
+    "instruction": "make the broom a neat straw corn broom tied with red twine, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -6153,7 +6153,7 @@
   "id": "16_003",
   "area": 16,
   "subroom": 0,
-  "name": "Exhibit 16_003",
+  "name": "The Tool Wall",
   "tasks": [
    "60_7",
    "60_8",
@@ -6163,19 +6163,19 @@
    450,
    320
   ],
-  "subject": "",
+  "subject": "a pegboard of spanners, pliers, screwdrivers and tiny hammers hung in outlined rows, tarnished and greasy",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Worn tools",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Polished steel",
+    "instruction": "make every tool bright polished steel with new oiled wooden handles, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Brass tools",
+    "instruction": "make every tool gleaming brass with mother-of-pearl grips, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -6184,7 +6184,7 @@
   "id": "16_004",
   "area": 16,
   "subroom": 0,
-  "name": "Exhibit 16_004",
+  "name": "The Parts Bins",
   "tasks": [
    "60_10",
    "60_11"
@@ -6193,19 +6193,19 @@
    630,
    320
   ],
-  "subject": "",
+  "subject": "a tall wooden rack of small drawers spilling gears, springs and screws in brass and steel",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Oak bins",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Painted bins",
+    "instruction": "make the bins painted in teal and cream with brass labels frames, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Glass bins",
+    "instruction": "make each drawer a clear glass jar so the gears sparkle, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -6214,7 +6214,7 @@
   "id": "16_005",
   "area": 16,
   "subroom": 0,
-  "name": "Exhibit 16_005",
+  "name": "The Workbench Vice",
   "tasks": [
    "61_1",
    "61_2",
@@ -6224,19 +6224,19 @@
    90,
    580
   ],
-  "subject": "",
+  "subject": "a heavy cast-iron bench vice with a long screw handle clamped to a scarred oak bench, holding a half-made gear",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Rusty vice",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Brass vice",
+    "instruction": "make the vice polished brass on a black iron base, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Teal vice",
+    "instruction": "make the vice painted deep teal with gilt trim, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -6245,7 +6245,7 @@
   "id": "16_006",
   "area": 16,
   "subroom": 0,
-  "name": "Exhibit 16_006",
+  "name": "Hugo's Leather Apron",
   "tasks": [
    "61_4",
    "61_5",
@@ -6255,19 +6255,19 @@
    270,
    580
   ],
-  "subject": "",
+  "subject": "a thick leather work apron hung from a brass hook, pockets bulging with tiny screwdrivers and a pair of goggles, singed at the edges",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Scorched leather",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Mended apron",
+    "instruction": "make the apron new tan leather with bright brass buckles and neat stitching, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Velvet smock",
+    "instruction": "make the apron a deep teal canvas smock with embroidered gold gears, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -6276,7 +6276,7 @@
   "id": "16_007",
   "area": 16,
   "subroom": 0,
-  "name": "Exhibit 16_007",
+  "name": "The Gear Mobile",
   "tasks": [
    "61_7",
    "61_8",
@@ -6286,19 +6286,19 @@
    450,
    580
   ],
-  "subject": "",
+  "subject": "a hanging mobile of brass gears of many sizes dangling on wires, turning slowly, tarnished",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Dull brass",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Polished and spinning",
+    "instruction": "make the gears gleaming and catching warm light, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Coloured gears",
+    "instruction": "make the gears enamelled in teal, burgundy and cream, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -6307,7 +6307,7 @@
   "id": "16_008",
   "area": 16,
   "subroom": 0,
-  "name": "Exhibit 16_008",
+  "name": "The Wind-Up Mouse",
   "tasks": [
    "61_10",
    "61_11",
@@ -6317,19 +6317,19 @@
    630,
    580
   ],
-  "subject": "",
+  "subject": "a clockwork tin mouse with a brass key in its back and wheels hidden beneath, sitting on a folded rag",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Tin mouse",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Gilded mouse",
+    "instruction": "make the mouse gilded with ruby eyes and a silver key, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Porcelain mouse",
+    "instruction": "make the mouse glazed white porcelain with painted blue whiskers, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -6338,7 +6338,7 @@
   "id": "16_009",
   "area": 16,
   "subroom": 0,
-  "name": "Exhibit 16_009",
+  "name": "The Spring Barrel",
   "tasks": [
    "61_13",
    "61_14"
@@ -6347,19 +6347,19 @@
    90,
    840
   ],
-  "subject": "",
+  "subject": "a large coiled steel mainspring in a brass barrel on a wooden stand, partly uncoiled",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Coiled steel",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Gilded coil",
+    "instruction": "make the spring bright gold in a polished barrel, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Blue steel",
+    "instruction": "make the spring heat-blued indigo steel, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -6368,7 +6368,7 @@
   "id": "16_010",
   "area": 16,
   "subroom": 0,
-  "name": "Exhibit 16_010",
+  "name": "The Lathe",
   "tasks": [
    "62_1",
    "62_2",
@@ -6378,19 +6378,19 @@
    270,
    840
   ],
-  "subject": "",
+  "subject": "a small iron metalworking lathe on a bench with a belt drive and a brass handwheel",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Dull iron",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Teal paint",
+    "instruction": "make the lathe painted deep teal with polished brass handwheels and a fresh leather belt, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Gilded lathe",
+    "instruction": "make the lathe cast iron with gilded details, ivory knobs and a burgundy belt, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -6399,7 +6399,7 @@
   "id": "16_011",
   "area": 16,
   "subroom": 0,
-  "name": "Exhibit 16_011",
+  "name": "The Pendulum Test Rig",
   "tasks": [
    "62_4",
    "62_5",
@@ -6409,19 +6409,19 @@
    450,
    840
   ],
-  "subject": "",
+  "subject": "a tall black iron frame holding a swinging brass pendulum bob above a curved bar scored with plain tick marks and no numbers",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Brass bob",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Silver bob",
+    "instruction": "make the bob polished silver on a rod of dark blued steel, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Glass bob",
+    "instruction": "make the bob a clear glass sphere full of golden sand on a gilded rod, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -6430,7 +6430,7 @@
   "id": "16_012",
   "area": 16,
   "subroom": 0,
-  "name": "Exhibit 16_012",
+  "name": "The Cuckoo Mechanism",
   "tasks": [
    "62_7",
    "62_8",
@@ -6440,19 +6440,19 @@
    630,
    840
   ],
-  "subject": "",
+  "subject": "an exposed wooden cuckoo clock movement with brass wheels, hanging chains and pine-cone weights, the little bird door ajar",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Wooden works",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Gilded works",
+    "instruction": "make the wheels gold and the weights silver pine cones, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Jewelled works",
+    "instruction": "make the bearings tiny glowing rubies in a polished frame, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -6461,7 +6461,7 @@
   "id": "16_013",
   "area": 16,
   "subroom": 0,
-  "name": "Exhibit 16_013",
+  "name": "The Music Box Cylinder",
   "tasks": [
    "62_10",
    "62_11"
@@ -6470,19 +6470,19 @@
    90,
    1100
   ],
-  "subject": "",
+  "subject": "a large brass pin-studded cylinder on a mahogany musical box with a steel comb, lid propped open",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Brass cylinder",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Silver cylinder",
+    "instruction": "make the cylinder silver with a rosewood case, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Glass lid",
+    "instruction": "make the lid clear glass so the cylinder glints, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -6491,7 +6491,7 @@
   "id": "16_014",
   "area": 16,
   "subroom": 0,
-  "name": "Exhibit 16_014",
+  "name": "The Clockwork Bird Cage",
   "tasks": [
    "63_1",
    "63_2",
@@ -6501,19 +6501,19 @@
    270,
    1100
   ],
-  "subject": "",
+  "subject": "a delicate brass birdcage holding a little feathered automaton songbird with a key in its tail",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Brass cage",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Silver cage",
+    "instruction": "make the cage silver with a blue enamel bird, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Gold cage",
+    "instruction": "make the cage gold with a ruby-breasted bird, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -6522,7 +6522,7 @@
   "id": "16_015",
   "area": 16,
   "subroom": 0,
-  "name": "Exhibit 16_015",
+  "name": "The Orrery in Pieces",
   "tasks": [
    "63_4",
    "63_5",
@@ -6532,19 +6532,19 @@
    450,
    1100
   ],
-  "subject": "",
+  "subject": "a half-assembled brass solar system model with loose planet spheres and arms laid on a green baize cloth",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Loose parts",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Assembled",
+    "instruction": "make the orrery assembled and slowly turning, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Enamel planets",
+    "instruction": "make the planets painted enamel in bright colours, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -6553,7 +6553,7 @@
   "id": "16_016",
   "area": 16,
   "subroom": 0,
-  "name": "Exhibit 16_016",
+  "name": "The Mechanical Hand",
   "tasks": [
    "63_7",
    "63_8",
@@ -6563,19 +6563,19 @@
    630,
    1100
   ],
-  "subject": "",
+  "subject": "a life-size articulated brass hand on a stand, fingers curled, with visible tendon wires and cogs",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Brass hand",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Silver hand",
+    "instruction": "make the hand silver with copper wires, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Glove hand",
+    "instruction": "make the hand wearing a white lace glove with a ruby ring, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -6584,7 +6584,7 @@
   "id": "16_017",
   "area": 16,
   "subroom": 0,
-  "name": "Exhibit 16_017",
+  "name": "The Cog Tree",
   "tasks": [
    "63_10",
    "63_11"
@@ -6593,19 +6593,19 @@
    90,
    1360
   ],
-  "subject": "",
+  "subject": "a small potted tree of wire branches hung with tiny brass cogs instead of leaves, in a cast-iron pot",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Brass cogs",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Silver cogs",
+    "instruction": "make the cogs silver and the pot a polished white porcelain urn, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Enamel cogs",
+    "instruction": "make the cogs enamelled in teal, burgundy and cream on gilt branches, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -6614,7 +6614,7 @@
   "id": "16_018",
   "area": 16,
   "subroom": 0,
-  "name": "Exhibit 16_018",
+  "name": "The Steam Kettle Engine",
   "tasks": [
    "64_1",
    "64_2",
@@ -6624,19 +6624,19 @@
    270,
    1360
   ],
-  "subject": "",
+  "subject": "a miniature polished copper steam engine with a tall chimney, a flywheel and a spout of vapour, on a brass drip tray",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Copper engine",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Brass engine",
+    "instruction": "make the engine bright brass with a red flywheel and a green boiler, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Silver engine",
+    "instruction": "make the engine silver with ebony fittings and soft white steam, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -6645,7 +6645,7 @@
   "id": "16_019",
   "area": 16,
   "subroom": 0,
-  "name": "Exhibit 16_019",
+  "name": "The Automaton Scribe",
   "tasks": [
    "64_4",
    "64_5",
@@ -6655,19 +6655,19 @@
    450,
    1360
   ],
-  "subject": "",
+  "subject": "a seated brass automaton figure with a hinged jaw and a pen in its hand at a tiny desk, blank paper beneath",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Brass automaton",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Porcelain automaton",
+    "instruction": "make the figure glazed porcelain with painted gold buttons and a blue coat, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Wooden automaton",
+    "instruction": "make the figure carved wood with a velvet waistcoat and glass eyes, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -6676,7 +6676,7 @@
   "id": "16_020",
   "area": 16,
   "subroom": 0,
-  "name": "Exhibit 16_020",
+  "name": "The Hugo Pemberton Workbench",
   "tasks": [
    "64_7",
    "64_8",
@@ -6686,19 +6686,19 @@
    630,
    1360
   ],
-  "subject": "",
+  "subject": "a huge cluttered oak workbench with a lamp, a bell jar of springs, a tray of lenses and half-built gadgets",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Cluttered oak",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Tidy bench",
+    "instruction": "make the bench neat with every tool in place and a polished brass lamp, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Brass bench",
+    "instruction": "make the bench topped with a brass plate and a teal enamel lamp, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -6707,7 +6707,7 @@
   "id": "16_021",
   "area": 16,
   "subroom": 0,
-  "name": "Exhibit 16_021",
+  "name": "The Gear Clock",
   "tasks": [
    "64_10",
    "64_11",
@@ -6717,19 +6717,19 @@
    90,
    1620
   ],
-  "subject": "",
+  "subject": "a tall clock whose face is a set of interlocking exposed brass gears with a single pointer, no numerals, on a pale wood case",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Brass gears",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Silver gears",
+    "instruction": "make the gears silver on a black marble case, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Glass gears",
+    "instruction": "make the gears clear glass with a golden pointer, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -6738,7 +6738,7 @@
   "id": "16_022",
   "area": 16,
   "subroom": 0,
-  "name": "Exhibit 16_022",
+  "name": "The Tinkerer's Chandelier",
   "tasks": [
    "64_13",
    "64_14"
@@ -6747,19 +6747,19 @@
    270,
    1620
   ],
-  "subject": "",
+  "subject": "a hanging chandelier built from bicycle gears, brass funnels and hanging lightbulbs with glowing filaments",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Mixed metal",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Polished brass",
+    "instruction": "make the chandelier gleaming polished brass with warm amber filaments, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Copper and glass",
+    "instruction": "make it copper pipes and clear glass globes with blue-white filaments, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -6768,7 +6768,7 @@
   "id": "16_023",
   "area": 16,
   "subroom": 0,
-  "name": "Exhibit 16_023",
+  "name": "The Difference Engine",
   "tasks": [
    "65_1",
    "65_2",
@@ -6778,19 +6778,19 @@
    450,
    1620
   ],
-  "subject": "",
+  "subject": "a large brass calculating machine of rows of numberless cogged columns with a hand crank, on an oak base",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Brass",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Gilded",
+    "instruction": "make the engine gilded with ivory handles, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Steel",
+    "instruction": "make the engine blue steel with brass cogs, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -6799,7 +6799,7 @@
   "id": "16_024",
   "area": 16,
   "subroom": 0,
-  "name": "Exhibit 16_024",
+  "name": "The Perpetual Motion Wheel",
   "tasks": [
    "65_4",
    "65_5",
@@ -6809,19 +6809,19 @@
    630,
    1620
   ],
-  "subject": "",
+  "subject": "a tall wheel with weighted brass arms turning slowly inside a glass case with a wooden base",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Brass wheel",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Silver wheel",
+    "instruction": "make the wheel silver with sapphire weights, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Gold wheel",
+    "instruction": "make the wheel gold with ruby weights, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -6830,7 +6830,7 @@
   "id": "16_025",
   "area": 16,
   "subroom": 0,
-  "name": "Exhibit 16_025",
+  "name": "The Great Escapement",
   "tasks": [
    "65_7",
    "65_8",
@@ -6840,19 +6840,19 @@
    90,
    1880
   ],
-  "subject": "",
+  "subject": "an enormous exposed clock escapement with a huge brass anchor and escape wheel, mounted on a stand of dark oak",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Raw brass",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Gilded",
+    "instruction": "make the escapement bright gilt with a ruby pallet stone and a black walnut stand, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Blued steel",
+    "instruction": "make the escapement dark blued steel with silver teeth on a pale maple stand, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -6861,7 +6861,7 @@
   "id": "16_026",
   "area": 16,
   "subroom": 0,
-  "name": "Exhibit 16_026",
+  "name": "The Clockwork Elephant",
   "tasks": [
    "65_10",
    "65_11"
@@ -6870,19 +6870,19 @@
    270,
    1880
   ],
-  "subject": "",
+  "subject": "a life-sized-looking mechanical brass elephant with a howdah, visible gear seams and a wind-up key on its side",
   "looks": [
    {
-    "name": "Look 1",
+    "name": "Brass elephant",
     "instruction": null
    },
    {
-    "name": "Look 2",
-    "instruction": ""
+    "name": "Enamel elephant",
+    "instruction": "make the elephant enamelled teal with gold gear seams, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Look 3",
-    "instruction": ""
+    "name": "Silver elephant",
+    "instruction": "make the elephant silver with a burgundy howdah, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null

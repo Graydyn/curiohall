@@ -11,7 +11,7 @@
   ],
   "subrooms": [
    {
-    "name": "Room 1",
+    "name": "The Forecourt",
     "size": [
      720,
      1280
@@ -54,7 +54,7 @@
   ],
   "subrooms": [
    {
-    "name": "Room 1",
+    "name": "The Cloakroom & Vestibule",
     "size": [
      720,
      1560
@@ -75,7 +75,7 @@
   ],
   "subrooms": [
    {
-    "name": "Room 1",
+    "name": "The Curator's Study",
     "size": [
      720,
      1560
@@ -96,7 +96,7 @@
   ],
   "subrooms": [
    {
-    "name": "Room 1",
+    "name": "The Tea Room",
     "size": [
      720,
      1280
@@ -116,7 +116,7 @@
   ],
   "subrooms": [
    {
-    "name": "Room 1",
+    "name": "The Aviary Hall",
     "size": [
      720,
      1300
@@ -136,7 +136,7 @@
   ],
   "subrooms": [
    {
-    "name": "Room 1",
+    "name": "The Butterfly House",
     "size": [
      720,
      1300
@@ -156,7 +156,7 @@
   ],
   "subrooms": [
    {
-    "name": "Room 1",
+    "name": "The Palm Court",
     "size": [
      720,
      1300
@@ -176,7 +176,7 @@
   ],
   "subrooms": [
    {
-    "name": "Room 1",
+    "name": "The Fossil Gallery",
     "size": [
      720,
      1280
@@ -196,7 +196,7 @@
   ],
   "subrooms": [
    {
-    "name": "Room 1",
+    "name": "The Mineral Vault",
     "size": [
      720,
      1820
@@ -216,7 +216,7 @@
   ],
   "subrooms": [
    {
-    "name": "Room 1",
+    "name": "The Shell & Coral Room",
     "size": [
      720,
      1560
@@ -236,7 +236,7 @@
   ],
   "subrooms": [
    {
-    "name": "Room 1",
+    "name": "The Aquarium Grotto",
     "size": [
      720,
      1820
@@ -256,7 +256,7 @@
   ],
   "subrooms": [
    {
-    "name": "Room 1",
+    "name": "The Map Room",
     "size": [
      720,
      1560
@@ -276,7 +276,7 @@
   ],
   "subrooms": [
    {
-    "name": "Room 1",
+    "name": "The Library of Expeditions",
     "size": [
      720,
      1820
@@ -296,7 +296,7 @@
   ],
   "subrooms": [
    {
-    "name": "Room 1",
+    "name": "The Archives",
     "size": [
      720,
      2340
@@ -316,7 +316,7 @@
   ],
   "subrooms": [
    {
-    "name": "Room 1",
+    "name": "The Clockwork Workshop",
     "size": [
      720,
      2340

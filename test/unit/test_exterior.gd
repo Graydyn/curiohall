@@ -58,7 +58,7 @@ func test_next_task_strip() -> void:
     var strip := home.find_child("NextTaskStrip", true, false) as Button
     assert_not_null(strip)
     assert_true(strip.visible)
-    assert_string_contains(strip.text, "Exhibit 01_001")
+    assert_string_contains(strip.text, String(ConfigDB.hall_elements["01_001"]["name"]))
     assert_string_contains(strip.text, "26")
     home.game.campaign.day = 283
     home.refresh_next_task()
