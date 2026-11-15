@@ -1,5 +1,7 @@
 {
- "_pending": {},
+ "_pending": {
+  "scene_02_0_src": "11a4b138-61cf-48d1-9be2-0e1098cf7b4a"
+ },
  "exterior_base": "77dcebdb-c342-452a-aefb-1e3194d9b093",
  "style_core": [
   "style_probe_conservatory",
