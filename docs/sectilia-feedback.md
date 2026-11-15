@@ -67,3 +67,11 @@ would help.
     20 minutes in `queued` ("waiting for hammer generate, edit to start,
     usually about 7 minutes") instead of exiting 7 at 160 s. An agent shell
     that relies on `--timeout` to stay in the foreground cannot.
+13. **Hours with no GPU capacity, and the client kept saying "about 7 minutes".**
+    The Atrium resubmit (6debc1ba, `--max-hammer-calls 10`) sat queued and then
+    failed at 01:50 UTC with `hammer_capacity`: "no GPU capacity was available
+    for hammer generate for 120 minutes". Together with 53c5f576, the service
+    took about 4 hours to produce nothing, and the whole time stderr said
+    "usually about 7 minutes". A status page or a `sectilia status` command
+    showing current capacity and queue depth would let a user choose to wait or
+    come back later, instead of tying up the machine lock for hours.
