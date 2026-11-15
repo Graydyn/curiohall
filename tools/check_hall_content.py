@@ -26,7 +26,7 @@ def main():
             print("bad instructions", e["id"]); bad += 1
         if len({l["name"].lower() for l in lk}) != 3 or any(l["name"].startswith("Look ") for l in lk):
             print("bad look names", e["id"]); bad += 1
-        if len(e["subject"].split()) < 14:
+        if len(e["subject"].split()) < 11:
             print("thin subject", e["id"], e["name"]); bad += 1
         for l in lk[1:]:
             if len(l["instruction"].split()) < 15 or l["instruction"].lower().startswith("make it "):

@@ -1,7 +1,7 @@
 The Pirate Hoard Chest | a battered sea chest bound in iron with the lid thrown back showing gold coins, a goblet and a string of pearls | Iron-bound | chest | gilded | crystal
 The Cursed Crown | a heavy dark iron crown set with a single black gem, hung on a hook with a cobweb | Dark iron | crown | gilded | frost
 The Sleeping Dragon Hoard | a mound of gold coins, cups and jewels with a long sleeping dragon's tail curled around it | Gold coins | hoard | silvered | glow
-The Bag of Gold | a fat leather drawstring pouch, full of gold coins spilling | Brown leather | pouch | velvet | gilded
+The Bag of Gold | a fat brown leather drawstring pouch bulging with gold coins, a few spilling out onto the floor | Brown leather | pouch | velvet | gilded
 The Ruby Chalice | a tall gold chalice set with rubies, standing on a velvet cushion with dust | Gold chalice | chalice | silvered | crystal
 The Sealed Sarcophagus | a stone coffin with a heavy carved lid sealed with wax and ropes, in the middle of the room | Stone | sarcophagus | gilded | onyx
 The Emerald Idol | a small green stone idol of an animal figure with tiny eyes of garnet, on a stone base | Green stone | idol | gilded | jade

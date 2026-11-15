@@ -1,4 +1,4 @@
 The Queen's Chamber | a glowing glass chamber in a brass frame with a huge queen bee surrounded by attendant bees on golden honeycomb | Golden comb | Silver comb | make the comb silver and the glass pale blue with moonlight | Crystal comb | make the comb crystal with a ruby queen
 The Honey Fountain | a tiered brass and glass fountain with honey flowing in thick golden streams between hexagonal basins, bees hovering | Brass | Silver | make the fountain silver with pale honey | Gilded | make the fountain gilded with copper bees
-The Hive Mind Clock | a big round honeycomb-shaped wall clock with brass bees circling as hands and no numerals, in a hexagonal frame | Brass bees | Silver bees | make the bees silver | Golden bees | make the bees gold
-The Great Colony | a huge cutaway model of an ant colony with chambers, tunnels, and thousands of tiny ants, in a tall glass case with a brass frame | Soil | Gilded | make the colony gilded with glowing chambers | Crystal | make the colony clear crystal
+The Hive Mind Clock | a big round honeycomb-shaped wall clock with brass bees circling as hands and no numerals, in a hexagonal frame | Brass bees | clock | silvered | gilded
+The Great Colony | a huge cutaway model of an ant colony with chambers, tunnels, and thousands of tiny ants, in a tall glass case with a brass frame | Soil | colony case | gilded | crystal

@@ -2129,12 +2129,12 @@
     "instruction": null
    },
    {
-    "name": "Sunset morpho",
-    "instruction": "make the butterflies orange, rose and gold, keep the same object, framing, viewpoint and lighting"
+    "name": "Burgundy lacquer",
+    "instruction": "paint the case glossy burgundy lacquer with brass trim and cream accents, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Moon morpho",
-    "instruction": "make the butterflies pearl-white and silver, keep the same object, framing, viewpoint and lighting"
+    "name": "Frosted glass",
+    "instruction": "make the case frosted white glass lit softly from within, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -2191,12 +2191,12 @@
     "instruction": null
    },
    {
-    "name": "Silk lantern",
-    "instruction": "make it a cluster of silk-wrapped lanterns glowing amber, keep the same object, framing, viewpoint and lighting"
+    "name": "Amber glow",
+    "instruction": "make the chandelier translucent honey-amber glass glowing warmly from inside, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Starlight",
-    "instruction": "make the glow cool blue-white like tiny stars, keep the same object, framing, viewpoint and lighting"
+    "name": "Cut crystal",
+    "instruction": "make the chandelier clear cut crystal that sparkles and throws tiny rainbows, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -3278,12 +3278,12 @@
     "instruction": null
    },
    {
-    "name": "Golden citrine",
-    "instruction": "make the crystals warm golden-yellow citrine, keep the same object, framing, viewpoint and lighting"
+    "name": "Amber glow",
+    "instruction": "make the geode translucent honey-amber glass glowing warmly from inside, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Green quartz",
-    "instruction": "make the crystals pale mint-green, keep the same object, framing, viewpoint and lighting"
+    "name": "Emerald",
+    "instruction": "make the geode rich emerald green glass with brass bands, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -3651,12 +3651,12 @@
     "instruction": null
    },
    {
-    "name": "Lit",
-    "instruction": "make the shells glowing warmly from candle bulbs, keep the same object, framing, viewpoint and lighting"
+    "name": "Lamplit",
+    "instruction": "make the chandelier glow from within with warm gaslight amber and soft rays, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Pearly",
-    "instruction": "make the shells iridescent mother-of-pearl, keep the same object, framing, viewpoint and lighting"
+    "name": "Mother-of-pearl",
+    "instruction": "make the chandelier lustrous mother-of-pearl with a pink and green rainbow sheen, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -3713,12 +3713,12 @@
     "instruction": null
    },
    {
-    "name": "Golden eye",
-    "instruction": "make the eye amber with a black slit pupil, keep the same object, framing, viewpoint and lighting"
+    "name": "Cut crystal",
+    "instruction": "make the eyeball clear cut crystal that sparkles and throws tiny rainbows, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Crystal eye",
-    "instruction": "make the eye pale blue crystal, keep the same object, framing, viewpoint and lighting"
+    "name": "Gilded",
+    "instruction": "make the eyeball burnished gold with fine engraved flourishes and small ruby accents, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -4181,12 +4181,12 @@
     "instruction": null
    },
    {
-    "name": "Rainbow glass",
-    "instruction": "make the shades iridescent rainbow glass, keep the same object, framing, viewpoint and lighting"
+    "name": "Sapphire",
+    "instruction": "make the chandelier deep sapphire blue glass with silver bands, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Amber glass",
-    "instruction": "make the shades warm amber glass glowing like honey, keep the same object, framing, viewpoint and lighting"
+    "name": "Amber glow",
+    "instruction": "make the chandelier translucent honey-amber glass glowing warmly from inside, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -4492,12 +4492,12 @@
     "instruction": null
    },
    {
-    "name": "Teal enamel",
-    "instruction": "make the instrument painted deep teal with gilt fittings and a polished lens, keep the same object, framing, viewpoint and lighting"
+    "name": "Silvered",
+    "instruction": "make the theodolite polished silver with delicate engraving and pale blue enamel accents, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Silver steel",
-    "instruction": "make it polished silver steel on a black lacquered tripod, keep the same object, framing, viewpoint and lighting"
+    "name": "Teal lacquer",
+    "instruction": "paint the theodolite glossy deep teal lacquer with gilded trim and cream accents, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -6354,12 +6354,12 @@
     "instruction": null
    },
    {
-    "name": "Gilded coil",
-    "instruction": "make the spring bright gold in a polished barrel, keep the same object, framing, viewpoint and lighting"
+    "name": "Gilded",
+    "instruction": "make the mainspring burnished gold with fine engraved flourishes and small ruby accents, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Blue steel",
-    "instruction": "make the spring heat-blued indigo steel, keep the same object, framing, viewpoint and lighting"
+    "name": "Sapphire",
+    "instruction": "make the mainspring deep sapphire blue glass with silver bands, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -6754,12 +6754,12 @@
     "instruction": null
    },
    {
-    "name": "Polished brass",
-    "instruction": "make the chandelier gleaming polished brass with warm amber filaments, keep the same object, framing, viewpoint and lighting"
+    "name": "Hammered copper",
+    "instruction": "make the chandelier hammered warm copper with visible rivets and a soft shine, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Copper and glass",
-    "instruction": "make it copper pipes and clear glass globes with blue-white filaments, keep the same object, framing, viewpoint and lighting"
+    "name": "Cut crystal",
+    "instruction": "make the chandelier clear cut crystal that sparkles and throws tiny rainbows, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -7466,12 +7466,12 @@
     "instruction": null
    },
    {
-    "name": "Steel",
-    "instruction": "make the arm blued steel with brass wheel, keep the same object, framing, viewpoint and lighting"
+    "name": "Silvered",
+    "instruction": "make the planimeter polished silver with delicate engraving and pale blue enamel accents, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Gold",
-    "instruction": "make it gold-plated in a teal case, keep the same object, framing, viewpoint and lighting"
+    "name": "Gilded",
+    "instruction": "make the planimeter burnished gold with fine engraved flourishes and small ruby accents, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -7714,12 +7714,12 @@
     "instruction": null
    },
    {
-    "name": "Black and gold",
-    "instruction": "make the cabinet lacquered black with gilt wheels, keep the same object, framing, viewpoint and lighting"
+    "name": "Ebony and pearl",
+    "instruction": "make the machine black ebony with gilded carving and mother-of-pearl inlay, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Silver cabinet",
-    "instruction": "make it silver with burgundy cords, keep the same object, framing, viewpoint and lighting"
+    "name": "Silvered",
+    "instruction": "make the machine polished silver with delicate engraving and pale blue enamel accents, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -7991,12 +7991,12 @@
     "instruction": null
    },
    {
-    "name": "Silver moon",
-    "instruction": "make the moon polished silver, keep the same object, framing, viewpoint and lighting"
+    "name": "Silvered",
+    "instruction": "make the moon polished silver with delicate engraving and pale blue enamel accents, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Glowing moon",
-    "instruction": "make the moon softly glowing pearl-white, keep the same object, framing, viewpoint and lighting"
+    "name": "Lamplit",
+    "instruction": "make the moon glow from within with warm gaslight amber and soft rays, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -8986,12 +8986,12 @@
     "instruction": null
    },
    {
-    "name": "Lit sconce",
-    "instruction": "make the lamp polished and glowing warm amber, keep the same object, framing, viewpoint and lighting"
+    "name": "Lamplit",
+    "instruction": "make the gaslight glow from within with warm gaslight amber and soft rays, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Twin arm",
-    "instruction": "make it a twin-armed sconce with two ruby glass shades, keep the same object, framing, viewpoint and lighting"
+    "name": "Ruby red",
+    "instruction": "make the gaslight deep ruby red glass with gold bands, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -9419,12 +9419,12 @@
     "instruction": null
    },
    {
-    "name": "Gilded rocks",
-    "instruction": "make the pebbles gilded and silvered, keep the same object, framing, viewpoint and lighting"
+    "name": "Gilded",
+    "instruction": "make the tray burnished gold with fine engraved flourishes and small ruby accents, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Crystal rocks",
-    "instruction": "make the pebbles tiny crystal and amethyst chips, keep the same object, framing, viewpoint and lighting"
+    "name": "Cut crystal",
+    "instruction": "make the tray clear cut crystal that sparkles and throws tiny rainbows, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -9574,12 +9574,12 @@
     "instruction": null
    },
    {
-    "name": "Silver gears",
-    "instruction": "make the gears polished silver, keep the same object, framing, viewpoint and lighting"
+    "name": "Silvered",
+    "instruction": "make the cabinet polished silver with delicate engraving and pale blue enamel accents, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Gilded gears",
-    "instruction": "make the gears gilded, keep the same object, framing, viewpoint and lighting"
+    "name": "Gilded",
+    "instruction": "make the cabinet burnished gold with fine engraved flourishes and small ruby accents, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -11582,12 +11582,12 @@
     "instruction": null
    },
    {
-    "name": "Bronze arch",
-    "instruction": "cast the arch in bronze, keep the same object, framing, viewpoint and lighting"
+    "name": "Bronze",
+    "instruction": "recast the arch in dark patinated bronze with warm golden highlights on a black marble base, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Silver arch",
-    "instruction": "make the arch polished silver, keep the same object, framing, viewpoint and lighting"
+    "name": "Silvered",
+    "instruction": "make the arch polished silver with delicate engraving and pale blue enamel accents, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -11613,12 +11613,12 @@
     "instruction": null
    },
    {
-    "name": "Gilded skull",
-    "instruction": "make the skull gilded with a green gem, keep the same object, framing, viewpoint and lighting"
+    "name": "Gilded",
+    "instruction": "make the skull burnished gold with fine engraved flourishes and small ruby accents, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Crystal skull",
-    "instruction": "make the skull clear crystal glowing, keep the same object, framing, viewpoint and lighting"
+    "name": "Cut crystal",
+    "instruction": "make the skull clear cut crystal that sparkles and throws tiny rainbows, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -11643,12 +11643,12 @@
     "instruction": null
    },
    {
-    "name": "Gilded crab",
-    "instruction": "make the crab gilded, keep the same object, framing, viewpoint and lighting"
+    "name": "Gilded",
+    "instruction": "make the crab burnished gold with fine engraved flourishes and small ruby accents, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Blue crab",
-    "instruction": "make the crab blue, keep the same object, framing, viewpoint and lighting"
+    "name": "Sapphire",
+    "instruction": "make the crab deep sapphire blue glass with silver bands, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -12975,12 +12975,12 @@
     "instruction": null
    },
    {
-    "name": "Peacock",
-    "instruction": "make the wings iridescent peacock blue, keep the same object, framing, viewpoint and lighting"
+    "name": "Sapphire",
+    "instruction": "make the lantern fly deep sapphire blue glass with silver bands, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Glass",
-    "instruction": "make the wings clear glass with inner light, keep the same object, framing, viewpoint and lighting"
+    "name": "Cut crystal",
+    "instruction": "make the lantern fly clear cut crystal that sparkles and throws tiny rainbows, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -13129,12 +13129,12 @@
     "instruction": null
    },
    {
-    "name": "Silver bees",
-    "instruction": "make the bees silver, keep the same object, framing, viewpoint and lighting"
+    "name": "Silvered",
+    "instruction": "make the clock polished silver with delicate engraving and pale blue enamel accents, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Golden bees",
-    "instruction": "make the bees gold, keep the same object, framing, viewpoint and lighting"
+    "name": "Gilded",
+    "instruction": "make the clock burnished gold with fine engraved flourishes and small ruby accents, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -13160,11 +13160,11 @@
    },
    {
     "name": "Gilded",
-    "instruction": "make the colony gilded with glowing chambers, keep the same object, framing, viewpoint and lighting"
+    "instruction": "make the colony case burnished gold with fine engraved flourishes and small ruby accents, keep the same object, framing, viewpoint and lighting"
    },
    {
-    "name": "Crystal",
-    "instruction": "make the colony clear crystal, keep the same object, framing, viewpoint and lighting"
+    "name": "Cut crystal",
+    "instruction": "make the colony case clear cut crystal that sparkles and throws tiny rainbows, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null
@@ -31982,7 +31982,7 @@
    630,
    1620
   ],
-  "subject": "a fat leather drawstring pouch, full of gold coins spilling",
+  "subject": "a fat brown leather drawstring pouch bulging with gold coins, a few spilling out onto the floor",
   "looks": [
    {
     "name": "Brown leather",
@@ -37504,7 +37504,7 @@
   "subject": "a small hand-painted prayer-book style volume with gilded borders and tiny painted animals, no lettering",
   "looks": [
    {
-    "name": "Gilded",
+    "name": "Painted borders",
     "instruction": null
    },
    {

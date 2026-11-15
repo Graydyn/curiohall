@@ -1,6 +1,6 @@
 The Blank-Backed Journals | a stack of identical journals bound in plain green cloth with ribbon markers and no titles | Green cloth | journals | burgundy | leather
 The Manuscript Drawer | a flat map-chest drawer pulled open showing a scrolled manuscript pinned beneath glass | Old vellum | drawer | gilded | rosewood
-The Illuminated Missal | a small hand-painted prayer-book style volume with gilded borders and tiny painted animals, no lettering | Gilded | missal | gilded | enamel
+The Illuminated Missal | a small hand-painted prayer-book style volume with gilded borders and tiny painted animals, no lettering | Painted borders | missal | gilded | enamel
 The Bookbinder's Corner | a small bench with a bone folder, a sewing frame and a pot of paste beside a half-bound book | Wood | bench | teal | brass
 The Library Spiral Stair | a short iron spiral stair leading up to a gallery of books with a curling handrail | Iron | stair | brass | gilded
 The Hush Bell | a muted brass handbell with a felt-wrapped clapper on a library table | Brass | bell | silvered | verdigris
