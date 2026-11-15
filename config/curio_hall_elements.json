@@ -60,7 +60,7 @@
     "instruction": "make the stone fresh pale limestone with sharp carved feathers, trimmed ivy and a fresh coat of black paint on the railing, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d001"
  },
  {
   "id": "02_001",
@@ -123,7 +123,7 @@
     "instruction": "make the globes cut crystal hung with sparkling glass drops, the brass polished bright, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d002"
  },
  {
   "id": "02_003",
@@ -215,7 +215,7 @@
     "instruction": "add a gilded laurel wreath on his head and a burgundy velvet drape over the pedestal, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d003"
  },
  {
   "id": "02_006",
@@ -307,7 +307,7 @@
     "instruction": "give the desk a green-veined marble top and carved burgundy front panels, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d004"
  },
  {
   "id": "02_009",
@@ -399,7 +399,7 @@
     "instruction": "make the frame pale woven cane with cream floral chintz cushions, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d005"
  },
  {
   "id": "02_012",
@@ -462,7 +462,7 @@
     "instruction": "change the balloon into a small cigar-shaped brass and canvas airship with a propeller, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d006"
  },
  {
   "id": "02_014",
@@ -649,7 +649,7 @@
     "instruction": "replace the coats with plush velvet evening capes in burgundy and deep teal with fur collars, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d008"
  },
  {
   "id": "03_004",
@@ -743,7 +743,7 @@
     "instruction": "make the hamper a gilded wire basket lined with burgundy velvet with the gloves in matched pairs, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d009"
  },
  {
   "id": "03_007",
@@ -866,7 +866,7 @@
     "instruction": "make the barometer a gilded sunburst with a mirrored glass dial, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d010"
  },
  {
   "id": "03_011",
@@ -960,7 +960,7 @@
     "instruction": "make the arms curve like tulips with frosted tulip-shaped shades on gentle green-brass stems, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d011"
  },
  {
   "id": "04_001",
@@ -1083,7 +1083,7 @@
     "instruction": "make the cabinet a pale wood apothecary chest with tiny curved glass-knobbed drawers, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d012"
  },
  {
   "id": "04_005",
@@ -1177,7 +1177,7 @@
     "instruction": "make the chair covered in cream chintz with big pink cabbage roses, a lace antimacassar and plump cushions, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d013"
  },
  {
   "id": "04_008",
@@ -1271,7 +1271,7 @@
     "instruction": "make the picture a fine black-and-white engraving with dense cross-hatching in an ebony frame, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d014"
  },
  {
   "id": "04_011",
@@ -1394,7 +1394,7 @@
     "instruction": "make the desk pale satinwood with inlaid marquetry stars and polished brass handles, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d015"
  },
  {
   "id": "05_001",
@@ -1517,7 +1517,7 @@
     "instruction": "make the stand ornate silver with glass plates and sugared violets, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d016"
  },
  {
   "id": "05_005",
@@ -1610,7 +1610,7 @@
     "instruction": "make the urn a tiered gilded fountain pouring gently into a saucer-basin, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d017"
  },
  {
   "id": "06_001",
@@ -1703,7 +1703,7 @@
     "instruction": "make the dusters spread silk-and-feather fans in a carved wooden holder with a ribbon bow, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d018"
  },
  {
   "id": "06_004",
@@ -1796,7 +1796,7 @@
     "instruction": "make the scene frosty with icicles on the reed and a pale grey-blue stream, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d019"
  },
  {
   "id": "06_007",
@@ -1919,7 +1919,7 @@
     "instruction": "make the phoenix crystalline pale blue and white with frosted feather tips and icicles on the stand, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d020"
  },
  {
   "id": "07_001",
@@ -2043,7 +2043,7 @@
     "instruction": "make the chrysalises split open with damp new butterflies stretching their wings in the jars, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d021"
  },
  {
   "id": "07_005",
@@ -2137,7 +2137,7 @@
     "instruction": "rearrange the butterflies into a bright round sunburst on cream card in a slim gilt frame with a pale blue mount, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d022"
  },
  {
   "id": "07_008",
@@ -2230,7 +2230,7 @@
     "instruction": "make the butterflies cut jewels of garnet and topaz glinting among green glass leaves, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d023"
  },
  {
   "id": "08_001",
@@ -2354,7 +2354,7 @@
     "instruction": "make the case a tall glass bell jar over a single curling fern, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d024"
  },
  {
   "id": "08_005",
@@ -2448,7 +2448,7 @@
     "instruction": "make the arch hung with orange pumpkins, striped gourds and red-gold leaves on the rustic wood, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d025"
  },
  {
   "id": "08_008",
@@ -2571,7 +2571,7 @@
     "instruction": "make the plants russet and bronze with bright red veined traps and a few fallen amber leaves in the glass, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d026"
  },
  {
   "id": "09_001",
@@ -2665,7 +2665,7 @@
     "instruction": "make one egg cracked open with a tiny scaly snout peeking out and fresh grass in the nest, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d027"
  },
  {
   "id": "09_004",
@@ -2759,7 +2759,7 @@
     "instruction": "make the skull clear quartz crystal with glints of amber light in its teeth, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d028"
  },
  {
   "id": "10_001",
@@ -2853,7 +2853,7 @@
     "instruction": "make the pickaxes ceremonial with carved ebony shafts, tasselled cords and polished steel blades, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d029"
  },
  {
   "id": "10_004",
@@ -2976,7 +2976,7 @@
     "instruction": "make the boulder rough with bright blue-green crusts and orange copper nuggets showing, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d030"
  },
  {
   "id": "10_008",
@@ -3099,7 +3099,7 @@
     "instruction": "make the scales shut under a tall glass dome on a green-felt base with a small brass bell, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d031"
  },
  {
   "id": "10_012",
@@ -3193,7 +3193,7 @@
     "instruction": "make the door painted deep teal with gold banding and a brass wheel, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d032"
  },
  {
   "id": "10_015",
@@ -3316,7 +3316,7 @@
     "instruction": "make the crystal milky white with a drifting blue shimmer cradled in a ring of dark wrought iron, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d033"
  },
  {
   "id": "11_001",
@@ -3410,7 +3410,7 @@
     "instruction": "make the shell polished silver-white with a gold lip and a coiled tassel, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d034"
  },
  {
   "id": "11_004",
@@ -3504,7 +3504,7 @@
     "instruction": "make the shells mother-of-pearl with rainbow flashes and tiny black pearls on a dark straw bed, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d035"
  },
  {
   "id": "11_007",
@@ -3627,7 +3627,7 @@
     "instruction": "make the frame a ring of seed pearls with a brass handle, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d036"
  },
  {
   "id": "11_011",
@@ -3721,7 +3721,7 @@
     "instruction": "make the eyeball stormy grey with a swirling white iris and the ring a dark wet-looking bronze with rope wrapped round it, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d037"
  },
  {
   "id": "12_001",
@@ -3844,7 +3844,7 @@
     "instruction": "make the floats frosted white glass glowing softly from within in the same cord nets, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d038"
  },
  {
   "id": "12_005",
@@ -3938,7 +3938,7 @@
     "instruction": "make the seahorses delicate blown glass in rose pink and sea blue on blue cloth, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d039"
  },
  {
   "id": "12_008",
@@ -4032,7 +4032,7 @@
     "instruction": "make the bell painted bright red with white bolts and a rope ladder hanging from the lifting ring, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d040"
  },
  {
   "id": "12_011",
@@ -4126,7 +4126,7 @@
     "instruction": "make the jaws dark mineralised fossil stone on a slate-grey shield, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d041"
  },
  {
   "id": "12_014",
@@ -4220,7 +4220,7 @@
     "instruction": "make the coral faded white and grey with a few pale fish drifting by, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d042"
  },
  {
   "id": "12_017",
@@ -4343,7 +4343,7 @@
     "instruction": "make the water dark emerald with luminous green plants and a few long pale fish gliding past, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d043"
  },
  {
   "id": "13_001",
@@ -4437,7 +4437,7 @@
     "instruction": "make the board a sheet of engraved brass with jewelled enamel pins, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d044"
  },
  {
   "id": "13_004",
@@ -4531,7 +4531,7 @@
     "instruction": "make the inlay a painted canvas floor cloth with the rose in red and blue on cream, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d045"
  },
  {
   "id": "13_007",
@@ -4625,7 +4625,7 @@
     "instruction": "make the lectern a plain sloped oak reading desk with a green leather rest and a ribbon, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d046"
  },
  {
   "id": "13_010",
@@ -4748,7 +4748,7 @@
     "instruction": "make the rivers and lakes glow softly silver-blue in dark teal land, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d047"
  },
  {
   "id": "14_001",
@@ -4873,7 +4873,7 @@
     "instruction": "make the books deep burgundy with brass borders and the trolley brass-trimmed, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d048"
  },
  {
   "id": "14_005",
@@ -4967,7 +4967,7 @@
     "instruction": "make the box polished rosewood with ivory trim and a velvet writing surface, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d049"
  },
  {
   "id": "14_008",
@@ -5061,7 +5061,7 @@
     "instruction": "make the shades cut crystal hung with sparkling glass drops on a thin chain, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d050"
  },
  {
   "id": "14_011",
@@ -5184,7 +5184,7 @@
     "instruction": "make the continents inlaid pale woods on a walnut sea with a fine boxwood compass rose, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d051"
  },
  {
   "id": "14_015",
@@ -5307,7 +5307,7 @@
     "instruction": "make the cover set with garnets and pearls in an ornate gilt frame, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d052"
  },
  {
   "id": "15_001",
@@ -5432,7 +5432,7 @@
     "instruction": "make the unit pale pine with brass rails and tidy rows of buff cardboard boxes with silk tie-ribbons, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d053"
  },
  {
   "id": "15_005",
@@ -5526,7 +5526,7 @@
     "instruction": "make the desk teal lacquer with gilt trim and a brass rail, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d054"
  },
  {
   "id": "15_008",
@@ -5620,7 +5620,7 @@
     "instruction": "make the safe glossy burgundy with gold banding and brass hinges, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d055"
  },
  {
   "id": "15_011",
@@ -5714,7 +5714,7 @@
     "instruction": "make the wheel lacquered red with cream cards and a gold-lined hub, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d056"
  },
  {
   "id": "15_014",
@@ -5837,7 +5837,7 @@
     "instruction": "make the lift glossy black lacquer with fine gold lines and a silk rope, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d057"
  },
  {
   "id": "15_018",
@@ -5960,7 +5960,7 @@
     "instruction": "make the jar a squat glazed urn with a pierced lid holding fresh white swan quills, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d058"
  },
  {
   "id": "15_022",
@@ -6085,7 +6085,7 @@
     "instruction": "make the drawers fronted with frosted glass and a soft glow from within, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d059"
  },
  {
   "id": "16_001",
@@ -6208,7 +6208,7 @@
     "instruction": "make each drawer a clear glass jar so the gears sparkle, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d060"
  },
  {
   "id": "16_005",
@@ -6362,7 +6362,7 @@
     "instruction": "make the spring a dark indigo blued steel in a cut-away glass barrel showing pale gears around it, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d061"
  },
  {
   "id": "16_010",
@@ -6485,7 +6485,7 @@
     "instruction": "make the case rosewood inlaid with ivory flowers and a green velvet lining, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d062"
  },
  {
   "id": "16_014",
@@ -6608,7 +6608,7 @@
     "instruction": "make the cogs enamelled in teal, burgundy and cream on gilt branches, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d063"
  },
  {
   "id": "16_018",
@@ -6762,7 +6762,7 @@
     "instruction": "make the chandelier from teapot spouts, copper kettles and cogs with soft green glass bulbs, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d064"
  },
  {
   "id": "16_023",
@@ -6885,7 +6885,7 @@
     "instruction": "make the elephant carved painted wood with a brass key and little wheels under its feet, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d065"
  },
  {
   "id": "17_001",
@@ -7008,7 +7008,7 @@
     "instruction": "make the bench painted deep teal with a cream top and gilt handles, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d066"
  },
  {
   "id": "17_005",
@@ -7133,7 +7133,7 @@
     "instruction": "make the base black ebonite with bright copper windings and an ivory dial, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d067"
  },
  {
   "id": "17_009",
@@ -7257,7 +7257,7 @@
     "instruction": "make the viewer covered in stitched green leather with a folding hood and brass hinges, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d068"
  },
  {
   "id": "17_013",
@@ -7411,7 +7411,7 @@
     "instruction": "make the drum glass with a bright red ink line, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d069"
  },
  {
   "id": "17_018",
@@ -7536,7 +7536,7 @@
     "instruction": "make the key a pearl knob on a teal base, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d070"
  },
  {
   "id": "17_022",
@@ -7660,7 +7660,7 @@
     "instruction": "make the dial inlaid coloured marble with a slim black gnomon and a polished edge, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d071"
  },
  {
   "id": "17_026",
@@ -7783,7 +7783,7 @@
     "instruction": "make the machine painted green and gold with red keys on a mahogany stand, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d072"
  },
  {
   "id": "18_001",
@@ -7906,7 +7906,7 @@
     "instruction": "make the shade honey amber glass and the brass base cast as a crescent moon, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d073"
  },
  {
   "id": "18_005",
@@ -8061,7 +8061,7 @@
     "instruction": "make the telescope warm copper with a soft green patina and a leather-wrapped grip, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d074"
  },
  {
   "id": "18_010",
@@ -8215,7 +8215,7 @@
     "instruction": "make the frame polished mirror glass with a shining dark pane, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d075"
  },
  {
   "id": "18_015",
@@ -8340,7 +8340,7 @@
     "instruction": "make the mount bright polished steel with an ivory-coloured counterweight cap and a leather cradle, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d076"
  },
  {
   "id": "18_019",
@@ -8465,7 +8465,7 @@
     "instruction": "make the lights pale green with rose pink edges swaying slowly in the jar, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d077"
  },
  {
   "id": "18_023",
@@ -8590,7 +8590,7 @@
     "instruction": "make the desk painted midnight blue with gilded stars along the edge, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d078"
  },
  {
   "id": "18_027",
@@ -8745,7 +8745,7 @@
     "instruction": "make the stars and moons blown glass with a soft glow on a slender stem, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d079"
  },
  {
   "id": "18_032",
@@ -8870,7 +8870,7 @@
     "instruction": "make the rings dull bronze with a green patina and a small dim star, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d080"
  },
  {
   "id": "19_001",
@@ -9024,7 +9024,7 @@
     "instruction": "make the pot hand-painted blue and white with the fern a tall palm, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d081"
  },
  {
   "id": "19_006",
@@ -9179,7 +9179,7 @@
     "instruction": "make the discs frosted glass lit softly from behind in each wooden ring, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d082"
  },
  {
   "id": "19_011",
@@ -9334,7 +9334,7 @@
     "instruction": "make the sphere clear glass with swirling coloured sands inside, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d083"
  },
  {
   "id": "19_016",
@@ -9458,7 +9458,7 @@
     "instruction": "make the comet blue with a tail of turquoise feathers, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d084"
  },
  {
   "id": "19_020",
@@ -9612,7 +9612,7 @@
     "instruction": "make the planets clear glass with glowing coloured hearts on slim arms, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d085"
  },
  {
   "id": "20_001",
@@ -9766,7 +9766,7 @@
     "instruction": "make the globes milky opal with painted blue bands in each tidy slot, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d086"
  },
  {
   "id": "20_006",
@@ -9890,7 +9890,7 @@
     "instruction": "make the arms crystal glass with hanging glass drops and a soft glow, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d087"
  },
  {
   "id": "20_010",
@@ -10044,7 +10044,7 @@
     "instruction": "make the flame emerald green with an etched glass chimney, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d088"
  },
  {
   "id": "20_015",
@@ -10229,7 +10229,7 @@
     "instruction": "make the pipes and windows glow warm gold from inside the model, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d089"
  },
  {
   "id": "21_001",
@@ -10384,7 +10384,7 @@
     "instruction": "make the bench cast iron painted teal with gilt feet, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d090"
  },
  {
   "id": "21_006",
@@ -10538,7 +10538,7 @@
     "instruction": "cast the torso in glossy bronze on a black plinth, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d091"
  },
  {
   "id": "21_011",
@@ -10692,7 +10692,7 @@
     "instruction": "make the tortoise green-patinated bronze with a amber shell pattern on a pale stone basin, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d092"
  },
  {
   "id": "21_016",
@@ -10815,7 +10815,7 @@
     "instruction": "give the saddle a plump burgundy velvet cushion and make the stone creamy marble, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d093"
  },
  {
   "id": "21_020",
@@ -10970,7 +10970,7 @@
     "instruction": "make the griffins white marble with brass talons on dark stone pillars, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": "beat_d094"
  },
  {
   "id": "21_025",

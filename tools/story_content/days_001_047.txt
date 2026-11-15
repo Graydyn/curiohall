@@ -1,0 +1,290 @@
+# Story beats. "== <day>" starts a beat (attached to that day's final element).
+# Lines: <speaker code> <expr code> <text>.  Speakers: c b a s m j h p z r.  Expr: n h s w.
+== 1
+c n Welcome to Curio Hall. I am Cornelia Wren, interim curator, and I have been waiting twenty years for someone to open these gates.
+b h And I'm Barnaby Pluck, porter and general fixer of things! The griffins were hiding under a fortnight of ivy, but look at them now.
+c n They guard the threshold. Visitors will be received properly, or not at all.
+b s Do they bite, Miss Wren? Only one of them is looking at me.
+c h Only the ones who forget to wipe their boots, Mr Pluck. Onward, then. There is a great deal of Hall behind them.
+== 2
+c n The lamp in the Atrium burns without oil, without wick, and without anyone having lit it. I have given up asking it why.
+b h I asked it once. It flickered, which I took as a rude word.
+c n Then we shall treat it as the Hall's first and most stubborn member. Dust it, Mr Pluck, but do not argue with it.
+b n Yes, Miss Wren. Excuse me, lamp. Just a little wipe, if it pleases you.
+== 3
+b s Miss Wren, the bust by the stairs has a plaque. Ambrose Hall, Founder. He's looking right at me, he is.
+c n He looks at everyone that way. The sculptor was paid by the stare.
+c w Twenty years since he walked out of the Study, and the Society still has not decided whether to say vanished or merely late.
+b n Which would you say?
+c n I would say that his bust wants a good polish, Mr Pluck. We begin with what we can reach.
+== 4
+c n The Admissions Desk. Every great institution is first an argument over who may come in, and what they must sign.
+b h I found the brass bell, Miss Wren! It still dings. Very rudely, but it dings.
+c h Excellent. A rude bell is an honest bell. Visitors will know precisely what to expect of us.
+b n There's a ledger under the blotter with one name in it, though. Last entry, twenty years back. Just a scrawl.
+c w Leave it where it lies, Mr Pluck. We shall read it when we are braver.
+== 5
+b h Miss Wren, you must try the settee. It has springs that remember being comfortable.
+c s I shall do no such thing. A curator does not recline.
+b h It's the fainting settee, Miss Wren. It's built for people who feel they might need to.
+c n Hm. I confess the Society's talks on taxidermy once required it, twice in one evening. Leave it by the window, Mr Pluck.
+c h And place the smelling salts within reach. For the visitors, naturally.
+== 6
+c n A balloon in miniature, tethered over the Atrium. It has flown nowhere, and yet somehow it looks hopeful.
+b h That's the whole trick of balloons, Miss Wren. You get to be up there and still be home for tea.
+c n An unexpectedly accurate remark, Mr Pluck. Make a note of it before you forget.
+b h I'll write it on my cuff. With the other good ones.
+b n There's one other good one on the cuff, actually. It's about soup.
+== 8
+c n A coat rail. Our visitors will arrive in all weathers, and the Hall can at least offer a hook.
+b h Hannibal's in charge of umbrellas, and now I'm in charge of coats. I'm moving up in the world!
+c n The cloakroom ledger asks for a name against every coat. I have found it very useful for finding who is still on the premises.
+b w Even after closing?
+c n Especially after closing, Mr Pluck. The Hall is peculiar after dark.
+== 9
+b h I found the Lost Property Hamper, Miss Wren! It's full of hats. Nobody's wearing these hats. Nobody's collected them in years.
+c n Twenty, I should think. Every one of them an unclaimed afternoon.
+b s This one has a feather and a tiny mouse in it.
+c h Then the mouse is entitled to a fortnight's lodging, and the hat is not. Sort the rest by size.
+b h Aye, Miss Wren. Ladies' left, gentlemen's right, mouse in the middle.
+== 10
+c n The Barometer Board. It records the weather on the day the Society last assembled, and it has not moved since.
+b w Stuck on Stormy, Miss Wren. Maybe it's just being polite and staying out of the way.
+c n More likely it is waiting for someone to tap it, as one taps an elderly relative. Gently, Mr Pluck.
+b h Tap-tap! Ooh. It's creeping up toward Change.
+c h Change. I could not have chosen a better word myself.
+== 11
+b h The chandelier! It's up, Miss Wren, and it hasn't fallen on anybody!
+c n Do not tempt it. It has been dark for two decades, and a chandelier holds a grudge.
+c h But look how the crystals take the lamplight. The Vestibule has finally decided to receive guests.
+b n It threw a rainbow on the coat rail a minute ago. I think the coats liked it.
+c n Then we may call the Vestibule restored and move on, with our heads held high, and our heads held clear of the chain.
+== 12
+a s Dear me. Am I in the right building? I have been living in your east rafters, you see, with the swifts. Or were they swallows?
+c n Professor Aldous Finch. Twenty years among the rafters, and not once a letter.
+a h Ah, Cornelia! Is that you? You haven't changed in the slightest. Or in the dark you might not have. I am a poor judge of faces; I am a good judge of beaks.
+b h Professor! Barnaby Pluck, sir. I used to bring up your tea, and you used to forget it was there.
+a n Quite right. I remember the tea; I am less certain about the teacup. Now, which of these wings is the Hall of Feathers? I have promises to keep, and a great many beaks to count.
+c h All in good time, Professor. The Curator's Office first. Then the birds.
+== 13
+c n The Overstuffed Wing Chair. Ambrose Hall's favourite, they say. He sat in it with his boots on the fender, reading maps.
+a h I should say! I once fell asleep in it while he explained a theory about seagulls. I woke up three hours later, and he was still going.
+b n Was it a good theory, Professor?
+a n I never found out. I was asleep. It is the great sorrow of my career.
+c n There is a cushion that does not match the others. Someone has stitched initials in the corner. A. H.
+c w He sat here, Professor, and he looked out of that window, and I have never learned what he was looking for.
+== 14
+a s Cornelia, something is wrong with the Hall at Dusk. There is a lantern in the painting that is lit, and the others are not.
+c n The painting is of the Hall at dusk. The lantern is an artist's flourish, I expect.
+a w A flourish that is lit, in a picture that has hung unlit for twenty years. I should like a second opinion.
+b s I'll hold the ladder, Professor. I don't want to look at it, mind. I'll hold the ladder.
+c w Mr Pluck, kindly look at it. Someone must.
+== 15
+c n The Curator's Desk. Mine, until the Society decides otherwise, and a great mass of unpaid paperwork besides.
+a h There is a drawer that sticks, I remember. One must jiggle it in the key of C.
+b h I thought you were joking, Professor! But it opens!
+c s There is nothing in it but a pen and a card. It reads: Wednesday, come back for the rest.
+c w Wednesday. In Ambrose's hand. And today, Mr Pluck, what day is it?
+b w Wednesday, Miss Wren. I checked twice.
+== 16
+b h Anjali's not here yet, Miss Wren, but I took the liberty of laying out the Tiered Cake Stand all the same. It looks hungry.
+c n Cake stands are never hungry, Mr Pluck. They merely wait. As I do.
+a h And I recall the lemon sponge! Baked in the upstairs kitchen, and dispatched on the lift. Is the lift working?
+b n The lift is full of mice, Professor.
+c h Then we shall have the cake stand, and the lift shall have its tenants. A fair settlement.
+== 17
+c n The Great Tea Urn. The Society runs on tea, as the Navy runs on rum, and with a similar number of casualties.
+b h It's still warm, Miss Wren. I swear it. I touched it and it was warm.
+a s It cannot possibly be warm. It has been cold since the winter of the last expedition.
+c w Mr Pluck, fetch a cup. We shall see what the Urn thinks it is doing.
+b h It poured! Hot, sweet, and tasting of... of... oh, of home, Miss Wren.
+== 18
+a h The Feather Duster Stand, in the Hall of Feathers! Cornelia, you cannot know what this means to me. The ostrich plumes are exactly where I left them.
+c n They are dusters, Professor. We shall use them on the cases.
+a s Dusters? Dusters? This is a species of... oh dear, it is a duster. Forgive me. I have been alone too long with the swifts.
+b h Don't fret, Professor. I'll use the little one. For a bird who's retired from feathers.
+== 19
+a h The Kingfisher Diorama! Look at the water, Cornelia, look at the little silver fish! Every scale is hand-painted.
+c n It is very handsome. But who painted the reflection of a man on the bank, standing quite still, behind the reeds?
+a s I... am not sure there was a man. I would have noticed a man.
+b w He's got a hat, Miss Wren. And a coat. And he looks, well, he looks like the bust.
+c w Professor, you assisted at the mounting of this case. Think carefully.
+== 20
+a h The Phoenix of the Hall! It rises in the centre of the room in a great gold-and-scarlet sweep. I never imagined I should live to see it re-feathered.
+c h It is a magnificent creature. It is also, I am told, the Hall's emblem, and the first thing the Society's rivals will see.
+s h Do you know, I rather think they have. Good evening, all. Sam Vane, collector, rival, and, as luck would have it, in the neighbourhood.
+b s Miss Wren, there's a man in the doorway with a very nice moustache.
+c n Mr Vane. You will find the door is not an invitation.
+s h Cornelia, darling, a door that open can only be an invitation. I merely wish to see what you have done with the old place.
+== 21
+a n The Pupae Shelf. Each little case holds a future butterfly, patiently waiting to become something more than it is.
+c n I find that a rather encouraging thought, Professor.
+b h Me too, Miss Wren! One of them's wriggling. It's about to pop out!
+s h I shall wager it is a swallowtail. Sam Vane, at your service, hoping for a good outcome. A small wager, Cornelia, five shillings?
+c n The Society does not gamble, Mr Vane. But you are welcome to remain, and to be wrong.
+== 22
+a h The Morpho Case! Those wings, Cornelia, like the sky seen through a stained-glass window on a clear morning.
+s h Positively indecent. I would give a good deal to know where you found a specimen that size.
+c n It was in the Hall's own collection, Mr Vane. Not for sale, not for loan, not for admiration with a view to later theft.
+s n You wound me. I only admire, I never pocket. At least, not in public.
+b w I'm watching your hands, Mr Vane.
+== 23
+a h The Monarch Migration Globe! A thousand tiny butterflies, all rushing south in the same orange tide. How do they know the way?
+b n Maybe they follow the one in front, Professor.
+s s Or, more likely, a very old map in somebody's pocket. Ambrose Hall used to say the monarchs knew a way no cartographer had drawn.
+c w Mr Vane, you knew him?
+s n I did business with him once. He bought a butterfly from me at three times its worth, and never explained why. Make of that what you will, darling.
+== 24
+c n The Fern Case. Eleven species, and every frond of them damp. Mr Pluck, did you mist these?
+b s Not me, Miss Wren. I thought it was you.
+a s Not I. And yet someone has been misting them twice a day, with a very small hand-sprayer, by the look of the drips.
+c w A gardener in the Hall who does not wish to be seen. How very Victorian of them.
+b h Shall I leave a tin of biscuits, Miss Wren? Gardeners like biscuits.
+== 25
+c n The Climbing Gourd Arch. Wide enough for a lady with a parasol, and low enough for a gentleman to remember his hat.
+a h The vines have trained themselves along the wires, all the way up. Splendid work, from whoever it was.
+s h I rather like it. A conservatory ought to look as if the plants might at any moment take over.
+b n One of them's wrapped around my boot, Miss Wren.
+c h Then it likes you, Mr Pluck. Consider it a compliment, and do not stand still for too long.
+== 26
+c n The Carnivorous Collection. The sundews shine, and the flytrap has been fed. Whoever tends this place has a steady hand.
+b w It ate a glove, Miss Wren. A whole one. I found the other one on the floor.
+s s A leather glove, with a monogram inside the cuff, by any chance?
+a s It says A. H. I put it in my pocket to keep it safe. I am not at all sure why I did.
+c w Then the gardener has found the founder's glove. And has told no one. That is a very quiet kind of friend.
+== 27
+a h The Dinosaur Egg Nest! Eighteen eggs, Cornelia, and not one of them cracked. Whatever sat on them was a most devoted parent.
+c n A very patient creature, evidently. It would have made an excellent curator.
+b h Can I hold one, Professor? Just one little one?
+a n They are very heavy, Barnaby. And, I believe, a little bit warm.
+c w Warm? Professor, that is not possible.
+a w It is not. But there it is. I suggest we all stand back, just a little.
+== 28
+b h The Tyrannosaur Skull! It's enormous, Miss Wren, I could sit in its mouth.
+c n You are not to sit in its mouth, Mr Pluck.
+s h It does have a magnificent smile. I met someone very like it once, at a dinner in Lisbon.
+b s Was he a paleontologist?
+s n Worse. A creditor. But the manners were equally poor.
+c h I shall not have the Hall's skull compared to your creditors, Mr Vane. He has far better teeth.
+== 29
+c n The Pickaxe Rack. Where the miners hung their tools after a long day's work underground.
+a n The handles are worn smooth, Cornelia. Two hundred hands, maybe three hundred.
+b h They're in perfect order, Miss Wren, all except for one. It's got a letter carved in the shaft.
+s n An A. And then an H. You will find he left his initials on everything he meant to find again.
+c w The Hall is full of them, Mr Vane. I begin to wonder whether he left them as a trail, or as a warning.
+== 30
+m h Look at this, everyone. The Malachite Boulder. The bands are like a green sea frozen in the very act of breaking.
+c n An impressive stone. It must weigh as much as a small horse.
+b h Mark's the only one who could say that and not sound like he's shouting, Miss Wren.
+m s I'm... I'm sorry, was I too loud?
+c h Not at all, Mr Bloom. In a Hall that has been silent for two decades, your volume is exactly right.
+s n Hmph. I once tried to buy that boulder. Ambrose declined. He said it was not for sale because it was not finished.
+== 31
+c n The Assay Scales. They weigh to a hair, and they have never once told a flattering lie.
+s h Then I shall keep well away from them. A man of my reputation prefers a degree of ambiguity.
+m n I put a gold sovereign on one side to test them. The scales swung to say it was real, and then, very quietly, ticked.
+b w Ticked?
+c n The Hall's clocks have been ticking in places they should not. I have stopped counting, Mr Pluck. I suspect I shall start again soon.
+== 32
+b h The Vault Door! A great round steel thing with a wheel on it, like the hatch of a ship, Miss Wren!
+c n Four tons of Sheffield steel, and a lock that is rather proud of itself.
+a s Do you know, I am not sure I ever saw it open. What is kept behind it, Cornelia?
+c w What the Society could not bear to lose, Professor, and could not bear to look at. We shall learn which, in due time.
+s s I should give a good deal to look inside. I say that quite sincerely, darling, and entirely without pickpocketing.
+== 33
+m h The Heart of the Mountain. A great crystal lit from within. Every colour in the Vault, all gathered together.
+c n It is quite the loveliest thing in the building, and it has been waiting in the dark all this time to be admired.
+b h It's humming, Miss Wren. A soft sort of hum, like the sea in a shell.
+s n Speaking as a man who has spent a lifetime among the best gems in Europe, I must confess I'm lost for words.
+m h I think it likes us. I think we might have been missing the point of it, all this while.
+c w The Mineral Vault is restored, then. The Hall is beginning to take its own shape again.
+== 34
+c n The Conch Horn. A great spiral of cream and rose, with a mouthpiece worn smooth by lips that blew it long ago.
+b h May I, Miss Wren? Just one note, to call the tide in.
+c n One note, Mr Pluck. And no more. We have a great many windows.
+b h *PAAARP* Oh! Even the walls felt that one.
+m w It is very good at being a horn. I don't think it is very good at being quiet.
+== 35
+a h The Pearl Oyster Bed! Cornelia, look at the glow of them. Each one a little moon.
+m n They're not real pearls, are they?
+c n They are real, Mr Bloom, and every one of them was raised in the Society's own tanks, from the year of the great storm.
+s h A fortune, Cornelia. There must be a fortune in that bed. Not that I am thinking of it. Not in the slightest.
+b w You're thinking of it with your whole face, Mr Vane.
+== 36
+c n The Mermaid's Mirror. Silver-backed, with a frame of cowries. It was catalogued as an amusement of the Society's sea voyages.
+a s I wonder. Ambrose Hall always said it was nothing of the kind. He held it up to the light, and he said the sea had once spoken back.
+m w It doesn't show my face. It shows the room behind me, but a little to the left.
+b s A little to the left of what, Mark?
+m s I think... it's a little to the left of where it should be. As if there was a second door.
+c w Then we shall have to look for the second door, Mr Bloom.
+== 37
+c n The Kraken's Eye. A glass lens the size of a dinner plate, taken, if the label is to be trusted, from a creature that was not supposed to exist.
+s n Ah, it is you. The very thing I came here to find. Cornelia, I have a confession to make.
+c n I had begun to suspect that you had.
+s w I wasn't looking for the Hall's treasures. I was looking for Ambrose Hall. I have been looking for him for twenty years, and this room is the nearest I have come.
+b w You've been after him all this time, Mr Vane?
+s n I owed him an apology and a good deal of money. In that order, I hope. He rather vanished before I could settle either.
+== 38
+b h The Glass Float Basket! A hundred blue-green bubbles, all bobbing about like they're waiting for a wave.
+c n The fishermen's floats. They drifted for ten thousand miles across the Society's seas before somebody scooped them up.
+m h They look like they're still full of sea. I held one to my ear, and I swear I heard a gull.
+s h Do you know, I believe I have heard a gull in worse company.
+c n Mr Vane, that was very nearly a kindness.
+== 39
+a h The Seahorse Frame! A dozen of them, curled and listening, in a net of brass wire.
+b n Why do they always look so worried, Professor?
+a n They are sensible creatures. The male carries the young. One would be worried too.
+m h The male carries them, and the female is free to roam. That's, um, actually quite a sound arrangement.
+c h I shall note that in the minutes, Mr Bloom. As a point of general interest.
+== 40
+j h Good heavens, you've all been standing around admiring a diving bell, and not one of you has thought to eat! I am Anjali Bose, chef to the last expedition, and I am appalled.
+c n Miss Bose. The Society's table has been silent since the day you left.
+j n Not silent. Hungry. There is a difference, Cornelia, and I have brought a basket of the difference.
+b h Treacle tarts! She's brought treacle tarts, Miss Wren! I'll never complain about anything again.
+a h My dear Miss Bose, you have saved my life. I had been eating lichens off the rafters.
+j h Then you shall have a proper Tea Room, Professor. First, though, let me look at your Diving Bell. It looks like it might hold a very fine soup.
+== 41
+j h The Shark Jaw Trophy. I once cooked a shark for the entire crew on the Sargasso run. It took four of us, a barrel of vinegar, and a prayer.
+s h And was it delicious, Anjali?
+j n It was memorable. Which is the polite way of saying the crew had the shark for three days, and the shark had its revenge for the next three.
+b h Is it true the sailors say the jaw was left to Ambrose Hall in a will?
+j w It was a gift. The man who gave it said he could not take it with him. He did not say where he was going.
+== 42
+c n The Reef in Glass. A whole coral garden, arranged under a bell, with every polyp in its place.
+m h The little fish are hand-made, did you see? Each one lacquered like a toy.
+j n They make me want a bowl of bouillabaisse. Forgive me, but I see a tank and my mind goes straight to the stockpot.
+b h Anjali, you can't eat the exhibit!
+j h I shall not eat the exhibit. I shall merely admire it, slowly, while thinking about it.
+a s Do you hear that? A faint tick, from under the glass. A very quiet tick.
+== 43
+c n The Great Aquarium. Four thousand gallons, a window as tall as a house, and every drop of it blue.
+a h It's magnificent, Cornelia. It is a whole other sky.
+s n I believe I can see something at the bottom. A small, square thing. A box.
+m w It has a lock, and a brass tag. I think it says... A. H.
+j w It was left for you, Cornelia. You, and whoever came after. Do you not see? He meant it to be found when the water was clear.
+c w Then we shall have a diver fetch it, before we think too hard about why he put it there.
+== 44
+b h The Pin Board! Hundreds of pins, Miss Wren, all of them in the right places. Somebody's been very tidy.
+c n Somebody has been very patient. Every expedition of the Society has a coloured thread, and every thread ends at a pin.
+j n I recognise that red one. That was the Sargasso trip. We lost the cook's cat over the side and found it a week later, on the other ship.
+s h Unbelievable. I would give a great deal to know how a cat navigates the open sea.
+c n There is a pin with no thread, Mr Vane. A single black one, in the centre. I do not like it.
+== 45
+a h The Compass Rose Inlay! Thirty-two points, in brass and ebony, and the north one is pointing at something besides north.
+m n It's pointing towards the Reading Room, I think. Or the Library.
+b h Do you suppose it's lost, Professor?
+a n A compass cannot be lost, Barnaby. It can only be... redirected.
+c w By whom, Professor, is the interesting question.
+== 46
+c n The Atlas Lectern. A great slope of walnut, with a ribbon marker still tucked in the last page the Society ever consulted.
+j n Which page is it?
+c s Page one hundred and twelve. A blank map. Quite blank. Nothing on it but a title: Where I Shall Be.
+s w Ambrose. That is his handwriting, as sure as I stand here.
+b n It's a little like a menu, Miss Wren, with all the dishes crossed out.
+== 47
+c n The Great Relief Model. Every mountain, every valley, every river of the Society's known world, raised in painted plaster and varnished to a shine.
+s h It's glorious, Cornelia. It makes the real world look flat.
+a h There is a tiny flag on the highest peak. It says Mount Finch. I did not know I had a mountain!
+b h Congratulations, Professor!
+j n There's another flag, a very small one, on the far side, where no one would look. Hall's Folly, it says.
+c w Then there is only one place left to search, and it is beside us. The Library of Expeditions, and, I think, the founder's own folio.
