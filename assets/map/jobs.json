@@ -1,7 +1,5 @@
 {
- "_pending": {
-  "scene_02_0": "6debc1ba-b675-45d2-831b-3891bf204791"
- },
+ "_pending": {},
  "exterior_base": "77dcebdb-c342-452a-aefb-1e3194d9b093",
  "style_core": [
   "style_probe_conservatory",
