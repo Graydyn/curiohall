@@ -572,7 +572,7 @@
    90,
    320
   ],
-  "subject": "a low cast-iron boot scraper shaped like a crouching hedgehog, a stiff bristle brush beside it, caked with dried mud",
+  "subject": "a low cast-iron boot scraper shaped like a crouching hedgehog with a stiff bristle brush set into its back, caked with dried mud",
   "looks": [
    {
     "name": "Muddy iron",
@@ -790,7 +790,7 @@
    630,
    580
   ],
-  "subject": "a round Victorian encaustic tile medallion in geometric patterns of teal, cream, ochre and oxblood, set in a square slab of plain flagstones",
+  "subject": "a round Victorian encaustic tile medallion in geometric patterns of teal, cream, ochre and oxblood, with a narrow border of plain stone",
   "looks": [
    {
     "name": "Encaustic tile",
@@ -3084,7 +3084,7 @@
    450,
    840
   ],
-  "subject": "a brass apothecary balance with two shallow pans on a wooden base and a small set of weights beside it",
+  "subject": "a brass apothecary balance with two shallow pans on a wooden base, a small set of brass weights in a notched tray on the base",
   "looks": [
    {
     "name": "Brass scales",
@@ -3178,7 +3178,7 @@
    270,
    1100
   ],
-  "subject": "a round steel vault door with a heavy spoked wheel handle and thick bolts, standing slightly ajar in a stone arch",
+  "subject": "a round steel vault door with a heavy spoked wheel handle and thick bolts, standing slightly ajar in its own riveted steel frame",
   "looks": [
    {
     "name": "Steel door",
@@ -4516,7 +4516,7 @@
    270,
    580
   ],
-  "subject": "a large round floor panel inlaid with an eight-pointed compass rose in pale and dark woods around a brass centre disc",
+  "subject": "a large round panel inlaid with an eight-pointed compass rose in pale and dark woods around a brass centre disc",
   "looks": [
    {
     "name": "Inlaid wood",
@@ -5139,7 +5139,7 @@
    90,
    1100
   ],
-  "subject": "a small cast-iron spiral staircase with open treads and a curling rail, leading up to a book gallery, rusty",
+  "subject": "a small cast-iron spiral staircase of a few open treads with a curling rail, rusty, standing on a round iron base plate",
   "looks": [
    {
     "name": "Rusty iron stair",
@@ -5231,7 +5231,7 @@
    630,
    1100
   ],
-  "subject": "a deep arched window recess with a long cushioned seat, tasselled cushions and a closed pair of velvet drapes",
+  "subject": "a cushioned window seat with a curved carved wooden back, tasselled cushions and a pair of velvet drapes gathered at each end",
   "looks": [
    {
     "name": "Faded velvet seat",
@@ -5262,7 +5262,7 @@
    90,
    1360
   ],
-  "subject": "a long illuminated parchment scroll with decorative borders and blank panels where names would be, displayed flat under a glass lid",
+  "subject": "a long illuminated parchment scroll with decorative borders and blank panels where names would be, laid flat under a glass lid",
   "looks": [
    {
     "name": "Parchment scroll",
@@ -5730,7 +5730,7 @@
    270,
    1100
   ],
-  "subject": "a very long parchment scroll of branching family-tree lines with empty boxes and no writing, partly unrolled over the edge of an oak desk",
+  "subject": "a very long parchment scroll of branching family-tree lines with empty boxes and no writing, partly unrolled and weighted with a brass bar",
   "looks": [
    {
     "name": "Parchment",
@@ -5792,7 +5792,7 @@
    630,
    1100
   ],
-  "subject": "a wall-mounted brass rail with iron hooks holding folded blank documents tied with string, over a worn oak ledge",
+  "subject": "a wall-mounted brass rail with iron hooks holding folded blank documents tied with string, mounted on a worn oak board",
   "looks": [
    {
     "name": "Brass rail",
@@ -5977,7 +5977,7 @@
    270,
    1620
   ],
-  "subject": "a heavy round iron door with a big bolt wheel and rows of rivets set into a stone arch, stiff with rust",
+  "subject": "a heavy round iron door with a big bolt wheel and rows of rivets in a stone-framed surround, stiff with rust",
   "looks": [
    {
     "name": "Rusty iron door",
@@ -6039,7 +6039,7 @@
    630,
    1620
   ],
-  "subject": "a tall glass case displaying a huge parchment charter with a heavy wax seal hanging on a cord, flanked by brass candlesticks",
+  "subject": "a tall glass case displaying a huge parchment charter with a heavy wax seal hanging on a cord, on a small carved oak base",
   "looks": [
    {
     "name": "Parchment",
@@ -6101,7 +6101,7 @@
    90,
    320
   ],
-  "subject": "a plank shelf of long-spouted brass oil cans and little tins of grease, drips of black oil down the wall",
+  "subject": "a plank shelf of long-spouted brass oil cans and little tins of grease, drips of black oil down its front",
   "looks": [
    {
     "name": "Greasy brass",
@@ -6224,7 +6224,7 @@
    90,
    580
   ],
-  "subject": "a heavy cast-iron bench vice with a long screw handle clamped to a scarred oak bench, holding a half-made gear",
+  "subject": "a heavy cast-iron bench vice with a long screw handle clamped to a short oak block, holding a half-made gear",
   "looks": [
    {
     "name": "Rusty vice",
@@ -6378,7 +6378,7 @@
    270,
    840
   ],
-  "subject": "a small iron metalworking lathe on a bench with a belt drive and a brass handwheel",
+  "subject": "a small iron metalworking lathe with a belt drive and a brass handwheel on a short cast-iron stand",
   "looks": [
    {
     "name": "Dull iron",
@@ -6655,7 +6655,7 @@
    450,
    1360
   ],
-  "subject": "a seated brass automaton with a hinged jaw and a pen in its jointed hand at a tiny desk, a blank sheet of paper beneath",
+  "subject": "a seated brass automaton with a hinged jaw and a pen in its jointed hand, at its own small brass writing desk with a blank sheet of paper",
   "looks": [
    {
     "name": "Brass automaton",
@@ -7273,7 +7273,7 @@
    90,
    1100
   ],
-  "subject": "a tall black tin and brass magic lantern projector with a chimney and a lens tube, a glass slide plate beside it",
+  "subject": "a tall black tin and brass magic lantern projector with a chimney and a lens tube, a painted glass slide loaded in its plate",
   "looks": [
    {
     "name": "Black tin",
@@ -7768,7 +7768,7 @@
    90,
    2140
   ],
-  "subject": "an enormous brass arithmometer as wide as a table with rows of unmarked ivory keys, a sliding carriage, a hand crank and a bell, standing on a dark oak table",
+  "subject": "an enormous brass arithmometer as wide as a table with rows of unmarked ivory keys, a sliding carriage, a hand crank and a bell, on a dark oak base",
   "looks": [
    {
     "name": "Brass reckoner",
@@ -7830,7 +7830,7 @@
    270,
    320
   ],
-  "subject": "a squat studded leather chest with brass handles, lid ajar on a rolled tartan blanket and fingerless gloves",
+  "subject": "a squat studded leather chest with brass handles, its lid ajar, a rolled tartan blanket and fingerless gloves peeking out",
   "looks": [
    {
     "name": "Cracked leather chest",
@@ -7953,7 +7953,7 @@
    270,
    580
   ],
-  "subject": "a long curved wooden ladder on a brass curved rail fixed to the dome wall, creaky and dull",
+  "subject": "a long curved wooden ladder on a curved brass rail with small wheels, creaky and dull",
   "looks": [
    {
     "name": "Dull wood",
@@ -8357,7 +8357,7 @@
    450,
    1360
   ],
-  "subject": "a small walnut desk stand cradling a brass sextant at an angle with a spare mirror beside it on a velvet pad",
+  "subject": "a small walnut desk stand cradling a brass sextant at an angle, with a spare mirror clipped to its velvet pad",
   "looks": [
    {
     "name": "Brass stand sextant stand",
@@ -8948,7 +8948,7 @@
    450,
    320
   ],
-  "subject": "a built-in cushioned window seat beneath a tall arched window, with faded damask cushions and a torn blind",
+  "subject": "a built-in cushioned window seat with a carved wooden back and faded damask cushions, a torn roller blind at its top",
   "looks": [
    {
     "name": "Faded damask",
@@ -10184,7 +10184,7 @@
    450,
    1360
   ],
-  "subject": "a small iron anvil on an oak block with a tiny hammer, a pair of tongs and a half-made brass lamp base beside it",
+  "subject": "a small iron anvil on an oak block with a tiny hammer, a pair of tongs and a half-made brass lamp base resting on its face",
   "looks": [
    {
     "name": "Iron anvil",
@@ -10276,7 +10276,7 @@
    270,
    320
   ],
-  "subject": "a canvas tool roll unrolled across a stone block holding iron chisels, mallets and rasps of different sizes",
+  "subject": "a canvas tool roll unrolled flat holding iron chisels, mallets and rasps of different sizes",
   "looks": [
    {
     "name": "Canvas roll",
@@ -11854,7 +11854,7 @@
    270,
    320
   ],
-  "subject": "a long grey feather duster with a turned wooden handle leaning in a tall brass umbrella stand",
+  "subject": "a long grey feather duster with a turned wooden handle and a brass ferrule, its feathers soft and faintly dusty",
   "looks": [
    {
     "name": "Grey feathers",
@@ -12163,7 +12163,7 @@
    630,
    840
   ],
-  "subject": "a large glass jar with a perforated brass lid, full of tiny glowing yellow-green fireflies drifting among twigs, standing on a wooden table",
+  "subject": "a large glass jar with a perforated brass lid, full of tiny glowing yellow-green fireflies drifting among twigs",
   "looks": [
    {
     "name": "Green glow",
@@ -12876,7 +12876,7 @@
    450,
    2400
   ],
-  "subject": "a shallow wooden tray of pale silkworms feeding on mulberry leaves with a few white oval cocoons gathered in one corner",
+  "subject": "a shallow wooden tray of pale silkworms feeding on mulberry leaves with a few white oval cocoons gathered at one end",
   "looks": [
    {
     "name": "Mulberry leaves",
@@ -12937,7 +12937,7 @@
    90,
    2660
   ],
-  "subject": "a squat earthenware jar of dried red cochineal bugs spilling from the lid onto a brass scoop and a scrap of red-dyed cloth",
+  "subject": "a squat earthenware jar of dried red cochineal bugs spilling from its open lid, with a small brass scoop tucked into the jar",
   "looks": [
    {
     "name": "Red bugs",
@@ -13462,7 +13462,7 @@
    270,
    840
   ],
-  "subject": "a small brass microscope on a round base with a glass slide of yellow pollen grains in place, a crystal dish of loose yellow pollen dust beside it",
+  "subject": "a small brass microscope on a round base with a glass slide of yellow pollen grains in place, a little pollen dust sifted over its base",
   "looks": [
    {
     "name": "Brass microscope",
@@ -13774,7 +13774,7 @@
    630,
    1360
   ],
-  "subject": "a leafy green tea bush with young pale shoots in a low round wooden tub, a woven bamboo basket of picked leaves resting beside it",
+  "subject": "a leafy green tea bush with young pale shoots in a low round wooden tub, picked leaves in a small woven bamboo basket hooked to the tub's rim",
   "looks": [
    {
     "name": "Green bush",
@@ -14488,7 +14488,7 @@
    270,
    1100
   ],
-  "subject": "a flat round tin of sticky plaster salve with a dented lid and a roll of linen bandage beside it",
+  "subject": "a flat round tin of sticky plaster salve with a dented lid, a small roll of linen bandage tied to it with string",
   "looks": [
    {
     "name": "Dented tin",
@@ -14673,7 +14673,7 @@
    630,
    1360
   ],
-  "subject": "a stack of round tin boxes and amber bottles stacked in a leaning pyramid on a counter mat, dusty and crooked",
+  "subject": "a stack of round tin boxes and amber bottles stacked in a leaning pyramid, dusty and crooked",
   "looks": [
    {
     "name": "Dusty stack",
@@ -15168,7 +15168,7 @@
    630,
    2400
   ],
-  "subject": "a shiny brass hand bell with a turned wooden handle on a small round counter mat, dull and tarnished",
+  "subject": "a shiny brass hand bell with a turned wooden handle on a small round felt mat, dull and tarnished",
   "looks": [
    {
     "name": "Dull brass",
@@ -15940,7 +15940,7 @@
    90,
    1620
   ],
-  "subject": "a huge open book on a brass lectern, its blank pages dense with delicate painted plants and glowing vial drawings, a feather quill beside",
+  "subject": "a huge open book on a brass lectern, its blank pages dense with delicate painted plants and glowing vial drawings, a feather quill tucked in its spine",
   "looks": [
    {
     "name": "Painted plates",
@@ -16561,7 +16561,7 @@
    90,
    580
   ],
-  "subject": "a small corked glass jar with a thin layer of glittering grey-silver dust and a fine paintbrush resting beside it",
+  "subject": "a small corked glass jar with a thin layer of glittering grey-silver dust and a fine paintbrush tied to its neck",
   "looks": [
    {
     "name": "Grey dust",
@@ -16747,7 +16747,7 @@
    450,
    840
   ],
-  "subject": "a framed large glass panel painted with a blazing meteor streaking across a deep night sky above dark rooftops",
+  "subject": "a framed large glass panel painted with a blazing meteor streaking across a deep night sky above a dark skyline",
   "looks": [
    {
     "name": "Painted glass",
@@ -17428,7 +17428,7 @@
    90,
    2400
   ],
-  "subject": "a tall column lamp with a glass shade painted with falling streaks of orange, white and blue light on a dark ground",
+  "subject": "a tall column lamp with a glass shade painted with falling streaks of orange, white and blue light across deep black glass",
   "looks": [
    {
     "name": "Painted shade",
@@ -17926,7 +17926,7 @@
    630,
    840
   ],
-  "subject": "a heavy cast-iron black cat sitting upright with green glass eyes, holding a door open",
+  "subject": "a heavy cast-iron black cat sitting upright with green glass eyes and a curled tail, a flat base under its paws",
   "looks": [
    {
     "name": "Black iron doorstop",
@@ -18734,7 +18734,7 @@
    270,
    1360
   ],
-  "subject": "a tall tiered crystal chandelier lit with warm bulbs hanging above the stairwell on a long gilt chain",
+  "subject": "a tall tiered crystal chandelier lit with warm bulbs, hanging from a long gilt chain",
   "looks": [
    {
     "name": "Crystal",
@@ -18765,7 +18765,7 @@
    450,
    1360
   ],
-  "subject": "a framed portrait of a stern fox in a high collar whose painted eyes track along the stair, a small brass cog showing at the frame edge",
+  "subject": "a framed portrait of a stern fox in a high collar whose painted eyes seem to follow you, a small brass cog showing at the frame edge",
   "looks": [
    {
     "name": "Oil painting",
@@ -18828,7 +18828,7 @@
    90,
    320
   ],
-  "subject": "a pair of faded flat leather bench cushions with crumbling piping and brass studs on a long oak bench",
+  "subject": "a pair of faded flat leather bench cushions with crumbling piping and brass studs, one slightly crooked on top of the other",
   "looks": [
    {
     "name": "Faded leather",
@@ -19696,7 +19696,7 @@
    90,
    2140
   ],
-  "subject": "a brass telescope on a tripod pointed at a round porthole-shaped window, with a leather cap",
+  "subject": "a brass telescope on a tripod, its tube angled upward, with a leather lens cap hanging by a cord",
   "looks": [
    {
     "name": "Brass stand",
@@ -19820,7 +19820,7 @@
    90,
    2400
   ],
-  "subject": "a huge tiered brass and crystal chandelier of many lit arms hanging above the gallery floor",
+  "subject": "a huge tiered brass and crystal chandelier of many lit arms, hanging from a heavy gilt chain",
   "looks": [
    {
     "name": "Brass and crystal",
@@ -19912,7 +19912,7 @@
    630,
    2400
   ],
-  "subject": "a huge stone fireplace with a carved mantel and a glowing log fire and a great bronze fireback, tools hung beside",
+  "subject": "a huge stone fireplace with a carved mantel and a glowing log fire on a great bronze fireback, a set of fire irons on its stand",
   "looks": [
    {
     "name": "Stone fire",
@@ -21120,7 +21120,7 @@
    90,
    1360
   ],
-  "subject": "a small bench with a steel plate, burins, a magnifying glass and a bag of sand, lit by a green lamp",
+  "subject": "a small bench with a steel plate, burins, a magnifying glass and a bag of sand, with a green-shaded lamp clipped to its edge",
   "looks": [
    {
     "name": "Steel plate",
@@ -21275,7 +21275,7 @@
    270,
    1620
   ],
-  "subject": "a long shallow tray of swirled colour floating on water with a comb of pins and sheets of paper beside it",
+  "subject": "a long shallow tray of swirled colour floating on water, with a comb of pins and a sheet of paper laid on top",
   "looks": [
    {
     "name": "Swirled colours",
@@ -21429,7 +21429,7 @@
    450,
    1880
   ],
-  "subject": "a brick wall covered in layers of colourful posters of rogues' gallery cartoons of animals, no text",
+  "subject": "a tall freestanding board plastered with layers of colourful torn posters of rogues' gallery cartoons of animals, no text",
   "looks": [
    {
     "name": "Torn posters",
@@ -21860,7 +21860,7 @@
    630,
    840
   ],
-  "subject": "a long wooden lathe with a pole spinning, a chisel and curled shavings on a sawdust floor",
+  "subject": "a long wooden lathe with a pole spinning in it, a chisel resting on the rest and curled shavings heaped under the bed",
   "looks": [
    {
     "name": "Wood lathe",
@@ -22385,7 +22385,7 @@
    90,
    2140
   ],
-  "subject": "a large table-top model of a shipyard with slipway, sheds, tiny ships being built and wooden cranes, on a table",
+  "subject": "a large model of a shipyard with slipway, sheds, tiny ships being built and wooden cranes, on a broad wooden base",
   "looks": [
    {
     "name": "Painted wood",
@@ -22570,7 +22570,7 @@
    450,
    2400
   ],
-  "subject": "a roll of iron caulking tools with flat blades and a heavy wooden mallet, with a small bundle of oakum tucked in beside them",
+  "subject": "a roll of iron caulking tools with flat blades and a heavy wooden mallet, with a small bundle of oakum tied to the roll",
   "looks": [
    {
     "name": "Plain iron",
@@ -22755,7 +22755,7 @@
    90,
    320
   ],
-  "subject": "a tall cast-iron harbour lamp standard with a glass lantern and a fluted column, on a quayside block",
+  "subject": "a tall cast-iron harbour lamp standard with a glass lantern and a fluted column, on a square stone block",
   "looks": [
    {
     "name": "Iron lamp",
@@ -22785,7 +22785,7 @@
    270,
    320
   ],
-  "subject": "a long rope rail slung between iron posts around a case, with brass fittings",
+  "subject": "a section of thick rope rail slung between two iron posts with brass fittings",
   "looks": [
    {
     "name": "Rope rail",
@@ -24512,7 +24512,7 @@
    630,
    320
   ],
-  "subject": "a wicker armchair with a tartan rug and a flask on a wooden tray, set on the open launch deck",
+  "subject": "a wicker armchair with a high curved back, a tartan rug over one arm and a flask in a leather holder on the other",
   "looks": [
    {
     "name": "Wicker armchair",
@@ -24791,7 +24791,7 @@
    90,
    580
   ],
-  "subject": "a long bench of stone with a flat cushion and a small brass telescope on a swivel arm beside it",
+  "subject": "a long bench of stone with a flat cushion and a small brass telescope on a swivel arm bolted to one end",
   "looks": [
    {
     "name": "Stone bench",
@@ -24883,7 +24883,7 @@
    630,
    580
   ],
-  "subject": "a round brass sundial on a stone pedestal at a path crossing, with lichen",
+  "subject": "a round brass sundial on a short stone pedestal, with a sharp gnomon and lichen on the stone",
   "looks": [
    {
     "name": "Brass dial",
@@ -25191,7 +25191,7 @@
    270,
    1360
   ],
-  "subject": "a deep reclining wooden deck chair with a canvas seat and a small table holding a cup",
+  "subject": "a deep reclining wooden deck chair with a canvas seat and a small cup holder arm",
   "looks": [
    {
     "name": "Canvas chair",
@@ -25253,7 +25253,7 @@
    630,
    1360
   ],
-  "subject": "a low line of five rounded grey standing stones each with a carved ring pattern, in the grass",
+  "subject": "a low line of five rounded grey standing stones each with a carved ring pattern, set on a single slab of turf-green stone",
   "looks": [
    {
     "name": "Grey stone stones",
@@ -25284,7 +25284,7 @@
    90,
    1620
   ],
-  "subject": "a garden planted in a big circle with planets as stone spheres on rings of pebbles around a golden sun",
+  "subject": "a round tabletop model of planets as stone spheres on rings of pebbles around a golden sun",
   "looks": [
    {
     "name": "Stone spheres",
@@ -25438,7 +25438,7 @@
    270,
    1880
   ],
-  "subject": "a huge flat paved circle with a giant bronze gnomon and engraved hour lines (no numerals) across the ground",
+  "subject": "a huge round paved sundial plate with a giant bronze gnomon and engraved hour lines (no numerals)",
   "looks": [
    {
     "name": "Bronze gnomon",
@@ -25469,7 +25469,7 @@
    450,
    1880
   ],
-  "subject": "a stone terrace with a balustrade of carved star-shaped balusters and a flight of broad steps down to the lawn",
+  "subject": "a short run of stone balustrade with carved star-shaped balusters and a flight of broad steps",
   "looks": [
    {
     "name": "Pale stone",
@@ -25747,7 +25747,7 @@
    270,
    580
   ],
-  "subject": "a row of five terracotta pots of different sizes with dried flowers and a trowel on a stone step",
+  "subject": "a row of five terracotta pots of different sizes with dried flowers and a trowel",
   "looks": [
    {
     "name": "Dried flowers",
@@ -25840,7 +25840,7 @@
    90,
    840
   ],
-  "subject": "a brick wall corner densely covered in ivy with a small arched niche holding a mossy statue of a toad",
+  "subject": "a short section of brick wall densely covered in ivy with a small arched niche holding a mossy statue of a toad",
   "looks": [
    {
     "name": "Green ivy",
@@ -25902,7 +25902,7 @@
    450,
    840
   ],
-  "subject": "a circle of red spotted mushrooms in the grass around a small mossy stump",
+  "subject": "a circle of red spotted mushrooms with creamy stems and curled caps of different sizes around a small mossy stump",
   "looks": [
    {
     "name": "Red toadstools",
@@ -26117,7 +26117,7 @@
    270,
    1360
   ],
-  "subject": "a cluster of paper and glass lanterns of different sizes tied on a rope between two walls, unlit",
+  "subject": "a cluster of paper and glass lanterns of different sizes tied on a rope between two short posts, unlit",
   "looks": [
    {
     "name": "Paper",
@@ -26210,7 +26210,7 @@
    90,
    1620
   ],
-  "subject": "a round woven basket with a plump cushion and a folded blanket where a cat sleeps, in a quiet corner",
+  "subject": "a round woven basket with a plump cushion and a folded blanket where a cat sleeps",
   "looks": [
    {
     "name": "Wicker cushion",
@@ -26333,7 +26333,7 @@
    90,
    1880
   ],
-  "subject": "a large circular floor mosaic of a crescent moon and stars in tiny tiles, chipped at the edge",
+  "subject": "a large circular mosaic of a crescent moon and stars in tiny tiles, chipped at the edge",
   "looks": [
    {
     "name": "Mosaic",
@@ -26364,7 +26364,7 @@
    270,
    1880
   ],
-  "subject": "a tall carved wooden post topped by a stone owl with big eyes, standing in the centre of a lawn",
+  "subject": "a tall carved wooden post topped by a stone owl with big round eyes and ruffled stone feathers, weathered grey",
   "looks": [
    {
     "name": "Stone owl",
@@ -26518,7 +26518,7 @@
    90,
    320
   ],
-  "subject": "a long-handled fine net on a bamboo pole propped on a stone edge with a heap of pond weed in a bucket",
+  "subject": "a long-handled fine net on a bamboo pole with a small bucket of pond weed hooked to the pole",
   "looks": [
    {
     "name": "Bamboo",
@@ -26549,7 +26549,7 @@
    270,
    320
   ],
-  "subject": "a thick clump of tall brown reeds and bulrushes with fluffy heads at the pool's edge",
+  "subject": "a thick clump of tall brown reeds and bulrushes with fluffy heads and a few long green blades",
   "looks": [
    {
     "name": "Brown reeds",
@@ -26611,7 +26611,7 @@
    630,
    320
   ],
-  "subject": "a long stone bench by the water with a carved fish at each end and a puddle beneath",
+  "subject": "a long stone bench with a carved fish at each end and a smooth, slightly damp seat",
   "looks": [
    {
     "name": "Wet stone",
@@ -26703,7 +26703,7 @@
    450,
    580
   ],
-  "subject": "a small wooden rowing boat pulled up on the bank with two oars shipped and a rope, with a puddle in the bottom",
+  "subject": "a small wooden rowing boat with two oars shipped and a mooring rope, a little water in the bottom",
   "looks": [
    {
     "name": "Weathered wood",
@@ -26734,7 +26734,7 @@
    630,
    580
   ],
-  "subject": "a tall stone heron standing on one leg in shallow water with its long beak lowered, moss on its wings",
+  "subject": "a tall stone heron standing on one leg on a low stone base with its long beak lowered, moss on its wings",
   "looks": [
    {
     "name": "Mossy stone",
@@ -26765,7 +26765,7 @@
    90,
    840
   ],
-  "subject": "a round paper lantern floating on the water on a little wooden base, unlit",
+  "subject": "a round paper lantern with ribbed paper walls on a little wooden base, unlit and a little crumpled",
   "looks": [
    {
     "name": "Paper",
@@ -26827,7 +26827,7 @@
    450,
    840
   ],
-  "subject": "a tiny wooden house with a pitched roof and a ramp on the water for ducks, with a few feathers around it",
+  "subject": "a tiny wooden house with a pitched roof and a short ramp for ducks, a few feathers caught on its sill",
   "looks": [
    {
     "name": "Painted wood",
@@ -26950,7 +26950,7 @@
    450,
    1100
   ],
-  "subject": "a huge round polished black stone laid at the water's edge so that it reflects the sky",
+  "subject": "a huge round polished black stone with a smooth, mirror-like face and a thin chip on its rim",
   "looks": [
    {
     "name": "Black stone",
@@ -26981,7 +26981,7 @@
    630,
    1100
   ],
-  "subject": "a small arched wooden footbridge with a handrail across a narrow stretch of water",
+  "subject": "a small arched wooden footbridge with a slatted deck, a curved handrail and a few worn green boards",
   "looks": [
    {
     "name": "Wooden bridge",
@@ -27012,7 +27012,7 @@
    90,
    1360
   ],
-  "subject": "a single brass nozzle in the pool throwing a thin arc of water into the air, glittering",
+  "subject": "a single brass nozzle on a short stone pedestal throwing a thin arc of water into the air, glittering",
   "looks": [
    {
     "name": "Brass jet",
@@ -27042,7 +27042,7 @@
    270,
    1360
   ],
-  "subject": "a boat painted white in the shape of a swan with a curved neck and a bench seat, floating on the water",
+  "subject": "a boat painted white in the shape of a swan with a curved neck and a bench seat",
   "looks": [
    {
     "name": "White paint",
@@ -27104,7 +27104,7 @@
    630,
    1360
   ],
-  "subject": "a small garden pavilion with a curved roof and slender pillars standing at the water's edge",
+  "subject": "a small garden pavilion with a curved roof and slender pillars on a low stone base",
   "looks": [
    {
     "name": "White wood",
@@ -27197,7 +27197,7 @@
    450,
    1620
   ],
-  "subject": "a large brass gong hung in a wooden frame, with a mallet, near the water, ringing out ripples",
+  "subject": "a large brass gong hung in a wooden frame, with a mallet hung from its crossbar",
   "looks": [
    {
     "name": "Brass gong",
@@ -27228,7 +27228,7 @@
    630,
    1620
   ],
-  "subject": "a small stack of mossy rocks with a trickling waterfall into the pool and tiny ferns",
+  "subject": "a small stack of mossy rocks with a thin waterfall trickling down its face and tiny ferns",
   "looks": [
    {
     "name": "Mossy rock",
@@ -27259,7 +27259,7 @@
    90,
    1880
   ],
-  "subject": "a low iron gate with scrolled panels that opens onto a landing stage at the water",
+  "subject": "a low iron gate with scrolled panels and a simple latch between two short stone posts, black with a little rust",
   "looks": [
    {
     "name": "Iron gate",
@@ -27290,7 +27290,7 @@
    270,
    1880
   ],
-  "subject": "a small wooden octagonal pavilion on pilings in the pool with a pagoda roof and paper lanterns",
+  "subject": "a small wooden octagonal pavilion on short wooden pilings with a pagoda roof and paper lanterns",
   "looks": [
    {
     "name": "Wood pavilion",
@@ -27414,7 +27414,7 @@
    270,
    2140
   ],
-  "subject": "a grand multi-tier fountain in the middle of the pool with four bronze fish spouting arcs of water and a stone crown",
+  "subject": "a grand multi-tier stone fountain with four bronze fish spouting arcs of water and a stone crown",
   "looks": [
    {
     "name": "Stone and bronze",
@@ -27599,7 +27599,7 @@
    270,
    580
   ],
-  "subject": "a long cast-iron pipe running along the base wall with brass valves and a puddle of condensation",
+  "subject": "a long cast-iron pipe coil with brass valves and a puddle of condensation beneath it",
   "looks": [
    {
     "name": "Black iron coil",
@@ -27661,7 +27661,7 @@
    630,
    580
   ],
-  "subject": "a short flight of curved cast-iron steps with a handrail leading up to a raised walkway, with moss between the treads",
+  "subject": "a short flight of curved cast-iron steps with a handrail, with moss between the treads",
   "looks": [
    {
     "name": "Cast iron",
@@ -27692,7 +27692,7 @@
    90,
    840
   ],
-  "subject": "a square section of encaustic floor tiles in terracotta, cream and teal patterns, muddy and scuffed, with a worn brass edge strip",
+  "subject": "a square section of encaustic tiles in terracotta, cream and teal patterns, muddy and scuffed, with a worn brass edge strip",
   "looks": [
    {
     "name": "Muddy tiles",
@@ -28154,7 +28154,7 @@
    630,
    1620
   ],
-  "subject": "a brass hand pump sprayer with a long nozzle and a leather bellows, hung on the glass wall",
+  "subject": "a brass hand pump sprayer with a long nozzle and a leather bellows, with a hanging hook",
   "looks": [
    {
     "name": "Brass sprayer",
@@ -28432,7 +28432,7 @@
    90,
    2400
   ],
-  "subject": "a stone terrace with a balustrade where a peacock struts with a fanned tail of blue and green",
+  "subject": "a peacock with a fanned tail of blue and green standing on a low carved stone plinth",
   "looks": [
    {
     "name": "Blue and green",
@@ -28494,7 +28494,7 @@
    450,
    2400
   ],
-  "subject": "a wooden platform in a tree with a red panda curled in a ring around a branch",
+  "subject": "a red panda curled in a ring around a branch, on a small wooden platform",
   "looks": [
    {
     "name": "Red panda",
@@ -28586,7 +28586,7 @@
    270,
    2660
   ],
-  "subject": "a carved wooden alcove with a big grey eagle owl sitting in a nest of twigs",
+  "subject": "a big grey eagle owl sitting in a nest of twigs in a carved wooden nesting box",
   "looks": [
    {
     "name": "Grey owl",
@@ -28987,7 +28987,7 @@
    450,
    840
   ],
-  "subject": "a pair of tall cranes with long necks and wings half spread stepping in a circle on a stone floor",
+  "subject": "a pair of tall cranes with long necks and wings half spread, stepping in a circle on a round stone base",
   "looks": [
    {
     "name": "White cranes",
@@ -29079,7 +29079,7 @@
    270,
    1100
   ],
-  "subject": "a glass and iron weather vane in the shape of an elephant with a little rider, on the glasshouse apex",
+  "subject": "a glass and iron weather vane in the shape of an elephant with a little rider, on a short iron post",
   "looks": [
    {
     "name": "Black iron cock",
@@ -29265,7 +29265,7 @@
    630,
    1360
   ],
-  "subject": "a magnificent golden-maned lion lounging on a rocky platform on a rug, waited upon by a keeper's whip and bucket",
+  "subject": "a magnificent golden-maned lion lounging on a low rocky platform, a keeper's whip and bucket hooked to the platform edge",
   "looks": [
    {
     "name": "Golden lion",
@@ -29296,7 +29296,7 @@
    90,
    320
   ],
-  "subject": "a row of curved terracotta edging tiles half buried in grass and creeping thyme along a garden path",
+  "subject": "a row of curved terracotta edging tiles half buried in grass and creeping thyme",
   "looks": [
    {
     "name": "Mossy tiles",
@@ -29575,7 +29575,7 @@
    270,
    840
   ],
-  "subject": "a short wooden post with a flat top and a rounded stone owl peering over the garden, with a mouse hole",
+  "subject": "a short wooden post with a flat top and a rounded stone owl, with a small mouse hole carved in the post",
   "looks": [
    {
     "name": "Wood post",
@@ -29667,7 +29667,7 @@
    90,
    1100
   ],
-  "subject": "a seat made from a curved silver birch trunk with a bark back, with mushrooms growing beside it",
+  "subject": "a seat made from a curved silver birch trunk with a bark back, small mushrooms growing from its trunk",
   "looks": [
    {
     "name": "White bark",
@@ -30038,7 +30038,7 @@
    90,
    320
   ],
-  "subject": "a thick draping of grey cobwebs hung between two beams with a dusty glass bottle caught in them",
+  "subject": "a thick drape of grey cobwebs with a dusty glass bottle caught in them",
   "looks": [
    {
     "name": "Grey webs",
@@ -30317,7 +30317,7 @@
    270,
    840
   ],
-  "subject": "a huge iron padlock hanging on a thick chain through the ring of a heavy wooden door",
+  "subject": "a huge iron padlock hanging on a thick chain through an iron hasp, dull black with a heavy keyhole cover",
   "looks": [
    {
     "name": "Black iron",
@@ -30348,7 +30348,7 @@
    450,
    840
   ],
-  "subject": "a section of brick wall studded with big iron rings and a short length of chain",
+  "subject": "a stone block studded with big iron rings and a short length of chain",
   "looks": [
    {
     "name": "Brick and iron",
@@ -30563,7 +30563,7 @@
    270,
    1360
   ],
-  "subject": "a huge black iron strap hinge with rivets on a heavy oak door panel",
+  "subject": "a huge black iron strap hinge with rivets, bolted to a short length of heavy oak plank",
   "looks": [
    {
     "name": "Black iron",
@@ -30810,7 +30810,7 @@
    270,
    1880
   ],
-  "subject": "a heap of burlap sacks of turnips and beets with a few spilled onto the floor",
+  "subject": "a heap of burlap sacks of turnips and beets, a few of them split and spilling their roots",
   "looks": [
    {
     "name": "Burlap",
@@ -31242,7 +31242,7 @@
    630,
    2660
   ],
-  "subject": "a tiny stone basin catching a thin trickle of water from a pipe in the wall, with a tin cup on a chain",
+  "subject": "a tiny stone basin catching a thin trickle of water from a short brass pipe, with a tin cup on a chain",
   "looks": [
    {
     "name": "Stone spring",
@@ -31488,7 +31488,7 @@
    630,
    580
   ],
-  "subject": "a heavy hooded lantern hanging from a bracket by the strongroom door, with a thick lens",
+  "subject": "a heavy hooded lantern hanging from a curved iron bracket, with a thick glass lens",
   "looks": [
    {
     "name": "Iron hood",
@@ -31673,7 +31673,7 @@
    270,
    1100
   ],
-  "subject": "a tall slanted wooden desk with a ledger, a pen and a green-shaded lamp, with a high stool pulled up beside it",
+  "subject": "a tall slanted wooden desk with a ledger, a pen and a green-shaded lamp, with a high stool built into its frame",
   "looks": [
    {
     "name": "Oak desk",
@@ -31982,7 +31982,7 @@
    630,
    1620
   ],
-  "subject": "a fat brown leather drawstring pouch bulging with gold coins, a few spilling out onto the floor",
+  "subject": "a fat brown leather drawstring pouch bulging with gold coins, a few spilling from its neck",
   "looks": [
    {
     "name": "Brown leather",
@@ -32043,7 +32043,7 @@
    270,
    1880
   ],
-  "subject": "a stone coffin with a heavy carved lid sealed with wax and ropes, in the middle of the room",
+  "subject": "a stone coffin with a heavy carved lid sealed with wax and wound with old ropes, weathered and dusty",
   "looks": [
    {
     "name": "Stone sarcophagus",
@@ -32321,7 +32321,7 @@
    450,
    2400
   ],
-  "subject": "a thin book of gold leaf sheets between sheets of tissue, with a small soft brush and a short knife beside it",
+  "subject": "a thin book of gold leaf sheets between sheets of tissue, with a small soft brush and a short knife tied to its cover",
   "looks": [
    {
     "name": "Gold",
@@ -32352,7 +32352,7 @@
    630,
    2400
   ],
-  "subject": "a satin cushion piled with cut diamonds, a jeweller's loupe and a pair of fine tweezers laid alongside",
+  "subject": "a satin cushion piled with cut diamonds, a jeweller's loupe and a pair of fine tweezers tied to one corner",
   "looks": [
    {
     "name": "Satin",
@@ -32598,7 +32598,7 @@
    630,
    320
   ],
-  "subject": "a section of twisted iron handrail on a narrow stone spiral stair that vanishes into darkness",
+  "subject": "a section of twisted iron handrail on a short stone step, rusted and cold",
   "looks": [
    {
     "name": "Rusty iron",
@@ -32660,7 +32660,7 @@
    270,
    580
   ],
-  "subject": "a loose heap of old animal bones and a skull in a shadowy corner with a feather quill, harmless and dusty",
+  "subject": "a loose heap of old animal bones and a skull with a feather quill stuck among them, harmless and dusty",
   "looks": [
    {
     "name": "Pale bones",
@@ -32876,7 +32876,7 @@
    90,
    1100
   ],
-  "subject": "a weathered stone statue of an animal head half sunk in a sandy floor with tangled tree roots",
+  "subject": "a weathered stone statue of an animal head half buried in a mound of sand with tangled tree roots",
   "looks": [
    {
     "name": "Mossy",
@@ -32968,7 +32968,7 @@
    630,
    1100
   ],
-  "subject": "a shelf of stone shelves with shelves of giant glowing mushrooms of different shapes growing on them",
+  "subject": "a tiered stone shelf unit of giant glowing mushrooms of different shapes growing on each level",
   "looks": [
    {
     "name": "Pale",
@@ -32999,7 +32999,7 @@
    90,
    1360
   ],
-  "subject": "a thick stone pillar carved with winding vines and tiny faces, holding up the cave roof, cracked",
+  "subject": "a thick stone pillar carved with winding vines and tiny faces, cracked down one side",
   "looks": [
    {
     "name": "Weathered stone",
@@ -33431,7 +33431,7 @@
    450,
    2140
   ],
-  "subject": "a heavy round iron grate over a shaft in the floor with a faint glow and a coiled rope beside",
+  "subject": "a heavy round iron grate with a faint glow showing through, a coil of rope tied to its ring",
   "looks": [
    {
     "name": "Iron grate",
@@ -33554,7 +33554,7 @@
    450,
    2400
   ],
-  "subject": "a small desk tucked in a stone niche with a lamp, an inkpot and a pile of secret papers",
+  "subject": "a small desk with a lamp, an inkpot and a pile of secret papers",
   "looks": [
    {
     "name": "Dark wood desk",
@@ -33616,7 +33616,7 @@
    90,
    2660
   ],
-  "subject": "a huge cave-wall relief map of tunnels and caverns carved in stone with inlaid copper lines",
+  "subject": "a huge carved stone relief slab of tunnels and caverns with inlaid copper lines",
   "looks": [
    {
     "name": "Carved stone",
@@ -33647,7 +33647,7 @@
    270,
    2660
   ],
-  "subject": "a tall iron gate in a short stone archway hung with hundreds of tiny keys on little rings",
+  "subject": "a tall iron gate with a stone frame hung with hundreds of tiny keys on little rings",
   "looks": [
    {
     "name": "Iron keys",
@@ -33678,7 +33678,7 @@
    450,
    2660
   ],
-  "subject": "a plain wooden chest that seems to hold a deep glow inside, its lid propped open and no floor visible",
+  "subject": "a plain wooden chest that seems to hold a deep glow inside, its lid propped open",
   "looks": [
    {
     "name": "Plain wood",
@@ -34448,7 +34448,7 @@
    630,
    1620
   ],
-  "subject": "a grand curved window seat with fading velvet cushions looking out over rooftops, where a single beam of sunlight falls",
+  "subject": "a grand curved window seat with fading velvet cushions and a single beam of sunlight falling across it",
   "looks": [
    {
     "name": "Faded velvet",
@@ -34541,7 +34541,7 @@
    450,
    320
   ],
-  "subject": "a low brass fender rail around a hearth with a leather-topped seat bench at each end, tarnished",
+  "subject": "a low brass fender rail with a leather-topped seat bench at each end, tarnished",
   "looks": [
    {
     "name": "Dull brass",
@@ -35065,7 +35065,7 @@
    630,
    1360
   ],
-  "subject": "a small brass recording machine with a wax cylinder, a curved horn and a hand crank, a stack of spare cylinders in a lidded case beside it",
+  "subject": "a small brass recording machine with a wax cylinder, a curved horn and a hand crank, a stack of spare cylinders in a lidded case clipped to its base",
   "looks": [
    {
     "name": "Brass recorder",
@@ -35096,7 +35096,7 @@
    90,
    1620
   ],
-  "subject": "a cushioned window seat with a heavy curtain, a cat's hair on the cushion and the garden outside",
+  "subject": "a cushioned window seat with a heavy curtain and a cat's hair on the cushion",
   "looks": [
    {
     "name": "Faded",
@@ -35127,7 +35127,7 @@
    270,
    1620
   ],
-  "subject": "a stack of six identical leather diaries with brass clasps, ribbon-marked, on a side table",
+  "subject": "a stack of six identical leather diaries with brass clasps and ribbon markers, their covers worn at the edges",
   "looks": [
    {
     "name": "Brown leather",
@@ -35682,7 +35682,7 @@
    630,
    320
   ],
-  "subject": "an old brass lever sticking out of a carved stone panel in the wall with a worn black handle",
+  "subject": "an old brass lever sticking out of a carved stone panel with a worn black handle",
   "looks": [
    {
     "name": "Brass lever",
@@ -35743,7 +35743,7 @@
    270,
    580
   ],
-  "subject": "a tarnished empty suit of armour standing in an alcove with a loose helm and a gauntlet pointing",
+  "subject": "a tarnished empty suit of armour with a loose helm and a gauntlet pointing, on a square stand",
   "looks": [
    {
     "name": "Tarnished steel",
@@ -35805,7 +35805,7 @@
    630,
    580
   ],
-  "subject": "a small arched hole in the base of a brick wall with a bit of cheese rind and a tiny scrap of ribbon",
+  "subject": "a small arched hole cut in a block of brick with a bit of cheese rind and a tiny scrap of ribbon",
   "looks": [
    {
     "name": "Brick",
@@ -35836,7 +35836,7 @@
    90,
    840
   ],
-  "subject": "a carved wooden rosette in a panelled wall with a keyhole that is really a catch",
+  "subject": "a carved wooden rosette on a panel with a keyhole that is really a catch",
   "looks": [
    {
     "name": "Wood handle",
@@ -35928,7 +35928,7 @@
    630,
    840
   ],
-  "subject": "a board of little brass bells on curled springs with a plain painted room-name tab-free panel above",
+  "subject": "a board of little brass bells on curled springs with a plain painted panel above",
   "looks": [
    {
     "name": "Brass bells",
@@ -36113,7 +36113,7 @@
    270,
    1360
   ],
-  "subject": "a tin box of candles and matches on a ledge with a note-free lid",
+  "subject": "a tin box of candles and matches with a plain lid, dented at one corner",
   "looks": [
    {
     "name": "Tin",
@@ -36144,7 +36144,7 @@
    450,
    1360
   ],
-  "subject": "a square flagstone with an iron ring set flush in the floor, lifted a crack",
+  "subject": "a square flagstone with an iron ring set into it, lifted a crack to show a dark edge below",
   "looks": [
    {
     "name": "Stone trapdoor",
@@ -36206,7 +36206,7 @@
    90,
    1620
   ],
-  "subject": "a rusted iron chain hung with three small wooden buckets descending into a dark shaft in the floor",
+  "subject": "a rusted iron chain hung with three small wooden buckets with iron bands, trailing down",
   "looks": [
    {
     "name": "Rusty iron",
@@ -36237,7 +36237,7 @@
    270,
    1620
   ],
-  "subject": "a patch of wall thickly covered in pale softly glowing moss lighting the passage",
+  "subject": "a slab of rough stone thickly covered in pale softly glowing moss, with damp patches",
   "looks": [
    {
     "name": "Green",
@@ -36268,7 +36268,7 @@
    450,
    1620
   ],
-  "subject": "a thick knotted rope threaded through iron rings along a rough stone stair wall",
+  "subject": "a thick knotted rope threaded through iron rings on a short stone post, worn smooth by hands",
   "looks": [
    {
     "name": "Hemp",
@@ -36298,7 +36298,7 @@
    630,
    1620
   ],
-  "subject": "a heavy carved oak post at the centre of a twisting stair, carved with leaves and watching eyes up its spiral",
+  "subject": "a heavy carved oak post, twisted in a spiral and carved with leaves and watching eyes",
   "looks": [
    {
     "name": "Oak",
@@ -36360,7 +36360,7 @@
    270,
    1880
   ],
-  "subject": "a bent iron bracket on the stone wall with a half melted candle and wax stalagmites",
+  "subject": "a bent iron bracket with a half melted candle and a spreading drift of wax stalagmites below it",
   "looks": [
    {
     "name": "Iron bracket",
@@ -36422,7 +36422,7 @@
    630,
    1880
   ],
-  "subject": "a thin wire strung across the stair with a small brass bell hanging from a nail",
+  "subject": "a thin wire strung between two small iron pegs with a small brass bell hanging from a nail",
   "looks": [
    {
     "name": "Wire bell",
@@ -36576,7 +36576,7 @@
    90,
    2400
   ],
-  "subject": "a little brass plate in a stone wall that slides aside to reveal a view of the Hall",
+  "subject": "a little brass plate in a stone block that slides aside to reveal a peephole",
   "looks": [
    {
     "name": "Brass slider",
@@ -36699,7 +36699,7 @@
    90,
    2660
   ],
-  "subject": "a winch with a handle and a rope wound around a drum above a stair well",
+  "subject": "a winch with a handle and a rope wound around a drum, on a wooden frame",
   "looks": [
    {
     "name": "Wood and iron",
@@ -36761,7 +36761,7 @@
    450,
    2660
   ],
-  "subject": "a statue of a small owl on a revolving plinth in a wall niche that turns with a click",
+  "subject": "a statue of a small owl on a revolving plinth that turns with a click",
   "looks": [
    {
     "name": "Stone niche",
@@ -36853,7 +36853,7 @@
    270,
    320
   ],
-  "subject": "a small low armchair upholstered in faded green velvet hidden between two bookcases, with a worn patch on the arm",
+  "subject": "a small low armchair upholstered in faded green velvet, with a worn patch on the arm",
   "looks": [
    {
     "name": "Faded velvet",
@@ -36977,7 +36977,7 @@
    270,
    580
   ],
-  "subject": "a round tin with a worn picture of a ship on the lid and a few ancient crumbs inside, hidden on a shelf",
+  "subject": "a round tin with a worn picture of a ship on the lid and a few ancient crumbs inside",
   "looks": [
    {
     "name": "Tin",
@@ -37069,7 +37069,7 @@
    90,
    840
   ],
-  "subject": "a reading magnifier on an arm and a green-shaded lamp mounted together on one narrow table",
+  "subject": "a reading magnifier on an arm and a green-shaded lamp mounted together on one narrow stand",
   "looks": [
    {
     "name": "Brass lamp",
@@ -37285,7 +37285,7 @@
    630,
    1100
   ],
-  "subject": "a glossy black stuffed raven perched on a plaster bust of a plain grey sphere",
+  "subject": "a glossy black stuffed raven with a sharp beak and glassy eyes perched on a plain plaster block",
   "looks": [
    {
     "name": "Black",
@@ -37408,7 +37408,7 @@
    630,
    1360
   ],
-  "subject": "a lamp with a hooded tin shade on a table, whose light only shines on the page",
+  "subject": "a lamp with a hooded tin shade on a short stem, whose light only shines on the page",
   "looks": [
    {
     "name": "Tin",
@@ -37563,7 +37563,7 @@
    90,
    1880
   ],
-  "subject": "a short iron spiral stair leading up to a gallery of books with a curling handrail",
+  "subject": "a short iron spiral stair of a few open treads with a curling handrail, on a round iron base plate",
   "looks": [
    {
     "name": "Iron stair",
@@ -37593,7 +37593,7 @@
    270,
    1880
   ],
-  "subject": "a muted brass handbell with a thick felt-wrapped clapper and a turned wooden handle, standing on a small library table",
+  "subject": "a muted brass handbell with a thick felt-wrapped clapper and a turned wooden handle",
   "looks": [
    {
     "name": "Brass bell",
@@ -37624,7 +37624,7 @@
    450,
    1880
   ],
-  "subject": "a small globe on a pivoting arm clamped to a desk, with imaginary continents",
+  "subject": "a small globe with imaginary continents on a pivoting arm with a desk clamp",
   "looks": [
    {
     "name": "Painted",
@@ -37655,7 +37655,7 @@
    630,
    1880
   ],
-  "subject": "a small brass penguin with a bristle brush body used to wipe pens, on a desk",
+  "subject": "a small brass penguin with a bristle brush body used to wipe pens, a tiny sculpted beak and flipper wings",
   "looks": [
    {
     "name": "Brass penguin",
@@ -37686,7 +37686,7 @@
    90,
    2140
   ],
-  "subject": "a small brass flap in a wall labelled only by a tiny picture of an envelope",
+  "subject": "a small brass flap on a plate labelled only by a tiny picture of an envelope",
   "looks": [
    {
     "name": "Brass hatch",
@@ -37778,7 +37778,7 @@
    630,
    2140
   ],
-  "subject": "a tall candle in a deep glass chimney holder placed on a spiral stair step",
+  "subject": "a tall candle in a deep glass chimney holder on a short round base",
   "looks": [
    {
     "name": "Glass",
@@ -37871,7 +37871,7 @@
    450,
    2400
   ],
-  "subject": "a tall hourglass of ash wood and brass with grey sand running slowly, standing on a small leather desk pad",
+  "subject": "a tall hourglass of ash wood and brass with grey sand running slowly, standing on its own small leather pad",
   "looks": [
    {
     "name": "Sand",
@@ -37933,7 +37933,7 @@
    90,
    2660
   ],
-  "subject": "a small tray holding a cracked blue and white teacup and a bent spoon, left on a stack",
+  "subject": "a small tray holding a cracked blue and white teacup and a bent spoon",
   "looks": [
    {
     "name": "Cracked china",
@@ -38056,7 +38056,7 @@
    90,
    320
   ],
-  "subject": "a round iron grate in the stone floor of a domed chamber with a faint breeze and faint distant dripping",
+  "subject": "a round iron grate with a faint breeze and faint distant dripping, stamped with a leaf pattern",
   "looks": [
    {
     "name": "Iron",
@@ -38087,7 +38087,7 @@
    270,
    320
   ],
-  "subject": "a large taut drum built into a recess in the wall that thumps hollowly when touched",
+  "subject": "a large taut drum set in a round wooden frame that thumps hollowly when touched",
   "looks": [
    {
     "name": "Skin",
@@ -38179,7 +38179,7 @@
    90,
    580
   ],
-  "subject": "a round mosaic in the floor of dozens of little coloured doors arranged in rings",
+  "subject": "a round mosaic of dozens of little coloured doors arranged in rings, with tiny brass-coloured handles",
   "looks": [
    {
     "name": "Mosaic",
@@ -38303,7 +38303,7 @@
    90,
    840
   ],
-  "subject": "a heavy rope hanging from a hole in the dome with a wooden toggle at the end",
+  "subject": "a heavy rope with a wooden toggle at the end, its top fixed to an iron ring",
   "looks": [
    {
     "name": "Hemp",
@@ -38364,7 +38364,7 @@
    450,
    840
   ],
-  "subject": "a thick glass panel set in the floor revealing a deep shaft beneath with a faint glow",
+  "subject": "a thick square glass panel in an iron frame revealing a deep shaft beneath with a faint glow",
   "looks": [
    {
     "name": "Glass",
@@ -38395,7 +38395,7 @@
    630,
    840
   ],
-  "subject": "a glass bowl in a nook holding a pale blind lanternfish with a glowing lure",
+  "subject": "a glass bowl holding a pale blind lanternfish with a glowing lure, resting on a bed of pale pebbles",
   "looks": [
    {
     "name": "Glass",
@@ -38426,7 +38426,7 @@
    90,
    1100
   ],
-  "subject": "a taut silver cord running from the dome across the chamber to a brass cleat, humming",
+  "subject": "a taut silver cord strung from a short iron post to a brass cleat, humming",
   "looks": [
    {
     "name": "Silver",
@@ -38488,7 +38488,7 @@
    450,
    1100
   ],
-  "subject": "a small iron cabinet in an alcove sealed with a heavy padlock and a chain wrapped around",
+  "subject": "a small iron cabinet sealed with a heavy padlock and a chain wrapped around",
   "looks": [
    {
     "name": "Iron",
@@ -38580,7 +38580,7 @@
    270,
    1360
   ],
-  "subject": "the bottom landing of a spiral stair with a worn stone step and a carved newel with a glimmering orb",
+  "subject": "the bottom turn of a spiral stair with a worn stone step and a carved newel with a glimmering orb",
   "looks": [
    {
     "name": "Stone",
@@ -38673,7 +38673,7 @@
    90,
    1620
   ],
-  "subject": "a row of a dozen tin soldiers in red coats marching across a stone ledge, with a drum",
+  "subject": "a row of a dozen tin soldiers in red coats marching along a short stone slab, with a drum",
   "looks": [
    {
     "name": "Painted tin",
@@ -38981,7 +38981,7 @@
    450,
    2140
   ],
-  "subject": "a small silver locket hanging from a chain on a hook above a stone shelf, its lid ajar",
+  "subject": "a small silver locket hanging from a chain on a short hook, its lid ajar",
   "looks": [
    {
     "name": "Silver",
@@ -39012,7 +39012,7 @@
    630,
    2140
   ],
-  "subject": "a cloth map pinned flat on a table showing the passages as glowing lines on dark blue",
+  "subject": "a cloth map showing the passages as glowing lines on dark blue, mounted flat on a board",
   "looks": [
    {
     "name": "Cloth",
@@ -39104,7 +39104,7 @@
    90,
    320
   ],
-  "subject": "a tall brass floor lamp with a green shade angled over a long chart table, tarnished",
+  "subject": "a tall brass floor lamp with a green shade, tarnished, on a round base",
   "looks": [
    {
     "name": "Tarnished green lamp",
@@ -39351,7 +39351,7 @@
    90,
    840
   ],
-  "subject": "a huge parchment roll left half unrolled across a table with brass weights and a pen",
+  "subject": "a huge parchment roll left half unrolled, held flat by brass weights, with a pen",
   "looks": [
    {
     "name": "Parchment roll",
@@ -40122,7 +40122,7 @@
    270,
    2400
   ],
-  "subject": "a long brass strip with tiny dots set into a short run of stone floor, slightly worn at the ends",
+  "subject": "a long brass strip with tiny dots set in a slab of stone, slightly worn at the ends",
   "looks": [
    {
     "name": "Brass inlay",
@@ -40245,7 +40245,7 @@
    270,
    2660
   ],
-  "subject": "a small arched oak door with a brass star-shaped handle leading to the annex, ajar with golden light",
+  "subject": "a small arched oak door with a brass star-shaped handle in a stone frame, ajar with golden light",
   "looks": [
    {
     "name": "Ajar golden door",
@@ -40399,7 +40399,7 @@
    90,
    320
   ],
-  "subject": "a squat tin of beeswax floor polish with a stiff buffing brush and a soft cloth on a stone step",
+  "subject": "a squat tin of beeswax floor polish with a stiff buffing brush and a soft cloth",
   "looks": [
    {
     "name": "Beeswax tin",
@@ -40677,7 +40677,7 @@
    270,
    840
   ],
-  "subject": "a pair of tall palms in brass pots flanking a doorway with dusty fronds",
+  "subject": "a pair of tall palms in brass pots with dusty fronds and a little soil showing at the base",
   "looks": [
    {
     "name": "Dusty palms",
@@ -40708,7 +40708,7 @@
    450,
    840
   ],
-  "subject": "a large round pattern of chalk swirls on the polished floor where a waltz was practised",
+  "subject": "a large round slab of polished wood chalked with swirls where a waltz was practised",
   "looks": [
    {
     "name": "Chalk swirls",
@@ -40800,7 +40800,7 @@
    270,
    1100
   ],
-  "subject": "a heavy burgundy velvet curtain drawn back by a gold tassel and swag at a tall window",
+  "subject": "a heavy burgundy velvet curtain drawn back by a gold tassel and swag, its folds faded and dusty",
   "looks": [
    {
     "name": "Faded burgundy",
@@ -40862,7 +40862,7 @@
    630,
    1100
   ],
-  "subject": "a large round medallion of inlaid wood in sunburst pattern in the floor, scuffed",
+  "subject": "a large round medallion of inlaid wood in sunburst pattern with rays of dark and pale wood, scuffed",
   "looks": [
    {
     "name": "Scuffed sunburst",
@@ -41232,7 +41232,7 @@
    630,
    1880
   ],
-  "subject": "a gilded harp with an arched column and carved top standing on the orchestra platform",
+  "subject": "a gilded harp with an arched column and carved top on a low wooden base",
   "looks": [
    {
     "name": "Gilded harp",
@@ -41263,7 +41263,7 @@
    90,
    2140
   ],
-  "subject": "two tall silver candelabra with five arms each and drip trays on the buffet",
+  "subject": "two tall silver candelabra with five curling arms each and wide round drip trays, tarnished",
   "looks": [
    {
     "name": "Silver candelabra",
@@ -41417,7 +41417,7 @@
    270,
    2400
   ],
-  "subject": "a pair of tall glass doors with fanlights opening onto a terrace, with brass handles",
+  "subject": "a pair of tall glass doors with fanlights and brass handles in a white frame",
   "looks": [
    {
     "name": "Glass fanlight doors",
@@ -41509,7 +41509,7 @@
    90,
    2660
   ],
-  "subject": "a polished black grand piano with the lid up and a brass candlestick, silver tray of glasses beside",
+  "subject": "a polished black grand piano with the lid up and a brass candlestick on top",
   "looks": [
    {
     "name": "Black grand",
@@ -41571,7 +41571,7 @@
    450,
    2660
   ],
-  "subject": "a musical clockwork tableau of dozens of mechanical couples in elegant dress waltzing on a mirrored round floor, under a glass dome",
+  "subject": "a musical clockwork tableau of dozens of mechanical couples in elegant dress waltzing on a round mirrored stage, under a glass dome",
   "looks": [
    {
     "name": "Mirror-floor waltz",
@@ -41633,7 +41633,7 @@
    90,
    320
   ],
-  "subject": "a huge pipe organ with gilded pipes and a carved wooden case and bench in the gallery",
+  "subject": "a huge pipe organ with gilded pipes, a carved wooden case and a bench",
   "looks": [
    {
     "name": "Gilded pipes",
@@ -41694,7 +41694,7 @@
    90,
    320
   ],
-  "subject": "a small iron oil lamp on a hook halfway up the tower stair with a sooty chimney",
+  "subject": "a small iron oil lamp on a bracket with a sooty chimney, a trimmed wick and a ring handle",
   "looks": [
    {
     "name": "Sooty oil lamp",
@@ -41818,7 +41818,7 @@
    90,
    580
   ],
-  "subject": "a narrow arched window letting in a beam of light across a floor of gear dust",
+  "subject": "a narrow arched window frame letting in a beam of light full of drifting brass filings and gear dust",
   "looks": [
    {
     "name": "Gear-dust beam",
@@ -41848,7 +41848,7 @@
    270,
    580
   ],
-  "subject": "a ledge of the tower wall with a plump grey pigeon, feathers and an egg in a hollow",
+  "subject": "a short stone ledge with a plump grey pigeon, feathers and an egg in a hollow",
   "looks": [
    {
     "name": "Nesting pigeon",
@@ -42188,7 +42188,7 @@
    90,
    1360
   ],
-  "subject": "a small brass telescope on a bracket pointing across the town from an arched window",
+  "subject": "a small brass telescope on a bracket with an arched wooden frame, tarnished at the joints",
   "looks": [
    {
     "name": "Tower telescope",
@@ -42280,7 +42280,7 @@
    630,
    1360
   ],
-  "subject": "a small wicker basket strapped to the tower wall with a few rolled messages and a pigeon",
+  "subject": "a small wicker basket with a few rolled messages and a pigeon, with strap loops",
   "looks": [
    {
     "name": "Wicker post basket",
@@ -42527,7 +42527,7 @@
    630,
    1880
   ],
-  "subject": "a square shaft in the middle of the floor with a heavy weight suspended in the gloom on a chain",
+  "subject": "a square iron-edged shaft frame holding a heavy iron weight suspended on a thick chain",
   "looks": [
    {
     "name": "Dark shaft",
@@ -42558,7 +42558,7 @@
    90,
    2140
   ],
-  "subject": "a square wooden trapdoor with an iron ring set in a short section of beam, with a plain wooden ladder leaning below",
+  "subject": "a square wooden trapdoor with an iron ring set in a short section of beam, with a plain wooden ladder",
   "looks": [
    {
     "name": "Wooden hatch",
@@ -42681,7 +42681,7 @@
    90,
    2400
   ],
-  "subject": "a velvet cushion on a ledge by the warm gears where a tabby cat sleeps",
+  "subject": "a velvet cushion on a short stone slab where a tabby cat sleeps, curled round",
   "looks": [
    {
     "name": "Velvet cushion",
@@ -43082,7 +43082,7 @@
    270,
    840
   ],
-  "subject": "a battered brass telescope on a wobbly wooden tripod pointing out of the dormer window",
+  "subject": "a battered brass telescope on a wobbly wooden tripod, its tube tilted upward and its lens cap missing",
   "looks": [
    {
     "name": "Battered brass",
@@ -43143,7 +43143,7 @@
    630,
    840
   ],
-  "subject": "a wooden box of painted glass slides and a small brass lantern beside it",
+  "subject": "a wooden box of painted glass slides with a small brass lantern clipped to its lid",
   "looks": [
    {
     "name": "Glass slide box",
@@ -43359,7 +43359,7 @@
    450,
    1360
   ],
-  "subject": "a row of old tin and brass candle lanterns of different shapes on a ledge",
+  "subject": "a row of old tin and brass candle lanterns of different shapes with pierced sides and ring handles",
   "looks": [
    {
     "name": "Tin lanterns",

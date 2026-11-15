@@ -75,6 +75,28 @@ class CheckHallContentTest(unittest.TestCase):
         problems, stats = c.check([element(1, subject=base % "resting on its own small wooden stand")])
         self.assertEqual(stats["scene_subjects"], 0)
 
+    def test_placement_families_fail(self):
+        base = "a small carved oak box with a brass hinge and a worn velvet lining, %s"
+        families = {
+            "floor": ["on a sawdust floor", "set in the floor", "onto the floor", "across the ground", "in the grass"],
+            "surface": ["on a table", "on a small library table", "pinned flat on a desk", "on a shelf"],
+            "corner": ["in a quiet corner", "in an alcove", "in a stone niche", "in a stone arch", "in a shadowy corner"],
+            "water": ["by the water", "at the water's edge", "near the water", "beside the pool"],
+            "stairs": ["halfway up the tower stair", "at the foot of a stair", "above the stairwell", "on the stair"],
+            "companion": ["with a brush beside it", "with a cup next to it", "laid alongside a cloth", "with a jug nearby"],
+        }
+        for family, phrases in families.items():
+            for phrase in phrases:
+                _, stats = c.check([element(1, subject=base % phrase)])
+                self.assertEqual(stats["scene_subjects"], 1, family + ": " + phrase)
+
+    def test_object_with_own_base_passes(self):
+        base = "a small carved oak box with a brass hinge and a worn velvet lining, %s"
+        for phrase in ["on a square stone plinth", "on its own small wooden stand", "on a short pedestal",
+                       "with a brass catch tied to its lid", "mounted on a round iron base plate"]:
+            _, stats = c.check([element(1, subject=base % phrase)])
+            self.assertEqual(stats["scene_subjects"], 0, phrase)
+
     def test_people_word_fails(self):
         subject = "a small carved oak box with a brass hinge and a woman's glove folded on top of its lid"
         problems, _ = c.check([element(1, subject=subject)])

@@ -25,7 +25,21 @@ SCENE = re.compile(
     r"on (a|the) (floor|wall|ground|ceiling)|set (in|into) (a|the) \w+( \w+)? (floor|wall)|set into the|"
     r"under (a|an|the) (arch|roof|canopy|tree|sky|dome)|leaning (on|against)|"
     r"(hung|hanging) (on|from) (a|the) (wall|ceiling|rafter|beam)|"
-    r"(in|on|at) (a|the) (garden|courtyard|terrace|lawn|landing)|(in|inside) (a|the) (room|hall|cave))\b", re.I)
+    r"(in|on|at) (a|the) (garden|courtyard|terrace|lawn|landing)|(in|inside) (a|the) (room|hall|cave)|"
+    # floor, ground, grass
+    r"(on|onto|in|into|across|over|along) (a|an|the) ([\w'-]+ ){0,2}(floor|ground|grass|lawn|paving)|"
+    # table, desk, shelf and similar surfaces
+    r"(on|onto|upon) (a|an|the) ([\w'-]+ ){0,2}(table|desk|shelf|bench|counter|ledge|windowsill)|"
+    # corner, alcove, niche, arch
+    r"(in|into|within) (a|an|the) ([\w'-]+ ){0,2}(corner|alcove|nook|niche|recess|arch|archway|doorway)|"
+    r"(wall|room|shadowy|quiet) corner|"
+    # water and edges
+    r"(by|near|beside|at|along) (a|the) ([\w'-]+ ){0,2}(water|pool|pond|bank|shore|water's edge|pool's edge)|"
+    r"water's edge|pool's edge|"
+    # stairs and architecture
+    r"(up|down|on|at|along|above|below|beneath) (a|an|the) ([\w'-]+ ){0,2}(stair|stairs|staircase|stairwell|landing|rooftops)|"
+    # companion objects placed next to the subject
+    r"beside it|beside them|next to it|alongside|nearby)\b", re.I)
 SCENE_ALLOWED = {}  # element id -> reason, for deliberate exceptions
 PEOPLE = re.compile(r"\b(person|persons|people|man|men|woman|women|child|children|boy|girl|human|humans|lady|ladies|gentleman|gentlemen|crowd)\b", re.I)
 
