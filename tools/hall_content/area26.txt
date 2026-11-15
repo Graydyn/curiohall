@@ -1,0 +1,16 @@
+@subrooms The Gemstone Salon
+The Jeweller's Loupe Tray | a velvet-lined tray with two folding brass loupes, a pair of fine tweezers and a soft polishing cloth | Navy velvet | tray | silvered | ebony
+The Velvet Display Bust | a tall rounded velvet stand for necklaces, covered in worn burgundy velvet on a turned wooden foot, with a faded tassel | Faded velvet | stand | teal | pearl
+The Salon Settee | a small curved salon settee with a carved gilt frame and a tufted seat in pale pink silk, scuffed at the arms | Pink silk | settee | velvet | chintz
+Cut and Rough | a wooden tray of uncut rough crystals beside a few gleaming facet-cut gems of the same stone, with a small cutting wheel | Rough and cut | tray | gilded | crystal
+The Ring Cushion | a plump round tasselled cushion holding six gem-set rings in gold and silver bands, fanned out in a circle | Gold rings | cushion | silvered | midnight
+The Pearl Strand Stand | an upright brass stand with a looped triple strand of cream pearls hanging from a hook, tangled and dull | Dull pearls | stand | glow | gilded
+Lady Pemberton's Tiara | a delicate silver tiara set with sapphires and diamonds on a velvet head-shaped stand, tarnished | Silver and sapphire | tiara | gilded | ruby
+The Emerald Cabinet | a small glass-fronted display cabinet with deep green velvet shelves holding emerald crystals and carved emerald beads | Green velvet | cabinet | ebony | marble
+The Ruby Orb | a smooth polished ruby sphere as big as an orange on a small silver ring stand, glowing deep red | Ruby | orb | crystal | onyx
+The Opal Heart Case | a heart-shaped glass case holding a huge pale opal that flashes green, pink and blue fire, on a cream silk cushion | Opal | case | gilded | midnight
+The Sapphire Fountain | a small tabletop fountain carved from blue crystal with a tiny stream of water running over layered edges into a pearly shell | Blue crystal | fountain | verdigris | ruby
+The Gem Tree Parlour Piece | a small gilt tree with gem leaves in many colours rising from a pot, like a sparkling tabletop topiary | Gem leaves | tree | frost | porcelain
+The Diamond Chandelier | a tiered crystal chandelier hung with hundreds of faceted drops throwing tiny rainbows, a small cluster of lit candle bulbs | Crystal drops | chandelier | gilded | amber
+The Salon Mirror | a tall gilt-framed oval mirror with an ornately carved crest of shells and vines, the glass speckled with age | Speckled glass | mirror | ebony | verdigris
+The Crown Jewels of the Society | a ceremonial crown of gold with ruby, emerald and sapphire gems and a plum velvet lining, on a tall cushion beneath a glass dome | Gold crown | crown | silvered | pearl

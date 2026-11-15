@@ -1,0 +1,20 @@
+The Trophy Cabinet | a tall glazed oak cabinet filled with silver cups, shields and a golden bowl on shelves lined with green velvet | Silver trophies | cabinet | ebony | gilded
+The Founder's Map Case | a long flat table-case with a glass lid showing an old hand-drawn chart of imaginary islands, no lettering | Old chart | case | rosewood | verdigris
+The Founder's Chair | a large high-backed carved oak chair with a leather seat and brass studs, a tartan rug folded on one arm | Oak | chair | burgundy | tartan
+The Gallery Skylight Lantern | a pyramid-shaped glass lantern hung from the ceiling with iron frame and a small lamp, dim | Dusty glass | lantern | gilded | glow
+The Founder's Tent | a small striped canvas explorer's tent with a pole and guy ropes on a wooden platform, with a lantern at the entrance | Striped canvas | tent | midnight | paper
+The Founder's Compass | a big brass pocket compass with a hinged cover and a trembling needle on a wooden stand | Brass | compass | silvered | enamel
+The Expedition Sledge | a small wooden sledge with iron runners, a rolled tent and a coil of rope and a lantern strapped on | Wood | sledge | teal | frost
+The Field Kitchen | a portable camp kitchen of tin pots, a folding stove and a copper kettle on a canvas mat | Tin pots | stove | copper | enamel
+The Founder's Diary Stand | an angled lectern holding a thick blank-paged journal with a brass lock and a bookmark ribbon | Leather diary | lectern | gilded | ebony
+The Society Emblem | a large carved and painted shield-shaped plaque with a plain curving compass rose and a laurel wreath, hung on the wall | Painted | plaque | gilded | midnight
+The Ship's Wheel | a big varnished wooden ship's wheel with brass hub and polished spokes mounted on a short pedestal | Wood wheel | wheel | gilded | iron
+The Anchor | a heavy black iron ship anchor leaning on a wooden stand with a coil of rope | Black iron | anchor | brass | verdigris
+The Captain's Telescope Stand | a brass telescope on a tripod pointed at a round porthole-shaped window, with a leather cap | Brass | telescope | silvered | gilded
+The Founder's Gramophone | a wind-up gramophone with a fluted brass horn and a black record with blank centre on the turntable | Brass horn | gramophone | enamel | gilded
+The Explorer's Medal Wall | a panel of green baize hung with a dozen different medals in glass-topped shadow boxes | Green baize | panel | burgundy | ebony
+The Gallery Clock | a tall slim grandfather clock with a long pendulum and a dial with only dots, carved with ivy | Carved oak | clock | ebony | midnight
+The Great Gallery Chandelier | a huge tiered brass and crystal chandelier of many lit arms hanging above the gallery floor | Brass and crystal | chandelier | gilded | amber
+The Founders' Table | a massive polished banquet table with twelve carved chairs and a runner, with a silver centrepiece and candelabra | Polished wood | table | burgundy | marble
+The Founders' Great Globe | a vast antique globe with imaginary continents in a polished brass ring on a carved stand, as tall as a person | Aged globe | globe | midnight | glow
+The Founding Fire | a huge stone fireplace with a carved mantel and a glowing log fire and a great bronze fireback, tools hung beside | Stone | fireplace | marble | glow

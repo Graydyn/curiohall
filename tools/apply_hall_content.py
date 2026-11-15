@@ -5,6 +5,7 @@ Each areaNN.txt holds an optional `@subrooms A; B; C` line, then one line per
 element in id order:
 
     name | subject | look 0 name | look 1 name | look 1 change | look 2 name | look 2 change
+    name | subject | look 0 name | noun | preset | preset      (compact; presets in PRESETS)
 
 Look instructions are edit prompts; the shared suffix below is appended here.
 Only name, subject and looks (and wing subroom names) are written; every other
@@ -19,6 +20,46 @@ import sys
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
 CFG = os.path.join(ROOT, "config")
 DATA = os.path.join(os.path.dirname(os.path.abspath(__file__)), "hall_content")
+# Shared edit treatments for compact rows: key -> (look name, instruction with {n} for the noun).
+PRESETS = {
+    "gilded": ("Gilded", "make the {n} burnished gold with fine engraved flourishes and small ruby accents"),
+    "silvered": ("Silvered", "make the {n} polished silver with delicate engraving and pale blue enamel accents"),
+    "bronze": ("Bronze", "recast the {n} in dark patinated bronze with warm golden highlights on a black marble base"),
+    "verdigris": ("Verdigris", "make the {n} green-patinated copper with weathered verdigris streaks and bright brass edges"),
+    "crystal": ("Cut crystal", "make the {n} clear cut crystal that sparkles and throws tiny rainbows"),
+    "frosted": ("Frosted glass", "make the {n} frosted white glass lit softly from within"),
+    "amber": ("Amber glow", "make the {n} translucent honey-amber glass glowing warmly from inside"),
+    "jade": ("Jade", "make the {n} carved green jade with silver fittings and a pale cream base"),
+    "marble": ("Marble", "make the {n} cream marble veined in grey with fine gilt edging"),
+    "onyx": ("Black onyx", "make the {n} polished black onyx with thin gold veins and brass feet"),
+    "porcelain": ("Willow china", "make the {n} glazed white porcelain painted with blue willow and floral patterns"),
+    "teal": ("Teal lacquer", "paint the {n} glossy deep teal lacquer with gilded trim and cream accents"),
+    "burgundy": ("Burgundy lacquer", "paint the {n} glossy burgundy lacquer with brass trim and cream accents"),
+    "midnight": ("Starry night", "make the {n} deep midnight blue scattered with tiny gilt stars and a crescent moon"),
+    "rosewood": ("Rosewood", "make the {n} dark polished rosewood with inlaid brass stringing"),
+    "ash": ("Pale ash", "make the {n} pale blond ash wood with neat brass fittings"),
+    "ebony": ("Ebony and pearl", "make the {n} black ebony with gilded carving and mother-of-pearl inlay"),
+    "enamel": ("Jewel enamel", "make the {n} glazed in jewel-coloured enamel in teal, burgundy and cream"),
+    "copper": ("Hammered copper", "make the {n} hammered warm copper with visible rivets and a soft shine"),
+    "pearl": ("Mother-of-pearl", "make the {n} lustrous mother-of-pearl with a pink and green rainbow sheen"),
+    "ivory": ("Scrimshaw", "make the {n} cream bone engraved with fine dark scrollwork"),
+    "velvet": ("Velvet", "make the {n} covered in plush burgundy velvet with gold tassels and braid"),
+    "glow": ("Lamplit", "make the {n} glow from within with warm gaslight amber and soft rays"),
+    "mosaic": ("Mosaic", "make the {n} covered in tiny glass mosaic tiles in teal, gold and cream"),
+    "ruby": ("Ruby red", "make the {n} deep ruby red glass with gold bands"),
+    "sapphire": ("Sapphire", "make the {n} deep sapphire blue glass with silver bands"),
+    "emerald": ("Emerald", "make the {n} rich emerald green glass with brass bands"),
+    "frost": ("Frosted", "make the {n} dusted with white frost and icicles with a pale blue glow"),
+    "mossy": ("Overgrown", "make the {n} overgrown with green moss, tiny ferns and trailing ivy"),
+    "tartan": ("Tartan", "make the {n} covered in teal and burgundy tartan wool with leather trim"),
+    "brass": ("Polished brass", "make the {n} bright polished brass with rivets and a warm shine"),
+    "iron": ("Wrought iron", "make the {n} black wrought iron with curling scrollwork and gold-tipped finials"),
+    "wicker": ("Woven cane", "make the {n} woven from pale cane and wicker with cream cushions"),
+    "stone": ("Carved stone", "make the {n} carved grey stone with soft moss in the cracks"),
+    "paper": ("Paper craft", "make the {n} folded from cream paper and thin card with painted details"),
+    "clockwork": ("Clockwork", "make the {n} a brass clockwork automaton with visible gears and a wind-up key"),
+    "chintz": ("Chintz", "make the {n} covered in cream chintz with large pink cabbage roses"),
+}
 SUFFIX = ", keep the same object, framing, viewpoint and lighting"
 
 
@@ -75,6 +116,11 @@ def read_part(path, area, wing_by_area, rows):
                     sub["name"] = n
                 continue
             parts = [p.strip() for p in line.split("|")]
+            if len(parts) == 6:
+                # compact row: name | subject | look 0 name | noun | preset | preset
+                n, a, b = parts[3], PRESETS[parts[4]], PRESETS[parts[5]]
+                parts = [parts[0], parts[1], parts[2],
+                         a[0], a[1].format(n=n), b[0], b[1].format(n=n)]
             assert len(parts) == 7, "area %d bad line: %s" % (area, line[:60])
             rows.append(parts)
 

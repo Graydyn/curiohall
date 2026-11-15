@@ -1,0 +1,21 @@
+@subrooms The Portrait Stair
+The Stair Carpet Rods | a bundle of brass stair rods tied with string beside a rolled strip of worn stair carpet and a small hammer | Worn carpet | rods | silvered | gilded
+The Picture Hook Box | a small wooden box of brass picture hooks, nails and a coil of wire with a small hammer and a pencil | Plain box | box | teal | ebony
+The Gilt Frame Pile | a leaning stack of empty ornate gilt picture frames of various sizes with chipped corners | Chipped gilt | frames | verdigris | ebony
+The Canvas Rolls | a bundle of unframed blank canvases rolled together and tied with twine, one unrolling | Plain canvas | canvases | midnight | mossy
+The Stair Newel Lamp | a brass newel post lamp topped by a frosted glass globe on a carved oak post, unlit | Frosted globe | lamp | gilded | glow
+The Dust-Sheeted Easel | an artist's wooden easel draped in a grey dust cloth with a pot of dry brushes on its ledge | Grey cloth | easel | velvet | teal
+The Gallery Rope | a heavy red velvet rope strung between two brass posts with round ball tops, faded | Red velvet | rope | midnight | gilded
+The Grumpy Owl Portrait | a formal oil painting of an owl in a stiff white collar and a powdered judge's wig glaring from a gilt frame | Oil painting | portrait | gilded | ebony
+The Hound Portrait | a large oil painting of a hound in a velvet coat sitting on a red cushion with a hunting horn, in a heavy frame | Oil painting | portrait | mosaic | ebony
+The Duchess of Peacocks | a stately portrait of a peacock in a pearl necklace with an elaborate feathered hat, in an oval frame | Oil painting | portrait | gilded | porcelain
+The Admiral Tortoise | a formal portrait of a tortoise in an admiral's hat and epaulettes with a telescope under its flipper, in a gilt frame | Oil painting | portrait | ebony | pearl
+The Cat Countess | a dignified portrait of a fluffy white cat in a lace ruff and a ruby choker on a cushion in a round frame | Oil painting | portrait | gilded | verdigris
+The Heron Statesman | a portrait of a heron in a black frock coat and a high collar, standing by a window, in a tall narrow frame | Oil painting | portrait | silvered | ebony
+The Painted Self-Portrait of the Hall | a big landscape painting of the museum facade in the evening with lamplit windows and a path to the door, in a deep frame | Oil painting | portrait | gilded | midnight
+The Empty Frame | a huge empty gilt picture frame leaning against the wall with one corner of the canvas curling, waiting to be filled | Empty gilt | frame | mossy | midnight
+The Staircase Mirror | a long narrow gilt mirror hanging between two windows with a cracked corner, the glass dim | Cracked | mirror | ebony | verdigris
+The Family Tree Stair Rail | a long polished mahogany banister rail with carved leaves and acorns, curling to a spiral newel | Mahogany | rail | gilded | iron
+The Grand Stair Chandelier | a tall tiered crystal chandelier lit with warm bulbs hanging above the stairwell on a long gilt chain | Crystal | chandelier | gilded | amber
+The Clockwork Portrait | a framed portrait of a stern fox in a high collar whose painted eyes track along the stair, a small brass cog showing at the frame edge | Oil painting | portrait | clockwork | gilded
+The Founder's Great Portrait | a vast landscape painting of the founder's ship under full sail on a calm teal sea at sunrise, in a vast gilt frame with a carved crest | Oil painting | painting | gilded | midnight

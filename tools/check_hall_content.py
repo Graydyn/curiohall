@@ -5,7 +5,6 @@ import os
 import sys
 
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
-BANNED = ("lettering", "text", "people", "person", "man ", "woman", "background")
 
 
 def main():
@@ -27,6 +26,11 @@ def main():
             print("bad instructions", e["id"]); bad += 1
         if len({l["name"].lower() for l in lk}) != 3 or any(l["name"].startswith("Look ") for l in lk):
             print("bad look names", e["id"]); bad += 1
+        if len(e["subject"].split()) < 14:
+            print("thin subject", e["id"], e["name"]); bad += 1
+        for l in lk[1:]:
+            if len(l["instruction"].split()) < 15 or l["instruction"].lower().startswith("make it "):
+                print("thin look", e["id"], e["name"], "|", l["name"]); bad += 1
         if lk[1]["instruction"] == lk[2]["instruction"]:
             print("same looks", e["id"]); bad += 1
     print("%d elements, %d problems" % (len(els), bad))

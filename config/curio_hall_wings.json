@@ -336,7 +336,7 @@
   ],
   "subrooms": [
    {
-    "name": "Room 1",
+    "name": "The Hall of Instruments",
     "size": [
      720,
      2600
@@ -356,7 +356,7 @@
   ],
   "subrooms": [
    {
-    "name": "Room 1",
+    "name": "The Observation Dome",
     "size": [
      720,
      2860
@@ -376,7 +376,7 @@
   ],
   "subrooms": [
    {
-    "name": "Room 1",
+    "name": "The Orrery Landing",
     "size": [
      720,
      2080
@@ -396,7 +396,7 @@
   ],
   "subrooms": [
    {
-    "name": "Room 1",
+    "name": "The Gaslight Gallery",
     "size": [
      720,
      1820
@@ -416,7 +416,7 @@
   ],
   "subrooms": [
    {
-    "name": "Room 1",
+    "name": "The Sculpture Court",
     "size": [
      720,
      2600
@@ -436,7 +436,7 @@
   ],
   "subrooms": [
    {
-    "name": "Room 1",
+    "name": "The Hall of Giants",
     "size": [
      720,
      2080
@@ -456,14 +456,14 @@
   ],
   "subrooms": [
    {
-    "name": "Room 1",
+    "name": "The Beetle Gallery",
     "size": [
      720,
      3120
     ]
    },
    {
-    "name": "Room 2",
+    "name": "The Hive Annex",
     "size": [
      720,
      1280
@@ -483,7 +483,7 @@
   ],
   "subrooms": [
    {
-    "name": "Room 1",
+    "name": "The Herbarium",
     "size": [
      720,
      2600
@@ -503,14 +503,14 @@
   ],
   "subrooms": [
    {
-    "name": "Room 1",
+    "name": "The Dispensary",
     "size": [
      720,
      3120
     ]
    },
    {
-    "name": "Room 2",
+    "name": "The Compounding Room",
     "size": [
      720,
      2080
@@ -530,7 +530,7 @@
   ],
   "subrooms": [
    {
-    "name": "Room 1",
+    "name": "The Gemstone Salon",
     "size": [
      720,
      1560
@@ -550,7 +550,7 @@
   ],
   "subrooms": [
    {
-    "name": "Room 1",
+    "name": "The Meteorite Chamber",
     "size": [
      720,
      3120
@@ -570,7 +570,7 @@
   ],
   "subrooms": [
    {
-    "name": "Room 1",
+    "name": "The Cabinet of Whispers",
     "size": [
      720,
      1820
@@ -590,7 +590,7 @@
   ],
   "subrooms": [
    {
-    "name": "Room 1",
+    "name": "The Portrait Stair",
     "size": [
      720,
      1820
@@ -610,7 +610,7 @@
   ],
   "subrooms": [
    {
-    "name": "Room 1",
+    "name": "The Founders' Gallery",
     "size": [
      720,
      2860
@@ -630,7 +630,7 @@
   ],
   "subrooms": [
    {
-    "name": "Room 1",
+    "name": "The Music Box Parlor",
     "size": [
      720,
      2080

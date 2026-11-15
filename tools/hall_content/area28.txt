@@ -1,0 +1,21 @@
+@subrooms The Cabinet of Whispers
+The Velvet Curtain | a heavy burgundy velvet curtain on a brass rail, drawn half open with gold tassels, dusty and faded at the folds | Faded velvet | curtain | teal | midnight
+The Keyhole Peephole Door | a small dark oak door panel with a large brass keyhole and a little iron key in it, set in a frame | Dark oak | door | gilded | ebony
+The Ear Trumpet | a long curled brass ear trumpet with a wide bell and a short mouthpiece, hanging from a hook on a ribbon | Tarnished brass | trumpet | silvered | porcelain
+The Speaking Tube | a wall-mounted brass speaking tube with a flared mouth and a whistle plug, with a snaking pipe vanishing into the panel | Dull brass | tube | copper | enamel
+The Whispering Shell | a huge spiralled pink conch shell on a cushion with a glow of pale light inside its opening | Pink conch | shell | pearl | amber
+The Gossip Settee | a small two-seat settee set at an angle with a high curved back like a confessional, in dark green velvet | Green velvet | settee | burgundy | chintz
+The Secret Drawer Desk | a small writing desk with a hidden compartment slightly ajar, with a few ribbon-tied blank letters inside | Walnut | desk | rosewood | teal
+The Cabinet of Curious Keys | a small wall cabinet full of hooks holding dozens of different old keys on faded ribbons | Old keys | cabinet | ebony | gilded
+The Candle in the Dark | a tall tapered candle in a brass chamber stick with a drip tray and a small flame casting a trembling halo | Wax candle | candlestick | silvered | glow
+The Dumbwaiter of Secrets | a narrow hatch in dark panelling with a rope pull and a small brass tray holding a folded note | Dark wood | hatch | gilded | teal
+The Mask Collection | a row of five blank white carnival half-masks with ribbons, hung on a velvet board, no faces painted | White masks | masks | gilded | midnight
+The Black Cat Doorstop | a heavy cast-iron black cat sitting upright with green glass eyes, holding a door open | Black iron | cat | brass | porcelain
+The Snuff Box Case | a flat glass case holding enamelled and silver snuff boxes with tiny hinged lids on dark velvet | Silver boxes | case | gilded | enamel
+The Grandfather's Whisper Clock | a tall slim clock with a face of plain dots and a long pendulum that makes the whole case seem to murmur | Dark wood | clock | rosewood | midnight
+The Silent Bell | a large brass hand bell with its clapper tied up in a velvet cloth, sitting on a pedestal | Brass bell | bell | silvered | burgundy
+The Eavesdropping Ear | a large carved plaster ear mounted on a wall plaque with a brass listening tube coming out of it | Plaster ear | ear | gilded | jade
+The Mirror That Listens | a round dark mirror in a heavy carved frame of tangled ears and whorls, glass clouded and grey | Clouded glass | mirror | gilded | ebony
+The Muffled Piano | a small upright piano with felt dampers and a heavy cloth over the keys, and a candlestick on top | Dark wood | piano | rosewood | teal
+The Confession Chair | a high-backed carved oak chair with a hooded canopy and a small grille at the side | Dark oak | chair | burgundy | ebony
+The Great Whisper | an enormous curved horn like a gramophone trumpet in polished brass and dark wood, pointed at the ceiling and bringing faint glowing wisps of sound | Brass horn | horn | gilded | glow

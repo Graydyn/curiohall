@@ -1,0 +1,23 @@
+@subrooms The Music Box Parlor
+The Music Stand | a slender wooden music stand with a folding brass desk and a few sheets of blank staves, wobbly | Plain wood | stand | brass | ebony
+The Tuning Key Tray | a small velvet-lined tray with brass piano tuning keys, a tuning fork and a felt wedge | Brass keys | tray | silvered | teal
+The Piano Stool | a round revolving piano stool with a cracked leather seat and carved turned legs on a screw | Cracked leather | stool | velvet | rosewood
+The Metronome | a tall pyramid-shaped wooden metronome with a brass pendulum and weight, no numbers on the scale, only lines | Wood | metronome | ebony | gilded
+The Sheet Music Cabinet | a low walnut cabinet of narrow drawers for sheet music with a flat top and a vase of dried grasses | Walnut | cabinet | teal | pearl
+The Parlour Palm | a potted palm in a brass jardiniere on a plant stand, with dusty fronds | Dusty fronds | palm | porcelain | gilded
+The Cylinder Box | a small wooden box of brass music-box cylinders with tiny pins arranged in rows, in a velvet tray | Brass cylinders | box | silvered | enamel
+The Wind-Up Key Collection | a hanging rack of brass and silver winding keys of many sizes and shapes on silk cords | Brass keys | rack | gilded | ebony
+The Tiny Orchestra | a set of a dozen miniature clockwork musicians' instruments (a tiny drum, harp, trumpet and fiddle) on a green baize board | Painted tin | set | gilded | porcelain
+The Singing Bird Box | a small enamelled box with a tiny feathered bird that pops up from the lid on a spring | Enamel | box | gilded | clockwork
+The Carousel Music Box | a round music box topped by a tiny carousel of horses on brass poles under a striped canopy | Painted horses | carousel | gilded | midnight
+The Barrel Organ | a small hand-cranked barrel organ in a carved wooden case with brass pipes and a crank handle | Wood | organ | rosewood | gilded
+The Harp | a tall gilt concert harp with carved scrolls and a fan of strings, a few strings snapped | Gilt wood | harp | ebony | silvered
+The Parlour Grand Piano | a small black grand piano with its lid propped, a dusty lace runner on top and a candlestick, keys yellowed | Black lacquer | piano | rosewood | teal
+The Gramophone Cabinet | a tall mahogany record cabinet with a pull-out shelf of black discs and a small brass horn on top | Mahogany | cabinet | ebony | burgundy
+The Dancing Doll Box | a round musical box with a tiny porcelain dancer on a spring who twirls when the lid opens | Porcelain | box | gilded | enamel
+The Glass Harmonica | a series of nested glass bowls on a spindle in a wooden trough of water, the bowls tuned to different pitches | Glass bowls | harmonica | amber | sapphire
+The Mechanical Songbird Cage | a large gilded birdcage with a clockwork nightingale on a perch that opens its beak and flutters its wings | Gilded cage | cage | silvered | verdigris
+The Music Box Chandelier | a hanging chandelier whose arms are curved like musical staves holding tiny bells and lamps | Brass bells | chandelier | crystal | gilded
+The Orchestrion | a tall carved wooden cabinet filled with organ pipes, drums and cymbals driven by a pinned barrel, with glass doors | Carved wood | cabinet | burgundy | gilded
+The Singing Fountain | a small basin fountain whose spouts play a gentle tune through tiny bells and glass pipes | Stone basin | fountain | marble | glow
+The Great Music Box | a gigantic carved music box the size of a trunk with an open lid showing a huge pinned cylinder and a steel comb, with inlaid ivory and brass flowers | Inlaid wood | box | gilded | midnight
