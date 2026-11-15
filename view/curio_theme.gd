@@ -58,7 +58,7 @@ static func build() -> Theme:
     # Brass nav buttons: Button variation "NavButton".
     t.add_type("NavButton")
     t.set_type_variation("NavButton", "Button")
-    var nav := art_box("nav_button", _box(TEAL, BRASS), 28.0, 10.0)
+    var nav := art_box("nav_button", _box(TEAL, BRASS), 20.0, 8.0)
     t.set_stylebox("normal", "NavButton", nav)
     t.set_stylebox("hover", "NavButton", nav)
     var nav_p := nav.duplicate() as StyleBox

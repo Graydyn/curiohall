@@ -80,6 +80,15 @@ def entry(key, out, cmd, args, source_key=None):
     return {"key": key, "out": out, "cmd": cmd, "args": args, "source_key": source_key}
 
 
+def with_post(entries, **post):
+    """Attach a post-processing step (see sectilia_batch.apply_post) to every
+    entry that writes a final asset (not a _raw/ intermediate)."""
+    for e in entries:
+        if "/_raw/" not in e["out"]:
+            e["post"] = dict(e.get("post") or {}, **post)
+    return entries
+
+
 def styled_generate(key, out, args, style_keys, style_pass=False):
     """generate entries get the shared --theme and the locked style refs as
     `--style`. With style_pass (legacy), generate without refs to a raw path,
@@ -114,13 +123,16 @@ def exterior_wings(areas, style_keys, style_pass=False):
         rk = "ext_%02d_restored" % a
         subject = w.get("exterior_subject") or (
             "%s, Victorian museum wing facade" % w["name"])
-        out += styled_generate(rk, C.exterior_path(a, "restored"), {
+        # Stone walls are pale: strip shadows only in the very bottom band.
+        wing_clean = {"clean": {"shadow": True, "ground": 0.86}}
+        out += with_post(styled_generate(rk, C.exterior_path(a, "restored"), {
             "subject": subject + ", painted, soft Ghibli-like light, "
                        "deep teal burgundy cream brass palette" + BACKDROP,
-            "spec": sp, "facing": "front"}, style_keys, style_pass)
+            "spec": sp, "facing": "front"}, style_keys, style_pass), **wing_clean)
         if w["structure"] == "interior":
-            out.append(entry("ext_%02d_boarded" % a, C.exterior_path(a, "boarded"), "edit",
-                             {"instruction": BOARDED, "spec": sp}, rk))
+            out += with_post([entry("ext_%02d_boarded" % a, C.exterior_path(a, "boarded"), "edit",
+                                    {"instruction": BOARDED, "spec": sp}, rk)],
+                             align_to=C.exterior_path(a, "restored"), **wing_clean)
     return out
 
 
@@ -170,14 +182,15 @@ def elements(areas, style_keys, style_pass=False):
             continue
         k0 = "el_%s_0" % e["id"]
         subject = (e.get("subject") or e["name"]) + ELEMENT_SUFFIX
-        out += styled_generate(k0, C.element_path(e["id"], 0), {
-            "subject": subject, "spec": el_spec(e)}, style_keys, style_pass)
+        clean = {"clean": {"shadow": e.get("art_bg") != "soft"}}
+        out += with_post(styled_generate(k0, C.element_path(e["id"], 0), {
+            "subject": subject, "spec": el_spec(e)}, style_keys, style_pass), **clean)
         for i in range(1, len(e["looks"])):
             look = e["looks"][i]
             instr = look.get("instruction") or \
                 "restyle this exhibit as its '%s' variant, keep the same framing" % look["name"]
-            out.append(entry("el_%s_%d" % (e["id"], i), C.element_path(e["id"], i), "edit",
-                             {"instruction": instr, "spec": el_spec(e)}, k0))
+            out += with_post([entry("el_%s_%d" % (e["id"], i), C.element_path(e["id"], i), "edit",
+                                    {"instruction": instr, "spec": el_spec(e)}, k0)], **clean)
     return out
 
 
@@ -250,9 +263,9 @@ UI_PIECES = {
 def ui(areas, style_keys, style_pass=False):
     out = []
     for name, (subject, canvas, bg) in UI_PIECES.items():
-        out += styled_generate("ui_%s" % name, "%s/ui/%s.png" % (C.BASE, name), {
+        out += with_post(styled_generate("ui_%s" % name, "%s/ui/%s.png" % (C.BASE, name), {
             "subject": subject, "spec": spec(canvas, anchor="center", margin=0, background=bg)},
-            style_keys, style_pass)
+            style_keys, style_pass), clean={"shadow": False, "crop": True})
     return out
 
 

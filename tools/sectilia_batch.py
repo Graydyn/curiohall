@@ -17,8 +17,6 @@ import time
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import art_common as C  # noqa: E402
 
-TIMEOUT = {"background": 3600}
-DEFAULT_TIMEOUT = 600
 # Passed to sectilia as --timeout so it exits 7 with the job id (resumable via
 # _pending) before an agent shell or our own subprocess timeout kills it.
 CLI_TIMEOUT = 540
@@ -250,6 +248,33 @@ def apply_fit(e):
     im.crop((x, y, x + w, y + h)).convert("RGB").save(dst)
 
 
+def apply_post(e):
+    """Post-process a finished asset in place: `clean` (clean_sprite: shadow,
+    ground, pools, crop) then `align_to` (align_states against a source
+    sprite, so edited states keep its framing)."""
+    post = e.get("post")
+    if not post:
+        return
+    from PIL import Image
+    import clean_sprite
+    import align_states
+    path = os.path.join(C.ROOT, final_out(e))
+    im = Image.open(path).convert("RGBA")
+    c = post.get("clean")
+    if c is not None:
+        im, _ = clean_sprite.clean(im, shadow=c.get("shadow", True), pools=c.get("pools", False),
+                                   ground=c.get("ground"))
+        if c.get("crop"):
+            box = im.getchannel("A").point(lambda v: 255 if v > 16 else 0).getbbox()
+            if box:
+                im = im.crop(box)
+    if post.get("align_to"):
+        src = os.path.join(C.ROOT, post["align_to"])
+        if os.path.exists(src):
+            im = align_states.align(Image.open(src), im)
+    im.save(path)
+
+
 def load_failed(path=None):
     try:
         with open(path or C.FAILED_PATH, encoding="utf-8") as f:
@@ -306,6 +331,7 @@ def run_manifest(entries, limit=None, jobs_path=None, runner=run, sleep=time.sle
             jid = run_entry(e, jobs, runner, sleep, pending_map.get(key), note)
             pending_map.pop(key, None)
             apply_fit(e)
+            apply_post(e)
             if jid:
                 jobs[key] = jid
             save_jobs(jobs, jobs_path)

@@ -140,3 +140,10 @@ would help.
     perfectly straight on with no perspective"). `--camera` offers only
     eye_level/isometric; a flat orthographic front camera for UI pieces would
     help. We reused a flat frame that did come out right.
+25. **Pale subjects and the chroma key do not mix.** A sampled key on a pale
+    backdrop eats pale subjects where they touch it (the porcelain elephant's
+    trunk, the cane settee, a marble fountain basin), and any generic
+    "strip pale leftovers" pass we write has the same problem. What worked:
+    `background: null` plus "a thin dark outline around the pale parts" in the
+    edit instruction. A key colour chosen to contrast with the subject (say,
+    a dark or saturated backdrop when the subject is pale) would avoid it.

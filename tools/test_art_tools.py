@@ -9,6 +9,10 @@ import art_common as C  # noqa: E402
 import art_manifest as M  # noqa: E402
 import sectilia_batch as B  # noqa: E402
 import clean_sprite as CS  # noqa: E402
+import align_states as AS  # noqa: E402
+import lawn_patch as LP  # noqa: E402
+
+REAL_ROOT = C.ROOT
 
 
 class ManifestTests(unittest.TestCase):
@@ -146,6 +150,108 @@ class BatchTests(unittest.TestCase):
         self.assertEqual(out.getpixel((6, 32))[3], 0)
         self.assertEqual(out.getpixel((20, 20))[3], 255)
         self.assertEqual(out.getpixel((15, 11))[3], 255)
+
+    def test_clean_sprite_islands_and_specks(self):
+        from PIL import Image
+        im = Image.new("RGBA", (60, 60), (0, 0, 0, 0))
+        for x in range(10, 40):
+            for y in range(10, 40):
+                im.putpixel((x, y), (120, 40, 30, 255))     # subject
+        for x in range(50, 54):
+            for y in range(50, 54):
+                im.putpixel((x, y), (230, 150, 120, 255))   # detached peach blob
+        im.putpixel((2, 2), (10, 10, 10, 12))               # low-alpha speck
+        for x in range(40, 44):
+            im.putpixel((x, 20), (120, 40, 30, 255))        # attached spur, kept
+        out, n = CS.clean(im, shadow=False)
+        self.assertEqual(out.getpixel((51, 51))[3], 0)
+        self.assertEqual(out.getpixel((2, 2))[3], 0)
+        self.assertEqual(out.getpixel((42, 20))[3], 255)
+        self.assertEqual(out.getpixel((20, 20))[3], 255)
+
+    def test_clean_sprite_shadow_only_in_ground_band(self):
+        from PIL import Image
+        im = Image.new("RGBA", (40, 80), (0, 0, 0, 0))
+        for x in range(10, 30):
+            for y in range(5, 70):
+                im.putpixel((x, y), (60, 70, 72, 255))       # dark subject
+        for x in range(5, 35):
+            for y in range(5, 10):
+                im.putpixel((x, y), (190, 190, 186, 255))    # pale cap, top: subject
+            for y in range(70, 78):
+                im.putpixel((x, y), (190, 190, 186, 255))    # pale shadow, bottom
+        out, _ = CS.clean(im)
+        self.assertEqual(out.getpixel((7, 7))[3], 255)
+        self.assertEqual(out.getpixel((7, 74))[3], 0)
+        kept, _ = CS.clean(im, shadow=False)
+        self.assertEqual(kept.getpixel((7, 74))[3], 255)
+
+    def test_align_states_matches_source_box(self):
+        from PIL import Image
+        src = Image.new("RGBA", (200, 200), (0, 0, 0, 0))
+        src.paste((200, 0, 0, 255), (20, 40, 180, 190))
+        st = Image.new("RGBA", (200, 200), (0, 0, 0, 0))
+        st.paste((0, 0, 200, 255), (70, 10, 150, 85))       # smaller, shifted up
+        out = AS.align(src, st)
+        self.assertEqual(out.size, src.size)
+        box = AS.subject_box(out)
+        self.assertLessEqual(abs(box[3] - 190), 1)          # same ground line
+        self.assertLessEqual(abs((box[0] + box[2]) / 2 - 100), 1)
+        self.assertLessEqual(abs((box[2] - box[0]) - 160), 2)
+
+    def test_lawn_patch_fills_polygon_only(self):
+        from PIL import Image
+        base = Image.new("RGB", (120, 80), (200, 200, 200))
+        base.paste((30, 120, 40), (0, 0, 120, 30))          # grass sample strip
+        out = LP.patch(base, (0, 0, 120, 30), [[60, 40, 110, 40, 110, 75, 60, 75]], feather=0)
+        g = out.getpixel((85, 58))
+        self.assertGreater(g[1], g[0] + 40)                 # now grass-green
+        self.assertEqual(out.getpixel((10, 60)), (200, 200, 200))
+
+    def test_manifest_post_steps(self):
+        p = mock.patch.object(C, "ROOT", REAL_ROOT)
+        p.start()
+        self.addCleanup(p.stop)
+        by = {e["key"]: e for e in M.build("exterior-wings", {3}, ["s"])}
+        self.assertEqual(by["ext_03_boarded"]["post"]["align_to"], C.exterior_path(3, "restored"))
+        self.assertIn("clean", by["ext_03_restored"]["post"])
+        els = M.build("elements", {2}, ["s"])
+        soft = {e["id"] for e in C.elements() if e.get("art_bg") == "soft"}
+        for e in els:
+            self.assertEqual(e["post"]["clean"]["shadow"], e["key"][3:9] not in soft)
+        for e in M.build("elements", {2}, ["s"], True):
+            if "/_raw/" in e["out"]:
+                self.assertNotIn("post", e)
+        ui = {e["key"]: e for e in M.build("ui", None, ["s"])}
+        self.assertTrue(ui["ui_nav_button"]["post"]["clean"]["crop"])
+
+    def test_el_spec_soft(self):
+        self.assertIsNone(M.el_spec({"art_bg": "soft"})["background"])
+        self.assertEqual(M.el_spec({})["background"], M.CHROMA)
+
+    def test_argv_passes_cli_timeout(self):
+        with mock.patch.object(C, "ROOT", REAL_ROOT):
+            e = M.build("elements", {1}, ["s1"])[0]
+        argv = B.build_argv(e, {"s1": "J"})
+        self.assertEqual(argv[argv.index("--timeout") + 1], str(B.CLI_TIMEOUT))
+
+    def test_local_timeout_records_recovered_job(self):
+        import subprocess
+        with mock.patch.object(C, "ROOT", REAL_ROOT):
+            e = M.build("elements", {1}, ["s1"])[0]
+        calls = []
+
+        def runner(argv, timeout):
+            calls.append(argv[:2])
+            if argv[1] == "generate":
+                raise subprocess.TimeoutExpired(argv, timeout)
+            import time as _t
+            iso = _t.strftime("%Y-%m-%dT%H:%M:%SZ", _t.gmtime(_t.time()))
+            return 0, {"jobs": [{"id": "JX", "created_at": iso, "request": {"kind": "generate"}}]}
+        noted = []
+        with self.assertRaises(B.StopBatch):
+            B.run_entry(e, {"s1": "J"}, runner, lambda s: None, None, noted.append)
+        self.assertEqual(noted, ["JX"])
 
     def test_newest_job_since(self):
         import time as _t
