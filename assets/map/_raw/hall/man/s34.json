@@ -1,0 +1,48 @@
+[
+ {
+  "key": "hall_s34_src",
+  "out": "assets/map/_raw/hall/tiles/s34_uploaded.png",
+  "cmd": "upload",
+  "args": {
+   "file": "assets/map/_raw/hall/tiles/s34.png",
+   "spec": {
+    "canvas_size": [
+     513,
+     806
+    ],
+    "style": "painted",
+    "background": {
+     "type": "keep"
+    },
+    "anchor": "center",
+    "alpha_threshold": 0,
+    "palette": null,
+    "margin": 0
+   }
+  },
+  "source_key": null
+ },
+ {
+  "key": "hall_s34_empty",
+  "out": "assets/map/_raw/hall/tiles/s34_edit.png",
+  "cmd": "edit",
+  "args": {
+   "instruction": "erase the timber balloon shed AND the striped hot-air balloon floating above it, both completely, so only plain grass remains: the same sunlit grass with the same soft light rays as the lawn around it; do not add hedges, paths, flower beds or anything else; keep everything else exactly identical and the framing unchanged",
+   "spec": {
+    "canvas_size": [
+     513,
+     806
+    ],
+    "style": "painted",
+    "background": {
+     "type": "keep"
+    },
+    "anchor": "center",
+    "alpha_threshold": 0,
+    "palette": null,
+    "margin": 0
+   }
+  },
+  "source_key": "hall_s34_src"
+ }
+]

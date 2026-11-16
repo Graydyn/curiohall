@@ -1,0 +1,278 @@
+[
+ {
+  "key": "hall_roofl_src",
+  "out": "assets/map/_raw/hall/tiles/roofl_uploaded.png",
+  "cmd": "upload",
+  "args": {
+   "file": "assets/map/_raw/hall/tiles/roofl.png",
+   "spec": {
+    "canvas_size": [
+     940,
+     360
+    ],
+    "style": "painted",
+    "background": {
+     "type": "keep"
+    },
+    "anchor": "center",
+    "alpha_threshold": 0,
+    "palette": null,
+    "margin": 0
+   }
+  },
+  "source_key": null
+ },
+ {
+  "key": "hall_roofl_boarded",
+  "out": "assets/map/_raw/hall/tiles/roofl_edit.png",
+  "cmd": "edit",
+  "args": {
+   "instruction": "this roof is neglected: many slates missing showing bare dark battens, a torn grey tarpaulin weighed down with planks over part of it, the dormer windows dark with broken glass and boarded with planks; keep the building's shape, the walls, the sky, the grounds, the composition and the framing exactly identical, make only these changes",
+   "spec": {
+    "canvas_size": [
+     940,
+     360
+    ],
+    "style": "painted",
+    "background": {
+     "type": "keep"
+    },
+    "anchor": "center",
+    "alpha_threshold": 0,
+    "palette": null,
+    "margin": 0
+   }
+  },
+  "source_key": "hall_roofl_src"
+ },
+ {
+  "key": "hall_roofr_src",
+  "out": "assets/map/_raw/hall/tiles/roofr_uploaded.png",
+  "cmd": "upload",
+  "args": {
+   "file": "assets/map/_raw/hall/tiles/roofr.png",
+   "spec": {
+    "canvas_size": [
+     1000,
+     360
+    ],
+    "style": "painted",
+    "background": {
+     "type": "keep"
+    },
+    "anchor": "center",
+    "alpha_threshold": 0,
+    "palette": null,
+    "margin": 0
+   }
+  },
+  "source_key": null
+ },
+ {
+  "key": "hall_roofr_boarded",
+  "out": "assets/map/_raw/hall/tiles/roofr_edit.png",
+  "cmd": "edit",
+  "args": {
+   "instruction": "this roof is neglected: many slates missing showing bare dark battens, a torn grey tarpaulin weighed down with planks over part of it, the dormer windows dark with broken glass and boarded with planks; keep the building's shape, the walls, the sky, the grounds, the composition and the framing exactly identical, make only these changes",
+   "spec": {
+    "canvas_size": [
+     1000,
+     360
+    ],
+    "style": "painted",
+    "background": {
+     "type": "keep"
+    },
+    "anchor": "center",
+    "alpha_threshold": 0,
+    "palette": null,
+    "margin": 0
+   }
+  },
+  "source_key": "hall_roofr_src"
+ },
+ {
+  "key": "hall_towers_src",
+  "out": "assets/map/_raw/hall/tiles/towers_uploaded.png",
+  "cmd": "upload",
+  "args": {
+   "file": "assets/map/_raw/hall/tiles/towers.png",
+   "spec": {
+    "canvas_size": [
+     780,
+     600
+    ],
+    "style": "painted",
+    "background": {
+     "type": "keep"
+    },
+    "anchor": "center",
+    "alpha_threshold": 0,
+    "palette": null,
+    "margin": 0
+   }
+  },
+  "source_key": null
+ },
+ {
+  "key": "hall_towers_boarded",
+  "out": "assets/map/_raw/hall/tiles/towers_edit.png",
+  "cmd": "edit",
+  "args": {
+   "instruction": "the two towers are shut up: planks nailed over every tower window and door, the observatory dome on the right tower closed and wrapped in a torn grey tarpaulin tied with rope, the pointed spire on the left tower missing slates with bare dark battens; keep the buildings' shapes, the sky, the trees, the composition and the framing exactly identical, make only these changes",
+   "spec": {
+    "canvas_size": [
+     780,
+     600
+    ],
+    "style": "painted",
+    "background": {
+     "type": "keep"
+    },
+    "anchor": "center",
+    "alpha_threshold": 0,
+    "palette": null,
+    "margin": 0
+   }
+  },
+  "source_key": "hall_towers_src"
+ },
+ {
+  "key": "hall_dome_src",
+  "out": "assets/map/_raw/hall/tiles/dome_uploaded.png",
+  "cmd": "upload",
+  "args": {
+   "file": "assets/map/_raw/hall/tiles/dome.png",
+   "spec": {
+    "canvas_size": [
+     620,
+     460
+    ],
+    "style": "painted",
+    "background": {
+     "type": "keep"
+    },
+    "anchor": "center",
+    "alpha_threshold": 0,
+    "palette": null,
+    "margin": 0
+   }
+  },
+  "source_key": null
+ },
+ {
+  "key": "hall_dome_boarded",
+  "out": "assets/map/_raw/hall/tiles/dome_edit.png",
+  "cmd": "edit",
+  "args": {
+   "instruction": "the big dome is neglected: its copper streaked and stained dark, a torn grey tarpaulin draped over part of it, its small windows boarded with planks and the lantern on top dark; keep the building's shape, the sky, the composition and the framing exactly identical, make only these changes",
+   "spec": {
+    "canvas_size": [
+     620,
+     460
+    ],
+    "style": "painted",
+    "background": {
+     "type": "keep"
+    },
+    "anchor": "center",
+    "alpha_threshold": 0,
+    "palette": null,
+    "margin": 0
+   }
+  },
+  "source_key": "hall_dome_src"
+ },
+ {
+  "key": "hall_wingl_src",
+  "out": "assets/map/_raw/hall/tiles/wingl_uploaded.png",
+  "cmd": "upload",
+  "args": {
+   "file": "assets/map/_raw/hall/tiles/wingl.png",
+   "spec": {
+    "canvas_size": [
+     780,
+     540
+    ],
+    "style": "painted",
+    "background": {
+     "type": "keep"
+    },
+    "anchor": "center",
+    "alpha_threshold": 0,
+    "palette": null,
+    "margin": 0
+   }
+  },
+  "source_key": null
+ },
+ {
+  "key": "hall_wingl_boarded",
+  "out": "assets/map/_raw/hall/tiles/wingl_edit.png",
+  "cmd": "edit",
+  "args": {
+   "instruction": "this long wing is shut up and neglected: many roof slates missing showing bare dark battens, a torn grey tarpaulin over part of the roof, dark dormers, every courtyard window boarded with planks and grey dust sheets; keep the building's shape, the sky, the trees, the composition and the framing exactly identical, make only these changes",
+   "spec": {
+    "canvas_size": [
+     780,
+     540
+    ],
+    "style": "painted",
+    "background": {
+     "type": "keep"
+    },
+    "anchor": "center",
+    "alpha_threshold": 0,
+    "palette": null,
+    "margin": 0
+   }
+  },
+  "source_key": "hall_wingl_src"
+ },
+ {
+  "key": "hall_wingr_src",
+  "out": "assets/map/_raw/hall/tiles/wingr_uploaded.png",
+  "cmd": "upload",
+  "args": {
+   "file": "assets/map/_raw/hall/tiles/wingr.png",
+   "spec": {
+    "canvas_size": [
+     780,
+     540
+    ],
+    "style": "painted",
+    "background": {
+     "type": "keep"
+    },
+    "anchor": "center",
+    "alpha_threshold": 0,
+    "palette": null,
+    "margin": 0
+   }
+  },
+  "source_key": null
+ },
+ {
+  "key": "hall_wingr_boarded",
+  "out": "assets/map/_raw/hall/tiles/wingr_edit.png",
+  "cmd": "edit",
+  "args": {
+   "instruction": "this long wing is shut up and neglected: many roof slates missing showing bare dark battens, a torn grey tarpaulin over part of the roof, dark dormers, every courtyard window boarded with planks and grey dust sheets; keep the building's shape, the sky, the trees, the composition and the framing exactly identical, make only these changes",
+   "spec": {
+    "canvas_size": [
+     780,
+     540
+    ],
+    "style": "painted",
+    "background": {
+     "type": "keep"
+    },
+    "anchor": "center",
+    "alpha_threshold": 0,
+    "palette": null,
+    "margin": 0
+   }
+  },
+  "source_key": "hall_wingr_src"
+ }
+]

@@ -167,3 +167,33 @@ would help.
     would make this one step with no drift. Allowing a region edit of a large
     `background` job (it cannot be an edit source today) would let us fix the
     exterior painting in place instead of compositing sprites over it.
+28. **`background` composed a whole estate in one go, and well.** One 2160x3600
+    `background` (30 hammer calls, style_core + the old exterior as
+    `--style-job`) gave a single huge museum building with a domed entrance,
+    towers, a glass gallery, side wings round a courtyard, dormer rows and an
+    ivy wing, plus all ten requested garden structures and the gates, at
+    clean 3/4 top-down. Two rough edges: the ten small structures came out as
+    clean-edged stickers with no contact shadow (each needed a "settle" edit),
+    and the lawn carries strong diagonal light rays that every later edit had
+    to reproduce. The job ran 34 minutes with no progress output beyond
+    "running"; a hammer-call count or stage on stderr would help judge it.
+29. **"Remove X, leave the empty plot" invents a new garden.** 4 of 10
+    removal edits re-drew the crop top-down as a formal hedged plot with
+    paths (re-framed), 3 removed only part of the structure (kept a paved
+    ring, a raised lawn pad, the night-garden beds) and one kept a floating
+    balloon. Rewording to "erase the structure completely, together with its
+    base, platform, paving and flowers, so only plain grass remains ... do not
+    add hedges, paths, flower beds or anything else" fixed 7 of 8; the
+    balloon needed naming explicitly. Positive-only phrasing could not carry
+    "nothing here".
+30. **State edits repaint outside the subject on large crops.** Boarding up a
+    930x890 facade tile kept the building pixel-aligned (good), but also
+    swapped the lawn and far wings behind it for blue sky, removed a rose
+    bush and a tree in front, and made one tile's light warmer. We now keep
+    only changes that are darker or greyer than the source and never a newly
+    painted sky. A native masked edit (item 27) would remove all of this.
+31. **"Settle" (relight, contact shadow) edits change size and content.** Of
+    ten settle edits: one relit the whole crop 58 levels darker, one shrank
+    the glasshouse, one deleted the courtyard's brick paving. "Make only
+    subtle changes, do not move, redraw or re-frame" was in the instruction
+    each time. A strength or "max change" knob for edit would help.

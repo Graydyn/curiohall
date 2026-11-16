@@ -4,10 +4,10 @@
   "name": "The Front Gates",
   "structure": "interior",
   "exterior_rect": [
-   264,
-   2445,
-   1632,
-   795
+   570,
+   2870,
+   1050,
+   650
   ],
   "subrooms": [
    {
@@ -26,10 +26,10 @@
   "name": "The Grand Atrium",
   "structure": "interior",
   "exterior_rect": [
-   264,
-   1075,
-   1632,
-   1020
+   832,
+   1270,
+   436,
+   520
   ],
   "subrooms": [
    {
@@ -49,10 +49,10 @@
   "name": "The Cloakroom & Vestibule",
   "structure": "interior",
   "exterior_rect": [
-   0,
-   1372,
-   606,
-   516
+   618,
+   1415,
+   214,
+   175
   ],
   "subrooms": [
    {
@@ -70,10 +70,10 @@
   "name": "The Curator's Office",
   "structure": "interior",
   "exterior_rect": [
-   1554,
-   1372,
-   606,
-   516
+   1268,
+   1415,
+   214,
+   175
   ],
   "subrooms": [
    {
@@ -91,10 +91,10 @@
   "name": "The Tea Room",
   "structure": "interior",
   "exterior_rect": [
-   0,
-   270,
-   540,
-   270
+   405,
+   1415,
+   213,
+   175
   ],
   "subrooms": [
    {
@@ -111,10 +111,10 @@
   "name": "The Hall of Feathers",
   "structure": "interior",
   "exterior_rect": [
-   540,
-   270,
-   540,
-   270
+   1482,
+   1415,
+   218,
+   175
   ],
   "subrooms": [
    {
@@ -131,10 +131,10 @@
   "name": "The Butterfly House",
   "structure": "separate",
   "exterior_rect": [
-   1080,
-   270,
-   540,
-   270
+   460,
+   2370,
+   440,
+   500
   ],
   "subrooms": [
    {
@@ -151,10 +151,10 @@
   "name": "The Conservatory",
   "structure": "separate",
   "exterior_rect": [
-   1620,
-   270,
-   540,
-   270
+   450,
+   1930,
+   410,
+   430
   ],
   "subrooms": [
    {
@@ -171,10 +171,10 @@
   "name": "The Fossil Gallery",
   "structure": "interior",
   "exterior_rect": [
-   0,
-   540,
-   540,
-   270
+   618,
+   1240,
+   214,
+   175
   ],
   "subrooms": [
    {
@@ -191,10 +191,10 @@
   "name": "The Mineral Vault",
   "structure": "interior",
   "exterior_rect": [
-   540,
-   540,
-   540,
-   270
+   618,
+   1590,
+   214,
+   180
   ],
   "subrooms": [
    {
@@ -211,10 +211,10 @@
   "name": "The Shell & Coral Room",
   "structure": "interior",
   "exterior_rect": [
-   1080,
-   540,
-   540,
-   270
+   1268,
+   1240,
+   214,
+   175
   ],
   "subrooms": [
    {
@@ -231,10 +231,10 @@
   "name": "The Aquarium Grotto",
   "structure": "interior",
   "exterior_rect": [
-   1620,
-   540,
-   540,
-   270
+   1268,
+   1590,
+   214,
+   180
   ],
   "subrooms": [
    {
@@ -251,10 +251,10 @@
   "name": "The Map Room",
   "structure": "interior",
   "exterior_rect": [
-   0,
-   810,
-   540,
-   270
+   405,
+   1240,
+   213,
+   175
   ],
   "subrooms": [
    {
@@ -271,10 +271,10 @@
   "name": "The Library of Expeditions",
   "structure": "interior",
   "exterior_rect": [
-   540,
-   810,
-   540,
-   270
+   1482,
+   1240,
+   218,
+   175
   ],
   "subrooms": [
    {
@@ -291,10 +291,10 @@
   "name": "The Archives",
   "structure": "interior",
   "exterior_rect": [
-   1080,
-   810,
-   540,
-   270
+   405,
+   1590,
+   213,
+   180
   ],
   "subrooms": [
    {
@@ -311,10 +311,10 @@
   "name": "The Clockwork Workshop",
   "structure": "interior",
   "exterior_rect": [
-   1620,
-   810,
-   540,
-   270
+   1482,
+   1590,
+   218,
+   180
   ],
   "subrooms": [
    {
@@ -331,10 +331,10 @@
   "name": "The Hall of Instruments",
   "structure": "interior",
   "exterior_rect": [
-   0,
-   1080,
-   540,
-   270
+   50,
+   1415,
+   355,
+   175
   ],
   "subrooms": [
    {
@@ -351,10 +351,10 @@
   "name": "The Astronomy Dome",
   "structure": "separate",
   "exterior_rect": [
-   540,
-   1080,
-   540,
-   270
+   30,
+   1805,
+   340,
+   380
   ],
   "subrooms": [
    {
@@ -371,10 +371,10 @@
   "name": "The Orrery Landing",
   "structure": "interior",
   "exterior_rect": [
-   1080,
-   1080,
-   540,
-   270
+   832,
+   940,
+   436,
+   330
   ],
   "subrooms": [
    {
@@ -391,10 +391,10 @@
   "name": "The Gaslight Gallery",
   "structure": "interior",
   "exterior_rect": [
-   1620,
-   1080,
-   540,
-   270
+   1700,
+   1415,
+   355,
+   175
   ],
   "subrooms": [
    {
@@ -411,10 +411,10 @@
   "name": "The Sculpture Court",
   "structure": "interior",
   "exterior_rect": [
-   0,
-   1350,
-   540,
-   270
+   495,
+   640,
+   295,
+   400
   ],
   "subrooms": [
    {
@@ -431,10 +431,10 @@
   "name": "The Hall of Giants",
   "structure": "interior",
   "exterior_rect": [
-   540,
-   1350,
-   540,
-   270
+   50,
+   1240,
+   355,
+   175
   ],
   "subrooms": [
    {
@@ -451,10 +451,10 @@
   "name": "The Insectarium",
   "structure": "interior",
   "exterior_rect": [
-   1080,
-   1350,
-   540,
-   270
+   1365,
+   640,
+   300,
+   200
   ],
   "subrooms": [
    {
@@ -478,10 +478,10 @@
   "name": "The Herbarium",
   "structure": "interior",
   "exterior_rect": [
-   1620,
-   1350,
-   540,
-   270
+   1365,
+   840,
+   300,
+   200
   ],
   "subrooms": [
    {
@@ -498,10 +498,10 @@
   "name": "The Apothecary Annex",
   "structure": "interior",
   "exterior_rect": [
-   0,
-   1620,
-   540,
-   270
+   130,
+   680,
+   365,
+   360
   ],
   "subrooms": [
    {
@@ -525,10 +525,10 @@
   "name": "The Gemstone Salon",
   "structure": "interior",
   "exterior_rect": [
-   540,
-   1620,
-   540,
-   270
+   1665,
+   680,
+   365,
+   360
   ],
   "subrooms": [
    {
@@ -545,10 +545,10 @@
   "name": "The Meteorite Chamber",
   "structure": "interior",
   "exterior_rect": [
-   1080,
-   1620,
-   540,
-   270
+   790,
+   760,
+   185,
+   180
   ],
   "subrooms": [
    {
@@ -565,10 +565,10 @@
   "name": "The Cabinet of Whispers",
   "structure": "interior",
   "exterior_rect": [
-   1620,
-   1620,
-   540,
-   270
+   1185,
+   760,
+   180,
+   180
   ],
   "subrooms": [
    {
@@ -585,10 +585,10 @@
   "name": "The Portrait Stair",
   "structure": "interior",
   "exterior_rect": [
-   0,
-   1890,
-   540,
-   270
+   50,
+   1050,
+   355,
+   190
   ],
   "subrooms": [
    {
@@ -605,10 +605,10 @@
   "name": "The Founders' Gallery",
   "structure": "interior",
   "exterior_rect": [
-   540,
-   1890,
-   540,
-   270
+   1700,
+   1050,
+   355,
+   190
   ],
   "subrooms": [
    {
@@ -625,10 +625,10 @@
   "name": "The Music Box Parlor",
   "structure": "interior",
   "exterior_rect": [
-   1080,
-   1890,
-   540,
-   270
+   405,
+   1050,
+   213,
+   190
   ],
   "subrooms": [
    {
@@ -645,10 +645,10 @@
   "name": "The Print & Poster Room",
   "structure": "interior",
   "exterior_rect": [
-   1620,
-   1890,
-   540,
-   270
+   1482,
+   1050,
+   218,
+   190
   ],
   "subrooms": [
    {
@@ -665,10 +665,10 @@
   "name": "The Model Ship Hall",
   "structure": "interior",
   "exterior_rect": [
-   0,
-   2160,
-   540,
-   270
+   618,
+   1050,
+   214,
+   190
   ],
   "subrooms": [
    {
@@ -692,10 +692,10 @@
   "name": "The Balloon Loft",
   "structure": "separate",
   "exterior_rect": [
-   1440,
-   640,
-   520,
-   400
+   30,
+   2200,
+   420,
+   620
   ],
   "subrooms": [
    {
@@ -720,10 +720,10 @@
   "name": "The Observatory Walk",
   "structure": "separate",
   "exterior_rect": [
-   1080,
-   2160,
-   540,
-   270
+   20,
+   2890,
+   480,
+   420
   ],
   "subrooms": [
    {
@@ -740,10 +740,10 @@
   "name": "The Moonlit Courtyard",
   "structure": "separate",
   "exterior_rect": [
-   1620,
-   2160,
-   540,
-   270
+   1650,
+   2930,
+   480,
+   400
   ],
   "subrooms": [
    {
@@ -760,10 +760,10 @@
   "name": "The Reflecting Pool",
   "structure": "separate",
   "exterior_rect": [
-   0,
-   2430,
-   540,
-   270
+   1380,
+   2350,
+   410,
+   310
   ],
   "subrooms": [
    {
@@ -780,10 +780,10 @@
   "name": "The Glasshouse Menagerie",
   "structure": "separate",
   "exterior_rect": [
-   540,
-   2430,
-   540,
-   270
+   1680,
+   1850,
+   470,
+   330
   ],
   "subrooms": [
    {
@@ -807,10 +807,10 @@
   "name": "The Night Garden",
   "structure": "separate",
   "exterior_rect": [
-   1080,
-   2430,
-   540,
-   270
+   1790,
+   2440,
+   360,
+   380
   ],
   "subrooms": [
    {
@@ -827,10 +827,10 @@
   "name": "The Deep Vaults",
   "structure": "interior",
   "exterior_rect": [
-   1620,
-   2430,
-   540,
-   270
+   50,
+   1590,
+   355,
+   180
   ],
   "subrooms": [
    {
@@ -861,10 +861,10 @@
   "name": "The Forgotten Wing",
   "structure": "interior",
   "exterior_rect": [
-   0,
-   2700,
-   540,
-   270
+   1700,
+   1240,
+   355,
+   175
   ],
   "subrooms": [
    {
@@ -881,10 +881,10 @@
   "name": "The Founder's Study",
   "structure": "interior",
   "exterior_rect": [
-   540,
-   2700,
-   540,
-   270
+   1185,
+   480,
+   180,
+   280
   ],
   "subrooms": [
    {
@@ -901,10 +901,10 @@
   "name": "The Hidden Passage",
   "structure": "interior",
   "exterior_rect": [
-   1080,
-   2700,
-   540,
-   270
+   1700,
+   1590,
+   355,
+   180
   ],
   "subrooms": [
    {
@@ -935,10 +935,10 @@
   "name": "The Chart Room of Lost Lands",
   "structure": "interior",
   "exterior_rect": [
-   1620,
-   2700,
-   540,
-   270
+   790,
+   480,
+   185,
+   280
   ],
   "subrooms": [
    {
@@ -962,10 +962,10 @@
   "name": "The Grand Ballroom",
   "structure": "interior",
   "exterior_rect": [
-   0,
-   2970,
-   540,
-   270
+   975,
+   560,
+   210,
+   380
   ],
   "subrooms": [
    {
@@ -989,10 +989,10 @@
   "name": "The Clock Tower",
   "structure": "separate",
   "exterior_rect": [
-   540,
-   2970,
-   540,
-   270
+   1400,
+   1770,
+   240,
+   470
   ],
   "subrooms": [
    {
@@ -1009,10 +1009,10 @@
   "name": "The Attic of Marvels",
   "structure": "interior",
   "exterior_rect": [
-   1080,
-   2970,
-   540,
-   270
+   1268,
+   1050,
+   214,
+   190
   ],
   "subrooms": [
    {

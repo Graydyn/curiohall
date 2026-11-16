@@ -1,0 +1,232 @@
+[
+ {
+  "key": "hall_fr_src",
+  "out": "assets/map/_raw/hall/tiles/fr_uploaded.png",
+  "cmd": "upload",
+  "args": {
+   "file": "assets/map/_raw/hall/tiles/fr.png",
+   "spec": {
+    "canvas_size": [
+     990,
+     890
+    ],
+    "style": "painted",
+    "background": {
+     "type": "keep"
+    },
+    "anchor": "center",
+    "alpha_threshold": 0,
+    "palette": null,
+    "margin": 0
+   }
+  },
+  "source_key": null
+ },
+ {
+  "key": "hall_fr_boarded",
+  "out": "assets/map/_raw/hall/tiles/fr_edit.png",
+  "cmd": "edit",
+  "args": {
+   "instruction": "board up this part of the building: nail weathered wooden planks across every window and door, dark unlit glass, grey dust sheets hanging inside, no lamps lit; keep the building's shape, roofs, walls, colours, the sky, the grounds, the composition and the framing exactly identical, make only these changes",
+   "spec": {
+    "canvas_size": [
+     990,
+     890
+    ],
+    "style": "painted",
+    "background": {
+     "type": "keep"
+    },
+    "anchor": "center",
+    "alpha_threshold": 0,
+    "palette": null,
+    "margin": 0
+   }
+  },
+  "source_key": "hall_fr_src"
+ },
+ {
+  "key": "hall_c_src",
+  "out": "assets/map/_raw/hall/tiles/c_uploaded.png",
+  "cmd": "upload",
+  "args": {
+   "file": "assets/map/_raw/hall/tiles/c.png",
+   "spec": {
+    "canvas_size": [
+     700,
+     1000
+    ],
+    "style": "painted",
+    "background": {
+     "type": "keep"
+    },
+    "anchor": "center",
+    "alpha_threshold": 0,
+    "palette": null,
+    "margin": 0
+   }
+  },
+  "source_key": null
+ },
+ {
+  "key": "hall_c_boarded",
+  "out": "assets/map/_raw/hall/tiles/c_edit.png",
+  "cmd": "edit",
+  "args": {
+   "instruction": "board up this part of the building: nail weathered wooden planks across every window and door, dark unlit glass, grey dust sheets hanging inside, no lamps lit; keep the building's shape, roofs, walls, colours, the sky, the grounds, the composition and the framing exactly identical, make only these changes",
+   "spec": {
+    "canvas_size": [
+     700,
+     1000
+    ],
+    "style": "painted",
+    "background": {
+     "type": "keep"
+    },
+    "anchor": "center",
+    "alpha_threshold": 0,
+    "palette": null,
+    "margin": 0
+   }
+  },
+  "source_key": "hall_c_src"
+ },
+ {
+  "key": "hall_bl_src",
+  "out": "assets/map/_raw/hall/tiles/bl_uploaded.png",
+  "cmd": "upload",
+  "args": {
+   "file": "assets/map/_raw/hall/tiles/bl.png",
+   "spec": {
+    "canvas_size": [
+     1000,
+     700
+    ],
+    "style": "painted",
+    "background": {
+     "type": "keep"
+    },
+    "anchor": "center",
+    "alpha_threshold": 0,
+    "palette": null,
+    "margin": 0
+   }
+  },
+  "source_key": null
+ },
+ {
+  "key": "hall_bl_boarded",
+  "out": "assets/map/_raw/hall/tiles/bl_edit.png",
+  "cmd": "edit",
+  "args": {
+   "instruction": "board up this part of the building: nail weathered wooden planks across every window and door, dark unlit glass, grey dust sheets hanging inside, no lamps lit; keep the building's shape, roofs, walls, colours, the sky, the grounds, the composition and the framing exactly identical, make only these changes",
+   "spec": {
+    "canvas_size": [
+     1000,
+     700
+    ],
+    "style": "painted",
+    "background": {
+     "type": "keep"
+    },
+    "anchor": "center",
+    "alpha_threshold": 0,
+    "palette": null,
+    "margin": 0
+   }
+  },
+  "source_key": "hall_bl_src"
+ },
+ {
+  "key": "hall_bm_src",
+  "out": "assets/map/_raw/hall/tiles/bm_uploaded.png",
+  "cmd": "upload",
+  "args": {
+   "file": "assets/map/_raw/hall/tiles/bm.png",
+   "spec": {
+    "canvas_size": [
+     560,
+     620
+    ],
+    "style": "painted",
+    "background": {
+     "type": "keep"
+    },
+    "anchor": "center",
+    "alpha_threshold": 0,
+    "palette": null,
+    "margin": 0
+   }
+  },
+  "source_key": null
+ },
+ {
+  "key": "hall_bm_boarded",
+  "out": "assets/map/_raw/hall/tiles/bm_edit.png",
+  "cmd": "edit",
+  "args": {
+   "instruction": "board up this part of the building: nail weathered wooden planks across every window and door, dark unlit glass, grey dust sheets hanging inside, no lamps lit; keep the building's shape, roofs, walls, colours, the sky, the grounds, the composition and the framing exactly identical, make only these changes",
+   "spec": {
+    "canvas_size": [
+     560,
+     620
+    ],
+    "style": "painted",
+    "background": {
+     "type": "keep"
+    },
+    "anchor": "center",
+    "alpha_threshold": 0,
+    "palette": null,
+    "margin": 0
+   }
+  },
+  "source_key": "hall_bm_src"
+ },
+ {
+  "key": "hall_br_src",
+  "out": "assets/map/_raw/hall/tiles/br_uploaded.png",
+  "cmd": "upload",
+  "args": {
+   "file": "assets/map/_raw/hall/tiles/br.png",
+   "spec": {
+    "canvas_size": [
+     1000,
+     700
+    ],
+    "style": "painted",
+    "background": {
+     "type": "keep"
+    },
+    "anchor": "center",
+    "alpha_threshold": 0,
+    "palette": null,
+    "margin": 0
+   }
+  },
+  "source_key": null
+ },
+ {
+  "key": "hall_br_boarded",
+  "out": "assets/map/_raw/hall/tiles/br_edit.png",
+  "cmd": "edit",
+  "args": {
+   "instruction": "board up this part of the building: nail weathered wooden planks across every window and door, dark unlit glass, grey dust sheets hanging inside, no lamps lit; keep the building's shape, roofs, walls, colours, the sky, the grounds, the composition and the framing exactly identical, make only these changes",
+   "spec": {
+    "canvas_size": [
+     1000,
+     700
+    ],
+    "style": "painted",
+    "background": {
+     "type": "keep"
+    },
+    "anchor": "center",
+    "alpha_threshold": 0,
+    "palette": null,
+    "margin": 0
+   }
+  },
+  "source_key": "hall_br_src"
+ }
+]

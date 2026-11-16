@@ -1,0 +1,19 @@
+{
+ "name": "wingl",
+ "rect": [
+  60,
+  560,
+  780,
+  540
+ ],
+ "size": [
+  780,
+  540
+ ],
+ "kind": "boarded",
+ "instr": "wing",
+ "areas": [
+  25,
+  21
+ ]
+}

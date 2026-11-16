@@ -1,0 +1,117 @@
+[
+ {
+  "key": "hall_fl_src",
+  "out": "assets/map/_raw/hall/tiles/fl_uploaded.png",
+  "cmd": "upload",
+  "args": {
+   "file": "assets/map/_raw/hall/tiles/fl.png",
+   "spec": {
+    "canvas_size": [
+     930,
+     890
+    ],
+    "style": "painted",
+    "background": {
+     "type": "keep"
+    },
+    "anchor": "center",
+    "alpha_threshold": 0,
+    "palette": null,
+    "margin": 0
+   }
+  },
+  "source_key": null
+ },
+ {
+  "key": "hall_fl_boarded",
+  "out": "assets/map/_raw/hall/tiles/fl_edit.png",
+  "cmd": "edit",
+  "args": {
+   "instruction": "board up this part of the building: nail weathered wooden planks across every window and door, dark unlit glass, grey dust sheets hanging inside, no lamps lit; keep the building's shape, roofs, walls, colours, the sky, the grounds, the composition and the framing exactly identical, make only these changes",
+   "spec": {
+    "canvas_size": [
+     930,
+     890
+    ],
+    "style": "painted",
+    "background": {
+     "type": "keep"
+    },
+    "anchor": "center",
+    "alpha_threshold": 0,
+    "palette": null,
+    "margin": 0
+   }
+  },
+  "source_key": "hall_fl_src"
+ },
+ {
+  "key": "hall_s18_src",
+  "out": "assets/map/_raw/hall/tiles/s18_uploaded.png",
+  "cmd": "upload",
+  "args": {
+   "file": "assets/map/_raw/hall/tiles/s18.png",
+   "spec": {
+    "canvas_size": [
+     421,
+     494
+    ],
+    "style": "painted",
+    "background": {
+     "type": "keep"
+    },
+    "anchor": "center",
+    "alpha_threshold": 0,
+    "palette": null,
+    "margin": 0
+   }
+  },
+  "source_key": null
+ },
+ {
+  "key": "hall_s18_empty",
+  "out": "assets/map/_raw/hall/tiles/s18_edit.png",
+  "cmd": "edit",
+  "args": {
+   "instruction": "remove the building in the middle of the picture completely and leave its plot as empty mown lawn with the same grass as around it; keep everything else, the paths, trees, hedges, the composition and the framing exactly identical",
+   "spec": {
+    "canvas_size": [
+     421,
+     494
+    ],
+    "style": "painted",
+    "background": {
+     "type": "keep"
+    },
+    "anchor": "center",
+    "alpha_threshold": 0,
+    "palette": null,
+    "margin": 0
+   }
+  },
+  "source_key": "hall_s18_src"
+ },
+ {
+  "key": "hall_s18_settle",
+  "out": "assets/map/_raw/hall/tiles/s18_settle.png",
+  "cmd": "edit",
+  "args": {
+   "instruction": "blend the building in the middle into the surrounding lawn so the whole picture is one coherent painting: matching soft evening light and colour, a soft contact shadow where it meets the grass, its base settled naturally into the lawn; make only subtle changes, do not move, redraw or re-frame anything, keep its shape, position and size identical",
+   "spec": {
+    "canvas_size": [
+     421,
+     494
+    ],
+    "style": "painted",
+    "background": {
+     "type": "keep"
+    },
+    "anchor": "center",
+    "alpha_threshold": 0,
+    "palette": null,
+    "margin": 0
+   }
+  },
+  "source_key": "hall_s18_src"
+ }
+]

@@ -1,0 +1,370 @@
+[
+ {
+  "key": "hall_s07_src",
+  "out": "assets/map/_raw/hall/tiles/s07_uploaded.png",
+  "cmd": "upload",
+  "args": {
+   "file": "assets/map/_raw/hall/tiles/s07.png",
+   "spec": {
+    "canvas_size": [
+     572,
+     650
+    ],
+    "style": "painted",
+    "background": {
+     "type": "keep"
+    },
+    "anchor": "center",
+    "alpha_threshold": 0,
+    "palette": null,
+    "margin": 0
+   }
+  },
+  "source_key": null
+ },
+ {
+  "key": "hall_s07_empty",
+  "out": "assets/map/_raw/hall/tiles/s07_edit.png",
+  "cmd": "edit",
+  "args": {
+   "instruction": "erase the structure in the middle completely, together with its base, platform, paving and the flowers around it, so only plain grass remains where it stood: the same sunlit grass with the same soft light rays as the lawn around it; do not add hedges, paths, flower beds or anything else; keep everything else exactly identical and the framing unchanged",
+   "spec": {
+    "canvas_size": [
+     572,
+     650
+    ],
+    "style": "painted",
+    "background": {
+     "type": "keep"
+    },
+    "anchor": "center",
+    "alpha_threshold": 0,
+    "palette": null,
+    "margin": 0
+   }
+  },
+  "source_key": "hall_s07_src"
+ },
+ {
+  "key": "hall_s08_src",
+  "out": "assets/map/_raw/hall/tiles/s08_uploaded.png",
+  "cmd": "upload",
+  "args": {
+   "file": "assets/map/_raw/hall/tiles/s08.png",
+   "spec": {
+    "canvas_size": [
+     532,
+     558
+    ],
+    "style": "painted",
+    "background": {
+     "type": "keep"
+    },
+    "anchor": "center",
+    "alpha_threshold": 0,
+    "palette": null,
+    "margin": 0
+   }
+  },
+  "source_key": null
+ },
+ {
+  "key": "hall_s08_empty",
+  "out": "assets/map/_raw/hall/tiles/s08_edit.png",
+  "cmd": "edit",
+  "args": {
+   "instruction": "erase the structure in the middle completely, together with its base, platform, paving and the flowers around it, so only plain grass remains where it stood: the same sunlit grass with the same soft light rays as the lawn around it; do not add hedges, paths, flower beds or anything else; keep everything else exactly identical and the framing unchanged",
+   "spec": {
+    "canvas_size": [
+     532,
+     558
+    ],
+    "style": "painted",
+    "background": {
+     "type": "keep"
+    },
+    "anchor": "center",
+    "alpha_threshold": 0,
+    "palette": null,
+    "margin": 0
+   }
+  },
+  "source_key": "hall_s08_src"
+ },
+ {
+  "key": "hall_s34_src",
+  "out": "assets/map/_raw/hall/tiles/s34_uploaded.png",
+  "cmd": "upload",
+  "args": {
+   "file": "assets/map/_raw/hall/tiles/s34.png",
+   "spec": {
+    "canvas_size": [
+     513,
+     806
+    ],
+    "style": "painted",
+    "background": {
+     "type": "keep"
+    },
+    "anchor": "center",
+    "alpha_threshold": 0,
+    "palette": null,
+    "margin": 0
+   }
+  },
+  "source_key": null
+ },
+ {
+  "key": "hall_s34_empty",
+  "out": "assets/map/_raw/hall/tiles/s34_edit.png",
+  "cmd": "edit",
+  "args": {
+   "instruction": "erase the structure in the middle completely, together with its base, platform, paving and the flowers around it, so only plain grass remains where it stood: the same sunlit grass with the same soft light rays as the lawn around it; do not add hedges, paths, flower beds or anything else; keep everything else exactly identical and the framing unchanged",
+   "spec": {
+    "canvas_size": [
+     513,
+     806
+    ],
+    "style": "painted",
+    "background": {
+     "type": "keep"
+    },
+    "anchor": "center",
+    "alpha_threshold": 0,
+    "palette": null,
+    "margin": 0
+   }
+  },
+  "source_key": "hall_s34_src"
+ },
+ {
+  "key": "hall_s35_src",
+  "out": "assets/map/_raw/hall/tiles/s35_uploaded.png",
+  "cmd": "upload",
+  "args": {
+   "file": "assets/map/_raw/hall/tiles/s35.png",
+   "spec": {
+    "canvas_size": [
+     572,
+     546
+    ],
+    "style": "painted",
+    "background": {
+     "type": "keep"
+    },
+    "anchor": "center",
+    "alpha_threshold": 0,
+    "palette": null,
+    "margin": 0
+   }
+  },
+  "source_key": null
+ },
+ {
+  "key": "hall_s35_empty",
+  "out": "assets/map/_raw/hall/tiles/s35_edit.png",
+  "cmd": "edit",
+  "args": {
+   "instruction": "erase the structure in the middle completely, together with its base, platform, paving and the flowers around it, so only plain grass remains where it stood: the same sunlit grass with the same soft light rays as the lawn around it; do not add hedges, paths, flower beds or anything else; keep everything else exactly identical and the framing unchanged",
+   "spec": {
+    "canvas_size": [
+     572,
+     546
+    ],
+    "style": "painted",
+    "background": {
+     "type": "keep"
+    },
+    "anchor": "center",
+    "alpha_threshold": 0,
+    "palette": null,
+    "margin": 0
+   }
+  },
+  "source_key": "hall_s35_src"
+ },
+ {
+  "key": "hall_s36_src",
+  "out": "assets/map/_raw/hall/tiles/s36_uploaded.png",
+  "cmd": "upload",
+  "args": {
+   "file": "assets/map/_raw/hall/tiles/s36.png",
+   "spec": {
+    "canvas_size": [
+     582,
+     520
+    ],
+    "style": "painted",
+    "background": {
+     "type": "keep"
+    },
+    "anchor": "center",
+    "alpha_threshold": 0,
+    "palette": null,
+    "margin": 0
+   }
+  },
+  "source_key": null
+ },
+ {
+  "key": "hall_s36_empty",
+  "out": "assets/map/_raw/hall/tiles/s36_edit.png",
+  "cmd": "edit",
+  "args": {
+   "instruction": "erase the structure in the middle completely, together with its base, platform, paving and the flowers around it, so only plain grass remains where it stood: the same sunlit grass with the same soft light rays as the lawn around it; do not add hedges, paths, flower beds or anything else; keep everything else exactly identical and the framing unchanged",
+   "spec": {
+    "canvas_size": [
+     582,
+     520
+    ],
+    "style": "painted",
+    "background": {
+     "type": "keep"
+    },
+    "anchor": "center",
+    "alpha_threshold": 0,
+    "palette": null,
+    "margin": 0
+   }
+  },
+  "source_key": "hall_s36_src"
+ },
+ {
+  "key": "hall_s38_src",
+  "out": "assets/map/_raw/hall/tiles/s38_uploaded.png",
+  "cmd": "upload",
+  "args": {
+   "file": "assets/map/_raw/hall/tiles/s38.png",
+   "spec": {
+    "canvas_size": [
+     550,
+     428
+    ],
+    "style": "painted",
+    "background": {
+     "type": "keep"
+    },
+    "anchor": "center",
+    "alpha_threshold": 0,
+    "palette": null,
+    "margin": 0
+   }
+  },
+  "source_key": null
+ },
+ {
+  "key": "hall_s38_empty",
+  "out": "assets/map/_raw/hall/tiles/s38_edit.png",
+  "cmd": "edit",
+  "args": {
+   "instruction": "erase the structure in the middle completely, together with its base, platform, paving and the flowers around it, so only plain grass remains where it stood: the same sunlit grass with the same soft light rays as the lawn around it; do not add hedges, paths, flower beds or anything else; keep everything else exactly identical and the framing unchanged",
+   "spec": {
+    "canvas_size": [
+     550,
+     428
+    ],
+    "style": "painted",
+    "background": {
+     "type": "keep"
+    },
+    "anchor": "center",
+    "alpha_threshold": 0,
+    "palette": null,
+    "margin": 0
+   }
+  },
+  "source_key": "hall_s38_src"
+ },
+ {
+  "key": "hall_s39_src",
+  "out": "assets/map/_raw/hall/tiles/s39_uploaded.png",
+  "cmd": "upload",
+  "args": {
+   "file": "assets/map/_raw/hall/tiles/s39.png",
+   "spec": {
+    "canvas_size": [
+     424,
+     494
+    ],
+    "style": "painted",
+    "background": {
+     "type": "keep"
+    },
+    "anchor": "center",
+    "alpha_threshold": 0,
+    "palette": null,
+    "margin": 0
+   }
+  },
+  "source_key": null
+ },
+ {
+  "key": "hall_s39_empty",
+  "out": "assets/map/_raw/hall/tiles/s39_edit.png",
+  "cmd": "edit",
+  "args": {
+   "instruction": "erase the structure in the middle completely, together with its base, platform, paving and the flowers around it, so only plain grass remains where it stood: the same sunlit grass with the same soft light rays as the lawn around it; do not add hedges, paths, flower beds or anything else; keep everything else exactly identical and the framing unchanged",
+   "spec": {
+    "canvas_size": [
+     424,
+     494
+    ],
+    "style": "painted",
+    "background": {
+     "type": "keep"
+    },
+    "anchor": "center",
+    "alpha_threshold": 0,
+    "palette": null,
+    "margin": 0
+   }
+  },
+  "source_key": "hall_s39_src"
+ },
+ {
+  "key": "hall_s46_src",
+  "out": "assets/map/_raw/hall/tiles/s46_uploaded.png",
+  "cmd": "upload",
+  "args": {
+   "file": "assets/map/_raw/hall/tiles/s46.png",
+   "spec": {
+    "canvas_size": [
+     312,
+     610
+    ],
+    "style": "painted",
+    "background": {
+     "type": "keep"
+    },
+    "anchor": "center",
+    "alpha_threshold": 0,
+    "palette": null,
+    "margin": 0
+   }
+  },
+  "source_key": null
+ },
+ {
+  "key": "hall_s46_empty",
+  "out": "assets/map/_raw/hall/tiles/s46_edit.png",
+  "cmd": "edit",
+  "args": {
+   "instruction": "erase the structure in the middle completely, together with its base, platform, paving and the flowers around it, so only plain grass remains where it stood: the same sunlit grass with the same soft light rays as the lawn around it; do not add hedges, paths, flower beds or anything else; keep everything else exactly identical and the framing unchanged",
+   "spec": {
+    "canvas_size": [
+     312,
+     610
+    ],
+    "style": "painted",
+    "background": {
+     "type": "keep"
+    },
+    "anchor": "center",
+    "alpha_threshold": 0,
+    "palette": null,
+    "margin": 0
+   }
+  },
+  "source_key": "hall_s46_src"
+ }
+]
