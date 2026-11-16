@@ -2,12 +2,17 @@
 """Lay one wing's elements out on its room floor (pos + size in the elements config).
 
 usage: place_elements.py AREA --floor X0,Y0,X1,Y1 [--write] [--preview out.png]
-                         [--max-size 330] [--gap 16]
+                         [--max-size 330] [--gap 16] [--wall Y] [--min-px 150]
+                         [--hang ID,ID --hang-band Y0,Y1]
 
 Each element's visible box is measured from the union of its look sprites. All
 elements share one scale factor (stars 1.4x), found by binary search so that
 shelf-packed rows fill the floor without overlapping. The star (the element
 carrying a `beat`, last of the wing) sits at the centre of the middle row.
+`--wall` is the far-wall line: the back row's bases must sit on the floor below
+it (its tops may rise above the floor rect, against the wall). When a short side
+would drop below `--min-px`, the gap shrinks first. `--hang` items (chandeliers,
+lamps on chains) form one row hanging from the top of `--hang-band`.
 `pos` is the bottom-centre of the sprite and `size` its square side, as in
 view/element_sprite.gd. Only pos and size are written.
 """
@@ -84,12 +89,16 @@ def heights(rows, gap):
     return sum(max(t[3] for t in r) for r in rows) + gap * max(0, len(rows) - 1)
 
 
-def layout(els, floor, max_size, gap):
+def layout(els, floor, max_size, gap, wall=None, boxes=None, star="auto"):
+    """Rows for the floor elements. `wall`: the far-wall line; the first (back)
+    row's base must sit at or below it, so its sprites may rise above y0
+    against the wall while standing on the floor."""
     x0, y0, x1, y1 = floor
     fh = y1 - y0
-    boxes = {e["id"]: visible_box(e) for e in els}
-    star = [e for e in els if e.get("beat") and e is els[-1]]
-    star = star[0] if star else None
+    boxes = boxes or {e["id"]: visible_box(e) for e in els}
+    if star == "auto":
+        star = [e for e in els if e.get("beat") and e is els[-1]]
+        star = star[0] if star else None
     lo, hi = 40.0, float(max_size)
     best = None
     for _ in range(18):
@@ -105,19 +114,27 @@ def layout(els, floor, max_size, gap):
             else:
                 items.append(t)
         rows = pack(items, st, s, floor, gap)
-        if rows is not None and heights(rows, gap) <= fh:
+        if rows is not None and heights(rows, gap) + back_drop(rows, floor, wall) <= fh:
             best, lo = rows, s
         else:
             hi = s
     return best
 
 
-def assign(rows, floor, gap):
+def back_drop(rows, floor, wall):
+    """How far the back row must sit below y0 + its height to stand below `wall`."""
+    if wall is None or not rows:
+        return 0.0
+    return max(0.0, wall - (floor[1] + max(t[3] for t in rows[0])))
+
+
+def assign(rows, floor, gap, wall=None):
     x0, y0, x1, y1 = floor
     fh = y1 - y0
-    used = sum(max(t[3] for t in r) for r in rows)
+    drop = back_drop(rows, floor, wall)
+    used = sum(max(t[3] for t in r) for r in rows) + drop
     extra = (fh - used) / max(1, len(rows) + 1)      # spread leftover floor
-    y = y0 + extra
+    y = y0 + drop + extra
     out = {}
     for r in rows:
         rh = max(t[3] for t in r)
@@ -129,6 +146,69 @@ def assign(rows, floor, gap):
             out[t[0]["id"]] = (round(x + t[2] / 2 + 0.0), round(base), round(t[1]))
             x += t[2] + space
         y = base + extra
+    return out
+
+
+def min_side(rows):
+    """Shortest visible side (px) over every placed element."""
+    return min(min(t[2], t[3]) for r in rows for t in r) if rows else 0
+
+
+def place(els, floor, max_size, gap, wall=None, hang=(), hang_band=None, min_px=0):
+    """{id: (cx, base_y, size)} for one wing.
+
+    Hanging ids are laid out in one row in hang_band (y0, y1) high in the room,
+    each hanging from y0; the star is centred there if it hangs. Floor elements
+    are shelf-packed; when their shortest visible side falls below min_px the
+    gap is shrunk (gap, gap/2, 4, 0) before accepting the smaller size."""
+    boxes = {e["id"]: visible_box(e) for e in els}
+    last = els[-1] if els else None
+    star = last if last is not None and last.get("beat") else None
+    floor_els = [e for e in els if e["id"] not in hang]
+    hung = [e for e in els if e["id"] in hang]
+    fstar = star if star in floor_els else None
+    best = None
+    for g in sorted({gap, gap / 2.0, min(gap, 4.0), 0.0}, reverse=True):
+        rows = layout(floor_els, floor, max_size, g, wall, boxes, fstar)
+        if rows is None:
+            continue
+        if best is None or min_side(rows) > min_side(best[0]):
+            best = (rows, g)
+        if min_side(rows) >= min_px:
+            best = (rows, g)
+            break
+    if best is None:
+        return None
+    rows, g = best
+    out = assign(rows, floor, g, wall)
+    if hung:
+        hy0, hy1 = hang_band
+        size = max(t[1] for r in rows for t in r if t[0] is not fstar)
+        x0, x1 = floor[0], floor[2]
+        others = [e for e in hung if e is not star]
+        order = others[:len(others) // 2] + ([star] if star in hung else []) + others[len(others) // 2:]
+        sizes = []
+        for e in order:
+            sz = size * (STAR_BOOST if e is star else 1.0)
+            bw, bh = boxes[e["id"]]
+            sz = min(sz, (hy1 - hy0) * CANVAS / bh, (x1 - x0) / len(order) * CANVAS / bw)
+            sizes.append((e, sz, bw * sz / CANVAS, bh * sz / CANVAS))
+
+        def spread(ts, a, b):
+            space = (b - a - sum(t[2] for t in ts)) / (len(ts) + 1)
+            x = a + space
+            for e, sz, vw, vh in ts:
+                out[e["id"]] = (round(x + vw / 2), round(hy0 + vh), round(sz))
+                x += vw + space
+        if star in hung:
+            k = order.index(star)
+            st = sizes[k]
+            cx = (x0 + x1) / 2.0
+            out[star["id"]] = (round(cx), round(hy0 + st[3]), round(st[1]))
+            spread(sizes[:k], x0, cx - st[2] / 2)
+            spread(sizes[k + 1:], cx + st[2] / 2, x1)
+        else:
+            spread(sizes, x0, x1)
     return out
 
 
@@ -151,19 +231,36 @@ def main(argv=None):
     ap.add_argument("--floor", required=True, help="x0,y0,x1,y1 of the open floor")
     ap.add_argument("--max-size", type=float, default=330)
     ap.add_argument("--gap", type=float, default=16)
+    ap.add_argument("--wall", type=float, help="far-wall line: back-row bases sit below it")
+    ap.add_argument("--hang", default="", help="comma-separated ids that hang high in the room")
+    ap.add_argument("--hang-band", default="", help="y0,y1 of the band hanging items fill")
+    ap.add_argument("--min-px", type=float, default=150,
+                    help="shrink the gap before letting a short side drop below this")
     ap.add_argument("--write", action="store_true")
     ap.add_argument("--preview")
     a = ap.parse_args(argv)
     floor = [float(v) for v in a.floor.split(",")]
     allel = C.elements()
     els = [e for e in allel if e["area"] == a.area]
-    rows = layout(els, floor, a.max_size, a.gap)
-    if rows is None:
+    hang = {h.strip() for h in a.hang.split(",") if h.strip()}
+    band = [float(v) for v in a.hang_band.split(",")] if a.hang_band else None
+    if hang and not band:
+        print("--hang needs --hang-band", file=sys.stderr)
+        return 2
+    placed = place(els, floor, a.max_size, a.gap, a.wall, hang, band, a.min_px)
+    if placed is None:
         print("does not fit", file=sys.stderr)
         return 1
-    placed = assign(rows, floor, a.gap)
+    boxes = {e["id"]: visible_box(e) for e in els}
+    small = 1e9
     for e in els:
-        print(e["id"], placed[e["id"]], "star" if e.get("beat") else "")
+        cx, by, size = placed[e["id"]]
+        bw, bh = boxes[e["id"]]
+        side = min(bw, bh) * size / CANVAS
+        small = min(small, side)
+        print(e["id"], placed[e["id"]], "short=%d" % side,
+              "star" if e is els[-1] and e.get("beat") else "", "hang" if e["id"] in hang else "")
+    print("smallest short side %d px" % small)
     if a.preview:
         preview(els, placed, os.path.join(C.ROOT, C.scene_path(a.area, 0)), a.preview)
     if a.write:

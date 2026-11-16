@@ -424,6 +424,19 @@ class BatchTests(unittest.TestCase):
         code, data = B.run([sys.executable, "-c", script], 30, got.append)
         self.assertEqual((code, data["id"], got), (0, "0a1b2c3d-4e5f", ["0a1b2c3d-4e5f"]))
 
+    def test_unavailable_after_submit_waits_on_own_job(self):
+        calls = []
+        res = [(6, {"error": {"kind": "unavailable", "message": "could not download"}}),
+               (0, {"id": "JD"})]
+
+        def runner(argv, timeout, on_job=None):
+            calls.append(argv[:3])
+            if argv[1] == "generate":
+                on_job("JD")
+            return res.pop(0)
+        jid = B.run_entry(entry("a"), {}, runner, self.sleeps.append)
+        self.assertEqual((jid, calls[1], len(self.sleeps)), ("JD", ["sectilia", "wait", "JD"], 1))
+
     def test_job_id_in(self):
         self.assertEqual(B.job_id_in("job 9e588940-3f8a queued (0m03s)\n"), "9e588940-3f8a")
         self.assertIsNone(B.job_id_in("waiting for earlier job 9e588940-3f8a to finish"))
@@ -574,6 +587,35 @@ class PlaceElementsTests(unittest.TestCase):
                 self.assertFalse(a[0] < b[2] and b[0] < a[2] and a[1] < b[3] and b[1] < a[3])
         star = placed[els[-1]["id"]]
         self.assertAlmostEqual(star[0], 360, delta=40)
+
+    def test_wall_keeps_back_row_bases_on_floor(self):
+        floor = (40.0, 300.0, 680.0, 1240.0)
+        els = self.els(14)
+        rows = PE.layout(els, floor, 330, 16, wall=520.0)
+        placed = PE.assign(rows, floor, 16, wall=520.0)
+        self.assertGreaterEqual(min(p[1] for p in placed.values()), 520 - 1)
+
+    def test_hanging_items_go_high_and_star_centred(self):
+        floor = (40.0, 500.0, 680.0, 1240.0)
+        els = self.els(10)
+        hang = {els[2]["id"], els[-1]["id"]}
+        placed = PE.place(els, floor, 330, 16, None, hang, (60.0, 400.0), 0)
+        for h in hang:
+            cx, by, size = placed[h]
+            self.assertLessEqual(by, 400 + 1)
+            self.assertGreaterEqual(by - 200.0 * size / 384, 60 - 1)
+        self.assertAlmostEqual(placed[els[-1]["id"]][0], 360, delta=60)
+        for e in els:
+            if e["id"] not in hang:
+                self.assertGreaterEqual(placed[e["id"]][1], 500)
+
+    def test_min_px_shrinks_gap_first(self):
+        floor = (0.0, 0.0, 640.0, 640.0)
+        els = self.els(16)
+        wide = PE.layout(els, floor, 330, 40)
+        placed = PE.place(els, floor, 330, 40, min_px=PE.min_side(wide) + 5)
+        sizes = {p[2] for p in placed.values()}
+        self.assertGreater(min(sizes) * 200.0 / 384, PE.min_side(wide))
 
     def test_too_many_for_floor_still_shrinks_to_fit(self):
         rows = PE.layout(self.els(30), (0.0, 0.0, 300.0, 300.0), 330, 8)

@@ -43,6 +43,7 @@ MAX_PARALLEL = 3          # sectilia's per-machine job slots = default per-user 
 MAX_QUEUE_RETRIES = 10    # exit 7 with submitted:false -> wait, rerun same command
 MAX_WAIT_ROUNDS = 6       # exit 7 with submitted:true -> sectilia wait again
 QUEUE_SLEEP = 60
+MAX_UNAVAILABLE_WAITS = 2   # exit 6 on a job we already submitted -> wait on it again
 JOB_LINE = re.compile(r"^job ([0-9a-fA-F][0-9a-fA-F-]{7,}) ")
 
 
@@ -208,6 +209,7 @@ def run_entry(e, jobs, runner=run, sleep=time.sleep, job_id=None, on_pending=Non
     os.makedirs(os.path.dirname(os.path.join(C.ROOT, out)), exist_ok=True)
     queue_tries = 0
     wait_rounds = 0
+    unavailable_waits = 0
     note = on_pending or (lambda jid: None)
     mine = [job_id]
 
@@ -234,6 +236,12 @@ def run_entry(e, jobs, runner=run, sleep=time.sleep, job_id=None, on_pending=Non
         detail = err.get("detail") if isinstance(err.get("detail"), dict) else {}
         if code == 0:
             return data.get("id") or data.get("job_id") or mine[0]
+        if code == 6 and mine[0] and unavailable_waits < MAX_UNAVAILABLE_WAITS:
+            # Our job exists (often finished: "could not download the image");
+            # a short pause and one `sectilia wait` usually collects it.
+            unavailable_waits += 1
+            sleep(QUEUE_SLEEP)
+            continue
         if code in (3, 6):
             why = ("not logged in: ask the user to run `sectilia login`" if code == 3
                    else "service unavailable (not retrying in a loop)")
