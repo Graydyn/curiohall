@@ -2844,7 +2844,7 @@
    {
     "speaker": "anjali",
     "expr": "happy",
-    "text": "Like a good soufflé, depends on the cook and the hour."
+    "text": "Like a good souffl\u00e9, depends on the cook and the hour."
    },
    {
     "speaker": "cornelia",
@@ -6285,7 +6285,7 @@
    {
     "speaker": "anjali",
     "expr": "neutral",
-    "text": "That, Barnaby, is a béchamel. It is a very different thing."
+    "text": "That, Barnaby, is a b\u00e9chamel. It is a very different thing."
    }
   ]
  },
@@ -10468,10 +10468,12 @@
   "trigger": "area_opened:3",
   "panels": [
    {
-    "caption": "Behind the Atrium, a narrow vestibule smells of wet umbrellas and old wool. Hooks line the walls, and a barometer on the far panel has been stuck at Stormy since before anyone can remember."
+    "caption": "Behind the Atrium, a narrow vestibule smells of wet umbrellas and old wool. Hooks line the walls, and a barometer on the far panel has been stuck at Stormy since before anyone can remember.",
+    "subject": "a narrow Victorian museum vestibule smelling of damp wool: long rows of empty brass coat hooks along teal panelled walls, a few wet umbrellas dripping by the door, a round brass barometer on the far panel, warm gaslight, dusty and quiet, nobody in the room"
    },
    {
-    "caption": "Every cloakroom in the world has a secret, and this one has a hamper of hats nobody ever came back for."
+    "caption": "Every cloakroom in the world has a secret, and this one has a hamper of hats nobody ever came back for.",
+    "subject": "inside a cloakroom, Cornelia Wren, an elderly formidable lady curator with silver-grey hair in a bun and a dark teal high-collared dress, and Barnaby Pluck, a cheerful clean-shaven young porter in a green waistcoat with rolled sleeves, lift the lid of a big wicker hamper overflowing with forgotten hats, gloves and scarves; teal panelled walls, brass coat hooks, warm gaslight"
    }
   ],
   "cast": [
@@ -10485,10 +10487,12 @@
   "trigger": "area_opened:4",
   "panels": [
    {
-    "caption": "The Curator's Office sits at the top of a short flight of stairs, its door painted the green of old brass. Inside, a desk the size of a small boat faces a window that looks out over the entire Hall."
+    "caption": "The Curator's Office sits at the top of a short flight of stairs, its door painted the green of old brass. Inside, a desk the size of a small boat faces a window that looks out over the entire Hall.",
+    "subject": "a Victorian curator's study at dusk seen from the door: a brass-green painted door standing open, an enormous mahogany partners' desk like a small boat facing a tall window that looks out over the rooftops of a great museum, warm lamplight, nobody in the room"
    },
    {
-    "caption": "One drawer of the desk sticks fast, and no one has dared to force it in twenty years."
+    "caption": "One drawer of the desk sticks fast, and no one has dared to force it in twenty years.",
+    "subject": "close view of a big mahogany desk with one drawer shut tight, Cornelia Wren, an elderly formidable lady curator with silver-grey hair in a bun and a dark teal high-collared dress, studying it with arms folded while Professor Aldous Finch, a thin absent-minded elderly ornithologist in a rumpled tweed coat with binoculars round his neck, peers over her shoulder holding a field notebook; warm lamplight, walnut panelling"
    }
   ],
   "cast": [
@@ -10502,10 +10506,12 @@
   "trigger": "area_opened:5",
   "panels": [
    {
-    "caption": "The Tea Room doors swing wide, and a smell of lemon, cardamom, and long-cold ashes drifts out. Every table is laid for four, as if the guests had only stepped out for a moment."
+    "caption": "The Tea Room doors swing wide, and a smell of lemon, cardamom, and long-cold ashes drifts out. Every table is laid for four, as if the guests had only stepped out for a moment.",
+    "subject": "the doors of a Victorian tea room swing open on tables laid for four with white cloths, china cups and silver, an old samovar and cold ash in a hearth, lace-curtained windows at dusk, dust motes in warm light, nobody there"
    },
    {
-    "caption": "The Society runs on tea, as everyone knows. Without it, nothing in the Hall has quite the right temperature."
+    "caption": "The Society runs on tea, as everyone knows. Without it, nothing in the Hall has quite the right temperature.",
+    "subject": "Cornelia Wren, an elderly formidable lady curator with silver-grey hair in a bun and a dark teal high-collared dress, and Barnaby Pluck, a cheerful clean-shaven young porter in a green waistcoat with rolled sleeves, stand in a Victorian tea room at a long table laid with a tea set; he holds up a teapot hopefully, she regards the room sternly; warm gaslight, cream and teal walls"
    }
   ],
   "cast": [
@@ -10519,10 +10525,12 @@
   "trigger": "area_opened:6",
   "panels": [
    {
-    "caption": "The Hall of Feathers is a tall room full of whispering wings. Cases of sparrows, parrots, and a very surprised owl line the walls, and a great skylight pours down a column of pale gold."
+    "caption": "The Hall of Feathers is a tall room full of whispering wings. Cases of sparrows, parrots, and a very surprised owl line the walls, and a great skylight pours down a column of pale gold.",
+    "subject": "a tall Victorian bird gallery with glass cases of sparrows, parrots and one startled-looking owl lining the walls, a great skylight pouring a column of pale gold light down the middle, grey feathers drifting in the air, nobody in the room"
    },
    {
-    "caption": "Somewhere in the rafters, something rustles that is not a mouse."
+    "caption": "Somewhere in the rafters, something rustles that is not a mouse.",
+    "subject": "Cornelia Wren, an elderly formidable lady curator with silver-grey hair in a bun and a dark teal high-collared dress, and Professor Aldous Finch, a thin absent-minded elderly ornithologist in a rumpled tweed coat with binoculars round his neck, look up into the dark rafters of a tall bird gallery where something feathered rustles; a column of gold skylight, glass cases of stuffed birds, drifting feathers"
    }
   ],
   "cast": [
@@ -10536,10 +10544,12 @@
   "trigger": "area_opened:7",
   "panels": [
    {
-    "caption": "The Butterfly House is built of glass and cast iron, and when the door opens a warm breath of damp earth and flowers rolls out. Pins gleam in the dark like a thousand small stars."
+    "caption": "The Butterfly House is built of glass and cast iron, and when the door opens a warm breath of damp earth and flowers rolls out. Pins gleam in the dark like a thousand small stars.",
+    "subject": "a Victorian butterfly house of glass and cast iron opening in the dusk, a warm breath of green foliage and damp earth, thousands of pinned butterflies gleaming like small stars in dark cases, soft lantern light, nobody in the room"
    },
    {
-    "caption": "No living butterfly has flown here in twenty years. Barnaby swears one landed on his hat."
+    "caption": "No living butterfly has flown here in twenty years. Barnaby swears one landed on his hat.",
+    "subject": "Cornelia Wren, an elderly formidable lady curator with silver-grey hair in a bun and a dark teal high-collared dress, and Professor Aldous Finch, a thin absent-minded elderly ornithologist in a rumpled tweed coat with binoculars round his neck, stand inside a Victorian glasshouse full of ferns and pinned butterfly cases; one blue butterfly rests on the professor's hat and he is trying not to move; warm humid light"
    }
   ],
   "cast": [
@@ -10553,10 +10563,12 @@
   "trigger": "area_opened:8",
   "panels": [
    {
-    "caption": "The Conservatory has grown wild. Ferns have pushed through the floor tiles, gourds drape the arches, and a pitcher plant the size of a hat has taken the best chair."
+    "caption": "The Conservatory has grown wild. Ferns have pushed through the floor tiles, gourds drape the arches, and a pitcher plant the size of a hat has taken the best chair.",
+    "subject": "an overgrown Victorian conservatory: ferns pushed up through cracked floor tiles, striped gourds draped over iron arches, an enormous pitcher plant sitting on a wicker chair, glass dome above in evening light, nobody in the room"
    },
    {
-    "caption": "Someone has been misting the leaves. The droplets are fresh."
+    "caption": "Someone has been misting the leaves. The droplets are fresh.",
+    "subject": "Cornelia Wren, an elderly formidable lady curator with silver-grey hair in a bun and a dark teal high-collared dress, and Sam Vane, a suave man in his thirties in a well-cut dark frock coat, stand among the ferns of an overgrown conservatory, touching glistening misted leaves in surprise; iron arches, evening light"
    }
   ],
   "cast": [
@@ -10570,10 +10582,12 @@
   "trigger": "area_opened:9",
   "panels": [
    {
-    "caption": "Down a wide stone corridor, the Fossil Gallery opens like a ribcage. Pale bones rise into the shadows, and the floor is dusted with the grey powder of ancient stone."
+    "caption": "Down a wide stone corridor, the Fossil Gallery opens like a ribcage. Pale bones rise into the shadows, and the floor is dusted with the grey powder of ancient stone.",
+    "subject": "a wide stone corridor opening into a Victorian fossil gallery shaped like a giant ribcage: pale curved bones rising into shadow, the floor dusted with grey stone powder, cool blue light, nobody in the room"
    },
    {
-    "caption": "Aldous Finch says it is the quietest room in the Hall. Barnaby says that is exactly why he does not like it."
+    "caption": "Aldous Finch says it is the quietest room in the Hall. Barnaby says that is exactly why he does not like it.",
+    "subject": "Professor Aldous Finch, a thin absent-minded elderly ornithologist in a rumpled tweed coat with binoculars round his neck, and Barnaby Pluck, a cheerful clean-shaven young porter in a green waistcoat with rolled sleeves, walk uneasily through a hall of towering pale fossil bones, the young porter glancing nervously at the shadows while the professor smiles happily; grey dust on the floor"
    }
   ],
   "cast": [
@@ -10587,10 +10601,12 @@
   "trigger": "area_opened:10",
   "panels": [
    {
-    "caption": "The Mineral Vault is lined with iron shelves and velvet drawers, and the lamplight catches in a hundred hidden crystals. At the far end, a round steel door the size of a cartwheel stands closed."
+    "caption": "The Mineral Vault is lined with iron shelves and velvet drawers, and the lamplight catches in a hundred hidden crystals. At the far end, a round steel door the size of a cartwheel stands closed.",
+    "subject": "a Victorian mineral vault lined with iron shelves and velvet-lined drawers, lamplight catching in a hundred hidden crystals, and at the far end a round steel vault door the size of a cartwheel, closed, nobody in the room"
    },
    {
-    "caption": "Cornelia does not say what is behind it. She only says that the Society was very careful."
+    "caption": "Cornelia does not say what is behind it. She only says that the Society was very careful.",
+    "subject": "Cornelia Wren, an elderly formidable lady curator with silver-grey hair in a bun and a dark teal high-collared dress, stands before a huge round steel vault door with a spoked wheel handle, her hand resting on it gravely, while Barnaby Pluck, a cheerful clean-shaven young porter in a green waistcoat with rolled sleeves, waits behind her holding a lantern; dark vault, crystal glints"
    }
   ],
   "cast": [
@@ -11229,7 +11245,8 @@
   "trigger": "day:12",
   "panels": [
    {
-    "caption": "A reedy voice drifts down from the east rafters, along with a few feathers. Professor Aldous Finch, ornithologist and absent-minded guardian of the natural history wings, has been living up there with the swifts for twenty years, and has just noticed that someone has opened the doors."
+    "caption": "A reedy voice drifts down from the east rafters, along with a few feathers. Professor Aldous Finch, ornithologist and absent-minded guardian of the natural history wings, has been living up there with the swifts for twenty years, and has just noticed that someone has opened the doors.",
+    "subject": "Professor Aldous Finch, a thin absent-minded elderly ornithologist in a rumpled tweed coat with binoculars round his neck, leans out from the east rafters of a great Victorian museum hall among swifts and a few drifting feathers, peering down in surprise through his spectacles; warm evening light through high windows"
    }
   ],
   "cast": [
@@ -11242,7 +11259,8 @@
   "trigger": "day:20",
   "panels": [
    {
-    "caption": "A man in a very good coat is leaning in the doorway of the Hall of Feathers, as if he owned it. Sam Vane, collector, rival, and charming rogue of the Society, has heard about the restoration. He would like to see what has been done to the place. He would also like to see what is still lying about."
+    "caption": "A man in a very good coat is leaning in the doorway of the Hall of Feathers, as if he owned it. Sam Vane, collector, rival, and charming rogue of the Society, has heard about the restoration. He would like to see what has been done to the place. He would also like to see what is still lying about.",
+    "subject": "Sam Vane, a suave man in his thirties in a very good dark frock coat, leans in the open doorway of a Victorian bird gallery with a charming half smile, as if he owned the place, glancing at the cases of birds; warm evening light"
    }
   ],
   "cast": [
@@ -11255,7 +11273,8 @@
   "trigger": "day:30",
   "panels": [
    {
-    "caption": "Among the ferns of the Conservatory, a young man stands very still, holding a watering can. Mark Bloom has been tending the living collections in secret for twenty years, and he is not at all sure he is ready to be seen."
+    "caption": "Among the ferns of the Conservatory, a young man stands very still, holding a watering can. Mark Bloom has been tending the living collections in secret for twenty years, and he is not at all sure he is ready to be seen.",
+    "subject": "Mark Bloom, a shy young gardener in a canvas apron with soil on his hands, stands very still among tall ferns in an overgrown Victorian conservatory, holding a watering can and looking startled; green evening light"
    }
   ],
   "cast": [

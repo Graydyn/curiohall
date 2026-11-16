@@ -590,8 +590,8 @@
    "8_4"
   ],
   "pos": [
-   90,
-   320
+   237,
+   1240
   ],
   "subject": "a low cast-iron boot scraper shaped like a crouching hedgehog with a stiff bristle brush set into its back, caked with dried mud",
   "looks": [
@@ -608,7 +608,8 @@
     "instruction": "make the hedgehog glazed terracotta with a speckled green glaze and a wicker brush, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 162
  },
  {
   "id": "03_002",
@@ -621,8 +622,8 @@
    "8_7"
   ],
   "pos": [
-   270,
-   320
+   571,
+   921
   ],
   "subject": "a tall carved walnut hat stand with curling brass pegs, a single battered bowler hat and a dusty top hat hanging on it",
   "looks": [
@@ -639,7 +640,8 @@
     "instruction": "make the stand a rack of branching antlers on a dark oak post, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 162
  },
  {
   "id": "03_003",
@@ -652,8 +654,8 @@
    "8_10"
   ],
   "pos": [
-   450,
-   320
+   157,
+   689
   ],
   "subject": "a long dark-oak coat rail with brass hooks bearing a few moth-eaten tweed overcoats and a long knitted scarf",
   "looks": [
@@ -670,7 +672,8 @@
     "instruction": "replace the coats with plush velvet evening capes in burgundy and deep teal with fur collars, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": "beat_d008"
+  "beat": "beat_d008",
+  "size": 162
  },
  {
   "id": "03_004",
@@ -684,8 +687,8 @@
    "9_4"
   ],
   "pos": [
-   630,
-   320
+   577,
+   1089
   ],
   "subject": "a squat oak barrel bound with iron hoops, full of furled black umbrellas and walking sticks with carved handles",
   "looks": [
@@ -702,7 +705,8 @@
     "instruction": "make the barrel painted deep teal with gilt stripes and a rim of cream parasols, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 162
  },
  {
   "id": "03_005",
@@ -715,8 +719,8 @@
    "9_7"
   ],
   "pos": [
-   90,
-   580
+   308,
+   689
   ],
   "subject": "a small mahogany cloakroom counter with a brass hand bell, rows of blank brass tag hooks and a rubber stamp on a pad",
   "looks": [
@@ -730,10 +734,12 @@
    },
    {
     "name": "Pigeonhole bureau",
-    "instruction": "make the counter a tall pigeonhole bureau of pale ash with a roll-top front, keep the same object, framing, viewpoint and lighting"
+    "instruction": "make the counter a tall pigeonhole bureau of pale ash with a roll-top front, with a thin dark outline around every pale part, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 162,
+  "art_bg": "soft"
  },
  {
   "id": "03_006",
@@ -746,8 +752,8 @@
    "9_10"
   ],
   "pos": [
-   270,
-   580
+   433,
+   1089
   ],
   "subject": "a wicker laundry-style hamper with a hinged lid, overflowing with odd gloves, a single shoe and a knitted scarf",
   "looks": [
@@ -764,7 +770,9 @@
     "instruction": "make the hamper a gilded wire basket lined with burgundy velvet with the gloves in matched pairs, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": "beat_d009"
+  "beat": "beat_d009",
+  "art_bg": "soft",
+  "size": 162
  },
  {
   "id": "03_007",
@@ -777,8 +785,8 @@
    "10_3"
   ],
   "pos": [
-   450,
-   580
+   182,
+   921
   ],
   "subject": "a long upholstered waiting bench with carved scroll ends, its dusty green cushion faded and buttons missing",
   "looks": [
@@ -795,7 +803,8 @@
     "instruction": "make the bench painted cream with a hand-painted pattern of blue birds and blossom on the seat and back, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 162
  },
  {
   "id": "03_008",
@@ -808,8 +817,8 @@
    "10_6"
   ],
   "pos": [
-   630,
-   580
+   483,
+   1240
   ],
   "subject": "a round Victorian encaustic tile medallion in geometric patterns of teal, cream, ochre and oxblood, with a narrow border of plain stone",
   "looks": [
@@ -826,7 +835,8 @@
     "instruction": "make the medallion bold black and white marble with a brass compass inlay, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 162
  },
  {
   "id": "03_009",
@@ -839,8 +849,8 @@
    "10_9"
   ],
   "pos": [
-   90,
-   840
+   451,
+   689
   ],
   "subject": "a tall arched mirror in a heavy gilt frame, clouded and spotted with age, on a small marble console",
   "looks": [
@@ -857,7 +867,8 @@
     "instruction": "make the frame black ebonised wood with brass beading and a polished pewter-grey glass, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 162
  },
  {
   "id": "03_010",
@@ -869,8 +880,8 @@
    "10_11"
   ],
   "pos": [
-   270,
-   840
+   577,
+   689
   ],
   "subject": "a carved oak wall barometer with a round brass-bound dial, a slender thermometer tube and a pointer set at a gentle breeze, dial marks without numbers",
   "looks": [
@@ -887,7 +898,8 @@
     "instruction": "make the barometer a gilded sunburst with a mirrored glass dial, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": "beat_d010"
+  "beat": "beat_d010",
+  "size": 162
  },
  {
   "id": "03_011",
@@ -901,8 +913,8 @@
    "11_4"
   ],
   "pos": [
-   450,
-   840
+   131,
+   1089
   ],
   "subject": "a freestanding pillar-style brass letter box with a flap slot and a little padlock, slightly tarnished",
   "looks": [
@@ -919,7 +931,8 @@
     "instruction": "make the box deep teal with a domed cap, a small crown shape in cream and a shining brass flap, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 162
  },
  {
   "id": "03_012",
@@ -932,8 +945,8 @@
    "11_7"
   ],
   "pos": [
-   630,
-   840
+   270,
+   1089
   ],
   "subject": "a long wrought-iron rack of curving hooped stalls, each with a little drip tray of beaten copper",
   "looks": [
@@ -950,7 +963,8 @@
     "instruction": "make the rack black iron cast as winding vines and leaves painted teal, each stall ending in a curled tendril, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 162
  },
  {
   "id": "03_013",
@@ -963,8 +977,8 @@
    "11_10"
   ],
   "pos": [
-   90,
-   1100
+   393,
+   921
   ],
   "subject": "a small crystal chandelier of eight gas arms hung from a plaster rose, dusty with a few missing drops, unlit",
   "looks": [
@@ -981,7 +995,9 @@
     "instruction": "make the arms curve like tulips with frosted tulip-shaped shades on gentle green-brass stems, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": "beat_d011"
+  "beat": "beat_d011",
+  "art_bg": "soft",
+  "size": 227
  },
  {
   "id": "04_001",
@@ -994,8 +1010,8 @@
    "12_3"
   ],
   "pos": [
-   90,
-   320
+   238,
+   1240
   ],
   "subject": "a wicker wastepaper basket stuffed with crumpled blank paper balls and a snapped quill",
   "looks": [
@@ -1012,7 +1028,8 @@
     "instruction": "make the basket a black lacquered pail with gold flowers painted on, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 135
  },
  {
   "id": "04_002",
@@ -1025,8 +1042,8 @@
    "12_6"
   ],
   "pos": [
-   270,
-   320
+   161,
+   957
   ],
   "subject": "a worn rectangular Persian-style rug in faded burgundy and teal with a fringed edge, trodden thin in the middle",
   "looks": [
@@ -1043,7 +1060,8 @@
     "instruction": "make the rug a tawny velvet-soft tiger-skin rug with a stitched felt border, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 135
  },
  {
   "id": "04_003",
@@ -1056,8 +1074,8 @@
    "12_9"
   ],
   "pos": [
-   450,
-   320
+   560,
+   957
   ],
   "subject": "a heavy cut-glass inkwell with a brass lid, two quills and a steel nib pen laid in a small walnut tray",
   "looks": [
@@ -1074,7 +1092,8 @@
     "instruction": "make the tray and inkwell polished green malachite with brass fittings, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 135
  },
  {
   "id": "04_004",
@@ -1086,8 +1105,8 @@
    "12_11"
   ],
   "pos": [
-   630,
-   320
+   114,
+   762
   ],
   "subject": "a tall oak filing cabinet of many small drawers with brass pulls and blank card holders, one drawer hanging open",
   "looks": [
@@ -1104,7 +1123,8 @@
     "instruction": "make the cabinet a pale wood apothecary chest with tiny curved glass-knobbed drawers, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": "beat_d012"
+  "beat": "beat_d012",
+  "size": 135
  },
  {
   "id": "04_005",
@@ -1118,8 +1138,8 @@
    "13_4"
   ],
   "pos": [
-   90,
-   580
+   227,
+   762
   ],
   "subject": "a brass desk lamp with a green glass shade on a flexible stem, set on a little round base",
   "looks": [
@@ -1129,14 +1149,16 @@
    },
    {
     "name": "Opaline shade",
-    "instruction": "make the shade milky opaline glass with a soft glow and a pale cream stem on a porcelain base, keep the same object, framing, viewpoint and lighting"
+    "instruction": "make the shade milky opaline glass with a soft glow and a pale cream stem on a porcelain base, with a thin dark outline around every pale part, keep the same object, framing, viewpoint and lighting"
    },
    {
     "name": "Tulip lamp",
     "instruction": "make the lamp a brass tulip bloom whose petals form a ruffled frosted shade on a curving green stem, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 135,
+  "art_bg": "soft"
  },
  {
   "id": "04_006",
@@ -1149,8 +1171,8 @@
    "13_7"
   ],
   "pos": [
-   270,
-   580
+   351,
+   762
   ],
   "subject": "a wide walnut desk bureau with a rolled-top lid half open on rows of empty pigeonholes",
   "looks": [
@@ -1167,7 +1189,9 @@
     "instruction": "make the bureau cream with hand-painted birds and flowers in teal and gold, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "art_bg": "soft",
+  "size": 135
  },
  {
   "id": "04_007",
@@ -1180,8 +1204,8 @@
    "13_10"
   ],
   "pos": [
-   450,
-   580
+   482,
+   762
   ],
   "subject": "a deep wing-backed armchair in buttoned oxblood leather with a sagging seat and a crocheted antimacassar",
   "looks": [
@@ -1198,7 +1222,9 @@
     "instruction": "make the chair covered in cream chintz with big pink cabbage roses, a lace antimacassar and plump cushions, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": "beat_d013"
+  "beat": "beat_d013",
+  "art_bg": "soft",
+  "size": 135
  },
  {
   "id": "04_008",
@@ -1212,8 +1238,8 @@
    "14_4"
   ],
   "pos": [
-   630,
-   580
+   603,
+   762
   ],
   "subject": "a large brass-mounted magnifying glass on a swing arm clamped to a small oak stand, its lens cloudy",
   "looks": [
@@ -1230,7 +1256,8 @@
     "instruction": "replace it with a heavy jeweller's loupe in a gold ring mount on a velvet cushion, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 135
  },
  {
   "id": "04_009",
@@ -1243,8 +1270,8 @@
    "14_7"
   ],
   "pos": [
-   90,
-   840
+   138,
+   1099
   ],
   "subject": "a squat oak box of long narrow index drawers each with a brass slot for a blank card, set on short turned feet",
   "looks": [
@@ -1261,7 +1288,9 @@
     "instruction": "make the box a smaller travelling version bound in brass at every corner with a leather carry handle on top, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "art_bg": "soft",
+  "size": 135
  },
  {
   "id": "04_010",
@@ -1274,8 +1303,8 @@
    "14_10"
   ],
   "pos": [
-   270,
-   840
+   285,
+   1099
   ],
   "subject": "an oil painting of a grand Victorian museum facade at dusk with glowing windows, a slender dome and a lamplit path, framed in heavy carved gilt and tilted slightly on its hook",
   "looks": [
@@ -1292,7 +1321,9 @@
     "instruction": "make the picture a fine black-and-white engraving with dense cross-hatching in an ebony frame, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": "beat_d014"
+  "beat": "beat_d014",
+  "art_bg": "soft",
+  "size": 135
  },
  {
   "id": "04_011",
@@ -1305,8 +1336,8 @@
    "15_3"
   ],
   "pos": [
-   450,
-   840
+   434,
+   1099
   ],
   "subject": "a large drafting table spread with a rolled architectural plan of the museum drawn as blank outlines, weighed down by brass paperweights",
   "looks": [
@@ -1323,7 +1354,8 @@
     "instruction": "make the table a slanted gilt-edged drawing board with set squares and compasses, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 135
  },
  {
   "id": "04_012",
@@ -1336,8 +1368,8 @@
    "15_6"
   ],
   "pos": [
-   630,
-   840
+   486,
+   1240
   ],
   "subject": "a squat black iron strongbox with a gilded combination dial of unlabelled marks and heavy brass hinges",
   "looks": [
@@ -1354,7 +1386,9 @@
     "instruction": "swing the door open showing a lining of burgundy velvet and a velvet-wrapped pearl, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "art_bg": "soft",
+  "size": 135
  },
  {
   "id": "04_013",
@@ -1367,8 +1401,8 @@
    "15_9"
   ],
   "pos": [
-   90,
-   1100
+   585,
+   1099
   ],
   "subject": "a small brass desk clock combined with a rotating model of planets on slim arms, dial without numerals",
   "looks": [
@@ -1385,7 +1419,8 @@
     "instruction": "enclose it all in a glass dome on a walnut plinth, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 135
  },
  {
   "id": "04_014",
@@ -1397,8 +1432,8 @@
    "15_11"
   ],
   "pos": [
-   270,
-   1100
+   362,
+   957
   ],
   "subject": "a monumental mahogany partners' desk with a green leather top, claw-footed, strewn with blank papers, a lamp and an inkwell",
   "looks": [
@@ -1415,7 +1450,9 @@
     "instruction": "make the desk pale satinwood with inlaid marquetry stars and polished brass handles, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": "beat_d015"
+  "beat": "beat_d015",
+  "art_bg": "soft",
+  "size": 189
  },
  {
   "id": "05_001",
@@ -1428,8 +1465,8 @@
    "16_3"
   ],
   "pos": [
-   90,
-   320
+   547,
+   809
   ],
   "subject": "a small round tea table with a carved pedestal and a yellowed lace doily, bare of cups",
   "looks": [
@@ -1443,10 +1480,12 @@
    },
    {
     "name": "Painted tin table",
-    "instruction": "make the table cream painted iron with a scalloped tin top and rosebuds, keep the same object, framing, viewpoint and lighting"
+    "instruction": "make the table cream painted iron with a scalloped tin top and rosebuds, with a thin dark outline around every pale part, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 195,
+  "art_bg": "soft"
  },
  {
   "id": "05_002",
@@ -1459,8 +1498,8 @@
    "16_6"
   ],
   "pos": [
-   270,
-   320
+   163,
+   809
   ],
   "subject": "a wall-hung wooden rack of small glass jars filled with tea leaves and whole spices in amber, green and red, jars unlabelled",
   "looks": [
@@ -1477,7 +1516,8 @@
     "instruction": "make the rack of round painted tin canisters in teal and burgundy with tiny brass lids and handles, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 195
  },
  {
   "id": "05_003",
@@ -1490,8 +1530,8 @@
    "16_9"
   ],
   "pos": [
-   450,
-   320
+   577,
+   1083
   ],
   "subject": "a tall brass samovar with a round belly, tap and a little crown teapot on top, tarnished dark",
   "looks": [
@@ -1505,10 +1545,12 @@
    },
    {
     "name": "Cream and green tea urn",
-    "instruction": "make the urn cream porcelain with a green band, a wooden tap handle and a tidy folded cloth over the lid, keep the same object, framing, viewpoint and lighting"
+    "instruction": "make the urn cream porcelain with a green band, a wooden tap handle and a tidy folded cloth over the lid, with a thin dark outline around every pale part, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 195,
+  "art_bg": "soft"
  },
  {
   "id": "05_004",
@@ -1520,8 +1562,8 @@
    "16_11"
   ],
   "pos": [
-   630,
-   320
+   163,
+   1083
   ],
   "subject": "a three-tier china cake stand holding stale fondant fancies and a sad sponge, with a chipped middle plate",
   "looks": [
@@ -1538,7 +1580,8 @@
     "instruction": "make the stand ornate silver with glass plates and sugared violets, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": "beat_d016"
+  "beat": "beat_d016",
+  "size": 195
  },
  {
   "id": "05_005",
@@ -1551,8 +1594,8 @@
    "17_3"
   ],
   "pos": [
-   90,
-   580
+   350,
+   809
   ],
   "subject": "a crowded dresser shelf of mismatched teapots in the shapes of a cottage, a cabbage, a pumpkin and a pug dog",
   "looks": [
@@ -1569,7 +1612,9 @@
     "instruction": "make the teapots glossy copper-pink lustre ware with ivory handles and tiny cream lids, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "art_bg": "soft",
+  "size": 195
  },
  {
   "id": "05_006",
@@ -1582,8 +1627,8 @@
    "17_6"
   ],
   "pos": [
-   270,
-   580
+   360,
+   1242
   ],
   "subject": "a curved chaise longue in faded rose velvet with a scroll arm and tassel cushion",
   "looks": [
@@ -1600,7 +1645,8 @@
     "instruction": "make the chaise white wicker with plump striped cushions and a folded blue shawl, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 195
  },
  {
   "id": "05_007",
@@ -1613,8 +1659,8 @@
    "17_9"
   ],
   "pos": [
-   450,
-   580
+   380,
+   1083
   ],
   "subject": "a vast gleaming copper tea urn on a trolley with a tap, cups hanging from hooks, a little steam curling",
   "looks": [
@@ -1631,7 +1677,8 @@
     "instruction": "make the urn a tiered gilded fountain pouring gently into a saucer-basin, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": "beat_d017"
+  "beat": "beat_d017",
+  "size": 273
  },
  {
   "id": "06_001",
@@ -1644,8 +1691,8 @@
    "18_3"
   ],
   "pos": [
-   90,
-   320
+   538,
+   1115
   ],
   "subject": "a long varnished wooden perch on iron brackets with a scatter of fallen grey feathers beneath",
   "looks": [
@@ -1662,7 +1709,8 @@
     "instruction": "make the perch a polished brass rail with a velvet cushion, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 127
  },
  {
   "id": "06_002",
@@ -1675,8 +1723,8 @@
    "18_6"
   ],
   "pos": [
-   270,
-   320
+   182,
+   1115
   ],
   "subject": "a shallow velvet-lined wooden tray of speckled bird eggs in graduated sizes, in little round hollows, a few hollows empty",
   "looks": [
@@ -1693,7 +1741,8 @@
     "instruction": "replace the tray with a woven twig nest holding the same eggs, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 127
  },
  {
   "id": "06_003",
@@ -1706,8 +1755,8 @@
    "18_9"
   ],
   "pos": [
-   450,
-   320
+   194,
+   1247
   ],
   "subject": "a tall brass stand holding a bouquet of feather dusters in cream, peacock-green and grey",
   "looks": [
@@ -1724,7 +1773,8 @@
     "instruction": "make the dusters spread silk-and-feather fans in a carved wooden holder with a ribbon bow, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": "beat_d018"
+  "beat": "beat_d018",
+  "size": 127
  },
  {
   "id": "06_004",
@@ -1737,8 +1787,8 @@
    "19_3"
   ],
   "pos": [
-   630,
-   320
+   159,
+   933
   ],
   "subject": "a small slanted writing desk with a leather-bound blank notebook, a brass spyglass, binoculars and a pot of dried grasses",
   "looks": [
@@ -1755,7 +1805,8 @@
     "instruction": "make the desk a folding canvas campaign desk with leather straps, a tin cup and a rolled map, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 127
  },
  {
   "id": "06_005",
@@ -1768,8 +1819,8 @@
    "19_6"
   ],
   "pos": [
-   90,
-   580
+   517,
+   1247
   ],
   "subject": "a stuffed barn owl with a pale heart-shaped face and wings half open, perched on a gnarled branch",
   "looks": [
@@ -1786,7 +1837,8 @@
     "instruction": "recast the owl as a polished brass automaton owl with gear-patterned wings, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 127
  },
  {
   "id": "06_006",
@@ -1799,8 +1851,8 @@
    "19_9"
   ],
   "pos": [
-   270,
-   580
+   558,
+   933
   ],
   "subject": "a small glass-fronted case showing a kingfisher on a reed above a painted stream, the glass dusty",
   "looks": [
@@ -1817,7 +1869,8 @@
     "instruction": "make the scene frosty with icicles on the reed and a pale grey-blue stream, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": "beat_d019"
+  "beat": "beat_d019",
+  "size": 127
  },
  {
   "id": "06_007",
@@ -1830,8 +1883,8 @@
    "20_3"
   ],
   "pos": [
-   450,
-   580
+   290,
+   933
   ],
   "subject": "a large stuffed hornbill with a huge curved casque bill perched on a cut log",
   "looks": [
@@ -1841,14 +1894,16 @@
    },
    {
     "name": "Porcelain bird",
-    "instruction": "make the bird glazed white porcelain with bright gold and red painting, keep the same object, framing, viewpoint and lighting"
+    "instruction": "make the bird glazed white porcelain with bright gold and red painting, with a thin dark outline around every pale part, keep the same object, framing, viewpoint and lighting"
    },
    {
     "name": "Carved wood hornbill",
     "instruction": "make the bird carved and lacquered wood in black and orange, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 127,
+  "art_bg": "soft"
  },
  {
   "id": "06_008",
@@ -1861,8 +1916,8 @@
    "20_6"
   ],
   "pos": [
-   630,
-   580
+   422,
+   933
   ],
   "subject": "a tall folding screen painted with a spread peacock tail in blues and greens, a frame of carved ebony",
   "looks": [
@@ -1879,7 +1934,9 @@
     "instruction": "make the peacock a leaded stained-glass panel in blue and green glowing in an ebony frame, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "art_bg": "soft",
+  "size": 127
  },
  {
   "id": "06_009",
@@ -1892,8 +1949,8 @@
    "20_9"
   ],
   "pos": [
-   90,
-   840
+   351,
+   1247
   ],
   "subject": "a narrow glass-fronted walnut cabinet containing rows of tiny jewel-coloured hummingbirds pinned among paper flowers",
   "looks": [
@@ -1910,7 +1967,8 @@
     "instruction": "make the hummingbirds faintly glowing like fireflies against dark blue velvet shelves, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 127
  },
  {
   "id": "06_010",
@@ -1922,8 +1980,8 @@
    "20_11"
   ],
   "pos": [
-   270,
-   840
+   360,
+   1115
   ],
   "subject": "a large taxidermy firebird with long trailing orange-gold tail feathers and wings arching over a brass perch stand",
   "looks": [
@@ -1940,7 +1998,8 @@
     "instruction": "make the phoenix crystalline pale blue and white with frosted feather tips and icicles on the stand, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": "beat_d020"
+  "beat": "beat_d020",
+  "size": 178
  },
  {
   "id": "07_001",
@@ -1953,8 +2012,8 @@
    "21_3"
   ],
   "pos": [
-   90,
-   320
+   375,
+   1242
   ],
   "subject": "a wooden rack of small garden trowels, a copper watering can and a pair of secateurs hung on iron hooks, the tools worn smooth and dusted with dry soil",
   "looks": [
@@ -1971,7 +2030,8 @@
     "instruction": "make the rack painted sage green with each tool clean, oiled and labelled by a little bright ribbon, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 152
  },
  {
   "id": "07_002",
@@ -1984,10 +2044,10 @@
    "21_6"
   ],
   "pos": [
-   270,
-   320
+   166,
+   877
   ],
-  "subject": "a curved brass pipe ending in a fine spray rose, mounted on a short pillar over a small drain grate, dripping steadily and green at the joints",
+  "subject": "a curved brass pipe ending in a round perforated sprinkler nozzle, mounted on a short pillar over a small drain grate, dripping steadily and green at the joints",
   "looks": [
    {
     "name": "Dripping brass",
@@ -2002,7 +2062,8 @@
     "instruction": "make the pipe a bamboo flume dripping into a driftwood trough with small green ferns, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 152
  },
  {
   "id": "07_003",
@@ -2015,8 +2076,8 @@
    "21_9"
   ],
   "pos": [
-   450,
-   320
+   570,
+   877
   ],
   "subject": "a tall pole frame hung with soft white gauze netting forming a little tent",
   "looks": [
@@ -2033,7 +2094,8 @@
     "instruction": "make the net hung with tiny glowing paper lanterns and a few dozing butterflies on the folds, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 152
  },
  {
   "id": "07_004",
@@ -2046,8 +2108,8 @@
    "21_12"
   ],
   "pos": [
-   630,
-   320
+   295,
+   877
   ],
   "subject": "a mossy wooden shelf of small glass jars each holding a twig and a hanging chrysalis in green and gold",
   "looks": [
@@ -2064,7 +2126,8 @@
     "instruction": "make the chrysalises split open with damp new butterflies stretching their wings in the jars, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": "beat_d021"
+  "beat": "beat_d021",
+  "size": 152
  },
  {
   "id": "07_005",
@@ -2078,8 +2141,8 @@
    "22_4"
   ],
   "pos": [
-   90,
-   580
+   545,
+   1242
   ],
   "subject": "a small tiered stone bowl brimming with orange slices, sugar water and bright flowers",
   "looks": [
@@ -2096,7 +2159,8 @@
     "instruction": "make the bowl a cream urn spilling trailing nasturtiums and bright cut fruit, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 152
  },
  {
   "id": "07_006",
@@ -2109,8 +2173,8 @@
    "22_7"
   ],
   "pos": [
-   270,
-   580
+   542,
+   1093
   ],
   "subject": "a framed display of a large yellow-and-black swallowtail butterfly pinned on cream card in a glass case",
   "looks": [
@@ -2127,7 +2191,8 @@
     "instruction": "make the wings fine gold leaf outlined in teal on the same cream card in a dark frame, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 152
  },
  {
   "id": "07_007",
@@ -2140,8 +2205,8 @@
    "22_10"
   ],
   "pos": [
-   450,
-   580
+   196,
+   1093
   ],
   "subject": "a glass-topped wooden case holding brilliant iridescent blue morpho butterflies in a fan pattern",
   "looks": [
@@ -2158,7 +2223,8 @@
     "instruction": "rearrange the butterflies into a bright round sunburst on cream card in a slim gilt frame with a pale blue mount, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": "beat_d022"
+  "beat": "beat_d022",
+  "size": 152
  },
  {
   "id": "07_008",
@@ -2171,8 +2237,8 @@
    "23_3"
   ],
   "pos": [
-   630,
-   580
+   200,
+   1242
   ],
   "subject": "a curved white-painted iron arbour covered in climbing orchids in cream and magenta and trailing ferns, its paint flaking a little at the arches",
   "looks": [
@@ -2189,7 +2255,9 @@
     "instruction": "make the arbour dripping with long purple wisteria flowers on the same white iron, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "art_bg": "soft",
+  "size": 152
  },
  {
   "id": "07_009",
@@ -2202,8 +2270,8 @@
    "23_6"
   ],
   "pos": [
-   90,
-   840
+   435,
+   877
   ],
   "subject": "a hanging brass chandelier whose arms hold glass cases of sleeping chrysalises, glowing faintly",
   "looks": [
@@ -2220,7 +2288,9 @@
     "instruction": "make each case a pale silk-paper lantern with a golden silhouette of a chrysalis inside, hung from slender bamboo arms, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "art_bg": "soft",
+  "size": 152
  },
  {
   "id": "07_010",
@@ -2233,8 +2303,8 @@
    "23_9"
   ],
   "pos": [
-   270,
-   840
+   368,
+   1093
   ],
   "subject": "a large glass globe on a stand filled with dozens of orange monarch butterflies in flight around a miniature tree",
   "looks": [
@@ -2251,7 +2321,8 @@
     "instruction": "make the butterflies cut jewels of garnet and topaz glinting among green glass leaves, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": "beat_d023"
+  "beat": "beat_d023",
+  "size": 213
  },
  {
   "id": "08_001",
@@ -2264,8 +2335,8 @@
    "24_3"
   ],
   "pos": [
-   90,
-   320
+   574,
+   882
   ],
   "subject": "a stack of three terracotta flower pots, one of them cracked, with dried soil in each and a small hand fork tucked into the top pot",
   "looks": [
@@ -2282,7 +2353,8 @@
     "instruction": "make the pots weathered grey stone troughs furred with moss and tiny ferns, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 142
  },
  {
   "id": "08_002",
@@ -2295,8 +2367,8 @@
    "24_6"
   ],
   "pos": [
-   270,
-   320
+   161,
+   1237
   ],
   "subject": "a tall iron plant stand in tiers of scrolled shelves holding small ferns and a dried-out begonia",
   "looks": [
@@ -2313,7 +2385,8 @@
     "instruction": "make the stand weathered copper-green with small trailing ivy and bright geraniums on each tier, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 142
  },
  {
   "id": "08_003",
@@ -2326,10 +2399,10 @@
    "24_9"
   ],
   "pos": [
-   450,
-   320
+   535,
+   1085
   ],
-  "subject": "a trio of galvanised and copper watering cans with long spouts and rose heads, dented",
+  "subject": "a trio of galvanised and copper watering cans with long spouts and round perforated sprinkler heads, dented",
   "looks": [
    {
     "name": "Dented tin",
@@ -2344,7 +2417,9 @@
     "instruction": "make the cans painted in burgundy, teal and cream with painted flower patterns and curved spouts, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "art_bg": "soft",
+  "size": 142
  },
  {
   "id": "08_004",
@@ -2357,8 +2432,8 @@
    "24_12"
   ],
   "pos": [
-   630,
-   320
+   463,
+   882
   ],
   "subject": "a glass Wardian case, like a small greenhouse with a pitched roof, filled with lush ferns and moss on a wooden base",
   "looks": [
@@ -2375,7 +2450,8 @@
     "instruction": "make the case a tall glass bell jar over a single curling fern, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": "beat_d024"
+  "beat": "beat_d024",
+  "size": 142
  },
  {
   "id": "08_005",
@@ -2389,8 +2465,8 @@
    "25_4"
   ],
   "pos": [
-   90,
-   580
+   190,
+   882
   ],
   "subject": "a long slatted wooden potting bench with seed trays, a trowel and a coil of twine, scattered with soil",
   "looks": [
@@ -2407,7 +2483,9 @@
     "instruction": "make the bench painted cream with teal drawers and brass handles beneath a clean row of terracotta pots, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "art_bg": "soft",
+  "size": 142
  },
  {
   "id": "08_006",
@@ -2420,8 +2498,8 @@
    "25_7"
   ],
   "pos": [
-   270,
-   580
+   332,
+   882
   ],
   "subject": "a staved oak rain barrel with an iron tap above a mossy stone basin, dripping into a trough",
   "looks": [
@@ -2438,7 +2516,9 @@
     "instruction": "make the tap a stone lion's head spouting clear water into a mossy basin below the barrel, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "art_bg": "soft",
+  "size": 142
  },
  {
   "id": "08_007",
@@ -2451,8 +2531,8 @@
    "25_10"
   ],
   "pos": [
-   450,
-   580
+   274,
+   1237
   ],
   "subject": "a rustic wooden arch twined with green vines and hung with striped gourds and small orange pumpkins, the timber grey and weathered",
   "looks": [
@@ -2469,7 +2549,8 @@
     "instruction": "make the arch hung with orange pumpkins, striped gourds and red-gold leaves on the rustic wood, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": "beat_d025"
+  "beat": "beat_d025",
+  "size": 142
  },
  {
   "id": "08_008",
@@ -2482,8 +2563,8 @@
    "26_3"
   ],
   "pos": [
-   630,
-   580
+   205,
+   1085
   ],
   "subject": "a round stone pool with enormous flat lily pads and a single pink bloom",
   "looks": [
@@ -2500,7 +2581,8 @@
     "instruction": "make the basin a round brass tub with a green patina and a white lotus blooming at its centre, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 142
  },
  {
   "id": "08_009",
@@ -2513,8 +2595,8 @@
    "26_6"
   ],
   "pos": [
-   90,
-   840
+   551,
+   1237
   ],
   "subject": "a large oak barrel tub planted with a tall tree fern whose arching fronds spread wide, the hoops dark with age and the soil dry",
   "looks": [
@@ -2531,7 +2613,9 @@
     "instruction": "make the tub a grey zinc washtub with two rope handles, the fern springing from rich dark soil, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "art_bg": "soft",
+  "size": 142
  },
  {
   "id": "08_010",
@@ -2544,8 +2628,8 @@
    "26_9"
   ],
   "pos": [
-   270,
-   840
+   409,
+   1237
   ],
   "subject": "a big potted bird-of-paradise plant with sharp orange-and-blue blooms and broad paddle leaves in a chipped stone urn",
   "looks": [
@@ -2562,7 +2646,8 @@
     "instruction": "make the flowers deep indigo and pewter with violet beaks rising from dark green leaves, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 142
  },
  {
   "id": "08_011",
@@ -2574,8 +2659,8 @@
    "26_11"
   ],
   "pos": [
-   450,
-   840
+   370,
+   1085
   ],
   "subject": "a glass terrarium of pitcher plants and a Venus flytrap with toothy green traps, on a wooden stand",
   "looks": [
@@ -2592,7 +2677,8 @@
     "instruction": "make the plants russet and bronze with bright red veined traps and a few fallen amber leaves in the glass, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": "beat_d026"
+  "beat": "beat_d026",
+  "size": 198
  },
  {
   "id": "09_001",
@@ -2606,8 +2692,8 @@
    "27_4"
   ],
   "pos": [
-   90,
-   320
+   537,
+   784
   ],
   "subject": "a rusted iron wheelbarrow heaped with broken chalk stones and dust, a small pick and a soft brush resting on top",
   "looks": [
@@ -2624,7 +2710,8 @@
     "instruction": "fill the barrow with split crystal geodes glittering violet and white, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 173
  },
  {
   "id": "09_002",
@@ -2637,8 +2724,8 @@
    "27_7"
   ],
   "pos": [
-   270,
-   320
+   478,
+   1219
   ],
   "subject": "a flat grey slate slab crowded with a cluster of ribbed trilobite fossils pressed into the stone, propped on a small wooden stand",
   "looks": [
@@ -2655,7 +2742,8 @@
     "instruction": "make the slab mounted upright in a polished walnut frame with the trilobites picked out in a pale creamy wash, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 173
  },
  {
   "id": "09_003",
@@ -2668,8 +2756,8 @@
    "27_10"
   ],
   "pos": [
-   450,
-   320
+   360,
+   784
   ],
   "subject": "a large clutch of speckled cream fossil eggs in a nest of dried grass on a low round wooden plinth",
   "looks": [
@@ -2686,7 +2774,9 @@
     "instruction": "make one egg cracked open with a tiny scaly snout peeking out and fresh grass in the nest, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": "beat_d027"
+  "beat": "beat_d027",
+  "art_bg": "soft",
+  "size": 173
  },
  {
   "id": "09_004",
@@ -2700,8 +2790,8 @@
    "28_4"
   ],
   "pos": [
-   630,
-   320
+   183,
+   784
   ],
   "subject": "a fossil ichthyosaur skeleton arched mid-swim in a slab of pale rock, with a long toothed snout and flipper bones",
   "looks": [
@@ -2718,7 +2808,8 @@
     "instruction": "make the swimmer a painted model in grey-blue scales with a pale belly and a bright black eye, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 173
  },
  {
   "id": "09_005",
@@ -2731,8 +2822,8 @@
    "28_7"
   ],
   "pos": [
-   90,
-   580
+   242,
+   1219
   ],
   "subject": "a stone wall panel studded with a dozen spiral ammonites of various sizes, set into a frame of grey rock",
   "looks": [
@@ -2742,14 +2833,16 @@
    },
    {
     "name": "Opal spirals",
-    "instruction": "make every ammonite shimmer opal with pink and green fire on the grey rock, keep the same object, framing, viewpoint and lighting"
+    "instruction": "make every ammonite shimmer opal with pink and green fire on the grey rock, with a thin dark outline around every pale part, keep the same object, framing, viewpoint and lighting"
    },
    {
     "name": "Painted wall",
     "instruction": "make the ammonites painted in bright coral, cream and teal on a pale plaster ground, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 173,
+  "art_bg": "soft"
  },
  {
   "id": "09_006",
@@ -2762,8 +2855,8 @@
    "28_10"
   ],
   "pos": [
-   270,
-   580
+   360,
+   1043
   ],
   "subject": "a gigantic fossil predator skull with long curved teeth and empty eye sockets, resting on a heavy carved stone block",
   "looks": [
@@ -2780,7 +2873,8 @@
     "instruction": "make the skull clear quartz crystal with glints of amber light in its teeth, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": "beat_d028"
+  "beat": "beat_d028",
+  "size": 242
  },
  {
   "id": "10_001",
@@ -2794,8 +2888,8 @@
    "29_4"
   ],
   "pos": [
-   90,
-   320
+   159,
+   694
   ],
   "subject": "a battered brass miner's safety lamp with a wire-gauze chimney and a hooked carry handle, stained with soot and long unlit",
   "looks": [
@@ -2812,7 +2906,8 @@
     "instruction": "recast the lamp in dark blackened iron with a cold blue-green flame and a copper hook, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 126
  },
  {
   "id": "10_002",
@@ -2825,8 +2920,8 @@
    "29_7"
   ],
   "pos": [
-   270,
-   320
+   525,
+   1244
   ],
   "subject": "a small iron mine cart with spoked wheels on a short length of rail, heaped with raw grey and rust-red ore lumps",
   "looks": [
@@ -2843,7 +2938,8 @@
     "instruction": "fill the cart with sparkling clear quartz clusters and give it burgundy paint, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 126
  },
  {
   "id": "10_003",
@@ -2856,8 +2952,8 @@
    "29_10"
   ],
   "pos": [
-   450,
-   320
+   435,
+   828
   ],
   "subject": "a rough oak rack holding three iron pickaxes and a small geologist's hammer, their handles worn smooth and dark",
   "looks": [
@@ -2874,7 +2970,8 @@
     "instruction": "make the pickaxes ceremonial with carved ebony shafts, tasselled cords and polished steel blades, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": "beat_d029"
+  "beat": "beat_d029",
+  "size": 126
  },
  {
   "id": "10_004",
@@ -2887,8 +2984,8 @@
    "30_3"
   ],
   "pos": [
-   630,
-   320
+   182,
+   986
   ],
   "subject": "a low oak chest of shallow drawers, one pulled out to show rows of small mineral chips resting on cotton wool",
   "looks": [
@@ -2905,7 +3002,8 @@
     "instruction": "make every drawer front clear glass in a brass frame so the stones gleam, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 126
  },
  {
   "id": "10_005",
@@ -2918,8 +3016,8 @@
    "30_6"
   ],
   "pos": [
-   90,
-   580
+   429,
+   1118
   ],
   "subject": "a big cluster of clear and smoky quartz points rising from a rough grey stone base",
   "looks": [
@@ -2936,7 +3034,8 @@
     "instruction": "make the crystals deep violet with pale tips on a dark stone base, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 126
  },
  {
   "id": "10_006",
@@ -2949,8 +3048,8 @@
    "30_9"
   ],
   "pos": [
-   270,
-   580
+   559,
+   828
   ],
   "subject": "a large grey geode cracked open to show a hollow lined with glittering purple crystals, sitting on a small brass ring stand",
   "looks": [
@@ -2967,7 +3066,8 @@
     "instruction": "make the lining banded orange and brown agate with glittering white crystals, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 126
  },
  {
   "id": "10_007",
@@ -2979,8 +3079,8 @@
    "30_11"
   ],
   "pos": [
-   450,
-   580
+   538,
+   986
   ],
   "subject": "a rough boulder streaked with banded green malachite and rust-orange copper ore, on a thick wooden slab",
   "looks": [
@@ -2997,7 +3097,8 @@
     "instruction": "make the boulder rough with bright blue-green crusts and orange copper nuggets showing, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": "beat_d030"
+  "beat": "beat_d030",
+  "size": 126
  },
  {
   "id": "10_008",
@@ -3010,8 +3111,8 @@
    "31_3"
   ],
   "pos": [
-   630,
-   580
+   194,
+   1244
   ],
   "subject": "a lump of rough pink rock salt hollowed out to hold a glowing flame, standing on a small brass dish",
   "looks": [
@@ -3021,14 +3122,16 @@
    },
    {
     "name": "White salt",
-    "instruction": "make the salt pure snowy white and glowing softly on a plain pale dish, keep the same object, framing, viewpoint and lighting"
+    "instruction": "make the salt pure snowy white and glowing softly on a plain pale dish, with a thin dark outline around every pale part, keep the same object, framing, viewpoint and lighting"
    },
    {
     "name": "Amber salt",
     "instruction": "make the salt deep honey-orange like glowing amber on a dark wooden dish, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 126,
+  "art_bg": "soft"
  },
  {
   "id": "10_009",
@@ -3041,8 +3144,8 @@
    "31_6"
   ],
   "pos": [
-   90,
-   840
+   165,
+   1118
   ],
   "subject": "two tall pale limestone cave formations, one slender and one thick, rising from a flat round stone base",
   "looks": [
@@ -3059,7 +3162,8 @@
     "instruction": "make the formations crusted with sparkling white calcite crystals and a pale blue shadow, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 126
  },
  {
   "id": "10_010",
@@ -3072,8 +3176,8 @@
    "31_9"
   ],
   "pos": [
-   270,
-   840
+   300,
+   828
   ],
   "subject": "a heavy pitted dark metallic nugget with melted edges, resting on a little round marble plinth",
   "looks": [
@@ -3090,7 +3194,9 @@
     "instruction": "make cracks glow orange as if cooling from the fire with wisps of smoke curling off, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "art_bg": "soft",
+  "size": 126
  },
  {
   "id": "10_011",
@@ -3102,8 +3208,8 @@
    "31_11"
   ],
   "pos": [
-   450,
-   840
+   278,
+   694
   ],
   "subject": "a brass apothecary balance with two shallow pans on a wooden base, a small set of brass weights in a notched tray on the base",
   "looks": [
@@ -3120,7 +3226,8 @@
     "instruction": "make the scales shut under a tall glass dome on a green-felt base with a small brass bell, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": "beat_d031"
+  "beat": "beat_d031",
+  "size": 126
  },
  {
   "id": "10_012",
@@ -3134,8 +3241,8 @@
    "32_4"
   ],
   "pos": [
-   630,
-   840
+   359,
+   1244
   ],
   "subject": "a low glass-topped display table holding cut gemstones fanned on dark velvet inside a wooden frame",
   "looks": [
@@ -3152,7 +3259,8 @@
     "instruction": "make the table lined with mirror so each gem shows a double glitter, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 126
  },
  {
   "id": "10_013",
@@ -3165,8 +3273,8 @@
    "32_7"
   ],
   "pos": [
-   90,
-   1100
+   558,
+   1118
   ],
   "subject": "a delicate gilt wire tree with leaves of tiny opals, planted in a small black stone pot",
   "looks": [
@@ -3183,7 +3291,8 @@
     "instruction": "make the leaves faceted pink and red tourmalines like blossom on a dark twisting wire trunk, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 126
  },
  {
   "id": "10_014",
@@ -3196,8 +3305,8 @@
    "32_10"
   ],
   "pos": [
-   270,
-   1100
+   409,
+   694
   ],
   "subject": "a round steel vault door with a heavy spoked wheel handle and thick bolts, standing slightly ajar in its own riveted steel frame",
   "looks": [
@@ -3214,7 +3323,9 @@
     "instruction": "make the door painted deep teal with gold banding and a brass wheel, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": "beat_d032"
+  "beat": "beat_d032",
+  "art_bg": "soft",
+  "size": 126
  },
  {
   "id": "10_015",
@@ -3227,8 +3338,8 @@
    "33_3"
   ],
   "pos": [
-   450,
-   1100
+   547,
+   694
   ],
   "subject": "a polished clear crystal skull resting on a burgundy velvet cushion inside a glass case with brass corners",
   "looks": [
@@ -3245,7 +3356,8 @@
     "instruction": "make the skull pale pink rose quartz on a cream cushion, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 126
  },
  {
   "id": "10_016",
@@ -3258,8 +3370,8 @@
    "33_6"
   ],
   "pos": [
-   630,
-   1100
+   294,
+   1118
   ],
   "subject": "a large uncut diamond with milky faces held in a brass claw mount on a velvet pad, under a little glass dome",
   "looks": [
@@ -3276,7 +3388,8 @@
     "instruction": "make the stone a warm brown champagne diamond with soft golden glints under the dome, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 126
  },
  {
   "id": "10_017",
@@ -3289,8 +3402,8 @@
    "33_9"
   ],
   "pos": [
-   90,
-   1360
+   165,
+   828
   ],
   "subject": "a huge amethyst geode standing open on a carved stone base like a small purple cave, its crystals thick and glossy",
   "looks": [
@@ -3307,7 +3420,8 @@
     "instruction": "make the crystals dusted with white frost and a thin skin of ice, the stone base turned to pale slate, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": null
+  "beat": null,
+  "size": 126
  },
  {
   "id": "10_018",
@@ -3319,8 +3433,8 @@
    "33_11"
   ],
   "pos": [
-   270,
-   1360
+   360,
+   986
   ],
   "subject": "a large smooth red-orange crystal shaped like a heart, cradled in a ring of wrought iron, with a faint inner glow",
   "looks": [
@@ -3337,7 +3451,8 @@
     "instruction": "make the crystal milky white with a drifting blue shimmer cradled in a ring of dark wrought iron, keep the same object, framing, viewpoint and lighting"
    }
   ],
-  "beat": "beat_d033"
+  "beat": "beat_d033",
+  "size": 176
  },
  {
   "id": "11_001",
