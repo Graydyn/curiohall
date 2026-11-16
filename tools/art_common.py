@@ -71,7 +71,9 @@ def expressions_for(speaker):
 
 
 def exterior_states(wing):
-    return ["restored", "boarded"] if wing["structure"] == "interior" else ["restored"]
+    # Locked looks live in exterior/base.png (the all-locked composite, built
+    # by tools/hall_states.py); each wing ships only its restored overlay.
+    return ["restored"]
 
 
 def exterior_path(area, state):

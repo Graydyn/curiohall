@@ -113,6 +113,8 @@ def fit_canvas(rect, max_side=1024):
 
 
 def exterior_wings(areas, style_keys, style_pass=False):
+    """Legacy (Task 9 pilot: one sprite per wing). Superseded by
+    tools/hall_states.py, which cuts every wing from one master painting."""
     out = []
     for w in C.wings():
         a = w["area"]
