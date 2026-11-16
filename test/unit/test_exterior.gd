@@ -24,6 +24,11 @@ func test_art_missing_returns_null() -> void:
     assert_null(HallArt.element("01_001", 1))
     assert_null(HallArt.ui("scaffold"))
 
+func test_canvas_falls_back_without_base_painting() -> void:
+    var gm := _make()
+    var m: ExteriorMap = gm[1]
+    assert_eq(m.canvas_size, ExteriorMap.CANVAS)
+
 func test_builds_47_wings_with_states() -> void:
     var gm := _make()
     var g: Game = gm[0]

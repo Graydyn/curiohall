@@ -1,18 +1,28 @@
 class_name ExteriorMap
 extends Control
-## The painted Hall exterior: a 2160x3240 canvas of wings, panned by drag and
-## zoomed by pinch / ctrl+wheel. Reached wings (ACTIVE/RESTORED) are tappable.
+## The painted Hall exterior, panned by drag and zoomed by pinch / ctrl+wheel.
+## Reached wings (ACTIVE/RESTORED) are tappable.
+##
+## base.png is the ALL-LOCKED painting (interior sections boarded up, the
+## separate structures' plots empty). Each wing's restored art is the master
+## painting's pixels of its exterior_rect with a feathered alpha mask, drawn
+## over the base when the wing is reached. A locked separate structure draws
+## that same texture through the ink-sketch shader (a faint ink drawing of the
+## missing building's lines).
 
 signal wing_tapped(area: int)
 
-const CANVAS := Vector2(2160, 3240)
+## Fallback canvas when there is no base painting; otherwise its size.
+const CANVAS := Vector2(2160, 3600)
 const ZOOM_MIN := 0.5
 const ZOOM_MAX := 1.5
 const TAP_SLOP := 12.0
 const RESTORED_TINT := Color(1.04, 1.0, 0.94)
 
 var game: Game
-var zoom := 0.6
+## Default zoom: the smallest section (172 canvas px) is a 120 px tap.
+var zoom := 0.7
+var canvas_size := CANVAS
 
 var _canvas: Control
 var _wings: Dictionary = {}    # area -> Control
@@ -34,28 +44,31 @@ func setup(g: Game) -> void:
     clip_contents = true
     set_anchors_and_offsets_preset(Control.PRESET_FULL_RECT)
     mouse_filter = Control.MOUSE_FILTER_STOP
-    _canvas = Control.new()
-    _canvas.name = "Canvas"
-    _canvas.size = CANVAS
-    _canvas.mouse_filter = Control.MOUSE_FILTER_IGNORE
-    add_child(_canvas)
-    _ink_material = ShaderMaterial.new()
-    _ink_material.shader = load("res://view/shaders/ink_outline.gdshader")
-    _ink_material.set_shader_parameter("ink_color", Color(CurioTheme.INK, 0.55))
-    _ink_material.set_shader_parameter("width", 2.0)
     var base := HallArt.exterior_base()
     _has_base = base != null
+    canvas_size = Vector2(base.get_size()) if base != null else CANVAS
+    _canvas = Control.new()
+    _canvas.name = "Canvas"
+    _canvas.size = canvas_size
+    _canvas.mouse_filter = Control.MOUSE_FILTER_IGNORE
+    add_child(_canvas)
+    # A missing structure is an ink sketch of its own restored painting.
+    _ink_material = ShaderMaterial.new()
+    _ink_material.shader = load("res://view/shaders/ink_sketch.gdshader")
+    _ink_material.set_shader_parameter("ink_color", Color(CurioTheme.INK, 0.45))
+    _ink_material.set_shader_parameter("edge_lo", 0.16)
+    _ink_material.set_shader_parameter("edge_hi", 0.45)
     if base != null:
         var tr := TextureRect.new()
         tr.texture = base
         tr.expand_mode = TextureRect.EXPAND_IGNORE_SIZE
-        tr.size = CANVAS
+        tr.size = canvas_size
         tr.stretch_mode = TextureRect.STRETCH_SCALE
         tr.mouse_filter = Control.MOUSE_FILTER_IGNORE
         _canvas.add_child(tr)
     else:
         var bg := Panel.new()
-        bg.size = CANVAS
+        bg.size = canvas_size
         bg.mouse_filter = Control.MOUSE_FILTER_IGNORE
         bg.add_theme_stylebox_override("panel", _box(CurioTheme.TEAL.darkened(0.35), Color(0, 0, 0, 0), 0, 0))
         _canvas.add_child(bg)
@@ -104,6 +117,8 @@ func _build_wing(area: int, w: Control) -> void:
     _states[area] = st
     var separate := String(row.get("structure", "interior")) == "separate"
     var locked := st == Campaign.AreaState.LOCKED
+    # A locked interior section is already boarded up in the base painting;
+    # a "boarded" texture, if one exists, still draws on top.
     var tex_state := "boarded" if (locked and not separate) else "restored"
     var tex := HallArt.wing_exterior(area, tex_state)
     var inset := w.size * 0.04
@@ -275,7 +290,7 @@ func _apply_view() -> void:
         return
     zoom = clampf(zoom, ZOOM_MIN, ZOOM_MAX)
     _canvas.scale = Vector2(zoom, zoom)
-    var scaled := CANVAS * zoom
+    var scaled := canvas_size * zoom
     var p := _canvas.position
     for axis in 2:
         if scaled[axis] <= size[axis]:
