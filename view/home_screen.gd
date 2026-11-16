@@ -70,6 +70,7 @@ var _toast_timer: Timer
 func setup(g: Game) -> void:
     game = g
     set_anchors_and_offsets_preset(Control.PRESET_FULL_RECT)
+    mouse_filter = Control.MOUSE_FILTER_IGNORE   # passive container: drags must reach BoardView
     theme = CurioTheme.build()
 
     workroom = Workroom.new()
