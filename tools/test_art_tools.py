@@ -13,6 +13,7 @@ import align_states as AS  # noqa: E402
 import lawn_patch as LP  # noqa: E402
 import harmonise_wing as HW  # noqa: E402
 import check_bands as CBD  # noqa: E402
+import place_elements as PE  # noqa: E402
 
 REAL_ROOT = C.ROOT
 
@@ -39,7 +40,7 @@ class ManifestTests(unittest.TestCase):
         self.assertEqual(len(M.build("elements")), 4224)
         self.assertEqual(len(M.build("wing-scenes")), 58)
         self.assertEqual(len(M.build("exterior-wings")), 84)
-        self.assertEqual(len(M.build("portraits")), 41)
+        self.assertEqual(len(M.build("portraits")), 51)  # +1 neutral edit per expressive cast
 
     def test_exterior_boarded_edits_restored(self):
         m = {e["key"]: e for e in M.build("exterior-wings", {1})}
@@ -448,6 +449,37 @@ class BatchTests(unittest.TestCase):
     def test_dry_run_shows_source_key(self):
         argv = B.build_argv(entry("e", "edit", source="el_x_0"), {}, dry=True)
         self.assertEqual(argv[2], "<job:el_x_0>")
+
+
+class PlaceElementsTests(unittest.TestCase):
+    def els(self, n):
+        out = [{"id": "99_%03d" % i, "looks": [], "beat": None} for i in range(n)]
+        out[-1]["beat"] = "beat_x"
+        return out
+
+    def test_layout_fits_floor_without_overlap_and_star_centred(self):
+        floor = (40.0, 400.0, 680.0, 1240.0)
+        els = self.els(14)
+        rows = PE.layout(els, floor, 330, 16)
+        self.assertIsNotNone(rows)
+        placed = PE.assign(rows, floor, 16)
+        self.assertEqual(len(placed), 14)
+        boxes = []
+        for e in els:
+            cx, by, size = placed[e["id"]]
+            w = h = 200.0 * size / 384
+            boxes.append((cx - w / 2, by - h, cx + w / 2, by))
+            self.assertTrue(floor[0] - 1 <= cx - w / 2 and cx + w / 2 <= floor[2] + 1)
+            self.assertTrue(floor[1] - 1 <= by - h and by <= floor[3] + 1)
+        for i, a in enumerate(boxes):
+            for b in boxes[i + 1:]:
+                self.assertFalse(a[0] < b[2] and b[0] < a[2] and a[1] < b[3] and b[1] < a[3])
+        star = placed[els[-1]["id"]]
+        self.assertAlmostEqual(star[0], 360, delta=40)
+
+    def test_too_many_for_floor_still_shrinks_to_fit(self):
+        rows = PE.layout(self.els(30), (0.0, 0.0, 300.0, 300.0), 330, 8)
+        self.assertIsNotNone(rows)
 
 
 if __name__ == "__main__":

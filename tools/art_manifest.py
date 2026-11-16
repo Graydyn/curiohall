@@ -29,10 +29,11 @@ BOARDED = ("board up the windows and doors with weathered planks, dust sheets, "
 SCENE_SUFFIX = ("interior seen from 3/4 top-down, open floor space for exhibits, "
                 "soft gaslight, calm")
 CAST_DESC = {
-    "cornelia": "Cornelia Wren, the formidable interim curator, all etiquette and steel, "
-                "in a severe high-collared Victorian dress with a pocket watch",
-    "barnaby": "Barnaby Pluck, a cheerful young porter and jack-of-all-trades, "
-               "in a porter's waistcoat and rolled sleeves",
+    "cornelia": "Cornelia Wren, the formidable interim curator, an elderly woman of about "
+                "sixty with silver-grey hair in a tight bun, all etiquette and steel, "
+                "in a severe high-collared dark teal Victorian dress with a pocket watch",
+    "barnaby": "Barnaby Pluck, a cheerful clean-shaven young porter of about twenty with "
+               "tousled brown hair, in a green porter's waistcoat and rolled sleeves",
     "aldous": "Professor Aldous Finch, an absent-minded ornithologist, in a rumpled tweed "
               "coat with a field notebook and binoculars",
     "sam": "Sam Vane, a suave rival collector, charming and a little untrustworthy, "
@@ -53,6 +54,7 @@ CAST_DESC = {
                "founder's portrait in period Victorian dress",
 }
 PORTRAIT_EXPR = {
+    "neutral": "make the expression calm and neutral, a composed closed mouth, keep everything else identical",
     "happy": "make the expression happy and smiling, keep everything else identical",
     "surprised": "make the expression surprised, eyebrows raised, keep everything else identical",
     "worried": "make the expression worried, brows knitted, keep everything else identical",
@@ -205,16 +207,32 @@ def portraits(areas, style_keys, style_pass=False):
     out = []
     for sp in C.CAST:
         nk = "portrait_%s_neutral" % sp
-        out += styled_generate(nk, C.portrait_path(sp, "neutral"), {
-            "subject": "%s, bust-to-knee character portrait, painted Victorian museum "
-                       "style, soft Ghibli-like light" % CAST_DESC[sp] + BACKDROP,
-            "spec": PORTRAIT_SPEC, "facing": "front"}, style_keys, style_pass)
-        for ex in C.expressions_for(sp):
-            if ex == "neutral":
-                continue
+        if sp == "ambrose":
+            subject = ("%s, a formal oil portrait of a man seen to the waist, "
+                       "inside a heavy ornate gilded picture frame, painted Victorian "
+                       "museum style, soft Ghibli-like light" % CAST_DESC[sp] + BACKDROP)
+        else:
+            subject = ("%s, bust-to-knee character portrait, painted Victorian museum "
+                       "style, soft Ghibli-like light" % CAST_DESC[sp] + BACKDROP)
+        if sp == "ambrose":   # neutral only: the generate is the final file
+            out += styled_generate(nk, C.portrait_path(sp, "neutral"), {
+                "subject": subject[:500], "spec": PORTRAIT_SPEC, "facing": "front"},
+                style_keys, style_pass)
+            continue
+        # The generate comes back turned and larger than its expression edits, so
+        # it is only a source (`_src`); the final neutral is an edit of the happy
+        # image, which lines up with the other expressions.
+        sk = "portrait_%s_src" % sp
+        out += styled_generate(sk, C.raw_path(C.portrait_path(sp, "src")), {
+            "subject": subject[:500], "spec": PORTRAIT_SPEC, "facing": "front"},
+            style_keys, style_pass)
+        for ex in ("happy", "surprised", "worried"):
             out.append(entry("portrait_%s_%s" % (sp, ex), C.portrait_path(sp, ex), "edit",
                              {"instruction": PORTRAIT_EXPR[ex], "spec": PORTRAIT_SPEC,
-                              "facing": "front"}, nk))
+                              "facing": "front"}, sk))
+        out.append(entry(nk, C.portrait_path(sp, "neutral"), "edit",
+                         {"instruction": PORTRAIT_EXPR["neutral"], "spec": PORTRAIT_SPEC,
+                          "facing": "front"}, "portrait_%s_happy" % sp))
     return out
 
 

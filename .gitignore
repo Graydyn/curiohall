@@ -4,3 +4,8 @@ build/
 .superpowers/
 .claude/worktrees/
 __pycache__/
+
+# Sectilia art intermediates (task 12b)
+assets/map/_raw/**/tiles/
+assets/map/_raw/**/*_uploaded.png
+assets/map/_raw/**/*_settle_mask.png
