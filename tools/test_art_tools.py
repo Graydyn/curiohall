@@ -238,24 +238,6 @@ class BatchTests(unittest.TestCase):
         argv = B.build_argv(e, {"s1": "J"})
         self.assertEqual(argv[argv.index("--timeout") + 1], str(B.CLI_TIMEOUT))
 
-    def test_local_timeout_records_recovered_job(self):
-        import subprocess
-        with mock.patch.object(C, "ROOT", REAL_ROOT):
-            e = M.build("elements", {1}, ["s1"])[0]
-        calls = []
-
-        def runner(argv, timeout):
-            calls.append(argv[:2])
-            if argv[1] == "generate":
-                raise subprocess.TimeoutExpired(argv, timeout)
-            import time as _t
-            iso = _t.strftime("%Y-%m-%dT%H:%M:%SZ", _t.gmtime(_t.time()))
-            return 0, {"jobs": [{"id": "JX", "created_at": iso, "request": {"kind": "generate"}}]}
-        noted = []
-        with self.assertRaises(B.StopBatch):
-            B.run_entry(e, {"s1": "J"}, runner, lambda s: None, None, noted.append)
-        self.assertEqual(noted, ["JX"])
-
     def test_harmonise_crop_and_mask(self):
         from PIL import Image
         base = Image.new("RGB", (400, 300), (40, 110, 50))
@@ -310,15 +292,6 @@ class BatchTests(unittest.TestCase):
         bands = CBD.find_bands(boxed)
         self.assertTrue(bands and abs(bands[0][0] - 50) <= 3, bands)
 
-    def test_newest_job_since(self):
-        import time as _t
-        now = _t.time()
-        iso = _t.strftime("%Y-%m-%dT%H:%M:%SZ", _t.gmtime(now))
-        data = {"jobs": [{"id": "J1", "created_at": iso, "request": {"kind": "generate"}}]}
-        self.assertEqual(B.newest_job_since(now - 10, "generate", lambda a, t: (0, data)), "J1")
-        self.assertIsNone(B.newest_job_since(now + 100, "generate", lambda a, t: (0, data)))
-        self.assertIsNone(B.newest_job_since(now - 10, "edit", lambda a, t: (0, data)))
-
     def test_parse_stdout_pretty_printed(self):
         out = '{\n  "id": "abc",\n  "status": "succeeded"\n}\n'
         self.assertEqual(B.parse_stdout(out)["id"], "abc")
@@ -337,14 +310,124 @@ class BatchTests(unittest.TestCase):
     def go(self, entries, results, limit=None, retry=False):
         calls = []
 
-        def runner(argv, timeout):
+        def runner(argv, timeout, on_job=None):
             calls.append(argv)
             return results.pop(0)
 
         counts, stop = B.run_manifest(entries, limit, self.jobs, runner,
                                       self.sleeps.append, log=lambda m: None,
-                                      failed_path=self.failed, retry_failed=retry)
+                                      failed_path=self.failed, retry_failed=retry, workers=1)
         return counts, stop, calls
+
+    def go_parallel(self, entries, behave, workers=3):
+        """behave(key, argv, on_job) -> (code, data); the runner tracks how many
+        commands run at once and the order they start/finish in."""
+        import threading
+        import time as _t
+        lock = threading.Lock()
+        live, peak, events = [0], [0], []
+
+        def runner(argv, timeout, on_job=None):
+            key = argv[argv.index("--out") + 1].rsplit("/", 1)[1][:-4]
+            with lock:
+                live[0] += 1
+                peak[0] = max(peak[0], live[0])
+                events.append(("start", key, argv[1]))
+            _t.sleep(0.02)
+            try:
+                return behave(key, argv, on_job)
+            finally:
+                with lock:
+                    live[0] -= 1
+                    events.append(("end", key, argv[1]))
+        counts, stop = B.run_manifest(entries, None, self.jobs, runner, self.sleeps.append,
+                                      log=lambda m: None, failed_path=self.failed,
+                                      workers=workers)
+        return counts, stop, peak[0], events
+
+    def test_parallel_runs_at_most_three_and_records_every_job(self):
+        ents = [entry("g%d" % i) for i in range(9)]
+        counts, stop, peak, _ = self.go_parallel(ents, lambda k, a, j: (0, {"id": "J" + k}))
+        self.assertIsNone(stop)
+        self.assertEqual(peak, 3)
+        self.assertEqual(counts, {"done": 9, "skipped": 0, "failed": 0, "remaining": 0})
+        jobs = B.load_jobs(self.jobs)
+        self.assertEqual({k: jobs[k] for k in jobs if k != "_pending"},
+                         {"g%d" % i: "Jg%d" % i for i in range(9)})
+        self.assertEqual(jobs["_pending"], {})
+
+    def test_workers_capped_at_three(self):
+        ents = [entry("g%d" % i) for i in range(8)]
+        _, _, peak, _ = self.go_parallel(ents, lambda k, a, j: (0, {"id": k}), workers=9)
+        self.assertEqual(peak, 3)
+
+    def test_edits_start_after_every_generate_and_their_source(self):
+        ents = [entry("g1"), entry("e1", "edit", source="g1"), entry("g2"), entry("g3"),
+                entry("e2", "edit", source="e1")]
+        counts, stop, _, ev = self.go_parallel(ents, lambda k, a, j: (0, {"id": "J" + k}))
+        self.assertEqual(counts["done"], 5)
+        last_gen_end = max(i for i, x in enumerate(ev) if x[0] == "end" and x[2] == "generate")
+        first_edit = min(i for i, x in enumerate(ev) if x[0] == "start" and x[2] == "edit")
+        self.assertGreater(first_edit, last_gen_end)
+        e1_end = ev.index(("end", "e1", "edit"))
+        self.assertGreater(ev.index(("start", "e2", "edit")), e1_end)
+
+    def test_edit_of_failed_generate_is_skipped(self):
+        def behave(k, a, j):
+            return (5, {"error": {"detail": {}}}) if k == "g1" else (0, {"id": k})
+        ents = [entry("g1"), entry("g2"), entry("e1", "edit", source="g1"),
+                entry("e2", "edit", source="g2")]
+        counts, stop, _, ev = self.go_parallel(ents, behave)
+        self.assertEqual((counts["done"], counts["failed"]), (2, 2))
+        self.assertNotIn("e1", [x[1] for x in ev])
+
+    def test_stop_lets_running_jobs_finish_and_starts_nothing_new(self):
+        def behave(k, a, j):
+            return (6, {"error": {"kind": "unavailable"}}) if k == "g0" else (0, {"id": k})
+        ents = [entry("g%d" % i) for i in range(8)]
+        counts, stop, _, ev = self.go_parallel(ents, behave)
+        self.assertIn("unavailable", stop)
+        started = [x[1] for x in ev if x[0] == "start"]
+        self.assertLess(len(started), 8)
+        self.assertEqual(counts["done"] + counts["failed"] + counts["remaining"], 8)
+        jobs = B.load_jobs(self.jobs)
+        for k in started:
+            if k != "g0":
+                self.assertEqual(jobs[k], k)
+
+    def test_job_id_from_own_stderr_is_pending_while_running(self):
+        seen = {}
+
+        def behave(k, a, j):
+            j("JOWN-" + k)
+            seen[k] = dict(B.load_jobs(self.jobs)["_pending"])
+            return 0, {"id": "JOWN-" + k}
+        ents = [entry("g%d" % i) for i in range(3)]
+        self.go_parallel(ents, behave)
+        for k in ("g0", "g1", "g2"):
+            self.assertEqual(seen[k][k], "JOWN-" + k)
+        self.assertEqual(B.load_jobs(self.jobs)["_pending"], {})
+
+    def test_submitted_false_job_id_is_never_recorded(self):
+        noted = []
+        res = [(7, {"error": {"job_id": "OTHER", "detail": {"submitted": False}}}),
+               (0, {"id": "J"})]
+        jid = B.run_entry(entry("a"), {}, lambda a, t, j=None: res.pop(0), lambda s: None,
+                          None, noted.append)
+        self.assertEqual((jid, noted), ("J", []))
+
+    def test_run_reads_job_id_from_stderr(self):
+        script = ("import sys,json;sys.stderr.write('waiting for earlier job e1e1e1e1-x\\n');"
+                  "sys.stderr.write('job 0a1b2c3d-4e5f queued (0m00s)\\n');sys.stderr.flush();"
+                  "print(json.dumps({'id': '0a1b2c3d-4e5f'}, indent=2))")
+        got = []
+        code, data = B.run([sys.executable, "-c", script], 30, got.append)
+        self.assertEqual((code, data["id"], got), (0, "0a1b2c3d-4e5f", ["0a1b2c3d-4e5f"]))
+
+    def test_job_id_in(self):
+        self.assertEqual(B.job_id_in("job 9e588940-3f8a queued (0m03s)\n"), "9e588940-3f8a")
+        self.assertIsNone(B.job_id_in("waiting for earlier job 9e588940-3f8a to finish"))
+        self.assertIsNone(B.job_id_in("sectilia: your job queue is full; waiting"))
 
     def test_skip_existing_and_record(self):
         e1, e2 = entry("a"), entry("b")
@@ -402,29 +485,44 @@ class BatchTests(unittest.TestCase):
         self.assertEqual(len(self.sleeps), 1)
         self.assertEqual(counts["done"], 1)
 
-    def test_local_timeout_stops_cleanly_and_keeps_pending(self):
+    def test_local_timeout_with_known_job_waits_on_it(self):
         import subprocess
-        err = {"error": {"job_id": "JX", "detail": {"submitted": True}}}
-        results = [(7, err), subprocess.TimeoutExpired("sectilia", 1)]
+        calls = []
+        results = [subprocess.TimeoutExpired("sectilia", 1), (0, {"id": "JX"})]
 
-        def runner(argv, timeout):
+        def runner(argv, timeout, on_job=None):
+            calls.append(argv[:3])
+            if argv[1] == "generate":
+                on_job("JX")
             r = results.pop(0)
             if isinstance(r, Exception):
                 raise r
             return r
         counts, stop = B.run_manifest([entry("a")], None, self.jobs, runner, lambda s: None,
                                       lambda m: None, self.failed)
+        self.assertIsNone(stop)
+        self.assertEqual(calls[1], ["sectilia", "wait", "JX"])
+        self.assertEqual(B.load_jobs(self.jobs)["a"], "JX")
+
+    def test_local_timeout_without_job_id_stops_and_resumes_pending(self):
+        import subprocess
+
+        def runner(argv, timeout, on_job=None):
+            raise subprocess.TimeoutExpired("sectilia", 1)
+        B.save_jobs({"_pending": {"b": "JB"}}, self.jobs)
+        counts, stop = B.run_manifest([entry("a")], None, self.jobs, runner, lambda s: None,
+                                      lambda m: None, self.failed)
         self.assertIn("local timeout", stop)
-        self.assertEqual(B.load_jobs(self.jobs)["_pending"], {"a": "JX"})
-        # next run resumes with wait, not a resubmit
+        self.assertEqual(B.load_jobs(self.jobs)["_pending"], {"b": "JB"})
+        # a pending job resumes with wait, not a resubmit
         calls = []
 
-        def runner2(argv, timeout):
+        def runner2(argv, timeout, on_job=None):
             calls.append(argv)
-            return 0, {"id": "JX"}
-        counts, stop = B.run_manifest([entry("a")], None, self.jobs, runner2, lambda s: None,
+            return 0, {"id": "JB"}
+        counts, stop = B.run_manifest([entry("b")], None, self.jobs, runner2, lambda s: None,
                                       lambda m: None, self.failed)
-        self.assertEqual(calls[0][:3], ["sectilia", "wait", "JX"])
+        self.assertEqual(calls[0][:3], ["sectilia", "wait", "JB"])
         self.assertEqual(counts["done"], 1)
         self.assertEqual(B.load_jobs(self.jobs)["_pending"], {})
 
