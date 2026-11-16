@@ -205,3 +205,37 @@ would help.
     Letting one machine keep its 3 allowed jobs in flight (or a raised per-user
     limit for beta testers) would cut that to under 2 days without breaking the
     small-batch rule.
+33. **About one in five element generates fails the chroma-key border check
+    even at tolerance 60.** Across areas 3-10, 19 of 89 look-0 sprites failed
+    `chroma_key_border` on all 4 attempts (worst pixel 61-192 away from the
+    median), typically tall or hanging objects (chandelier, desk, painting,
+    safe, hamper). Each failure burns four generations and a cold-queue slot.
+    Retrying with background `null` always worked, so the fallback is cheap but
+    manual for us. A server-side fallback (retry with `null` and an alpha
+    matte when the border check fails twice) or a looser per-job border check
+    would remove about 20 failed jobs per 90.
+34. **Edits keep eating pale parts, and "thin dark outline around every pale
+    part" is the fix that works.** In 8 of 178 look edits (white salt lamp,
+    cream painted-iron table, porcelain hornbill, opaline lamp shade, cream
+    urn, ash bureau, ...) the keyed edit deleted the pale areas. Re-editing
+    with background `null` plus that phrase kept all of them whole. See item 25;
+    it would be better if the key colour were chosen against the subject.
+35. **Portrait generates come back turned three-quarters and larger than their
+    edits, whatever `--facing front` says.** Each of the 9 new cast sources was
+    3/4 on, while expression edits of them were front-on and 20-30% smaller.
+    We now treat the generate as a source and make the final neutral an edit of
+    the happy image, which lines up with the other expressions.
+36. **A common noun in a subject becomes the literal object.** "a fine spray
+    rose" gave a brass pipe wearing a flower, "rose heads" put roses on the
+    watering cans. Rewording to "perforated sprinkler nozzle" fixed both. Same
+    family as item 16.
+37. **Switching between generate and edit still costs a cold start of 7-12
+    minutes, and `--timeout` is still not honoured while queued.** Running every
+    generate of a wing before any edit (the batch runner now orders them so)
+    cut this to about one cold start per phase. A warm pool shared by both
+    command types would be the real fix.
+38. **Room scenes ignore "empty floor" and "wide".** The first Fossil Gallery
+    came back with a giant skeleton spine lying down the middle of the floor,
+    and the Cloakroom and Mineral Vault came back as narrow corridors. Spelling
+    out "spanning almost the full width of the frame, nothing at all on the
+    floor" fixed all three on the second try.
