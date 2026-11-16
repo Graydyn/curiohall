@@ -197,3 +197,11 @@ would help.
     the glasshouse, one deleted the courtyard's brick paving. "Make only
     subtle changes, do not move, redraw or re-frame" was in the instruction
     each time. A strength or "max change" knob for edit would help.
+32. **One job per machine is now the bottleneck for a real asset list.** The
+    service allows 3 jobs queued per user, but the CLI's machine lock sends only
+    one at a time. Our remaining art (~1,400 generates, ~2,800 look edits, ~58
+    scenes, ~55 panels) at a measured median of 64 s per generate and 96 s per
+    edit is roughly 4-5 days of continuous generation, before cold starts.
+    Letting one machine keep its 3 allowed jobs in flight (or a raised per-user
+    limit for beta testers) would cut that to under 2 days without breaking the
+    small-batch rule.
