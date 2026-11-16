@@ -10492,7 +10492,7 @@
    },
    {
     "caption": "One drawer of the desk sticks fast, and no one has dared to force it in twenty years.",
-    "subject": "close view of a big mahogany desk with one drawer shut tight, Cornelia Wren, an elderly formidable lady curator with silver-grey hair in a bun and a dark teal high-collared dress, studying it with arms folded while Professor Aldous Finch, a thin absent-minded elderly ornithologist in a rumpled tweed coat with binoculars round his neck, peers over her shoulder holding a field notebook; warm lamplight, walnut panelling"
+    "subject": "close view of a big mahogany desk with one drawer shut tight, Cornelia Wren, an elderly formidable lady curator with silver-grey hair in a bun and a dark teal high-collared dress, studying it with arms folded while Professor Aldous Finch, a thin gaunt elderly ornithologist with wild untidy white hair, clean-shaven, round wire spectacles, in a rumpled tweed coat with binoculars round his neck, peers over her shoulder holding a field notebook; warm lamplight, walnut panelling"
    }
   ],
   "cast": [
@@ -10507,7 +10507,7 @@
   "panels": [
    {
     "caption": "The Tea Room doors swing wide, and a smell of lemon, cardamom, and long-cold ashes drifts out. Every table is laid for four, as if the guests had only stepped out for a moment.",
-    "subject": "the doors of a Victorian tea room swing open on tables laid for four with white cloths, china cups and silver, an old samovar and cold ash in a hearth, lace-curtained windows at dusk, dust motes in warm light, nobody there"
+    "subject": "a full-frame view inside a Victorian tea room at dusk: round tables laid for four with white cloths, china cups and silver, a samovar and a cold hearth, tall lace-curtained windows with evening light, cream and teal walls, dust motes in warm light, nobody there, the painting fills the whole frame"
    },
    {
     "caption": "The Society runs on tea, as everyone knows. Without it, nothing in the Hall has quite the right temperature.",
@@ -10530,7 +10530,7 @@
    },
    {
     "caption": "Somewhere in the rafters, something rustles that is not a mouse.",
-    "subject": "Cornelia Wren, an elderly formidable lady curator with silver-grey hair in a bun and a dark teal high-collared dress, and Professor Aldous Finch, a thin absent-minded elderly ornithologist in a rumpled tweed coat with binoculars round his neck, look up into the dark rafters of a tall bird gallery where something feathered rustles; a column of gold skylight, glass cases of stuffed birds, drifting feathers"
+    "subject": "Cornelia Wren, an elderly formidable lady curator with silver-grey hair in a bun and a dark teal high-collared dress, and Professor Aldous Finch, a thin gaunt elderly ornithologist with wild untidy white hair, clean-shaven, round wire spectacles, in a rumpled tweed coat with binoculars round his neck, look up into the dark rafters of a tall bird gallery where something feathered rustles; a column of gold skylight, glass cases of stuffed birds, drifting feathers"
    }
   ],
   "cast": [
@@ -10549,7 +10549,7 @@
    },
    {
     "caption": "No living butterfly has flown here in twenty years. Barnaby swears one landed on his hat.",
-    "subject": "Cornelia Wren, an elderly formidable lady curator with silver-grey hair in a bun and a dark teal high-collared dress, and Professor Aldous Finch, a thin absent-minded elderly ornithologist in a rumpled tweed coat with binoculars round his neck, stand inside a Victorian glasshouse full of ferns and pinned butterfly cases; one blue butterfly rests on the professor's hat and he is trying not to move; warm humid light"
+    "subject": "Cornelia Wren, an elderly formidable lady curator with silver-grey hair in a bun and a dark teal high-collared dress, and Professor Aldous Finch, a thin gaunt elderly ornithologist with wild untidy white hair, clean-shaven, round wire spectacles, in a rumpled tweed coat with binoculars round his neck, stand inside a Victorian glasshouse full of ferns and pinned butterfly cases; one blue butterfly rests on the professor's hat and he is trying not to move; warm humid light"
    }
   ],
   "cast": [
@@ -10587,7 +10587,7 @@
    },
    {
     "caption": "Aldous Finch says it is the quietest room in the Hall. Barnaby says that is exactly why he does not like it.",
-    "subject": "Professor Aldous Finch, a thin absent-minded elderly ornithologist in a rumpled tweed coat with binoculars round his neck, and Barnaby Pluck, a cheerful clean-shaven young porter in a green waistcoat with rolled sleeves, walk uneasily through a hall of towering pale fossil bones, the young porter glancing nervously at the shadows while the professor smiles happily; grey dust on the floor"
+    "subject": "Professor Aldous Finch, a thin gaunt elderly ornithologist with wild untidy white hair, clean-shaven, round wire spectacles, in a rumpled tweed coat with binoculars round his neck, and Barnaby Pluck, a cheerful clean-shaven young porter in a green waistcoat with rolled sleeves, walk uneasily through a hall of towering pale fossil bones, the young porter glancing nervously at the shadows while the professor smiles happily; grey dust on the floor"
    }
   ],
   "cast": [
@@ -11246,7 +11246,7 @@
   "panels": [
    {
     "caption": "A reedy voice drifts down from the east rafters, along with a few feathers. Professor Aldous Finch, ornithologist and absent-minded guardian of the natural history wings, has been living up there with the swifts for twenty years, and has just noticed that someone has opened the doors.",
-    "subject": "Professor Aldous Finch, a thin absent-minded elderly ornithologist in a rumpled tweed coat with binoculars round his neck, leans out from the east rafters of a great Victorian museum hall among swifts and a few drifting feathers, peering down in surprise through his spectacles; warm evening light through high windows"
+    "subject": "Professor Aldous Finch, a thin gaunt elderly ornithologist with wild untidy white hair, clean-shaven, round wire spectacles, in a rumpled tweed coat with binoculars round his neck, leans out from the east rafters of a great Victorian museum hall among swifts and a few drifting feathers, peering down in surprise through his spectacles; warm evening light through high windows"
    }
   ],
   "cast": [
@@ -11352,10 +11352,12 @@
   "trigger": "task:20_11",
   "panels": [
    {
-    "caption": "Volume I: The Hall Wakes. The gates are open, the Atrium is lit, and the first wings have been restored. A rival collector arrives in the Hall of Feathers, and the Society's old rhythm begins, at last, to turn."
+    "caption": "Volume I: The Hall Wakes. The gates are open, the Atrium is lit, and the first wings have been restored. A rival collector arrives in the Hall of Feathers, and the Society's old rhythm begins, at last, to turn.",
+    "subject": "Cornelia Wren, an elderly formidable lady curator with silver-grey hair in a bun and a dark teal high-collared dress, and Sam Vane, a suave man in his thirties in a well-cut dark frock coat, stand on the stairs of a restored grand Victorian museum atrium glowing with warm gaslight, exhibits uncovered, the great doors open behind them, evening light"
    },
    {
-    "caption": "The founder's bust looks on from the stairs, and for the first time in twenty years, it seems to approve."
+    "caption": "The founder's bust looks on from the stairs, and for the first time in twenty years, it seems to approve.",
+    "subject": "a marble bust of a Victorian gentleman on a pedestal at the turn of a grand marble staircase in warm light, Cornelia Wren, an elderly lady curator with silver-grey hair in a bun and a dark teal dress, gazing up at it with folded arms and a faint smile; soft golden gaslight, calm"
    }
   ],
   "cast": [

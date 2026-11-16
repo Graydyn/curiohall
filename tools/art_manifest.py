@@ -34,8 +34,9 @@ CAST_DESC = {
                 "in a severe high-collared dark teal Victorian dress with a pocket watch",
     "barnaby": "Barnaby Pluck, a cheerful clean-shaven young porter of about twenty with "
                "tousled brown hair, in a green porter's waistcoat and rolled sleeves",
-    "aldous": "Professor Aldous Finch, an absent-minded ornithologist, in a rumpled tweed "
-              "coat with a field notebook and binoculars",
+    "aldous": "Professor Aldous Finch, an absent-minded elderly ornithologist of about seventy, "
+              "thin and gaunt with wild untidy white hair, clean-shaven, round wire spectacles, in a "
+              "rumpled tweed coat with a field notebook and binoculars",
     "sam": "Sam Vane, a suave rival collector, charming and a little untrustworthy, "
            "in a well-cut dark frock coat",
     "mark": "Mark Bloom, a shy conservatory gardener, in a gardener's apron "
@@ -208,15 +209,17 @@ def portraits(areas, style_keys, style_pass=False):
     for sp in C.CAST:
         nk = "portrait_%s_neutral" % sp
         if sp == "ambrose":
-            subject = ("%s, a formal oil portrait of a man seen to the waist, "
-                       "inside a heavy ornate gilded picture frame, painted Victorian "
-                       "museum style, soft Ghibli-like light" % CAST_DESC[sp] + BACKDROP)
+            subject = ("%s, a formal oil portrait of a man seen to the waist, painted on a "
+                       "dark teal canvas, inside a complete heavy ornate gilded picture frame "
+                       "with all four sides visible, soft Ghibli-like light" % CAST_DESC[sp])
         else:
             subject = ("%s, bust-to-knee character portrait, painted Victorian museum "
                        "style, soft Ghibli-like light" % CAST_DESC[sp] + BACKDROP)
-        if sp == "ambrose":   # neutral only: the generate is the final file
+        if sp == "ambrose":   # neutral only: the generate is the final file, canvas kept
             out += styled_generate(nk, C.portrait_path(sp, "neutral"), {
-                "subject": subject[:500], "spec": PORTRAIT_SPEC, "facing": "front"},
+                "subject": subject[:500],
+                "spec": spec([512, 768], anchor="center", margin=0, background=KEEP),
+                "facing": "front"},
                 style_keys, style_pass)
             continue
         # The generate comes back turned and larger than its expression edits, so

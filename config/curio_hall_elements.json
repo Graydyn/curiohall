@@ -2443,15 +2443,16 @@
    },
    {
     "name": "Gilded frame",
-    "instruction": "make the case brass-framed with a gold finial and glowing within, keep the same object, framing, viewpoint and lighting"
+    "instruction": "make the case brass-framed with a gold finial and glowing within, with a thin dark outline around every pale part, keep the same object, framing, viewpoint and lighting"
    },
    {
     "name": "Bell jar",
-    "instruction": "make the case a tall glass bell jar over a single curling fern, keep the same object, framing, viewpoint and lighting"
+    "instruction": "make the case a tall glass bell jar over a single curling fern, with a thin dark outline around every pale part, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": "beat_d024",
-  "size": 142
+  "size": 142,
+  "art_bg": "soft"
  },
  {
   "id": "08_005",
@@ -2837,7 +2838,7 @@
    },
    {
     "name": "Painted wall",
-    "instruction": "make the ammonites painted in bright coral, cream and teal on a pale plaster ground, keep the same object, framing, viewpoint and lighting"
+    "instruction": "make the ammonites painted in bright coral, cream and teal on a pale plaster ground, with a thin dark outline around every pale part, keeping the grey rock frame around the wall and the same flat front view, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null,
@@ -2899,15 +2900,16 @@
    },
    {
     "name": "Polished and lit",
-    "instruction": "make the lamp bright polished brass with a warm yellow flame glowing in clean glass, keep the same object, framing, viewpoint and lighting"
+    "instruction": "make the lamp bright polished brass with a warm yellow flame glowing in clean glass, with a thin dark outline around every pale part, keep the same object, framing, viewpoint and lighting"
    },
    {
     "name": "Blackened iron",
-    "instruction": "recast the lamp in dark blackened iron with a cold blue-green flame and a copper hook, keep the same object, framing, viewpoint and lighting"
+    "instruction": "recast the lamp in dark blackened iron with a cold blue-green flame and a copper hook, with a thin dark outline around every pale part, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null,
-  "size": 126
+  "size": 126,
+  "art_bg": "soft"
  },
  {
   "id": "10_002",
@@ -3027,15 +3029,16 @@
    },
    {
     "name": "Rose quartz",
-    "instruction": "make the crystals soft translucent rose pink with a pearly glow on the grey base, keep the same object, framing, viewpoint and lighting"
+    "instruction": "make the crystals soft translucent rose pink with a pearly glow on the grey base, with a thin dark outline around every pale part, keep the same object, framing, viewpoint and lighting"
    },
    {
     "name": "Amethyst points",
-    "instruction": "make the crystals deep violet with pale tips on a dark stone base, keep the same object, framing, viewpoint and lighting"
+    "instruction": "make the crystals deep violet with pale tips on a dark stone base, with a thin dark outline around every pale part, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null,
-  "size": 126
+  "size": 126,
+  "art_bg": "soft"
  },
  {
   "id": "10_006",
@@ -3155,15 +3158,16 @@
    },
    {
     "name": "Dripping wet",
-    "instruction": "make the formations wet and glistening with silver droplets and a thin green algae sheen, keep the same object, framing, viewpoint and lighting"
+    "instruction": "make the formations wet and glistening with silver droplets and a thin green algae sheen, with a thin dark outline around every pale part, keep the same object, framing, viewpoint and lighting"
    },
    {
     "name": "Crystal frost",
-    "instruction": "make the formations crusted with sparkling white calcite crystals and a pale blue shadow, keep the same object, framing, viewpoint and lighting"
+    "instruction": "make the formations crusted with sparkling white calcite crystals and a pale blue shadow, with a thin dark outline around every pale part, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null,
-  "size": 126
+  "size": 126,
+  "art_bg": "soft"
  },
  {
   "id": "10_010",
