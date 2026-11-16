@@ -41,16 +41,23 @@ CAST_DESC = {
            "in a well-cut dark frock coat",
     "mark": "Mark Bloom, a shy conservatory gardener, in a gardener's apron "
             "with potting soil on his hands",
-    "anjali": "Anjali Bose, an expedition chef and confectioner, in a chef's apron "
-              "with a tea-room tray of sweets",
+    "anjali": "Anjali Bose, an expedition chef and confectioner, a warm round-faced South Asian "
+              "woman of about forty with long black hair in a thick plait over one shoulder, in "
+              "a white chef's jacket and a burgundy apron, carrying a tea-room tray of sweets",
     "hugo": "Hugo Pemberton, a clockwork engineer, in a leather apron with brass "
             "tools and goggles pushed up on his forehead",
-    "prudence": "Prudence Quill, an exacting archivist, in a neat dark dress with "
-                "ink-stained cuffs and a ledger",
-    "zephyrine": "Zephyrine Blackwood, a mysterious cartographer just back from the "
-                 "unmapped edges of the world, in a travel-worn coat with rolled charts",
-    "rosalind": "Rosalind Thorne, a celebrated botanical illustrator and society "
-                "patroness, in an elegant gown with a sketchbook and paintbrush",
+    "prudence": "Prudence Quill, an exacting archivist, a thin severe woman of about forty "
+                "with straw-blonde hair scraped into a tight bun and gold pince-nez, in a "
+                "narrow high-necked black dress with burgundy trim and white ink-stained cuffs, "
+                "holding a ledger",
+    "zephyrine": "Zephyrine Blackwood, a mysterious cartographer back from the unmapped edges of "
+                 "the world, a sun-tanned freckled woman of about thirty-five with short cropped "
+                 "jet-black hair under a battered wide-brimmed explorer's hat, in a long brown "
+                 "leather duster coat, trousers and tall boots, rolled charts under her arm",
+    "rosalind": "Rosalind Thorne, a celebrated botanical illustrator and society patroness, a "
+                "young woman of about twenty-five with abundant copper-red hair in elaborate "
+                "curls, in a wide bustled cream and burgundy silk gown with lace, holding a "
+                "sketchbook and a paintbrush",
     "ambrose": "Ambrose Hall, the vanished founder of Curio Hall, painted as a formal "
                "founder's portrait in period Victorian dress",
 }
