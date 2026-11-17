@@ -55,7 +55,11 @@ func _on_removed(pos: Vector2i) -> void:
 
 func _on_removed_clears_selection(pos: Vector2i) -> void:
     if selected == pos:
-        selected = Vector2i(-1, -1)
+        _select(Vector2i(-1, -1))
+
+func _select(pos: Vector2i) -> void:
+    selected = pos
+    queue_redraw()
 
 func _on_opened(pos: Vector2i, _new_state: int) -> void:
     if _views.has(pos):
@@ -65,6 +69,8 @@ func _draw() -> void:
     for y in range(board.height):
         for x in range(board.width):
             draw_rect(Rect2(x * CELL, y * CELL, CELL - 2, CELL - 2), Color(0, 0, 0, 0.15), true)
+    if selected != Vector2i(-1, -1):
+        draw_rect(Rect2(selected.x * CELL, selected.y * CELL, CELL - 2, CELL - 2), Color(1, 0.85, 0.3), false, 4.0)
 
 func _unhandled_input(event: InputEvent) -> void:
     if not input_enabled: return
@@ -95,14 +101,20 @@ func _end_drag(pos: Vector2i) -> void:
     var now := Time.get_unix_time_from_system()
     if pos == from:
         var item := board.item_at(from)
-        if item != null and board.state_at(from) == MergeBoard.CellState.OPEN \
-                and (item.gen != null or item.chest != null or ConfigDB.items.get(item.type, {}).has("CollectRewards")):
+        var open := item != null and board.state_at(from) == MergeBoard.CellState.OPEN
+        # The first tap only selects an item; tapping the already-selected item
+        # (or double-tapping) activates it: consume, open chest, or generate.
+        var tappable: bool = open and (item.gen != null or item.chest != null \
+                or ConfigDB.items.get(item.type, {}).has("CollectRewards"))
+        if tappable and selected == from:
             var res: Dictionary = tap_fn.call(from, now)
             if not res["ok"] and res["reason"] != "" and res["reason"] != "not_tappable":
                 action_rejected.emit(res["reason"])
-            selected = Vector2i(-1, -1)
-        elif item != null and board.state_at(from) == MergeBoard.CellState.OPEN:
-            selected = from
+            # Generators stay selected so repeat taps keep producing.
+            if item.gen == null:
+                _select(Vector2i(-1, -1))
+        elif open:
+            _select(from)
         _snap_back(from)
         return
     if pos == Vector2i(-1, -1):
