@@ -45,13 +45,15 @@ func test_move_and_occupied() -> void:
     assert_eq(board.item_at(Vector2i(2, 2)).type, "101")
     assert_eq(board.move(Vector2i(2, 2), Vector2i(1, 0)), "occupied")
 
-func test_sell_uses_selling_price_and_rejects_zero() -> void:
+func test_sell_price_doubles_per_tier_and_rejects_specials() -> void:
     board.place(Vector2i(0, 0), ItemInstance.make("103"))
     var res := board.sell(Vector2i(0, 0))
     assert_true(res["ok"])
-    assert_eq(res["coins"], 1)
-    board.place(Vector2i(0, 0), ItemInstance.make("101"))
-    assert_false(board.sell(Vector2i(0, 0))["ok"])
+    assert_eq(res["coins"], 4)
+    board.place(Vector2i(0, 0), ItemInstance.make("2501"))
+    var bad := board.sell(Vector2i(0, 0))
+    assert_false(bad["ok"])
+    assert_eq(bad["reason"], "unsellable")
 
 func test_spiral_spawn_prefers_near_cell() -> void:
     var pos := board.spawn("201", Vector2i(3, 4))

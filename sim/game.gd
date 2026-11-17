@@ -50,6 +50,13 @@ func merge(a: Vector2i, b: Vector2i, now: float) -> String:
             Rewards.grant(token, self, now)
     return err
 
+## Sell the item at `pos` for its coin price (see ItemInfo.sell_price).
+func sell(pos: Vector2i) -> Dictionary:
+    var res := board.sell(pos)
+    if res["ok"]:
+        wallet.add_coins(int(res["coins"]))
+    return res
+
 func tap(pos: Vector2i, now: float) -> Dictionary:
     var item := board.item_at(pos)
     if item == null:

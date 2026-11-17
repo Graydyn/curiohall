@@ -112,7 +112,7 @@ func sell(pos: Vector2i) -> Dictionary:
     var item := item_at(pos)
     if item == null or state_at(pos) != CellState.OPEN:
         return {"ok": false, "coins": 0, "reason": "not_open"}
-    var price := int(ConfigDB.items[item.type].get("SellingPrice", 0))
+    var price := ItemInfo.sell_price(item.type)
     if price <= 0:
         return {"ok": false, "coins": 0, "reason": "unsellable"}
     remove(pos)
