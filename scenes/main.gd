@@ -17,8 +17,6 @@ const REJECT_MESSAGES := {
     "sold_out": "Sold out",
     "out_of_stock": "Out of stock",
     "locked": "Unlocks at level 3",
-    "already_bought": "Already purchased",
-    "expired": "Offer expired",
     "unknown": "Unavailable",
     "not_today": "That task isn't on today's docket",
     "already_done": "Already completed",
@@ -34,6 +32,12 @@ const REJECT_MESSAGES := {
     "storage_full": "Storage is full - unlock another slot",
     "unsellable": "This item can't be sold",
     "storage_maxed": "Every storage slot is unlocked",
+    "stack_limit": "You can hold at most 60 days of membership",
+    "play_pass": "Included with Play Pass",
+    "not_member": "Members only",
+    "already_claimed": "Already claimed today",
+    "ending_soon": "Your membership ends in %d days",
+    "last_day": "Your membership ends today",
 }
 
 var game: Game
@@ -66,6 +70,7 @@ func _ready() -> void:
     game = SaveManager.load_game()
     if game == null:
         game = Game.fresh(now)
+    game.tz_offset_seconds = int(Time.get_time_zone_from_system()["bias"]) * 60
     game.orders.fill(game.player.level, game.rng, now)
     board_view.setup(game)
     board_view.position = Vector2((720 - MergeBoard.WIDTH * BoardView.CELL) / 2.0, 260)
@@ -101,7 +106,7 @@ func _ready() -> void:
     $UI.add_child(gala_button)
     game.boost.boost_changed.connect(_refresh_gala_button)
     _refresh_gala_button()
-    for sig in [game.board.item_placed, game.board.item_removed, game.wallet.changed, game.shop.shop_changed, game.deals.deals_changed, game.campaign.task_completed, game.intimacy.satchel_changed, game.intimacy.intimacy_changed, game.specials.special_changed, game.events.event_changed, game.boost.boost_changed, game.player.rewards_changed]:
+    for sig in [game.board.item_placed, game.board.item_removed, game.wallet.changed, game.shop.shop_changed, game.deals.deals_changed, game.campaign.task_completed, game.intimacy.satchel_changed, game.intimacy.intimacy_changed, game.specials.special_changed, game.events.event_changed, game.boost.boost_changed, game.player.rewards_changed, game.membership.membership_changed]:
         sig.connect(func(..._args): _save_pending = true)
     var t := Timer.new()
     t.wait_time = 1.0
@@ -157,12 +162,28 @@ func _show_toast(reason: String) -> void:
     _toast.visible = true
     _toast_timer.start()
 
+## Pays the daily gem allowance and shows a calm lapse reminder at most once
+## per local day. Toasts reuse the reject-message channel for their copy.
+func _tick_membership(now: float) -> void:
+    game.tick_membership(now)
+    var key := game.take_membership_reminder(now)
+    if key == "ending_soon":
+        _show_toast_text(String(REJECT_MESSAGES[key]) % game.membership.days_left(now))
+    elif key != "":
+        _show_toast(key)
+
+func _show_toast_text(text: String) -> void:
+    _toast.text = text
+    _toast.visible = true
+    _toast_timer.start()
+
 func _flush_save() -> void:
     game.tick_shop(Time.get_unix_time_from_system())
     game.tick_orders(Time.get_unix_time_from_system())
     game.tick_gifts(Time.get_unix_time_from_system())
     game.tick_events(Time.get_unix_time_from_system())
     game.tick_boost(Time.get_unix_time_from_system())
+    _tick_membership(Time.get_unix_time_from_system())
     if _save_pending:
         _save_pending = false
         SaveManager.save(game)
