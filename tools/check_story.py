@@ -70,6 +70,43 @@ def repetition_problems(entries):
     return problems
 
 
+def area_first_days(els):
+    """{area: first task day} from the elements' task keys ("<day>_<n>")."""
+    first = {}
+    for e in els:
+        for k in e["tasks"]:
+            d = int(k.split("_")[0])
+            first[e["area"]] = min(first.get(e["area"], d), d)
+    return first
+
+
+def panel_day(trigger, first_day):
+    """The story day a panel scene plays on, or None when its trigger has no day."""
+    kind, _, arg = trigger.partition(":")
+    if kind == "day":
+        return int(arg)
+    if kind == "task":
+        return int(arg.split("_")[0])
+    if kind == "area_opened":
+        return first_day.get(int(arg))
+    return None
+
+
+def panel_cast_problems(panels, first_day):
+    """Panels whose cast (scene-level or per panel) shows someone before their arrival day."""
+    problems = []
+    for s in panels:
+        day = panel_day(s.get("trigger", ""), first_day)
+        if day is None:
+            continue
+        for i, p in enumerate(s.get("panels", [])):
+            for who in p.get("cast", s.get("cast", [])):
+                if who in UNLOCK and UNLOCK[who] > day:
+                    problems.append("panel %s_%d (day %d) shows %s before arrival day %d"
+                                    % (s["id"], i, day, who, UNLOCK[who]))
+    return problems
+
+
 def check(through=None):
     fin, els, _mt = story_days.day_finals()
     last_day = max(fin)
@@ -138,6 +175,7 @@ def check(through=None):
         for k in MILESTONES:
             if trig["task:" + k] != 1:
                 problems.append("task:%s panels: %d" % (k, trig["task:" + k]))
+        problems += panel_cast_problems(panels, area_first_days(els))
         caps = Counter(p["caption"] for s in panels for p in s["panels"])
         problems += ["repeated caption: %r" % c[:40] for c, n in caps.items() if n > 1]
     return problems, len(beats), sum(1 for s in scenes if s["kind"] == "panel")

@@ -42,6 +42,26 @@ class RepetitionGuardTest(unittest.TestCase):
         mixed = pairs[:1] + [("The Pin Board", beat("sam", "Do look at this pin board, darling."))] * 4
         self.assertEqual(check_story.template_problems(mixed), [])
 
+    def test_panel_cast_before_arrival_flagged(self):
+        first = {13: 44}
+        panels = [
+            {"id": "chron", "trigger": "task:47_11", "cast": ["zephyrine", "cornelia"],
+             "panels": [{"caption": "a"}]},
+            {"id": "open13", "trigger": "area_opened:13", "cast": ["cornelia"],
+             "panels": [{"caption": "b", "cast": ["prudence"]}]},
+            {"id": "arr", "trigger": "day:90", "cast": ["zephyrine"], "panels": [{"caption": "c"}]},
+        ]
+        problems = check_story.panel_cast_problems(panels, first)
+        self.assertEqual(len(problems), 2)
+        self.assertIn("chron_0 (day 47) shows zephyrine", problems[0])
+        self.assertIn("open13_0 (day 44) shows prudence", problems[1])
+
+    def test_panel_day(self):
+        self.assertEqual(check_story.panel_day("day:60", {}), 60)
+        self.assertEqual(check_story.panel_day("task:52_11", {}), 52)
+        self.assertEqual(check_story.panel_day("area_opened:14", {14: 48}), 48)
+        self.assertIsNone(check_story.panel_day("element:02_001", {}))
+
     def test_real_story_config_has_no_problems(self):
         problems, _beats, _panels = check_story.check()
         self.assertEqual(problems, [])

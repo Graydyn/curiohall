@@ -11426,7 +11426,7 @@
   "panels": [
    {
     "caption": "Volume IV: Where I Shall Be. The Great Relief Model rises from its crates, and the Map Room is whole. On the Atlas Lectern, a page lies open to a blank map with a single title, in the founder's own hand.",
-    "subject": "Zephyrine Blackwood, a sun-tanned freckled woman of about thirty-five with short black hair under a battered wide-brimmed hat and a long brown leather duster coat, and Cornelia Wren, an elderly formidable lady curator with silver-grey hair in a bun and a dark teal high-collared dress, admire a large flat table-top plaster relief model of one invented island with jagged mountains and glass lakes, not the real world, in a Victorian map room, an open atlas on a lectern behind; no lettering"
+    "subject": "Sam Vane, a suave man in his thirties with a neat moustache in a well-cut dark frock coat, and Cornelia Wren, an elderly formidable lady curator with silver-grey hair in a bun and a dark teal high-collared dress, admire a large flat table-top plaster relief model of one invented island with jagged mountains and glass lakes, not the real world, in a Victorian map room, an open atlas on a lectern behind; no lettering"
    },
    {
     "caption": "The Library is next, and the founder's own folio.",
@@ -11434,7 +11434,7 @@
    }
   ],
   "cast": [
-   "zephyrine",
+   "sam",
    "cornelia"
   ]
  },
@@ -11445,16 +11445,16 @@
   "panels": [
    {
     "caption": "Volume V: The Founder's Folio. The Library of Expeditions is restored, and the blue-bound folio is opened at last. The final page reads: The Hall was never meant to be finished. It was meant to be kept.",
-    "subject": "a full-frame painting filling the whole frame: Cornelia Wren, an elderly formidable lady curator with silver-grey hair in a bun and a dark teal high-collared dress, and Prudence Quill, a thin severe woman of about forty with straw-blonde hair in a tight bun and gold pince-nez, in a narrow black dress with burgundy trim, bend over a huge ancient blue leather-bound folio lying open on an oak stand, reading its last page by lamplight, tall bookshelves of a Victorian library all around them"
+    "subject": "a full-frame painting filling the whole frame: Cornelia Wren, an elderly formidable lady curator with silver-grey hair in a bun and a dark teal high-collared dress, and Professor Aldous Finch, a thin elderly ornithologist with wild white hair, round wire spectacles and a rumpled tweed coat, bend over a huge ancient blue leather-bound folio lying open on an oak stand, reading its last page by lamplight, tall bookshelves of a Victorian library all around them"
    },
    {
     "caption": "Several pages have been cut out, with a very sharp blade, and nobody knows by whom.",
-    "subject": "a full-frame painting filling the whole frame: in a Victorian library with tall bookshelves, Prudence Quill, a thin severe woman of about forty with straw-blonde hair in a tight bun and gold pince-nez, in a narrow black dress with burgundy trim, points in alarm at a huge old book open on an oak stand with several pages cut out cleanly along the spine, leaving neat stubs; lamplight"
+    "subject": "a full-frame painting filling the whole frame: in a Victorian library with tall bookshelves, Professor Aldous Finch, a thin elderly ornithologist with wild white hair, round wire spectacles and a rumpled tweed coat, points in alarm at a huge old book open on an oak stand with several pages cut out cleanly along the spine, leaving neat stubs; lamplight"
    }
   ],
   "cast": [
    "cornelia",
-   "prudence"
+   "aldous"
   ]
  }
 ]
