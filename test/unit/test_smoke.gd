@@ -129,8 +129,8 @@ func test_shop_loop_buy_and_refresh() -> void:
     var left := int(g.shop.slots[0]["left"])
     assert_true(g.buy_shop_slot(1, 1000.0)["ok"])
     assert_eq(int(g.shop.slots[0]["left"]), left - 1)
-    # dev-stub an IAP pack -> gems, then buy a gem daily deal
-    g.buy_iap_pack("getgem_1", 1000.0)   # +100 gems
+    # grant gems, then buy a gem daily deal
+    g.wallet.add_gems(100)
     assert_true(g.buy_daily_deal(1, 1000.0)["ok"])   # 25 gems
     # save/load preserves it
     SaveManager.save(g)

@@ -3,7 +3,7 @@ extends RefCounted
 
 signal spawned(pos: Vector2i, type: String)
 
-const SAVE_VERSION := 10
+const SAVE_VERSION := 11
 
 var board: MergeBoard
 var wallet: EnergyWallet
@@ -11,13 +11,14 @@ var player: PlayerState
 var orders: OrderBook
 var shop: ItemShop
 var deals: DailyDeals
-var iap: Iap
+var membership: Membership
 var campaign: Campaign
 var intimacy: Intimacy
 var specials: SpecialOrders
 var events: Events
 var boost: Boost
 var rng := RandomNumberGenerator.new()
+var tz_offset_seconds: int = 0   # not saved; scenes/main.gd sets it at startup
 
 static func fresh(now: float, seed_value: int = 0) -> Game:
     var g := Game.new()
@@ -34,7 +35,7 @@ static func fresh(now: float, seed_value: int = 0) -> Game:
     g.shop = ItemShop.new()
     g.shop.fill(g.rng, now)
     g.deals = DailyDeals.new()
-    g.iap = Iap.new()
+    g.membership = Membership.new()
     g.campaign = Campaign.new()
     g.intimacy = Intimacy.new()
     g.specials = SpecialOrders.new()
@@ -240,11 +241,27 @@ func skip_shop_refresh(now: float) -> Dictionary:
 func buy_daily_deal(id: int, now: float) -> Dictionary:
     return deals.buy(id, wallet, self, now)
 
-func buy_iap_pack(purchase_id: String, now: float) -> Dictionary:
-    return iap.purchase_pack(purchase_id, self, now)
+## Local calendar day index (midnight in the player's time zone).
+func local_day(now: float) -> int:
+    return floori((now + tz_offset_seconds) / 86400.0)
 
-func buy_bundle(now: float) -> Dictionary:
-    return iap.purchase_bundle(self, now)
+func tick_membership(now: float) -> void:
+    membership.tick(self, now, local_day(now))
+
+func buy_pass(now: float) -> Dictionary:
+    return membership.buy_pass(now)
+
+func refill_available(now: float) -> bool:
+    return membership.refill_available(now, local_day(now))
+
+func claim_refill(now: float) -> Dictionary:
+    return membership.claim_refill(self, now, local_day(now))
+
+func take_membership_reminder(now: float) -> String:
+    return membership.take_reminder(now, local_day(now))
+
+func set_play_pass(on: bool) -> void:
+    membership.set_play_pass(on)
 
 func complete_task(id: int, now: float) -> Dictionary:
     var res := campaign.complete_task(id, self, now)
@@ -313,7 +330,7 @@ func to_dict() -> Dictionary:
         "orders": orders.to_dict(),
         "shop": shop.to_dict(),
         "deals": deals.to_dict(),
-        "iap": iap.to_dict(),
+        "membership": membership.to_dict(),
         "campaign": campaign.to_dict(),
         "intimacy": intimacy.to_dict(),
         "specials": specials.to_dict(),
@@ -331,7 +348,7 @@ static func from_dict(d: Dictionary) -> Game:
     g.orders = OrderBook.from_dict(d["orders"])
     g.shop = ItemShop.from_dict(d["shop"])
     g.deals = DailyDeals.from_dict(d["deals"])
-    g.iap = Iap.from_dict(d["iap"])
+    g.membership = Membership.from_dict(d["membership"])
     g.campaign = Campaign.from_dict(d["campaign"])
     g.intimacy = Intimacy.from_dict(d["intimacy"])
     g.specials = SpecialOrders.from_dict(d["specials"])

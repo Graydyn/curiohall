@@ -89,21 +89,7 @@ func refresh() -> void:
             _buy_button("%sBuy %s — %d gems (stock %d)" % [tag, deal["item"], int(deal["cost_gems"]), int(deal["stock"])],
                 game.wallet.gems < int(deal["cost_gems"]),
                 func(): _do(game.buy_daily_deal(id, Time.get_unix_time_from_system())))
-    # IAP (dev stub)
-    _label("-- Get Gems (DEV STUB) --")
-    for pack in game.iap.packs():
-        var pid := String(pack["purchase_id"])
-        _buy_button("  [DEV] %s -> %s" % [pid, ", ".join(pack["goods"])],
-            false, func(): _do(game.buy_iap_pack(pid, Time.get_unix_time_from_system())))
-    var bs := game.iap.bundle_state(game, now)
-    if String(bs["reason"]) != "locked":
-        game.iap.note_seen(now)
-        bs = game.iap.bundle_state(game, now)
-    if bs["available"]:
-        _buy_button("  [DEV] Starter Bundle -> %s" % ", ".join(bs["goods"]),
-            false, func(): _do(game.buy_bundle(Time.get_unix_time_from_system())))
-    else:
-        _label("  Starter Bundle: %s" % bs["reason"])
+    _label("-- Membership --")
 
 func _do(res: Dictionary) -> void:
     if not res["ok"]:

@@ -16,8 +16,6 @@ var inventory_cfg: Dictionary = {}
 var tuning: Dictionary = {}
 var shop_slots: Array = []
 var daily_deals: Array = []
-var iap_packs: Array = []
-var bundles: Array = []
 var main_tasks: Dictionary = {}       # day:int -> Array[rows]
 var main_task_by_key: Dictionary = {} # "day_id" -> row
 var area_tasks: Dictionary = {}       # area:int -> Array[rows]
@@ -105,8 +103,6 @@ func load_all(dir: String = "res://config/") -> void:
 	tuning = _read(dir + "curio_hall_tuning.json")
 	shop_slots = _read(dir + "ShopSlotConfig.json")
 	daily_deals = _read(dir + "ShopDailyDealsConfig.json")
-	iap_packs = _read(dir + "ShopIAPConfig.json")
-	bundles = _read(dir + "BundleConfig.json")
 	for row in _read(dir + "MainTaskConfig.json"):
 		if row == null:
 			continue

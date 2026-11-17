@@ -19,7 +19,7 @@ func test_fresh_game_has_shop_surfaces() -> void:
     var g := Game.fresh(1000.0, 42)
     assert_not_null(g.shop)
     assert_not_null(g.deals)
-    assert_not_null(g.iap)
+    assert_not_null(g.membership)
     # shop filled at fresh
     for slot in g.shop.slots:
         assert_not_null(slot)
@@ -76,7 +76,7 @@ func test_save_round_trip_preserves_shop_state() -> void:
     g.wallet.add_gems(100)
     g.buy_daily_deal(1, 1000.0)
     var g2 := Game.from_dict(g.to_dict())
-    assert_eq(g2.to_dict()["save_version"], 10)
+    assert_eq(g2.to_dict()["save_version"], 11)
     assert_eq(int(g2.shop.slots[0]["left"]), int(g.shop.slots[0]["left"]))
     assert_eq(int(g2.deals.stock[1]), 0)
 
