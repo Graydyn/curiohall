@@ -96,7 +96,7 @@ func _ready() -> void:
     $UI.add_child(gala_button)
     game.boost.boost_changed.connect(_refresh_gala_button)
     _refresh_gala_button()
-    for sig in [game.board.item_placed, game.board.item_removed, game.wallet.changed, game.shop.shop_changed, game.deals.deals_changed, game.campaign.task_completed, game.intimacy.satchel_changed, game.intimacy.intimacy_changed, game.specials.special_changed, game.events.event_changed, game.boost.boost_changed]:
+    for sig in [game.board.item_placed, game.board.item_removed, game.wallet.changed, game.shop.shop_changed, game.deals.deals_changed, game.campaign.task_completed, game.intimacy.satchel_changed, game.intimacy.intimacy_changed, game.specials.special_changed, game.events.event_changed, game.boost.boost_changed, game.player.rewards_changed]:
         sig.connect(func(..._args): _save_pending = true)
     var t := Timer.new()
     t.wait_time = 1.0
@@ -106,6 +106,7 @@ func _ready() -> void:
     _setup_toast()
     board_view.action_rejected.connect(_show_toast)
     order_bar.action_rejected.connect(_show_toast)
+    inventory.action_rejected.connect(_show_toast)
 
 func _setup_toast() -> void:
     _toast = Label.new()

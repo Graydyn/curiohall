@@ -183,7 +183,7 @@ func test_special_order_smoke() -> void:
     g.campaign.done["2_7"] = true
     g.specials.maybe_activate(g.campaign, g, 1000.0)
     assert_eq(int(g.specials.current()["Id"]), 1)
-    assert_has(g.player.inventory, "1501")          # the seeded generator chain
+    assert_has(g.player.reward_stack, "1501")       # the seeded generator chain
     g.board.remove(Vector2i(3, 4))
     g.board.set_state(Vector2i(3, 4), MergeBoard.CellState.OPEN)
     g.board.place(Vector2i(3, 4), ItemInstance.make("1610"))

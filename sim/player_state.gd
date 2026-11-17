@@ -2,11 +2,16 @@ class_name PlayerState
 extends RefCounted
 
 signal leveled_up(new_level: int)
+signal rewards_changed
+
 
 var level: int = 1
 var xp: int = 0
 var inventory: Array[String] = []
 var slots: int = 5
+## Item rewards waiting to be placed, oldest first. The player taps the stack
+## to put the front item on the board, so rewards arrive when they choose.
+var reward_stack: Array[String] = []
 
 func _init() -> void:
     slots = int(ConfigDB.inventory_cfg["DefaultNumber"])
@@ -37,6 +42,20 @@ func withdraw(index: int) -> String:
         return ""
     return inventory.pop_at(index)
 
+func push_reward(type: String) -> void:
+    reward_stack.append(type)
+    rewards_changed.emit()
+
+func peek_reward() -> String:
+    return reward_stack[0] if not reward_stack.is_empty() else ""
+
+func pop_reward() -> String:
+    if reward_stack.is_empty():
+        return ""
+    var t: String = reward_stack.pop_front()
+    rewards_changed.emit()
+    return t
+
 func next_slot_cost() -> int:
     var costs: Array = ConfigDB.inventory_cfg["UnlockCost"]
     if slots >= int(ConfigDB.inventory_cfg["MaxNumber"]):
@@ -51,7 +70,8 @@ func unlock_slot(wallet: EnergyWallet) -> bool:
     return true
 
 func to_dict() -> Dictionary:
-    return {"level": level, "xp": xp, "inventory": inventory.duplicate(), "slots": slots}
+    return {"level": level, "xp": xp, "inventory": inventory.duplicate(), "slots": slots,
+            "reward_stack": reward_stack.duplicate()}
 
 static func from_dict(d: Dictionary) -> PlayerState:
     var p := PlayerState.new()
@@ -60,4 +80,6 @@ static func from_dict(d: Dictionary) -> PlayerState:
     p.slots = int(d["slots"])
     for t in d["inventory"]:
         p.inventory.append(String(t))
+    for t in d.get("reward_stack", []):
+        p.reward_stack.append(String(t))
     return p

@@ -148,6 +148,18 @@ func _grant_level_rewards(gained: Array, now: float) -> void:
 func grant_xp(n: int, now: float) -> void:
     _grant_level_rewards(player.add_xp(n), now)
 
+## Place the front item of the reward stack on the board, nearest the centre.
+## Leaves the stack untouched if it is empty or the board has no free cell.
+func place_reward() -> Dictionary:
+    var t := player.peek_reward()
+    if t == "":
+        return {"ok": false, "reason": "no_reward"}
+    var pos := board.spawn(t, Vector2i(3, 4))
+    if pos == Vector2i(-1, -1):
+        return {"ok": false, "reason": "board_full"}
+    player.pop_reward()
+    return {"ok": true, "reason": "", "pos": pos, "type": t}
+
 func skip_order_refresh(i: int, now: float) -> Dictionary:
     if not orders.skip_refresh(i, wallet, now):
         return {"ok": false, "reason": "not_enough_gems"}

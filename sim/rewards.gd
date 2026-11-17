@@ -1,7 +1,8 @@
 class_name Rewards
 ## Single grammar + sink for every reward token in the game.
 ## "gold-N" = coins, "gem-N" = gems, "energy-N" = energy, "exp-N" = player XP,
-## else item id + count.
+## else item id + count. Items go onto the player's reward stack rather than
+## straight onto the board; Game.place_reward puts them down when tapped.
 
 const _CURRENCY := {"gold": "coins", "gem": "gems", "energy": "energy", "exp": "xp"}
 
@@ -29,8 +30,7 @@ static func grant(token: String, game, now: float) -> void:
 				push_warning("Rewards.grant: unknown item token '%s' skipped" % token)
 				return
 			for i in range(int(r["amount"])):
-				if game.board.spawn(id, Vector2i(3, 4)) == Vector2i(-1, -1):
-					game.player.store(id)
+				game.player.push_reward(id)
 
 static func grant_all(tokens: Array, game, now: float) -> void:
 	for t in tokens:

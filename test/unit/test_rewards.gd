@@ -21,20 +21,55 @@ func test_grant_currency_credits_wallet() -> void:
     assert_eq(g.wallet.gems, 3)
     assert_eq(g.wallet.energy(1000.0), 110)
 
-func test_grant_item_spawns_or_stores() -> void:
+func test_grant_item_goes_to_reward_stack_not_board() -> void:
     var g := Game.fresh(1000.0, 42)
-    # Fresh board is full; free one cell so a spawn lands.
+    # Even with a free cell, items wait on the stack until the player places them.
     g.board.remove(Vector2i(1, 3))
     g.board.set_state(Vector2i(1, 3), MergeBoard.CellState.OPEN)
-    Rewards.grant("205-1", g, 1000.0)
-    assert_gt(g.board.count_of("205"), 0)
+    var on_board := g.board.count_of("205")
+    Rewards.grant("205-2", g, 1000.0)
+    assert_eq(g.board.count_of("205"), on_board)
+    assert_eq(g.player.reward_stack, ["205", "205"] as Array[String])
 
-func test_grant_item_falls_back_to_inventory_when_full() -> void:
-    var g := Game.fresh(1000.0, 42)  # board full, no free cell
-    var inv0 := g.player.inventory.size()
+func test_grant_item_never_lost_when_board_and_inventory_full() -> void:
+    var g := Game.fresh(1000.0, 42)  # board full
+    while g.player.store("201"):
+        pass
     Rewards.grant("205-1", g, 1000.0)
-    assert_eq(g.player.inventory.size(), inv0 + 1)
-    assert_eq(g.player.inventory[-1], "205")
+    assert_eq(g.player.reward_stack, ["205"] as Array[String])
+
+func test_place_reward_puts_oldest_on_board() -> void:
+    var g := Game.fresh(1000.0, 42)
+    g.board.remove(Vector2i(3, 4))
+    g.board.set_state(Vector2i(3, 4), MergeBoard.CellState.OPEN)
+    Rewards.grant("205-1", g, 1000.0)
+    Rewards.grant("203-1", g, 1000.0)
+    var res := g.place_reward()
+    assert_true(res["ok"])
+    assert_eq(res["type"], "205")
+    assert_eq(g.board.item_at(res["pos"]).type, "205")
+    assert_eq(g.player.reward_stack, ["203"] as Array[String])
+
+func test_place_reward_board_full_keeps_item() -> void:
+    var g := Game.fresh(1000.0, 42)  # board full
+    Rewards.grant("205-1", g, 1000.0)
+    assert_eq(g.place_reward()["reason"], "board_full")
+    assert_eq(g.player.reward_stack, ["205"] as Array[String])
+
+func test_place_reward_empty_stack() -> void:
+    var g := Game.fresh(1000.0, 42)
+    assert_eq(g.place_reward()["reason"], "no_reward")
+
+func test_reward_stack_survives_save() -> void:
+    var g := Game.fresh(1000.0, 42)
+    Rewards.grant("205-1", g, 1000.0)
+    var g2 := Game.from_dict(g.to_dict())
+    assert_eq(g2.player.reward_stack, ["205"] as Array[String])
+
+func test_old_save_without_reward_stack_loads() -> void:
+    var d := PlayerState.new().to_dict()
+    d.erase("reward_stack")
+    assert_eq(PlayerState.from_dict(d).reward_stack.size(), 0)
 
 func test_unknown_kind_is_skipped_not_crashed() -> void:
     var g := Game.fresh(1000.0, 42)
