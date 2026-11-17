@@ -31,6 +31,8 @@ const REJECT_MESSAGES := {
     "no_event": "No expedition is underway",
     "event_already_active": "An expedition is already underway",
     "boost_already_active": "The gala is already under way.",
+    "storage_full": "Storage is full - unlock another slot",
+    "storage_maxed": "Every storage slot is unlocked",
 }
 
 var game: Game
@@ -41,6 +43,7 @@ var _event_panel_open := false
 var _gala_panel_open := false
 var gala_panel: GalaPanel
 var gala_button: Button
+var storage_panel: StoragePanel
 
 @onready var board_view: BoardView = $BoardView
 @onready var hud: Hud = $UI/Hud
@@ -107,6 +110,14 @@ func _ready() -> void:
     board_view.action_rejected.connect(_show_toast)
     order_bar.action_rejected.connect(_show_toast)
     inventory.action_rejected.connect(_show_toast)
+    storage_panel = StoragePanel.new()
+    add_child(storage_panel)
+    storage_panel.setup(game)
+    storage_panel.action_rejected.connect(_show_toast)
+    storage_panel.storage_changed.connect(inventory.refresh)
+    storage_panel.storage_changed.connect(func(): _save_pending = true)
+    storage_panel.visibility_changed.connect(inventory.refresh)
+    inventory.storage_requested.connect(storage_panel.open)
 
 func _setup_toast() -> void:
     _toast = Label.new()
@@ -120,7 +131,11 @@ func _setup_toast() -> void:
     _toast.add_theme_color_override("font_outline_color", Color(0, 0, 0, 0.8))
     _toast.add_theme_constant_override("outline_size", 6)
     _toast.visible = false
-    $UI.add_child(_toast)
+    # Own top layer so toasts show above modal panels too.
+    var toast_layer := CanvasLayer.new()
+    toast_layer.layer = 20
+    add_child(toast_layer)
+    toast_layer.add_child(_toast)
     _toast_timer = Timer.new()
     _toast_timer.wait_time = 1.6
     _toast_timer.one_shot = true

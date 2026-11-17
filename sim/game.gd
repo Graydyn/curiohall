@@ -160,6 +160,26 @@ func place_reward() -> Dictionary:
     player.pop_reward()
     return {"ok": true, "reason": "", "pos": pos, "type": t}
 
+## Take the item in storage slot i out and place it on the board, nearest the
+## centre. Leaves storage untouched if the board has no free cell.
+func withdraw_stored(i: int) -> Dictionary:
+    if i < 0 or i >= player.inventory.size():
+        return {"ok": false, "reason": "empty"}
+    var t: String = player.inventory[i]
+    var pos := board.spawn(t, Vector2i(3, 4))
+    if pos == Vector2i(-1, -1):
+        return {"ok": false, "reason": "board_full"}
+    player.withdraw(i)
+    return {"ok": true, "reason": "", "pos": pos, "type": t}
+
+func unlock_storage_slot() -> Dictionary:
+    var cost := player.next_slot_cost()
+    if cost < 0:
+        return {"ok": false, "reason": "storage_maxed"}
+    if not player.unlock_slot(wallet):
+        return {"ok": false, "reason": "not_enough_gems"}
+    return {"ok": true, "reason": ""}
+
 func skip_order_refresh(i: int, now: float) -> Dictionary:
     if not orders.skip_refresh(i, wallet, now):
         return {"ok": false, "reason": "not_enough_gems"}
