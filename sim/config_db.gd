@@ -2,6 +2,7 @@ extends Node
 ## Autoload. Loads all phase-1 config verbatim and validates cross-references.
 
 var items: Dictionary = {}        # "101" -> row
+var item_images: Dictionary = {}  # "101" -> art name, e.g. "GroceryBag01"
 var properties: Dictionary = {}   # "101" -> row
 var scores: Dictionary = {}       # "101" -> row
 var board_layout: Array = []
@@ -59,6 +60,9 @@ func load_all(dir: String = "res://config/") -> void:
 	boost_lucky.clear()
 	for row in _read(dir + "ItemModelConfig.json"):
 		if row != null: items[String(row["Type"])] = row
+	for row in _read(dir + "ItemViewConfig.json"):
+		if row != null and row.get("Image") is Array and not row["Image"].is_empty():
+			item_images[String(row["Type"])] = String(row["Image"][0])
 	for row in _read(dir + "ItemPropertyConfig.json"):
 		if row != null: properties[String(row["Type"])] = row
 	for row in _read(dir + "MergeItemScoreConfig.json"):
