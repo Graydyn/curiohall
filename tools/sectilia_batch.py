@@ -45,6 +45,9 @@ MAX_WAIT_ROUNDS = 6       # exit 7 with submitted:true -> sectilia wait again
 QUEUE_SLEEP = 60
 MAX_UNAVAILABLE_WAITS = 2   # exit 6 on a job we already submitted -> wait on it again
 JOB_LINE = re.compile(r"^job ([0-9a-fA-F][0-9a-fA-F-]{7,}) ")
+# sectilia 0.5.5 first waits out a job an earlier command left in its slot:
+# "waiting for earlier job X to finish", then polls it ("job X running (0m00s)").
+EARLIER_LINE = re.compile(r"waiting for earlier job ([0-9a-fA-F][0-9a-fA-F-]{7,})")
 
 
 class StopBatch(Exception):
@@ -145,24 +148,45 @@ def job_id_in(line):
     return m.group(1) if m else None
 
 
+class OwnJob:
+    """Finds this command's own job id in its stderr. Ids named by a "waiting
+    for earlier job X" note, and every later "job X ..." line about them,
+    belong to other commands and are skipped."""
+
+    def __init__(self):
+        self.earlier = set()
+        self.own = None
+
+    def feed(self, line):
+        """Returns the own id the first time it is seen, else None."""
+        m = EARLIER_LINE.search(line)
+        if m:
+            self.earlier.add(m.group(1))
+            return None
+        jid = job_id_in(line)
+        if self.own is None and jid and jid not in self.earlier:
+            self.own = jid
+            return jid
+        return None
+
+
 def run(argv, timeout, on_job=None):
     """Run one sectilia command, return (exit_code, parsed stdout JSON or {}).
 
-    stderr is read as it arrives; the first job id it names is passed to
-    on_job. That is the job this command submitted (or the one it waits on)."""
+    stderr is read as it arrives; this command's own job id (see OwnJob) is
+    passed to on_job as soon as it appears."""
     p = subprocess.Popen(argv, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True,
                          cwd=C.ROOT)
     err_lines = []
 
+    own = OwnJob()
+
     def pump():
-        seen = False
         for line in p.stderr:
             err_lines.append(line)
-            if not seen and on_job:
-                jid = job_id_in(line)
-                if jid:
-                    seen = True
-                    on_job(jid)
+            jid = own.feed(line)
+            if jid and on_job:
+                on_job(jid)
     out_parts = []
     # Each pipe has exactly one reader (communicate() would race the stderr pump).
     readers = [threading.Thread(target=pump, daemon=True),
@@ -247,6 +271,10 @@ def run_entry(e, jobs, runner=run, sleep=time.sleep, job_id=None, on_pending=Non
                    else "service unavailable (not retrying in a loop)")
             raise StopBatch("%s -- %s" % (why, describe(code, data)))
         if code == 7:
+            if detail.get("submitted") is False and mine[0] == err.get("job_id"):
+                # A wrongly adopted id is the job we were waiting behind: drop it.
+                mine[0] = None
+                note(None)
             if detail.get("submitted") is False and mine[0] is None:
                 # Our other jobs still fill the slots or the queue; sectilia has
                 # already waited --timeout for room. Wait, rerun the same command.
@@ -255,16 +283,18 @@ def run_entry(e, jobs, runner=run, sleep=time.sleep, job_id=None, on_pending=Non
                     raise StopBatch("queue stayed full: " + describe(code, data))
                 sleep(QUEUE_SLEEP)
                 continue
-            seen(err.get("job_id"))
+            if detail.get("submitted") is not False:
+                seen(err.get("job_id"))
             wait_rounds += 1
             if not mine[0] or wait_rounds > MAX_WAIT_ROUNDS:
                 raise EntryFailed("still running after waits: " + describe(code, data),
                                   keep_pending=bool(mine[0]))
             continue
         if code == 130:
-            if detail.get("submitted") is False and mine[0] is None:
+            if detail.get("submitted") is False and mine[0] in (None, err.get("job_id")):
                 raise StopBatch("interrupted before submit")
-            seen(err.get("job_id"))
+            if detail.get("submitted") is not False:
+                seen(err.get("job_id"))
             raise StopBatch("interrupted; job %s keeps running (sectilia wait %s --out %s)"
                             % (mine[0], mine[0], out))
         if code == 4:
@@ -429,7 +459,10 @@ def run_manifest(entries, limit=None, jobs_path=None, runner=run, sleep=time.sle
 
         def note(jid):
             with cv:
-                pending_map[key] = jid
+                if jid:
+                    pending_map[key] = jid
+                else:
+                    pending_map.pop(key, None)
                 save_jobs(jobs, jobs_path)
         result = "fail"
         try:
@@ -437,15 +470,15 @@ def run_manifest(entries, limit=None, jobs_path=None, runner=run, sleep=time.sle
                 snap = dict(jobs)
                 start_id = pending_map.get(key)
             jid = run_entry(e, snap, runner, sleep, start_id, note)
-            apply_fit(e)
-            apply_post(e)
-            with cv:
+            with cv:   # record before post-processing, so a post error never strands the job
                 pending_map.pop(key, None)
                 if jid:
                     jobs[key] = jid
                 save_jobs(jobs, jobs_path)
                 if failed_log.pop(key, None) is not None:
                     save_failed(failed_log, failed_path)
+            apply_fit(e)
+            apply_post(e)
             result = "ok"
             log("ok   %s -> %s" % (key, jid))
         except EntryFailed as ex:

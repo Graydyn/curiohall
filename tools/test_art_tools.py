@@ -437,6 +437,63 @@ class BatchTests(unittest.TestCase):
         jid = B.run_entry(entry("a"), {}, runner, self.sleeps.append)
         self.assertEqual((jid, calls[1], len(self.sleeps)), ("JD", ["sectilia", "wait", "JD"], 1))
 
+    # sectilia 0.5.5, a slot still holding an earlier command's job (submit.py
+    # _settle_recorded, then waiting.poll on that job):
+    EARLIER = ("waiting for earlier job e1e1e1e1-0000-4000-8000-000000000001 to finish\n"
+               "job e1e1e1e1-0000-4000-8000-000000000001 running (0m00s)\n")
+
+    def fake_cli(self, stderr, stdout, code):
+        """argv for a python process that prints like sectilia and exits `code`."""
+        script = ("import sys,json\nsys.stderr.write(%r)\nsys.stderr.flush()\n"
+                  "print(json.dumps(%r, indent=2))\nsys.exit(%d)\n" % (stderr, stdout, code))
+        return [sys.executable, "-c", script]
+
+    def test_run_skips_earlier_job_from_0_5_5_output(self):
+        own = "0a0a0a0a-0000-4000-8000-00000000000a"
+        argv = self.fake_cli(self.EARLIER + "job %s queued (0m00s)\n" % own, {"id": own}, 0)
+        got = []
+        code, data = B.run(argv, 30, got.append)
+        self.assertEqual((code, got), (0, [own]))
+
+    def test_exit7_waiting_behind_earlier_job_records_nothing_and_reruns(self):
+        earlier = "e1e1e1e1-0000-4000-8000-000000000001"
+        own = "0b0b0b0b-0000-4000-8000-00000000000b"
+        calls, noted = [], []
+        procs = [self.fake_cli(self.EARLIER, {"error": {"kind": "timeout", "job_id": earlier,
+                                                        "detail": {"submitted": False}}}, 7),
+                 self.fake_cli("job %s queued (0m00s)\n" % own, {"id": own}, 0)]
+
+        def runner(argv, timeout, on_job=None):
+            calls.append(argv[:2])
+            return B.run(procs.pop(0), 30, on_job)
+        jid = B.run_entry(entry("a"), {}, runner, self.sleeps.append, None, noted.append)
+        self.assertEqual(jid, own)
+        self.assertEqual(noted, [own])
+        self.assertEqual([c[1] for c in calls], ["generate", "generate"])
+
+    def test_exit7_drops_an_adopted_earlier_id(self):
+        # a pending id equal to the job we were waiting behind is cleared, not waited on
+        earlier = "e1e1e1e1-0000-4000-8000-000000000001"
+        res = [(7, {"error": {"job_id": earlier, "detail": {"submitted": False}}}),
+               (0, {"id": "OWN"})]
+        calls, noted = [], []
+
+        def runner(argv, timeout, on_job=None):
+            calls.append(argv[:3])
+            return res.pop(0)
+        jid = B.run_entry(entry("a"), {}, runner, self.sleeps.append, earlier, noted.append)
+        self.assertEqual(jid, "OWN")
+        self.assertEqual(calls[0], ["sectilia", "wait", earlier])
+        self.assertEqual(calls[1][:2], ["sectilia", "generate"])
+        self.assertEqual(noted, [None])
+
+    def test_post_error_still_records_the_job(self):
+        e = entry("a")
+        e["post"] = {"align_to": "x"}
+        with mock.patch.object(B, "apply_post", side_effect=RuntimeError("boom")):
+            counts, stop, calls = self.go([e], [(0, {"id": "JA"})])
+        self.assertEqual(B.load_jobs(self.jobs)["a"], "JA")
+
     def test_job_id_in(self):
         self.assertEqual(B.job_id_in("job 9e588940-3f8a queued (0m03s)\n"), "9e588940-3f8a")
         self.assertIsNone(B.job_id_in("waiting for earlier job 9e588940-3f8a to finish"))
