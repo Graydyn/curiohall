@@ -340,7 +340,8 @@ def apply_fit(e):
     im = im.crop((x, y, x + w, y + h)).convert("RGB")
     if fit.get("extend"):
         import extend_room
-        im = extend_room.extend(im, int(fit["extend"]))
+        opts = {k: fit[k] for k in ("strip_top", "fade", "vary") if k in fit}
+        im = extend_room.extend(im, int(fit["extend"]), **opts)
     im.save(dst)
 
 

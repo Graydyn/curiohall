@@ -3,7 +3,7 @@
 
 usage: place_elements.py AREA --floor X0,Y0,X1,Y1 [--write] [--preview out.png]
                          [--max-size 330] [--gap 16] [--wall Y] [--min-px 150]
-                         [--hang ID,ID --hang-band Y0,Y1]
+                         [--hang ID,ID --hang-band Y0,Y1] [--subroom N]
 
 Each element's visible box is measured from the union of its look sprites. All
 elements share one scale factor (stars 1.4x), found by binary search so that
@@ -13,6 +13,8 @@ carrying a `beat`, last of the wing) sits at the centre of the middle row.
 it (its tops may rise above the floor rect, against the wall). When a short side
 would drop below `--min-px`, the gap shrinks first. `--hang` items (chandeliers,
 lamps on chains) form one row hanging from the top of `--hang-band`.
+`--subroom N` places only that subroom's elements, on its own scene (wings with
+several rooms); without it every element of the area is placed together.
 `pos` is the bottom-centre of the sprite and `size` its square side, as in
 view/element_sprite.gd. Only pos and size are written.
 """
@@ -254,6 +256,12 @@ def place(els, floor, max_size, gap, wall=None, hang=(), hang_band=None, min_px=
     return to_pos(out, {e["id"]: sprite_offset(e) for e in els})
 
 
+def wing_elements(allel, area, subroom=None):
+    """The elements one placement run lays out: the area's, or one subroom's."""
+    return [e for e in allel if e["area"] == area
+            and (subroom is None or int(e.get("subroom", 0)) == subroom)]
+
+
 def preview(els, placed, scene, path):
     room = Image.open(scene).convert("RGBA")
     order = sorted(els, key=lambda e: placed[e["id"]][1])
@@ -282,12 +290,13 @@ def main(argv=None):
                          "small values keep it on a tall room's first screen)")
     ap.add_argument("--min-px", type=float, default=150,
                     help="shrink the gap before letting a short side drop below this")
+    ap.add_argument("--subroom", type=int, help="place only this subroom's elements")
     ap.add_argument("--write", action="store_true")
     ap.add_argument("--preview")
     a = ap.parse_args(argv)
     floor = [float(v) for v in a.floor.split(",")]
     allel = C.elements()
-    els = [e for e in allel if e["area"] == a.area]
+    els = wing_elements(allel, a.area, a.subroom)
     hang = {h.strip() for h in a.hang.split(",") if h.strip()}
     band = [float(v) for v in a.hang_band.split(",")] if a.hang_band else None
     if hang and not band:
@@ -309,7 +318,7 @@ def main(argv=None):
               "star" if e is els[-1] and e.get("beat") else "", "hang" if e["id"] in hang else "")
     print("smallest short side %d px" % small)
     if a.preview:
-        preview(els, placed, os.path.join(C.ROOT, C.scene_path(a.area, 0)), a.preview)
+        preview(els, placed, os.path.join(C.ROOT, C.scene_path(a.area, a.subroom or 0)), a.preview)
     if a.write:
         by = {e["id"]: e for e in allel}
         for i, (cx, b, size) in placed.items():

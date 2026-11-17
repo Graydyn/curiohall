@@ -229,6 +229,24 @@ class BatchTests(unittest.TestCase):
         self.assertEqual(ER.fade_mask(4, 30, 20).getpixel((0, 0)), 0)
         self.assertEqual(ER.fade_mask(4, 30, 20).getpixel((0, 25)), 255)
 
+    def test_extend_room_vary_breaks_the_period_and_mirrors_less(self):
+        import extend_room as ER
+        from PIL import Image
+        im = Image.new("RGB", (72, 128), (10, 10, 10))
+        im.paste((200, 0, 0), (0, 76, 72, 128))
+        out = ER.extend(im, 600, strip_top=76, fade=10, vary=True)
+        self.assertEqual(out.size, (72, 600))
+        self.assertEqual(out.getpixel((5, 10)), (10, 10, 10))   # far wall untouched
+        self.assertEqual(out.getpixel((5, 599)), (200, 0, 0))   # floor all the way down
+        steps = list(zip(range(8), ER.bands(52, True)))
+        self.assertGreater(len({o for _k, (o, _m) in steps}), 3)    # band starts differ
+        self.assertLess(sum(m for _k, (_o, m) in steps), 4)         # not every other copy
+        plain = list(zip(range(3), ER.bands(52, False)))
+        self.assertEqual([b for _k, b in plain], [(0, False), (0, True), (0, False)])
+        e = M.scene_generate("scene_97_0", "assets/map/wings/97/scene_0.png", "room", [720, 2560], [],
+                             {"vary": True, "fade": 260})
+        self.assertEqual((e["fit"]["vary"], e["fit"]["fade"], e["fit"]["extend"]), (True, 260, 2560))
+
     def test_lawn_patch_fills_polygon_only(self):
         from PIL import Image
         base = Image.new("RGB", (120, 80), (200, 200, 200))
@@ -725,6 +743,13 @@ class PlaceElementsTests(unittest.TestCase):
         # 48 px right of centre: at size 192 (half scale) pos moves 48 down, 24 left
         got = PE.to_pos({"a": (300, 800, 192)}, {"a": (48.0, 96.0)})
         self.assertEqual(got["a"], (276, 848, 192))
+
+    def test_subroom_selects_one_room(self):
+        allel = [{"id": "23_001", "area": 23, "subroom": 0}, {"id": "23_002", "area": 23, "subroom": 1},
+                 {"id": "24_001", "area": 24, "subroom": 0}]
+        self.assertEqual([e["id"] for e in PE.wing_elements(allel, 23, 1)], ["23_002"])
+        self.assertEqual([e["id"] for e in PE.wing_elements(allel, 23, 0)], ["23_001"])
+        self.assertEqual([e["id"] for e in PE.wing_elements(allel, 23)], ["23_001", "23_002"])
 
     def test_too_many_for_floor_still_shrinks_to_fit(self):
         rows = PE.layout(self.els(30), (0.0, 0.0, 300.0, 300.0), 330, 8)

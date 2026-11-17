@@ -149,10 +149,11 @@ def exterior_wings(areas, style_keys, style_pass=False):
     return out
 
 
-def scene_generate(key, final, subject, size, style_keys):
+def scene_generate(key, final, subject, size, style_keys, extend_opts=None):
     """A full-frame scene via generate: opaque (keep) at the generator's
     native portrait aspect into _raw/, then cover-fitted to `size` at `final`
-    by the batch runner (`fit`)."""
+    by the batch runner (`fit`). `extend_opts` (a subroom's `extend` config:
+    strip_top, fade, vary) is passed to tools/extend_room.py for tall rooms."""
     raw = C.raw_path(final)
     e = entry(key, raw, "generate", {
         "subject": subject[:500], "theme": C.STYLE_THEME,
@@ -161,7 +162,7 @@ def scene_generate(key, final, subject, size, style_keys):
     # Rooms taller than one screen are painted as a 720x1280 room and extended
     # downward by the batch runner (tools/extend_room.py) to their full height.
     if size[1] > SCREEN_H:
-        e["fit"] = {"size": [size[0], SCREEN_H], "out": final, "extend": size[1]}
+        e["fit"] = dict(extend_opts or {}, size=[size[0], SCREEN_H], out=final, extend=size[1])
     else:
         e["fit"] = {"size": list(size), "out": final}
     return e
@@ -178,7 +179,8 @@ def wing_scenes(areas, style_keys, style_pass=False, via="background"):
             desc = sub.get("description") or "%s, %s, %s" % (w["name"], sub["name"], SCENE_SUFFIX)
             if via == "generate":
                 out.append(scene_generate(key, C.scene_path(a, i),
-                                          sub.get("subject") or desc, sub["size"], style_keys))
+                                          sub.get("subject") or desc, sub["size"], style_keys,
+                                          sub.get("extend")))
                 continue
             out.append(entry(key, C.scene_path(a, i), "background", {
                 "description": desc,
