@@ -609,6 +609,15 @@ class PlaceElementsTests(unittest.TestCase):
             if e["id"] not in hang:
                 self.assertGreaterEqual(placed[e["id"]][1], 500)
 
+    def test_hang_x_limits_the_hanging_row(self):
+        floor = (40.0, 500.0, 680.0, 1240.0)
+        els = self.els(6)
+        hang = {els[0]["id"], els[1]["id"]}
+        placed = PE.place(els, floor, 330, 16, None, hang, (60.0, 400.0), 0, hang_x=(60.0, 400.0))
+        for h in hang:
+            cx, by, size = placed[h]
+            self.assertLessEqual(cx + 100.0 * size / 384, 400 + 1)
+
     def test_min_px_shrinks_gap_first(self):
         floor = (0.0, 0.0, 640.0, 640.0)
         els = self.els(16)
@@ -616,6 +625,12 @@ class PlaceElementsTests(unittest.TestCase):
         placed = PE.place(els, floor, 330, 40, min_px=PE.min_side(wide) + 5)
         sizes = {p[2] for p in placed.values()}
         self.assertGreater(min(sizes) * 200.0 / 384, PE.min_side(wide))
+
+    def test_to_pos_shifts_by_sprite_padding(self):
+        # a sprite whose opaque box ends 96 canvas px above the bottom and sits
+        # 48 px right of centre: at size 192 (half scale) pos moves 48 down, 24 left
+        got = PE.to_pos({"a": (300, 800, 192)}, {"a": (48.0, 96.0)})
+        self.assertEqual(got["a"], (276, 848, 192))
 
     def test_too_many_for_floor_still_shrinks_to_fit(self):
         rows = PE.layout(self.els(30), (0.0, 0.0, 300.0, 300.0), 330, 8)

@@ -45,6 +45,30 @@ def visible_box(el):
     return (w or 200.0), (h or 200.0)
 
 
+def sprite_offset(el):
+    """(dx, pad) of look 0 in canvas units: how far the opaque box's centre sits
+    right of the canvas centre, and the empty band under it. pos is the canvas
+    bottom-centre, so the visible object is shifted by these."""
+    p = os.path.join(C.ROOT, C.element_path(el["id"], 0))
+    if not os.path.exists(p):
+        return 0.0, 0.0
+    im = Image.open(p).convert("RGBA")
+    box = im.getchannel("A").point(lambda v: 255 if v > 16 else 0).getbbox()
+    if not box:
+        return 0.0, 0.0
+    sc = CANVAS / im.width
+    return ((box[0] + box[2]) / 2.0 - im.width / 2.0) * sc, (im.height - box[3]) * sc
+
+
+def to_pos(placed, offsets):
+    """Visible bottom-centre (cx, base) -> sprite pos (canvas bottom-centre)."""
+    out = {}
+    for i, (cx, by, size) in placed.items():
+        dx, pad = offsets.get(i, (0.0, 0.0))
+        out[i] = (round(cx - dx * size / CANVAS), round(by + pad * size / CANVAS), size)
+    return out
+
+
 def pack(items, star, k, floor, gap):
     """Return rows [[(el, size, vw, vh)]] with the star centred in the middle
     row, or None when something is wider than the floor."""
@@ -154,7 +178,7 @@ def min_side(rows):
     return min(min(t[2], t[3]) for r in rows for t in r) if rows else 0
 
 
-def place(els, floor, max_size, gap, wall=None, hang=(), hang_band=None, min_px=0):
+def place(els, floor, max_size, gap, wall=None, hang=(), hang_band=None, min_px=0, hang_x=None):
     """{id: (cx, base_y, size)} for one wing.
 
     Hanging ids are laid out in one row in hang_band (y0, y1) high in the room,
@@ -184,7 +208,7 @@ def place(els, floor, max_size, gap, wall=None, hang=(), hang_band=None, min_px=
     if hung:
         hy0, hy1 = hang_band
         size = max(t[1] for r in rows for t in r if t[0] is not fstar)
-        x0, x1 = floor[0], floor[2]
+        x0, x1 = hang_x or (floor[0], floor[2])
         others = [e for e in hung if e is not star]
         order = others[:len(others) // 2] + ([star] if star in hung else []) + others[len(others) // 2:]
         sizes = []
@@ -209,7 +233,7 @@ def place(els, floor, max_size, gap, wall=None, hang=(), hang_band=None, min_px=
             spread(sizes[k + 1:], cx + st[2] / 2, x1)
         else:
             spread(sizes, x0, x1)
-    return out
+    return to_pos(out, {e["id"]: sprite_offset(e) for e in els})
 
 
 def preview(els, placed, scene, path):
@@ -234,6 +258,7 @@ def main(argv=None):
     ap.add_argument("--wall", type=float, help="far-wall line: back-row bases sit below it")
     ap.add_argument("--hang", default="", help="comma-separated ids that hang high in the room")
     ap.add_argument("--hang-band", default="", help="y0,y1 of the band hanging items fill")
+    ap.add_argument("--hang-x", default="", help="x0,x1 the hanging row spans (default: the floor's)")
     ap.add_argument("--min-px", type=float, default=150,
                     help="shrink the gap before letting a short side drop below this")
     ap.add_argument("--write", action="store_true")
@@ -247,7 +272,8 @@ def main(argv=None):
     if hang and not band:
         print("--hang needs --hang-band", file=sys.stderr)
         return 2
-    placed = place(els, floor, a.max_size, a.gap, a.wall, hang, band, a.min_px)
+    placed = place(els, floor, a.max_size, a.gap, a.wall, hang, band, a.min_px,
+                   [float(v) for v in a.hang_x.split(",")] if a.hang_x else None)
     if placed is None:
         print("does not fit", file=sys.stderr)
         return 1
