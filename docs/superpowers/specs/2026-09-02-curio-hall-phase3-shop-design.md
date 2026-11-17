@@ -23,6 +23,8 @@ number from the config.
   item within by `ShopWeight`; a slot's shop-chain is `CustomChain` when non-"0", else
   the item id's natural chain (2-digit-suffix prefix). Cheap commons sit in slots 1-3,
   rarer/pricier items in slot 6. Spend = `Price` coins; grant = `ShopCount` of the item.
+  **Corrected 2026-11-17:** `Price` is per item and `ShopCount` is the slot's stock
+  per refresh: each buy costs `Price` and grants one; the slot sells out at 0 left.
 - **Daily deals** — `ShopDailyDealsConfig` (3 rows): `itemCode`, `leftCount` (stock),
   `costType: "gem"`, `costCount` (gem price; one is 0 = free), optional `ad: 1`
   (ad-gated). All three item codes (`3101`, `2901`, `ShopNewChest_1`) resolve to real

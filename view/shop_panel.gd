@@ -73,7 +73,9 @@ func refresh() -> void:
         if slot["sold_out"]:
             _label("  Slot %d: SOLD OUT" % n)
         else:
-            _buy_button("  Buy %s x%d — %d coins" % [slot["item"], int(slot["count"]), int(slot["price"])],
+            var item := String(slot["item"])
+            _buy_button("  Buy %s %d — %d coins (%d left)" % [ItemInfo.family_name(item), ItemInfo.tier(item),
+                    int(slot["price"]), int(slot["left"])],
                 game.wallet.coins < int(slot["price"]),
                 func(): _do(game.buy_shop_slot(n, Time.get_unix_time_from_system())))
     # Daily deals
