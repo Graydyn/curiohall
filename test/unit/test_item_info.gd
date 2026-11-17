@@ -20,9 +20,19 @@ func test_sources_are_generator_families() -> void:
     assert_eq(ItemInfo.sources("2401"), [])
 
 func test_sell_price_doubles_per_tier() -> void:
-    assert_eq(ItemInfo.sell_price("201"), 1)
-    assert_eq(ItemInfo.sell_price("205"), 16)
+    assert_eq(ItemInfo.sell_price("201"), 1)   # not in shop or orders: formula
     assert_eq(ItemInfo.sell_price("103"), 4)   # pre-generator chain item is plain
+
+func test_sell_price_capped_by_shop_and_order_price() -> void:
+    assert_eq(ItemInfo.sell_price("205"), 4)     # min(16, shop 4, order 8)
+    assert_eq(ItemInfo.sell_price("212"), 178)   # min(2048, shop 320, order 178)
+    assert_eq(ItemInfo.sell_price("903"), 4)     # formula 4 already lowest
+
+func test_no_shop_item_sells_for_more_than_it_costs() -> void:
+    for t in ConfigDB.properties:
+        var row: Dictionary = ConfigDB.properties[t]
+        if not row.get("Slot", []).is_empty() and ItemInfo.is_sellable(t):
+            assert_lte(ItemInfo.sell_price(t), int(row["Price"]), t)
 
 func test_specials_are_not_sellable() -> void:
     assert_eq(ItemInfo.sell_price("2501"), 0)                 # consumable

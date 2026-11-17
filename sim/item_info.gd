@@ -67,8 +67,19 @@ static func is_sellable(type: String) -> bool:
     return ConfigDB.items.has(type) and not is_consumable(type) \
         and not ConfigDB.items[type].has("Spread_Weight")
 
+## 2^(tier-1) coins (one tap per tier-1 item, doubling per merge), capped at the
+## item's shop price and order price so selling never beats buying or delivering.
 static func sell_price(type: String) -> int:
-    return 1 << (tier(type) - 1) if is_sellable(type) else 0
+    if not is_sellable(type):
+        return 0
+    var price := 1 << (tier(type) - 1)
+    var shop: Dictionary = ConfigDB.properties.get(type, {})
+    if not shop.get("Slot", []).is_empty():
+        price = mini(price, int(shop["Price"]))
+    for row in ConfigDB.order_items:
+        if String(row.get("Code", "")) == type:
+            price = mini(price, int(row["Price"]))
+    return price
 
 static func _drops(gen_type: String) -> Array:
     var out := []

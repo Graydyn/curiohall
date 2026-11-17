@@ -15,8 +15,8 @@ func test_sell_pays_coins_and_clears_cell() -> void:
     var before := g.wallet.coins
     var res := g.sell(POS)
     assert_true(res["ok"])
-    assert_eq(res["coins"], 16)
-    assert_eq(g.wallet.coins, before + 16)
+    assert_eq(res["coins"], 4)
+    assert_eq(g.wallet.coins, before + 4)
     assert_null(g.board.item_at(POS))
 
 func test_sell_empty_cell_pays_nothing() -> void:

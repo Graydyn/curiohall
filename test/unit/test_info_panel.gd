@@ -19,7 +19,7 @@ func test_shows_title_and_sell_price() -> void:
     assert_true(p.visible)
     assert_eq(p._title.text, "Flour - Tier 5")
     assert_true(p._sell_btn.visible)
-    assert_eq(p._sell_btn.text, "Sell (16 coins)")
+    assert_eq(p._sell_btn.text, "Sell (4 coins)")
 
 func test_sell_pays_and_closes() -> void:
     var s := _setup("205")
@@ -29,7 +29,7 @@ func test_sell_pays_and_closes() -> void:
     var before := g.wallet.coins
     p._sell_btn.pressed.emit()
     assert_null(g.board.item_at(POS))
-    assert_eq(g.wallet.coins, before + 16)
+    assert_eq(g.wallet.coins, before + 4)
     assert_signal_emitted(p, "sold")
     assert_false(p.visible)
 

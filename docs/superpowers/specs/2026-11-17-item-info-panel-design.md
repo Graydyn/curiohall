@@ -25,7 +25,9 @@ the selected item, and the panel is also where non-special items get sold
 ## Sell price (decided)
 Price in coins = `2^(tier-1)`: one generator tap makes a tier-1 item, and each
 tier doubles. Same for every family, including ones from free (0-energy)
-generators and chest-only families. Drop odds are ignored. Replaces the
+generators and chest-only families. Drop odds are ignored. **Capped** at the item's
+shop `Price` and its `OrderItemConfig` price (lowest wins), so selling never
+beats buying or delivering (decided after review found shop arbitrage). Replaces the
 config `SellingPrice`. Selling removes the item, adds the coins to the wallet,
 closes the panel and clears selection.
 
