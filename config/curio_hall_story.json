@@ -10620,10 +10620,12 @@
   "trigger": "area_opened:11",
   "panels": [
    {
-    "caption": "The Shell and Coral Room is cool and hushed, like the inside of a conch. Pearl-lined cases glow faintly in the dark, and somewhere very near, the sound of the sea is playing from a spiral shell."
+    "caption": "The Shell and Coral Room is cool and hushed, like the inside of a conch. Pearl-lined cases glow faintly in the dark, and somewhere very near, the sound of the sea is playing from a spiral shell.",
+    "subject": "a cool hushed Victorian shell and coral room in soft darkness, like the inside of a conch: glass cases lined with pearl glowing faintly, branches of pale coral, a large spiral shell on a stand in the foreground, soft blue-green light, nobody in the room"
    },
    {
-    "caption": "It is the sort of room that makes one speak very quietly, and then not speak at all."
+    "caption": "It is the sort of room that makes one speak very quietly, and then not speak at all.",
+    "subject": "Cornelia Wren, an elderly formidable lady curator with silver-grey hair in a bun and a dark teal high-collared dress, and Mark Bloom, a shy young gardener with wavy brown hair in a green canvas apron, stand very quietly in a dim shell and coral room, she holding a large spiral conch to her ear with her eyes closed, he watching in hushed wonder; pearl-lined cases glowing faintly, blue-green light"
    }
   ],
   "cast": [
@@ -10637,10 +10639,12 @@
   "trigger": "area_opened:12",
   "panels": [
    {
-    "caption": "Green light ripples across the walls of the Aquarium Grotto. Great glass tanks, long empty, wait for the water to come back, and at the bottom of the largest one, something small and square is shining."
+    "caption": "Green light ripples across the walls of the Aquarium Grotto. Great glass tanks, long empty, wait for the water to come back, and at the bottom of the largest one, something small and square is shining.",
+    "subject": "a Victorian aquarium grotto of rough rock with great empty glass tanks set into the walls, green light rippling across the stone, and at the bottom of the largest empty tank a small square brass box shining, nobody in the room"
    },
    {
-    "caption": "The light moves, and it seems, for a moment, that it is waving."
+    "caption": "The light moves, and it seems, for a moment, that it is waving.",
+    "subject": "Cornelia Wren, an elderly formidable lady curator with silver-grey hair in a bun and a dark teal high-collared dress, stands alone before a huge empty glass tank in a rock grotto, green rippling light moving over her and the stone walls, looking down thoughtfully at a tiny glint at the bottom of the tank"
    }
   ],
   "cast": [
@@ -10653,10 +10657,12 @@
   "trigger": "area_opened:13",
   "panels": [
    {
-    "caption": "The Map Room is lined from floor to ceiling with charts, rolled and flat, pinned and framed. Every coast is inked in a different hand, and a great brass compass is sunk into the floor."
+    "caption": "The Map Room is lined from floor to ceiling with charts, rolled and flat, pinned and framed. Every coast is inked in a different hand, and a great brass compass is sunk into the floor.",
+    "subject": "a Victorian map room lined from floor to ceiling with rolled, pinned and framed charts of coastlines without any lettering, a great brass compass rose sunk into the wooden floor, warm lamplight, nobody in the room"
    },
    {
-    "caption": "A single black pin sits in the middle of a map, with no thread attached to it at all."
+    "caption": "A single black pin sits in the middle of a map, with no thread attached to it at all.",
+    "subject": "close view of a large parchment map of an imaginary coast with no writing on it, pinned to a wall, a single black pin stuck in its middle with no thread attached, and Cornelia Wren, an elderly formidable lady curator with silver-grey hair in a bun and a dark teal high-collared dress, leaning in to study it with a raised eyebrow; warm lamplight"
    }
   ],
   "cast": [
@@ -10669,10 +10675,12 @@
   "trigger": "area_opened:14",
   "panels": [
    {
-    "caption": "The Library of Expeditions climbs three storeys, with iron galleries and a ladder on a rail. The books are shelved by voyage, and each voyage has its own colour of spine."
+    "caption": "The Library of Expeditions climbs three storeys, with iron galleries and a ladder on a rail. The books are shelved by voyage, and each voyage has its own colour of spine.",
+    "subject": "a Victorian library three storeys tall with iron galleries and a tall ladder on a brass rail, books shelved in bands of different coloured spines, warm lamplight, seen from the floor looking up, nobody in the room"
    },
    {
-    "caption": "On the highest shelf, a single blue book sits slightly out of line, as if it had been put back in a hurry."
+    "caption": "On the highest shelf, a single blue book sits slightly out of line, as if it had been put back in a hurry.",
+    "subject": "Cornelia Wren, an elderly formidable lady curator with silver-grey hair in a bun and a dark teal high-collared dress, stands at the foot of a tall library ladder looking up at the highest shelf, where a single blue book sits slightly out of line; towering shelves of leather books, an iron gallery, warm lamplight"
    }
   ],
   "cast": [
@@ -10685,10 +10693,12 @@
   "trigger": "area_opened:15",
   "panels": [
    {
-    "caption": "Rolling shelves fill the Archives, and every drawer is labelled in a tiny neat hand. Someone has been here in the dark, and everything has been refiled. Not one thing is where it was."
+    "caption": "Rolling shelves fill the Archives, and every drawer is labelled in a tiny neat hand. Someone has been here in the dark, and everything has been refiled. Not one thing is where it was.",
+    "subject": "long rows of tall rolling archive shelves and wooden drawers with small blank brass label holders in a dim Victorian archive, everything neatly refiled, dust motes in a shaft of light, nobody in the room"
    },
    {
-    "caption": "It smells of old paper, ink, and, very faintly, of ham sandwiches."
+    "caption": "It smells of old paper, ink, and, very faintly, of ham sandwiches.",
+    "subject": "Cornelia Wren, an elderly formidable lady curator with silver-grey hair in a bun and a dark teal high-collared dress, stands in a narrow aisle between tall archive shelves, sniffing the air suspiciously, a half-eaten ham sandwich on a plate on a nearby shelf; dim lamplight, old paper"
    }
   ],
   "cast": [
@@ -10701,10 +10711,12 @@
   "trigger": "area_opened:16",
   "panels": [
    {
-    "caption": "The Clockwork Workshop rattles with a faint, invisible ticking. Benches hold a thousand half-built wonders, and from the ceiling hang chains of cogs, like a mechanical orchard."
+    "caption": "The Clockwork Workshop rattles with a faint, invisible ticking. Benches hold a thousand half-built wonders, and from the ceiling hang chains of cogs, like a mechanical orchard.",
+    "subject": "a Victorian clockwork workshop full of benches holding half-built brass contraptions, chains of brass cogs hanging from the ceiling like a mechanical orchard, warm lamplight glinting on gears, nobody in the room"
    },
    {
-    "caption": "Every spring in the room is wound to precisely the right tension. Nobody has wound a thing in twenty years."
+    "caption": "Every spring in the room is wound to precisely the right tension. Nobody has wound a thing in twenty years.",
+    "subject": "Hugo Pemberton, a bearded clockwork engineer of about forty with brass goggles pushed up on his forehead and a brown leather tool apron, and Cornelia Wren, an elderly formidable lady curator with silver-grey hair in a bun and a dark teal high-collared dress, look up at chains of hanging brass cogs in a cluttered clockwork workshop, he delighted and touching a wound spring, she puzzled; warm lamplight"
    }
   ],
   "cast": [
@@ -10718,10 +10730,12 @@
   "trigger": "area_opened:17",
   "panels": [
    {
-    "caption": "The Hall of Instruments gleams like a jeweller's window. Brass and glass line every wall: galvanometers, theodolites, a great seismograph with its needle trembling over a blank roll of paper."
+    "caption": "The Hall of Instruments gleams like a jeweller's window. Brass and glass line every wall: galvanometers, theodolites, a great seismograph with its needle trembling over a blank roll of paper.",
+    "subject": "a Victorian hall of instruments gleaming like a jeweller's window: walls of brass and glass cases holding galvanometers, theodolites and microscopes, a great seismograph with its needle over a blank paper roll, nobody in the room"
    },
    {
-    "caption": "Everything here measures something. Cornelia suspects it is measuring them."
+    "caption": "Everything here measures something. Cornelia suspects it is measuring them.",
+    "subject": "Cornelia Wren, an elderly formidable lady curator with silver-grey hair in a bun and a dark teal high-collared dress, stands among gleaming brass scientific instruments with her arms folded, eyeing them as if they were watching her, while Hugo Pemberton, a bearded clockwork engineer of about forty with brass goggles pushed up on his forehead and a brown leather tool apron, peers happily into a brass microscope; warm lamplight"
    }
   ],
   "cast": [
@@ -11287,7 +11301,8 @@
   "trigger": "day:40",
   "panels": [
    {
-    "caption": "The smell of baking arrives before she does. Anjali Bose, expedition chef and confectioner, sweeps into the Hall with a basket on each arm, takes one look at the Tea Room, and rolls up her sleeves."
+    "caption": "The smell of baking arrives before she does. Anjali Bose, expedition chef and confectioner, sweeps into the Hall with a basket on each arm, takes one look at the Tea Room, and rolls up her sleeves.",
+    "subject": "Anjali Bose, a warm South Asian woman of about forty with a long black plait, in a white chef's jacket and burgundy apron, sweeps into a Victorian tea room with a covered wicker basket of baking on each arm and a broad smile, about to roll up her sleeves; cream and teal walls, warm evening light"
    }
   ],
   "cast": [
@@ -11300,7 +11315,8 @@
   "trigger": "day:60",
   "panels": [
    {
-    "caption": "From deep within the Hall, a great brass gear begins to turn. Hugo Pemberton, clockwork engineer, has heard the clocks ticking again, and has come, spanner in hand, to see who has been winding them."
+    "caption": "From deep within the Hall, a great brass gear begins to turn. Hugo Pemberton, clockwork engineer, has heard the clocks ticking again, and has come, spanner in hand, to see who has been winding them.",
+    "subject": "Hugo Pemberton, a bearded clockwork engineer of about forty with brass goggles pushed up on his forehead and a brown leather tool apron, a spanner in his hand, steps out from behind a huge slowly turning brass gear in the depths of a Victorian museum machine room, looking curious; warm lamplight on brass"
    }
   ],
   "cast": [
@@ -11371,10 +11387,12 @@
   "trigger": "task:37_10",
   "panels": [
    {
-    "caption": "Volume II: The Deep Water. The Shell and Coral Room is restored, and with it comes a confession: Sam Vane was not looking for treasure. He was looking for the founder."
+    "caption": "Volume II: The Deep Water. The Shell and Coral Room is restored, and with it comes a confession: Sam Vane was not looking for treasure. He was looking for the founder.",
+    "subject": "Sam Vane, a suave man in his thirties with a neat moustache in a well-cut dark frock coat, and Cornelia Wren, an elderly formidable lady curator with silver-grey hair in a bun and a dark teal high-collared dress, talk quietly in a restored Victorian shell and coral room glowing with pearl-lined cases; he looks earnest and a little ashamed, she listens gravely; soft blue-green light"
    },
    {
-    "caption": "In the glass of the Kraken's Eye, a small square box can be seen, far below, on the floor of the Aquarium."
+    "caption": "In the glass of the Kraken's Eye, a small square box can be seen, far below, on the floor of the Aquarium.",
+    "subject": "a full-frame painting filling the whole frame: on a shelf in a dim Victorian shell and coral room, a huge preserved sea-monster eyeball in a tall glass jar, deep teal with a black slit pupil, and seen through its curved glass a tiny square box far below on the sandy floor of a dim aquarium; eerie green light, shells and coral all around"
    }
   ],
   "cast": [
@@ -11388,10 +11406,12 @@
   "trigger": "task:43_11",
   "panels": [
    {
-    "caption": "Volume III: The Box in the Aquarium. The Great Aquarium fills, and a small brass box can be seen at last on the floor of the tank, with a lock on it and a tag. A diver is sent for."
+    "caption": "Volume III: The Box in the Aquarium. The Great Aquarium fills, and a small brass box can be seen at last on the floor of the tank, with a lock on it and a tag. A diver is sent for.",
+    "subject": "close view through the front glass of a huge aquarium tank that fills the whole frame edge to edge: water, swaying green plants and glittering fish, and resting on the sand at the bottom inside the water a small locked brass box with a paper tag; green rippling underwater light"
    },
    {
-    "caption": "The members of the Society gather around the tea urn for the first time, and begin to feel like a society."
+    "caption": "The members of the Society gather around the tea urn for the first time, and begin to feel like a society.",
+    "subject": "Anjali Bose, a warm South Asian woman of about forty with a long black plait, in a white chef's jacket and burgundy apron, pours tea from a gleaming brass tea urn for Cornelia Wren, an elderly formidable lady curator with silver-grey hair in a bun and a dark teal high-collared dress, and a few friendly museum folk gathered round in a warm Victorian tea room, cups in hand, smiling; warm gaslight"
    }
   ],
   "cast": [
@@ -11405,10 +11425,12 @@
   "trigger": "task:47_11",
   "panels": [
    {
-    "caption": "Volume IV: Where I Shall Be. The Great Relief Model rises from its crates, and the Map Room is whole. On the Atlas Lectern, a page lies open to a blank map with a single title, in the founder's own hand."
+    "caption": "Volume IV: Where I Shall Be. The Great Relief Model rises from its crates, and the Map Room is whole. On the Atlas Lectern, a page lies open to a blank map with a single title, in the founder's own hand.",
+    "subject": "Zephyrine Blackwood, a sun-tanned freckled woman of about thirty-five with short black hair under a battered wide-brimmed hat and a long brown leather duster coat, and Cornelia Wren, an elderly formidable lady curator with silver-grey hair in a bun and a dark teal high-collared dress, admire a large flat table-top plaster relief model of one invented island with jagged mountains and glass lakes, not the real world, in a Victorian map room, an open atlas on a lectern behind; no lettering"
    },
    {
-    "caption": "The Library is next, and the founder's own folio."
+    "caption": "The Library is next, and the founder's own folio.",
+    "subject": "a full-frame painting filling the whole frame: a tall dark Victorian library lined with bookshelves, and in the middle a huge ancient blue leather-bound folio with brass clasps resting closed on a stout oak stand, lit by a single warm lamp, nobody in the room"
    }
   ],
   "cast": [
@@ -11422,10 +11444,12 @@
   "trigger": "task:52_11",
   "panels": [
    {
-    "caption": "Volume V: The Founder's Folio. The Library of Expeditions is restored, and the blue-bound folio is opened at last. The final page reads: The Hall was never meant to be finished. It was meant to be kept."
+    "caption": "Volume V: The Founder's Folio. The Library of Expeditions is restored, and the blue-bound folio is opened at last. The final page reads: The Hall was never meant to be finished. It was meant to be kept.",
+    "subject": "a full-frame painting filling the whole frame: Cornelia Wren, an elderly formidable lady curator with silver-grey hair in a bun and a dark teal high-collared dress, and Prudence Quill, a thin severe woman of about forty with straw-blonde hair in a tight bun and gold pince-nez, in a narrow black dress with burgundy trim, bend over a huge ancient blue leather-bound folio lying open on an oak stand, reading its last page by lamplight, tall bookshelves of a Victorian library all around them"
    },
    {
-    "caption": "Several pages have been cut out, with a very sharp blade, and nobody knows by whom."
+    "caption": "Several pages have been cut out, with a very sharp blade, and nobody knows by whom.",
+    "subject": "a full-frame painting filling the whole frame: in a Victorian library with tall bookshelves, Prudence Quill, a thin severe woman of about forty with straw-blonde hair in a tight bun and gold pince-nez, in a narrow black dress with burgundy trim, points in alarm at a huge old book open on an oak stand with several pages cut out cleanly along the spine, leaving neat stubs; lamplight"
    }
   ],
   "cast": [
