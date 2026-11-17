@@ -239,3 +239,49 @@ would help.
     and the Cloakroom and Mineral Vault came back as narrow corridors. Spelling
     out "spanning almost the full width of the frame, nothing at all on the
     floor" fixed all three on the second try.
+39. **The chroma-key border check failed more often on this chunk: 55 times over
+    about 200 look-0 generates (wings 11-17).** 35 elements failed at least once.
+    A same-request retry passed for 15 of them, and 20 needed background `null`
+    (`art_bg: soft`). Hanging subjects (chandeliers, a gear mobile, jellyfish
+    shades) fail almost every time, because their chains run off the top
+    edge. Each failure burns four attempts and a queue slot, so a server-side
+    fallback (item 33) would save about a quarter of the generate time.
+40. **"Imaginary continents" comes back as the real Earth.** The Great Relief
+    Model, the Leather Map Table and the Volume IV panel all painted Africa and
+    Europe. "One invented island ... not the real world" fixed the relief model
+    and the panel. The map table still shows real-looking coastlines after a
+    second try.
+41. **More noun-to-literal leaks (item 36):**
+    - "rope pulley" drew a hangman's noose on the dumbwaiter, in all three
+      looks;
+    - "goose, swan and peacock quill pens" grew swan heads out of the pot;
+    - "laid out like a small railway" laid the spectroscope on rails;
+    - "a pool of lamplight" put the folio's stand in a pool of water;
+    - "letterpress machine" drew a typewriter;
+    - "crossed direction arms, bare of letters" still painted N and E.
+
+    Each needed a reworded subject and a regenerate.
+42. **"Close view of" panel subjects come back as an isolated object on grey,
+    even with background `keep`.** The Kraken's-eye jar and the aquarium box
+    panel did this. Adding "a full-frame painting filling the whole frame" fixed
+    the jar. The aquarium needed "the tank fills the whole frame edge to edge".
+43. **Edits with background `null` make white subjects see-through.** A
+    "white enamel pail" edit came back translucent twice, even with the
+    "thin dark outline" phrase that works for other pale parts (item 34).
+    Recolouring the look (deep teal enamel) was the only fix.
+44. **`sectilia generate` exited 6 ("could not download the image: The read
+    operation timed out") for a job that had succeeded.** `sectilia wait` on
+    the same id a minute later saved it. Exit 6 reads as "service down, stop",
+    so the CLI should retry the download itself, or report it as exit 7 with
+    `submitted: true`.
+45. **Expression edits reframe and drop props.** One portrait's four
+    expressions came out at different crops: the ledger came and went, and one
+    character's edits switched to full length. Width-led alignment
+    (align_states) then shrank whole figures, so we kept the raw edits. An
+    edit option to lock the framing would help.
+46. **Three jobs per machine works with one runner and three threads.** Each
+    command's own stderr names its job id ("job <id> queued"), which made
+    recovery unambiguous. However, edits mostly sat in `waiting_for: edit` (no
+    free server slot), so real throughput was about 1.3 edits a minute: the
+    extra parallelism mostly went to waiting. Generates ran about 3x faster
+    than serial.
