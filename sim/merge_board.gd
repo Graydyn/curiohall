@@ -67,6 +67,29 @@ func merge_error(a: Vector2i, b: Vector2i) -> String:
         return "chain_top"
     return ""
 
+## Returns one legal merge as [source, target], or [] if none exists.
+## Scans in row-major order so the same board always yields the same hint.
+func find_merge_pair() -> Array:
+    var by_type := {}   # type -> Array[Vector2i] of non-boxed cells, row-major
+    for y in range(height):
+        for x in range(width):
+            var p := Vector2i(x, y)
+            var item := item_at(p)
+            if item != null and state_at(p) != CellState.BOXED:
+                if not by_type.has(item.type):
+                    by_type[item.type] = []
+                by_type[item.type].append(p)
+    for y in range(height):
+        for x in range(width):
+            var a := Vector2i(x, y)
+            var item := item_at(a)
+            if item == null or state_at(a) != CellState.OPEN:
+                continue
+            for b in by_type[item.type]:
+                if can_merge(a, b):
+                    return [a, b]
+    return []
+
 func merge(a: Vector2i, b: Vector2i) -> String:
     var err := merge_error(a, b)
     if err != "":
