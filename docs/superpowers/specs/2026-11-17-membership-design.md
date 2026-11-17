@@ -241,7 +241,8 @@ finishes them, and members get the comfort of the extra energy there.
   `max(now, member_until)`.
 - Day boundary = player's local midnight.
 - Buying while active extends; stack cap 60 days ahead.
-- Reminders at 3 days and on the last day.
+- Reminders at 3 days and on the last day, counted in local calendar days ("ends today" only on the day it actually ends).
+- Paid days pause while Play Pass applies and resume when it ends (final review).
 - On lapse: earned gems are kept, perks stop, event tiers already reached are kept.
 - Final prize ≤ 25% of total event prize value.
 - The ad daily deal: no sim change; members just don't see the ad label.

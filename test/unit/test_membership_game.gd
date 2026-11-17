@@ -38,3 +38,12 @@ func test_save_round_trip_keeps_membership() -> void:
     assert_eq(g2.membership.last_refill_day, g.membership.last_refill_day)
     assert_eq(int(g.to_dict()["save_version"]), 11)
     assert_false(g.to_dict().has("iap"))
+
+func test_reminder_counts_calendar_days_to_end() -> void:
+    var g := Game.fresh(1000.0, 42)
+    var start := 86400.0 * 100 + 10 * 3600.0     # day 100, 10:00 UTC (offset 0)
+    g.buy_pass(start)                             # ends day 130 at 10:00
+    var t := 86400.0 * 129 + 11 * 3600.0          # day 129, 11:00: < 24h left
+    assert_eq(g.membership_end_days(t), 1)
+    assert_eq(g.take_membership_reminder(t), "ending_soon")
+    assert_eq(g.take_membership_reminder(86400.0 * 130 + 3600.0), "last_day")

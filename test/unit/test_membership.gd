@@ -45,7 +45,7 @@ func test_buy_after_lapse_starts_from_now() -> void:
 
 func test_play_pass_is_member_and_blocks_buying() -> void:
     var m := Membership.new()
-    m.set_play_pass(true)
+    m.set_play_pass(true, NOW)
     assert_true(m.is_member(NOW))
     assert_eq(m.buy_pass(NOW)["reason"], "play_pass")
     assert_eq(m.member_until, 0.0)
@@ -96,17 +96,34 @@ func test_refill_rejected_for_non_member() -> void:
 func test_reminder_once_per_day() -> void:
     var m := Membership.new()
     m.buy_pass(NOW)
-    assert_eq(m.take_reminder(NOW, 0), "")
-    var t := NOW + 27 * DAY + 1.0                # 3 days left (ceil)
-    assert_eq(m.take_reminder(t, 27), "ending_soon")
-    assert_eq(m.take_reminder(t, 27), "")
-    var last := NOW + 30 * DAY - 3600.0          # < 1 day left
-    assert_eq(m.take_reminder(last, 29), "last_day")
+    assert_eq(m.take_reminder(NOW, 0, 30), "")
+    assert_eq(m.take_reminder(NOW, 27, 30), "ending_soon")   # 3 calendar days left
+    assert_eq(m.take_reminder(NOW, 27, 30), "")
+    assert_eq(m.take_reminder(NOW, 30, 30), "last_day")
+
+func test_last_day_is_the_calendar_day_it_ends() -> void:
+    var m := Membership.new()
+    m.buy_pass(NOW)
+    # under 24h left but it ends tomorrow: not "ends today"
+    assert_eq(m.take_reminder(NOW + 30 * DAY - 3600.0, 29, 30), "ending_soon")
 
 func test_no_reminder_on_play_pass() -> void:
     var m := Membership.new()
-    m.set_play_pass(true)
-    assert_eq(m.take_reminder(NOW, 0), "")
+    m.set_play_pass(true, NOW)
+    assert_eq(m.take_reminder(NOW, 0, 0), "")
+
+func test_play_pass_pauses_paid_days() -> void:
+    var m := Membership.new()
+    m.buy_pass(NOW)                                # paid through NOW + 30d
+    m.set_play_pass(true, NOW + 5 * DAY)           # 25 paid days left
+    m.set_play_pass(false, NOW + 40 * DAY)         # Play Pass ends
+    assert_eq(m.member_until, NOW + 40 * DAY + 25 * DAY)
+
+func test_play_pass_without_paid_days_ends_cleanly() -> void:
+    var m := Membership.new()
+    m.set_play_pass(true, NOW)
+    m.set_play_pass(false, NOW + DAY)
+    assert_false(m.is_member(NOW + DAY))
 
 func test_round_trip() -> void:
     var m := Membership.new()
@@ -115,7 +132,9 @@ func test_round_trip() -> void:
     m.last_refill_day = 3
     m.last_reminder_day = 2
     m.play_pass = true
+    m.paused_seconds = 123.0
     var m2 := Membership.from_dict(m.to_dict())
     assert_eq(m2.member_until, m.member_until)
     assert_eq([m2.last_perk_day, m2.last_refill_day, m2.last_reminder_day], [4, 3, 2])
     assert_true(m2.play_pass)
+    assert_eq(m2.paused_seconds, 123.0)

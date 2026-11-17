@@ -9,6 +9,7 @@ var _root: PanelContainer
 var _list: VBoxContainer
 var _membership_status: Label
 var _buy_pass_btn: Button   # null when no buy button is shown (Play Pass)
+var _stack_reason: Label    # set only when the add button is disabled at the cap
 
 func setup(g: Game) -> void:
     game = g
@@ -114,19 +115,22 @@ func _membership_section(now: float) -> void:
     for perk in ["A free energy refill each day", "%d gems each day" % gems, "Double progress in events"]:
         _label("  • " + perk)
     _buy_pass_btn = null
+    _stack_reason = null
     if not m.play_pass:
         if m.is_member(now):
             var max_until := now + float(t["membership_max_days_ahead"]) * Membership.DAY
             var would := m.member_until + float(t["membership_pass_days"]) * Membership.DAY
             _buy_pass_btn = _buy_button("Add 30 days (DEV)", would > max_until,
                 func(): _do(game.buy_pass(Time.get_unix_time_from_system())))
+            if would > max_until:
+                _stack_reason = _label("  You can hold at most %d days of membership" % int(t["membership_max_days_ahead"]))
         else:
             _buy_pass_btn = _buy_button("Buy 30 days (DEV) — %s" % String(t["membership_price_label"]), false,
                 func(): _do(game.buy_pass(Time.get_unix_time_from_system())))
     _buy_button("Claim today's energy refill", not game.refill_available(now),
         func(): _do(game.claim_refill(Time.get_unix_time_from_system())))
     _buy_button("Play Pass (DEV): %s" % ("ON" if m.play_pass else "OFF"), false,
-        func(): game.set_play_pass(not game.membership.play_pass))
+        func(): game.set_play_pass(not game.membership.play_pass, Time.get_unix_time_from_system()))
 
 func _do(res: Dictionary) -> void:
     if not res["ok"]:

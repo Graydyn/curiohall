@@ -36,7 +36,6 @@ const REJECT_MESSAGES := {
     "play_pass": "Included with Play Pass",
     "not_member": "Members only",
     "already_claimed": "Already claimed today",
-    "ending_soon": "Your membership ends in %d days",
     "last_day": "Your membership ends today",
 }
 
@@ -168,7 +167,8 @@ func _tick_membership(now: float) -> void:
     game.tick_membership(now)
     var key := game.take_membership_reminder(now)
     if key == "ending_soon":
-        _show_toast_text(String(REJECT_MESSAGES[key]) % game.membership.days_left(now))
+        var n := game.membership_end_days(now)
+        _show_toast_text("Your membership ends in %d day%s" % [n, "" if n == 1 else "s"])
     elif key != "":
         _show_toast(key)
 

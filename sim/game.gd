@@ -257,11 +257,15 @@ func refill_available(now: float) -> bool:
 func claim_refill(now: float) -> Dictionary:
     return membership.claim_refill(self, now, local_day(now))
 
-func take_membership_reminder(now: float) -> String:
-    return membership.take_reminder(now, local_day(now))
+## Calendar days from today to the local day the pass ends (0 = ends today).
+func membership_end_days(now: float) -> int:
+    return local_day(membership.member_until - 1.0) - local_day(now)
 
-func set_play_pass(on: bool) -> void:
-    membership.set_play_pass(on)
+func take_membership_reminder(now: float) -> String:
+    return membership.take_reminder(now, local_day(now), local_day(membership.member_until - 1.0))
+
+func set_play_pass(on: bool, now: float) -> void:
+    membership.set_play_pass(on, now)
 
 func complete_task(id: int, now: float) -> Dictionary:
     var res := campaign.complete_task(id, self, now)
