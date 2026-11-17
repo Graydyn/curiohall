@@ -54,7 +54,12 @@ static func build() -> Theme:
     # Task card frame: PanelContainer variation "CardFrame".
     t.add_type("CardFrame")
     t.set_type_variation("CardFrame", "PanelContainer")
-    t.set_stylebox("panel", "CardFrame", art_box("task_card_frame", _box(CREAM, BRASS, 10, 3), 64.0, 40.0))
+    # The painted border is ~75px thick, so slice at 80 and pad content past it.
+    t.set_stylebox("panel", "CardFrame", art_box("task_card_frame", _box(CREAM, BRASS, 10, 3), 80.0, 92.0))
+    # Dark text for labels sitting on the card's pale paper: Label variation "CardLabel".
+    t.add_type("CardLabel")
+    t.set_type_variation("CardLabel", "Label")
+    t.set_color("font_color", "CardLabel", INK)
     # Brass nav buttons: Button variation "NavButton".
     t.add_type("NavButton")
     t.set_type_variation("NavButton", "Button")

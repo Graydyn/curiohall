@@ -94,6 +94,30 @@ func test_task_card_society_and_cast() -> void:
     w.task_card.close()
     row["detail_icon"] = old
 
+func _card_text(w: WingView, node: String) -> String:
+    return (w.task_card.find_child(node, true, false) as Label).text
+
+func test_card_step_and_reward() -> void:
+    var w: WingView = _make()[1]
+    w.tap_element("01_001")
+    assert_eq(_card_text(w, "Step"), "Step 1 of 4")
+    var reward := w.task_card.find_child("Reward", true, false)
+    assert_eq((reward.get_child(0) as Label).text, "Reward: 15 XP")
+    assert_null(w.task_card.find_child("Portrait", true, false))
+    _complete(w, "01_001")
+    w.tap_element("01_001")
+    assert_eq(_card_text(w, "Step"), "Step 2 of 4")
+
+func test_card_item_reward_counts_as_extra() -> void:
+    var w: WingView = _make()[1]
+    for i in 3:
+        _complete(w, "01_001")
+    w.tap_element("01_001")   # task 1_4: exp-15 + item 1301
+    assert_eq(_card_text(w, "Step"), "Step 4 of 4")
+    var reward := w.task_card.find_child("Reward", true, false)
+    assert_eq((reward.get_child(0) as Label).text, "Reward: 15 XP +")
+    assert_eq(reward.get_child_count(), 2)
+
 func test_card_complete_disabled_when_short() -> void:
     var g := Game.fresh(0.0)
     g.wallet.coins = 5

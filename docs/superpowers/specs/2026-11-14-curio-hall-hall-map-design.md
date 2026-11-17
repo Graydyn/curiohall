@@ -58,7 +58,7 @@ written down as feedback for the Sectilia team (see §9).
 | Locked wings | Shown **boarded up** or **missing, replaced by an outline**. |
 | Campaign | Stays **strictly linear** (one active wing at a time). Opening several wings isn't worth the rework. |
 | Exterior counters | **None.** With a linear campaign every wing behind the player is fully restored, so per-wing counts add nothing. |
-| Non-cast askers | Tasks whose `detail_icon` isn't one of the 11 cast show as a generic **Society request** (no portrait). Not every task needs a character. |
+| Non-cast askers | Tasks whose `detail_icon` isn't one of the 11 cast show as a generic **Society request**. Not every task needs a character. The task card shows no portraits at all (2026-11-16). |
 | Elements | "Option A": a few tasks build one element. Go heavy on element count. |
 | Customization | On completing an element the player **picks one of 3 looks**; swap later free in an edit mode. |
 | Story | Portrait-and-speech-bubble scenes over the live map for most beats; **painted panels** for the big moments (~47–60). |
@@ -125,10 +125,12 @@ written down as feedback for the Sectilia team (see §9).
   2. **In progress** — the finished art under scaffolding / dust sheets, plus a small progress
      pip ("2/3").
   3. **Done** — the player's chosen look, settled into the scene.
-- Tapping an element with an available task opens the **task card** (who asks, cost vs. coins,
-  Complete). The asker is the task's `detail_icon` character via `Cast` when it is one of the 11
-  cast; every other `detail_icon` (imelda, dominic, riley, … ~1,800 tasks) shows a generic
-  **"Society request"** with the Society seal and no portrait. Completing the element's last
+- Tapping an element with an available task opens the **task card**: element name, "Step N of M"
+  for that element, who asks, the reward ("Reward: 15 XP", item rewards as their icons), cost
+  vs. coins, Complete, Back. No portrait (changed 2026-11-16: a portrait means nothing to the
+  player). The asker line is "Requested by <name>" when the task's `detail_icon` is one of the
+  11 cast via `Cast`; every other `detail_icon` (imelda, dominic, riley, … ~1,800 tasks) reads
+  **"Society request"**. Completing the element's last
   task triggers the **look picker**: the three looks side by side, the player taps one, it
   settles into place, then the element's story beat plays.
 - **Arrange mode** (brass "Arrange" toggle in the wing view): tap any finished element to reopen
