@@ -32,6 +32,13 @@ static func grant(token: String, game, now: float) -> void:
 			for i in range(int(r["amount"])):
 				game.player.push_reward(id)
 
+## Comparable worth of a reward token, from tuning.reward_value_weights
+## (keyed by parse()'s kind). Used to keep event prize ladders in shape.
+static func value(token: String) -> float:
+	var r := parse(token)
+	var weights: Dictionary = ConfigDB.tuning["reward_value_weights"]
+	return float(r["amount"]) * float(weights.get(r["kind"], 0.0))
+
 static func grant_all(tokens: Array, game, now: float) -> void:
 	for t in tokens:
 		grant(String(t), game, now)
