@@ -3,11 +3,13 @@ extends VBoxContainer
 
 signal action_rejected(reason: String)
 signal storage_requested
+signal info_requested
 
 var game: Game
 var board_view: BoardView
 var _reward_btn := Button.new()
 var _storage_btn := Button.new()
+var _info_btn := Button.new()
 var _hint := Label.new()
 
 func setup(g: Game, bv: BoardView) -> void:
@@ -29,6 +31,12 @@ func setup(g: Game, bv: BoardView) -> void:
     store_btn.text = "Store selected"
     store_btn.pressed.connect(_on_store_selected)
     header.add_child(store_btn)
+    # "?" opens the info panel for the selected item.
+    _info_btn.text = "?"
+    _info_btn.custom_minimum_size = Vector2(48, 0)
+    _info_btn.pressed.connect(func(): info_requested.emit())
+    header.add_child(_info_btn)
+    board_view.selection_changed.connect(func(_pos): refresh())
     _storage_btn.pressed.connect(func(): storage_requested.emit())
     header.add_child(_storage_btn)
     add_child(header)
@@ -67,3 +75,4 @@ func _on_store_selected() -> void:
 func refresh() -> void:
     _refresh_reward_button()
     _storage_btn.text = "Storage %d/%d" % [game.player.inventory.size(), game.player.slots]
+    _info_btn.disabled = board_view.selected == Vector2i(-1, -1)

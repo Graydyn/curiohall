@@ -3,7 +3,7 @@ extends Node2D
 
 const CELL := 96
 
-signal sell_requested(pos: Vector2i)
+signal selection_changed(pos: Vector2i)
 signal action_rejected(reason: String)
 
 var game: Game
@@ -60,6 +60,10 @@ func _on_removed_clears_selection(pos: Vector2i) -> void:
 func _select(pos: Vector2i) -> void:
     selected = pos
     queue_redraw()
+    selection_changed.emit(pos)
+
+func clear_selection() -> void:
+    _select(Vector2i(-1, -1))
 
 func _on_opened(pos: Vector2i, _new_state: int) -> void:
     if _views.has(pos):

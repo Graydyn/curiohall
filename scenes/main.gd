@@ -32,6 +32,7 @@ const REJECT_MESSAGES := {
     "event_already_active": "An expedition is already underway",
     "boost_already_active": "The gala is already under way.",
     "storage_full": "Storage is full - unlock another slot",
+    "unsellable": "This item can't be sold",
     "storage_maxed": "Every storage slot is unlocked",
 }
 
@@ -44,6 +45,7 @@ var _gala_panel_open := false
 var gala_panel: GalaPanel
 var gala_button: Button
 var storage_panel: StoragePanel
+var info_panel: InfoPanel
 
 @onready var board_view: BoardView = $BoardView
 @onready var hud: Hud = $UI/Hud
@@ -118,6 +120,14 @@ func _ready() -> void:
     storage_panel.storage_changed.connect(func(): _save_pending = true)
     storage_panel.visibility_changed.connect(inventory.refresh)
     inventory.storage_requested.connect(storage_panel.open)
+    info_panel = InfoPanel.new()
+    add_child(info_panel)
+    info_panel.setup(game)
+    info_panel.action_rejected.connect(_show_toast)
+    info_panel.sold.connect(func():
+        board_view.clear_selection()
+        _save_pending = true)
+    inventory.info_requested.connect(func(): info_panel.open(board_view.selected))
 
 func _setup_toast() -> void:
     _toast = Label.new()

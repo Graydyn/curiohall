@@ -42,3 +42,17 @@ func test_panel_fits_below_board_on_screen() -> void:
     var h := p.get_combined_minimum_size().y
     gut.p("inventory panel min height: %s" % h)
     assert_lte(h, 1280.0 - 1140.0)
+
+func test_info_button_follows_selection() -> void:
+    var g := Game.fresh(1000.0, 42)
+    var p := InventoryPanel.new()
+    add_child_autofree(p)
+    var bv: BoardView = BoardView.new()
+    add_child_autofree(bv)
+    bv.setup(g)
+    p.setup(g, bv)
+    assert_true(p._info_btn.disabled)
+    bv._select(Vector2i(0, 0))
+    assert_false(p._info_btn.disabled)
+    bv.clear_selection()
+    assert_true(p._info_btn.disabled)
