@@ -2,19 +2,27 @@ class_name ItemInfo
 ## Player-facing facts about an item type: family name, tier, where it comes
 ## from, what it does and what it sells for. Everything derives from config.
 
+static var _trailing_digits := RegEx.create_from_string("_?\\d+$")
+
 static func family_name(type: String) -> String:
     var art: String = ConfigDB.item_images.get(type, "")
     if art == "":
         return type
-    var re := RegEx.create_from_string("\\d+$")
-    art = re.sub(art, "")
-    var out := ""
+    art = _trailing_digits.sub(art, "")
+    # Split CamelCase ("RawFish") and snake_case ("time_skip"), then title-case.
+    var words := ""
     for i in art.length():
         var c := art[i]
-        if i > 0 and c == c.to_upper() and c != c.to_lower() and art[i - 1] == art[i - 1].to_lower():
-            out += " "
-        out += c
-    return out
+        if c == "_":
+            words += " "
+            continue
+        if i > 0 and c == c.to_upper() and c != c.to_lower() and art[i - 1] == art[i - 1].to_lower() and art[i - 1] != "_":
+            words += " "
+        words += c
+    var out := []
+    for w in words.split(" ", false):
+        out.append(w[0].to_upper() + w.substr(1))
+    return " ".join(out)
 
 ## The item a merge produced `type` from, or "" for a chain root.
 static func _previous(type: String) -> String:
@@ -94,6 +102,8 @@ static func reward_text(tokens: Array) -> String:
             "gems": parts.append("%d gem%s" % [n, "" if n == 1 else "s"])
             "energy": parts.append("%d energy" % n)
             "xp": parts.append("%d XP" % n)
+            _ when r["id"] == "skip": parts.append("time skip (%d)" % n)
+            _ when r["id"] == "infinite": parts.append("unlimited energy (%d)" % n)
             _: parts.append("%s x%d" % [family_name(r["id"]), n])
     return ", ".join(parts)
 

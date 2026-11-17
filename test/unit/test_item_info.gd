@@ -45,3 +45,11 @@ func test_lines() -> void:
     assert_has(ItemInfo.lines("205"), "Made by: Grocery Bag")
     assert_has(ItemInfo.lines("104"), "Costs 1 energy per tap")
     assert_has(ItemInfo.lines("main_g_chest_new_1"), "Tap twice to open")
+
+func test_family_name_snake_case_art() -> void:
+    assert_eq(ItemInfo.family_name("time_skip_1"), "Time Skip")
+    assert_eq(ItemInfo.family_name("main_order_chest_s_1"), "Main Order Chest S")
+
+func test_reward_text_special_tokens() -> void:
+    assert_eq(ItemInfo.reward_text(["skip-600"]), "time skip (600)")
+    assert_eq(ItemInfo.reward_text(["infinite-60"]), "unlimited energy (60)")
