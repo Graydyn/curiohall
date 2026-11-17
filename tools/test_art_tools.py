@@ -202,6 +202,33 @@ class BatchTests(unittest.TestCase):
         self.assertLessEqual(abs((box[0] + box[2]) / 2 - 100), 1)
         self.assertLessEqual(abs((box[2] - box[0]) - 160), 2)
 
+    def test_tall_scene_fits_one_screen_then_extends(self):
+        from PIL import Image
+        e = M.scene_generate("scene_99_0", "assets/map/wings/99/scene_0.png", "room", [720, 2560], [])
+        self.assertEqual(e["fit"], {"size": [720, 1280], "out": "assets/map/wings/99/scene_0.png",
+                                    "extend": 2560})
+        with tempfile.TemporaryDirectory(dir=C.ROOT) as d:
+            rel = os.path.relpath(d, C.ROOT)
+            Image.new("RGBA", (683, 1024), (10, 20, 30, 255)).save(os.path.join(d, "raw.png"))
+            B.apply_fit({"out": rel + "/raw.png",
+                         "fit": {"size": [720, 1280], "out": rel + "/tall.png", "extend": 2560}})
+            self.assertEqual(Image.open(os.path.join(d, "tall.png")).size, (720, 2560))
+        short = M.scene_generate("scene_98_0", "assets/map/wings/98/scene_0.png", "room", [720, 1280], [])
+        self.assertNotIn("extend", short["fit"])
+
+    def test_extend_room_keeps_top_and_repeats_floor(self):
+        import extend_room as ER
+        from PIL import Image
+        im = Image.new("RGB", (72, 128), (10, 10, 10))
+        im.paste((200, 0, 0), (0, 76, 72, 128))           # "floor" band from row 76
+        out = ER.extend(im, 300, strip_top=76, fade=20)
+        self.assertEqual(out.size, (72, 300))
+        self.assertEqual(out.getpixel((5, 10)), (10, 10, 10))   # far wall untouched
+        self.assertEqual(out.getpixel((5, 120)), (200, 0, 0))
+        self.assertEqual(out.getpixel((5, 299)), (200, 0, 0))   # floor all the way down
+        self.assertEqual(ER.fade_mask(4, 30, 20).getpixel((0, 0)), 0)
+        self.assertEqual(ER.fade_mask(4, 30, 20).getpixel((0, 25)), 255)
+
     def test_lawn_patch_fills_polygon_only(self):
         from PIL import Image
         base = Image.new("RGB", (120, 80), (200, 200, 200))
@@ -665,6 +692,16 @@ class PlaceElementsTests(unittest.TestCase):
         for e in els:
             if e["id"] not in hang:
                 self.assertGreaterEqual(placed[e["id"]][1], 500)
+
+    def test_star_at_puts_the_star_near_the_back_of_a_tall_room(self):
+        floor = (40.0, 400.0, 680.0, 2860.0)
+        els = self.els(29)
+        placed = PE.place(els, floor, 330, 12, star_at=0.15)
+        star_y = placed[els[-1]["id"]][1]
+        self.assertLess(star_y, 1280)
+        self.assertAlmostEqual(placed[els[-1]["id"]][0], 360, delta=40)
+        mid = PE.place(els, floor, 330, 12)
+        self.assertGreater(mid[els[-1]["id"]][1], 1280)
 
     def test_hang_x_limits_the_hanging_row(self):
         floor = (40.0, 500.0, 680.0, 1240.0)

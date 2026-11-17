@@ -1,7 +1,9 @@
 extends Control
 ## Helper for tools/shot_wing.gd: builds a WingView (or the exterior map) from
 ## the command line args:
-##   <area> <out.png> [done]
+##   <area> <out.png> [done] [element_id]
+## element_id scrolls the view to that element through WingView.focus (use the
+## room's lowest element to shoot the bottom of a tall room).
 ##   exterior <out.png> [states] [zoom] [center_area]
 ## states like "1r,2r,3b,4b" (r restored, a active, b/l locked) override the
 ## campaign's wing states for the shot.
@@ -39,3 +41,6 @@ func _ready() -> void:
     add_child(w)
     w.size = size
     w.setup(g, area, "")
+    if args.size() > 3 and args[3] != "":
+        if not w.focus(String(args[3])):
+            push_error("focus failed: " + String(args[3]))

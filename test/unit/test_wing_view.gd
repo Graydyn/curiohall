@@ -208,3 +208,27 @@ func test_home_opens_wing_and_returns() -> void:
     assert_eq(h.current_screen(), "home")
     assert_false(h.wing_view.visible)
     assert_true(h._next_strip.visible)
+
+## A tall room (one subroom taller than the screen) scrolls its full height, and
+## focusing the lowest element brings it on screen.
+func test_tall_room_scrolls_full_height_and_focus_reaches_bottom() -> void:
+    var area := 17
+    var room_h := float(ConfigDB.hall_wings[area]["subrooms"][0]["size"][1])
+    assert_gt(room_h, 1280.0, "area 17 is a tall room")
+    var w: WingView = _make(null, area)[1]
+    assert_eq(w._scene.size.y, room_h)
+    assert_eq(w._max_scroll(), room_h - 1280.0)
+    var lowest := ""
+    var low_y := -1.0
+    for row in HallElements.in_area(area):
+        var y := float(row["pos"][1])
+        if y > low_y:
+            low_y = y
+            lowest = String(row["id"])
+    assert_true(w.focus(lowest))
+    var s: ElementSprite = w.sprite(lowest)
+    var top_on_screen := s.position.y + w._scene.position.y
+    assert_true(top_on_screen >= 0.0 and top_on_screen + s.size.y <= 1280.0 + 1.0,
+            "lowest element on screen after focus (top %.0f)" % top_on_screen)
+    assert_true(w.focus(String(HallElements.in_area(area)[-1]["id"])))
+    assert_lt(w._scroll, room_h - 1280.0, "star sits above the bottom of the room")

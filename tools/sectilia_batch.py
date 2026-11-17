@@ -321,7 +321,8 @@ def final_out(e):
 
 
 def apply_fit(e):
-    """Cover-fit (scale to cover, centre crop) the raw output to fit.size."""
+    """Cover-fit (scale to cover, centre crop) the raw output to fit.size, then
+    extend it downward to fit.extend px tall when set (a tall room)."""
     fit = e.get("fit")
     if not fit:
         return
@@ -336,7 +337,11 @@ def apply_fit(e):
     x, y = (im.width - w) // 2, (im.height - h) // 2
     dst = os.path.join(C.ROOT, fit["out"])
     os.makedirs(os.path.dirname(dst), exist_ok=True)
-    im.crop((x, y, x + w, y + h)).convert("RGB").save(dst)
+    im = im.crop((x, y, x + w, y + h)).convert("RGB")
+    if fit.get("extend"):
+        import extend_room
+        im = extend_room.extend(im, int(fit["extend"]))
+    im.save(dst)
 
 
 def apply_post(e):

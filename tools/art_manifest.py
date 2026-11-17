@@ -78,6 +78,7 @@ KEEP = {"type": "keep"}
 # The generator draws about 2:3 portrait; scenes made by generate are drawn at
 # this size and cover-fitted (scale + centre crop) to their final size.
 SCENE_GEN_CANVAS = [683, 1024]
+SCREEN_H = 1280
 
 
 def spec(canvas, anchor="bottom_center", margin=4, background=CHROMA):
@@ -157,7 +158,12 @@ def scene_generate(key, final, subject, size, style_keys):
         "subject": subject[:500], "theme": C.STYLE_THEME,
         "spec": spec(SCENE_GEN_CANVAS, anchor="center", margin=0, background=KEEP),
         "style_keys": list(style_keys)})
-    e["fit"] = {"size": list(size), "out": final}
+    # Rooms taller than one screen are painted as a 720x1280 room and extended
+    # downward by the batch runner (tools/extend_room.py) to their full height.
+    if size[1] > SCREEN_H:
+        e["fit"] = {"size": [size[0], SCREEN_H], "out": final, "extend": size[1]}
+    else:
+        e["fit"] = {"size": list(size), "out": final}
     return e
 
 

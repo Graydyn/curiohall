@@ -69,7 +69,7 @@ def to_pos(placed, offsets):
     return out
 
 
-def pack(items, star, k, floor, gap):
+def pack(items, star, k, floor, gap, star_at=0.5):
     """Return rows [[(el, size, vw, vh)]] with the star centred in the middle
     row, or None when something is wider than the floor."""
     x0, y0, x1, y1 = floor
@@ -105,7 +105,8 @@ def pack(items, star, k, floor, gap):
     if cur:
         rows.append(cur)
     if star_row is not None:
-        rows.insert(len(rows) // 2, star_row)
+        rows.insert(min(len(rows), int(len(rows) * star_at + 0.5)) if star_at != 0.5
+                    else len(rows) // 2, star_row)
     return rows
 
 
@@ -113,7 +114,7 @@ def heights(rows, gap):
     return sum(max(t[3] for t in r) for r in rows) + gap * max(0, len(rows) - 1)
 
 
-def layout(els, floor, max_size, gap, wall=None, boxes=None, star="auto"):
+def layout(els, floor, max_size, gap, wall=None, boxes=None, star="auto", star_at=0.5):
     """Rows for the floor elements. `wall`: the far-wall line; the first (back)
     row's base must sit at or below it, so its sprites may rise above y0
     against the wall while standing on the floor."""
@@ -137,7 +138,7 @@ def layout(els, floor, max_size, gap, wall=None, boxes=None, star="auto"):
                 st = t
             else:
                 items.append(t)
-        rows = pack(items, st, s, floor, gap)
+        rows = pack(items, st, s, floor, gap, star_at)
         if rows is not None and heights(rows, gap) + back_drop(rows, floor, wall) <= fh:
             best, lo = rows, s
         else:
@@ -152,7 +153,9 @@ def back_drop(rows, floor, wall):
     return max(0.0, wall - (floor[1] + max(t[3] for t in rows[0])))
 
 
-def assign(rows, floor, gap, wall=None):
+def assign(rows, floor, gap, wall=None, star=None):
+    """{id: (visible centre x, base y, size)}. The star's row keeps the star at
+    the floor's centre, with its neighbours spread evenly on each side."""
     x0, y0, x1, y1 = floor
     fh = y1 - y0
     drop = back_drop(rows, floor, wall)
@@ -163,14 +166,28 @@ def assign(rows, floor, gap, wall=None):
     for r in rows:
         rh = max(t[3] for t in r)
         base = y + rh
-        tw = sum(t[2] for t in r)
-        space = (x1 - x0 - tw) / (len(r) + 1)
-        x = x0 + space
-        for t in r:
-            out[t[0]["id"]] = (round(x + t[2] / 2 + 0.0), round(base), round(t[1]))
-            x += t[2] + space
+        k = next((i for i, t in enumerate(r) if star is not None and t[0] is star), None)
+        if k is None:
+            spread_row(out, r, x0, x1, base)
+        else:
+            st = r[k]
+            cx = (x0 + x1) / 2.0
+            out[star["id"]] = (round(cx), round(base), round(st[1]))
+            spread_row(out, r[:k], x0, cx - st[2] / 2, base)
+            spread_row(out, r[k + 1:], cx + st[2] / 2, x1, base)
         y = base + extra
     return out
+
+
+def spread_row(out, items, a, b, base):
+    """Space items evenly between a and b (equal gaps, including both ends)."""
+    if not items:
+        return
+    space = (b - a - sum(t[2] for t in items)) / (len(items) + 1)
+    x = a + space
+    for t in items:
+        out[t[0]["id"]] = (round(x + t[2] / 2), round(base), round(t[1]))
+        x += t[2] + space
 
 
 def min_side(rows):
@@ -178,7 +195,8 @@ def min_side(rows):
     return min(min(t[2], t[3]) for r in rows for t in r) if rows else 0
 
 
-def place(els, floor, max_size, gap, wall=None, hang=(), hang_band=None, min_px=0, hang_x=None):
+def place(els, floor, max_size, gap, wall=None, hang=(), hang_band=None, min_px=0, hang_x=None,
+          star_at=0.5):
     """{id: (cx, base_y, size)} for one wing.
 
     Hanging ids are laid out in one row in hang_band (y0, y1) high in the room,
@@ -193,7 +211,7 @@ def place(els, floor, max_size, gap, wall=None, hang=(), hang_band=None, min_px=
     fstar = star if star in floor_els else None
     best = None
     for g in sorted({gap, gap / 2.0, min(gap, 4.0), 0.0}, reverse=True):
-        rows = layout(floor_els, floor, max_size, g, wall, boxes, fstar)
+        rows = layout(floor_els, floor, max_size, g, wall, boxes, fstar, star_at)
         if rows is None:
             continue
         if best is None or min_side(rows) > min_side(best[0]):
@@ -204,7 +222,7 @@ def place(els, floor, max_size, gap, wall=None, hang=(), hang_band=None, min_px=
     if best is None:
         return None
     rows, g = best
-    out = assign(rows, floor, g, wall)
+    out = assign(rows, floor, g, wall, fstar)
     if hung:
         hy0, hy1 = hang_band
         size = max(t[1] for r in rows for t in r if t[0] is not fstar)
@@ -259,6 +277,9 @@ def main(argv=None):
     ap.add_argument("--hang", default="", help="comma-separated ids that hang high in the room")
     ap.add_argument("--hang-band", default="", help="y0,y1 of the band hanging items fill")
     ap.add_argument("--hang-x", default="", help="x0,x1 the hanging row spans (default: the floor's)")
+    ap.add_argument("--star-at", type=float, default=0.5,
+                    help="where the star's row goes, as a fraction of the rows (0 = back row; "
+                         "small values keep it on a tall room's first screen)")
     ap.add_argument("--min-px", type=float, default=150,
                     help="shrink the gap before letting a short side drop below this")
     ap.add_argument("--write", action="store_true")
@@ -273,7 +294,7 @@ def main(argv=None):
         print("--hang needs --hang-band", file=sys.stderr)
         return 2
     placed = place(els, floor, a.max_size, a.gap, a.wall, hang, band, a.min_px,
-                   [float(v) for v in a.hang_x.split(",")] if a.hang_x else None)
+                   [float(v) for v in a.hang_x.split(",")] if a.hang_x else None, a.star_at)
     if placed is None:
         print("does not fit", file=sys.stderr)
         return 1

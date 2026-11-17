@@ -1,6 +1,6 @@
 extends SceneTree
 ## Screenshot one wing view (needs a display, not --headless).
-## usage: godot --path . -s res://tools/shot_wing.gd -- <area|exterior> <out.png> [done]
+## usage: godot --path . -s res://tools/shot_wing.gd -- <area|exterior> <out.png> [done] [element_id]
 ## "done" marks every element of the area finished with look 0, so the art
 ## shows instead of the outline stage.
 ##
