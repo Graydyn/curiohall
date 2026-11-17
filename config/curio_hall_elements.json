@@ -3665,7 +3665,7 @@
    "36_3"
   ],
   "pos": [
-   164,
+   159,
    863
   ],
   "subject": "a cut-away nautilus shell on a brass stand, its chambered spiral gleaming cream and tiger-striped",
@@ -3698,7 +3698,7 @@
    "36_6"
   ],
   "pos": [
-   578,
+   573,
    862
   ],
   "subject": "a tall glass vase holding branches of white and red coral like a small underwater tree",
@@ -3862,7 +3862,7 @@
    "37_10"
   ],
   "pos": [
-   370,
+   360,
    864
   ],
   "subject": "an enormous preserved sea-monster eyeball as big as a football, deep teal with a black slit pupil, held in a coral-encrusted brass ring on a stand",
@@ -3895,8 +3895,8 @@
    "38_3"
   ],
   "pos": [
-   108,
-   552
+   132,
+   585
   ],
   "subject": "a dented tin pail with a small tin scoop, filled with dried shrimp and fish flakes in dull orange",
   "looks": [
@@ -3915,7 +3915,7 @@
   ],
   "beat": null,
   "art_bg": "soft",
-  "size": 169
+  "size": 255
  },
  {
   "id": "12_002",
@@ -3928,8 +3928,8 @@
    "38_6"
   ],
   "pos": [
-   267,
-   554
+   355,
+   587
   ],
   "subject": "a long wooden pole with a round net of knotted cord on an iron hoop, the mesh torn in several places",
   "looks": [
@@ -3947,7 +3947,7 @@
    }
   ],
   "beat": null,
-  "size": 169
+  "size": 255
  },
  {
   "id": "12_003",
@@ -3960,8 +3960,8 @@
    "38_9"
   ],
   "pos": [
-   426,
-   552
+   580,
+   585
   ],
   "subject": "a heavy black iron table stand with a thick slate top for an aquarium tank, rusting at the joints",
   "looks": [
@@ -3979,7 +3979,7 @@
    }
   ],
   "beat": null,
-  "size": 169
+  "size": 255
  },
  {
   "id": "12_004",
@@ -3991,8 +3991,8 @@
    "38_11"
   ],
   "pos": [
-   593,
-   552
+   222,
+   1229
   ],
   "subject": "a round wicker basket of hand-blown glass fishing floats in green and blue, each wrapped in knotted cord",
   "looks": [
@@ -4010,7 +4010,7 @@
    }
   ],
   "beat": "beat_d038",
-  "size": 169
+  "size": 255
  },
  {
   "id": "12_005",
@@ -4024,8 +4024,8 @@
    "39_4"
   ],
   "pos": [
-   112,
-   719
+   530,
+   1230
   ],
   "subject": "a tall glass jar of waving green water weed and curling ribbon grass standing on a round stone base",
   "looks": [
@@ -4044,7 +4044,7 @@
   ],
   "beat": null,
   "art_bg": "soft",
-  "size": 169
+  "size": 255
  },
  {
   "id": "12_006",
@@ -4057,8 +4057,8 @@
    "39_7"
   ],
   "pos": [
-   242,
-   718
+   152,
+   1501
   ],
   "subject": "a large round glass bowl on a carved wooden stand holding three fat orange goldfish and a tiny ceramic castle",
   "looks": [
@@ -4077,7 +4077,7 @@
   ],
   "beat": null,
   "art_bg": "soft",
-  "size": 169
+  "size": 255
  },
  {
   "id": "12_007",
@@ -4090,8 +4090,8 @@
    "39_10"
   ],
   "pos": [
-   137,
-   950
+   512,
+   2526
   ],
   "subject": "a shallow gilt frame holding a row of dried seahorses pinned on pale blue cloth",
   "looks": [
@@ -4110,7 +4110,7 @@
   ],
   "beat": "beat_d039",
   "art_bg": "soft",
-  "size": 169
+  "size": 255
  },
  {
   "id": "12_008",
@@ -4124,8 +4124,8 @@
    "40_4"
   ],
   "pos": [
-   222,
-   1267
+   208,
+   2294
   ],
   "subject": "a bronze octopus with curling arms coiled around a round stone basin, spouting a thin stream of water",
   "looks": [
@@ -4144,7 +4144,7 @@
   ],
   "beat": null,
   "art_bg": "soft",
-  "size": 169
+  "size": 255
  },
  {
   "id": "12_009",
@@ -4157,8 +4157,8 @@
    "40_7"
   ],
   "pos": [
-   361,
-   718
+   350,
+   1501
   ],
   "subject": "a tall glass cylinder on a brass base, filled with softly pulsing white jellyfish lit from beneath",
   "looks": [
@@ -4176,7 +4176,7 @@
    }
   ],
   "beat": null,
-  "size": 169
+  "size": 255
  },
  {
   "id": "12_010",
@@ -4189,8 +4189,8 @@
    "40_10"
   ],
   "pos": [
-   486,
-   718
+   558,
+   1501
   ],
   "subject": "a riveted brass diving bell with round glass portholes and a lifting ring, hung from an iron frame by a chain",
   "looks": [
@@ -4208,7 +4208,7 @@
    }
   ],
   "beat": "beat_d040",
-  "size": 169
+  "size": 255
  },
  {
   "id": "12_011",
@@ -4222,8 +4222,8 @@
    "41_4"
   ],
   "pos": [
-   623,
-   718
+   139,
+   1773
   ],
   "subject": "a glass tank on a stand holding a miniature sunken sailing ship with torn sails, resting in sand with small fish",
   "looks": [
@@ -4241,7 +4241,7 @@
    }
   ],
   "beat": null,
-  "size": 169
+  "size": 255
  },
  {
   "id": "12_012",
@@ -4254,8 +4254,8 @@
    "41_7"
   ],
   "pos": [
-   596,
-   1116
+   511,
+   2045
   ],
   "subject": "a huge pale preserved squid with long trailing tentacles coiled inside a long glass case on a wooden stand",
   "looks": [
@@ -4273,7 +4273,7 @@
    }
   ],
   "beat": null,
-  "size": 169
+  "size": 255
  },
  {
   "id": "12_013",
@@ -4286,8 +4286,8 @@
    "41_10"
   ],
   "pos": [
-   105,
-   1116
+   344,
+   1773
   ],
   "subject": "an enormous pair of shark jaws mounted open on an oak shield, rows of white serrated teeth",
   "looks": [
@@ -4305,7 +4305,7 @@
    }
   ],
   "beat": "beat_d041",
-  "size": 169
+  "size": 255
  },
  {
   "id": "12_014",
@@ -4319,8 +4319,8 @@
    "42_4"
   ],
   "pos": [
-   197,
-   177
+   186,
+   233
   ],
   "subject": "a squat deep-sea anglerfish with jagged teeth and a long glowing lure, hung from a curved iron bracket",
   "looks": [
@@ -4339,7 +4339,7 @@
   ],
   "beat": null,
   "art_bg": "soft",
-  "size": 169
+  "size": 235
  },
  {
   "id": "12_015",
@@ -4352,8 +4352,8 @@
    "42_7"
   ],
   "pos": [
-   400,
-   198
+   410,
+   283
   ],
   "subject": "a hanging cluster of glass jellyfish shades with trailing glass tentacles on brass chains",
   "looks": [
@@ -4372,7 +4372,7 @@
   ],
   "beat": null,
   "art_bg": "soft",
-  "size": 169
+  "size": 255
  },
  {
   "id": "12_016",
@@ -4385,8 +4385,8 @@
    "42_10"
   ],
   "pos": [
-   253,
-   1116
+   565,
+   1773
   ],
   "subject": "a round glass tank on a stand showing a vivid coral reef alive with bright striped fish",
   "looks": [
@@ -4404,7 +4404,7 @@
    }
   ],
   "beat": "beat_d042",
-  "size": 169
+  "size": 255
  },
  {
   "id": "12_017",
@@ -4417,8 +4417,8 @@
    "43_3"
   ],
   "pos": [
-   420,
-   1116
+   208,
+   2045
   ],
   "subject": "a carved seat shaped like a large scallop shell in pale stone, topped with a coral crown and draped in green kelp",
   "looks": [
@@ -4437,7 +4437,7 @@
   ],
   "beat": null,
   "art_bg": "soft",
-  "size": 169
+  "size": 255
  },
  {
   "id": "12_018",
@@ -4450,8 +4450,8 @@
    "43_6"
   ],
   "pos": [
-   583,
-   950
+   208,
+   2526
   ],
   "subject": "a small articulated model of a great whale skeleton, mounted on brass rods on a polished wooden base",
   "looks": [
@@ -4469,7 +4469,7 @@
    }
   ],
   "beat": null,
-  "size": 169
+  "size": 255
  },
  {
   "id": "12_019",
@@ -4482,8 +4482,8 @@
    "43_9"
   ],
   "pos": [
-   498,
-   1267
+   512,
+   2294
   ],
   "subject": "a giant curved tooth as long as a forearm, ivory with fine cracks, lying on a velvet cushion on a stone plinth",
   "looks": [
@@ -4502,7 +4502,7 @@
   ],
   "beat": null,
   "art_bg": "soft",
-  "size": 169
+  "size": 255
  },
  {
   "id": "12_020",
@@ -4515,7 +4515,7 @@
   ],
   "pos": [
    360,
-   956
+   966
   ],
   "subject": "a huge rectangular glass tank in a brass frame holding a rocky grotto, swaying plants and glittering fish, glowing blue",
   "looks": [
@@ -4533,7 +4533,7 @@
    }
   ],
   "beat": "beat_d043",
-  "size": 237
+  "size": 358
  },
  {
   "id": "13_001",
@@ -4677,7 +4677,7 @@
    "45_7"
   ],
   "pos": [
-   119,
+   125,
    821
   ],
   "subject": "a brass surveying theodolite with a telescope and spirit levels mounted on a slim wooden tripod",
@@ -4774,7 +4774,7 @@
    "46_7"
   ],
   "pos": [
-   588,
+   595,
    821
   ],
   "subject": "a long brass telescope with a leather-wrapped barrel mounted on a carved wooden tripod, pointing upward",
@@ -4935,7 +4935,7 @@
    "47_11"
   ],
   "pos": [
-   346,
+   360,
    822
   ],
   "subject": "a large flat rectangular table-top relief model in painted plaster of one invented island with jagged mountains, green valleys and tiny glass lakes, inside a brass edge on a low oak stand, not a globe and not the real world",
@@ -4969,8 +4969,8 @@
    "48_4"
   ],
   "pos": [
-   207,
-   909
+   239,
+   691
   ],
   "subject": "a tall oak library ladder on brass wheels with a curved top rail, dusty and standing slightly crooked",
   "looks": [
@@ -4989,7 +4989,7 @@
   ],
   "beat": null,
   "art_bg": "soft",
-  "size": 137
+  "size": 227
  },
  {
   "id": "14_002",
@@ -5002,8 +5002,8 @@
    "48_7"
   ],
   "pos": [
-   221,
-   603
+   451,
+   691
   ],
   "subject": "a deep buttoned armchair in worn brown leather with rolled arms and a folded tartan blanket over one arm",
   "looks": [
@@ -5022,7 +5022,7 @@
   ],
   "beat": null,
   "art_bg": "soft",
-  "size": 137
+  "size": 227
  },
  {
   "id": "14_003",
@@ -5035,8 +5035,8 @@
    "48_10"
   ],
   "pos": [
-   510,
-   907
+   238,
+   1281
   ],
   "subject": "a brass desk lamp with a curved green glass shade on a short stem, cold and unlit, dusty",
   "looks": [
@@ -5055,7 +5055,7 @@
   ],
   "beat": null,
   "art_bg": "soft",
-  "size": 137
+  "size": 227
  },
  {
   "id": "14_004",
@@ -5068,8 +5068,8 @@
    "48_13"
   ],
   "pos": [
-   357,
-   603
+   454,
+   1284
   ],
   "subject": "a low wooden trolley on brass wheels stacked with blank-spined leather volumes in tilting piles",
   "looks": [
@@ -5088,7 +5088,7 @@
   ],
   "beat": "beat_d048",
   "art_bg": "soft",
-  "size": 137
+  "size": 227
  },
  {
   "id": "14_005",
@@ -5102,8 +5102,8 @@
    "49_4"
   ],
   "pos": [
-   496,
-   601
+   252,
+   1547
   ],
   "subject": "a pair of heavy brass bookends shaped like small globes with a short row of leather books held between them",
   "looks": [
@@ -5122,7 +5122,7 @@
   ],
   "beat": null,
   "art_bg": "soft",
-  "size": 137
+  "size": 227
  },
  {
   "id": "14_006",
@@ -5135,8 +5135,8 @@
    "49_7"
   ],
   "pos": [
-   230,
-   735
+   476,
+   1547
   ],
   "subject": "a wide oak cabinet of narrow drawers, each with a brass pull and an empty brass card-holder, on bracket feet",
   "looks": [
@@ -5155,7 +5155,7 @@
   ],
   "beat": null,
   "art_bg": "soft",
-  "size": 137
+  "size": 227
  },
  {
   "id": "14_007",
@@ -5168,8 +5168,8 @@
    "49_10"
   ],
   "pos": [
-   371,
-   738
+   261,
+   1817
   ],
   "subject": "a hinged leather-topped travelling writing box opened to show a green blotter, a steel pen and a glass inkwell, on a small folding stand",
   "looks": [
@@ -5188,7 +5188,7 @@
   ],
   "beat": "beat_d049",
   "art_bg": "soft",
-  "size": 137
+  "size": 227
  },
  {
   "id": "14_008",
@@ -5202,8 +5202,8 @@
    "50_4"
   ],
   "pos": [
-   498,
-   736
+   472,
+   1813
   ],
   "subject": "a sloped carved oak lectern holding a heavy open volume with blank pages, a silk bookmark ribbon and a small brass reading lamp",
   "looks": [
@@ -5221,7 +5221,7 @@
    }
   ],
   "beat": null,
-  "size": 137
+  "size": 227
  },
  {
   "id": "14_009",
@@ -5234,8 +5234,8 @@
    "50_7"
   ],
   "pos": [
-   204,
-   1043
+   272,
+   2079
   ],
   "subject": "a tall glass-doored oak cabinet with sloped shelves showing open field journals of sketched unknown animals and plants, sketches only, no lettering",
   "looks": [
@@ -5253,7 +5253,7 @@
    }
   ],
   "beat": null,
-  "size": 137
+  "size": 227
  },
  {
   "id": "14_010",
@@ -5266,8 +5266,8 @@
    "50_10"
   ],
   "pos": [
-   360,
-   155
+   290,
+   244
   ],
   "subject": "a long iron chain pendant lamp hung with three round opal glass shades, turned low",
   "looks": [
@@ -5285,7 +5285,7 @@
    }
   ],
   "beat": "beat_d050",
-  "size": 137
+  "size": 227
  },
  {
   "id": "14_011",
@@ -5298,8 +5298,8 @@
    "51_3"
   ],
   "pos": [
-   499,
-   1043
+   452,
+   2344
   ],
   "subject": "a long refectory table in scarred oak with a row of green-shaded lamps and two plain benches",
   "looks": [
@@ -5317,7 +5317,7 @@
    }
   ],
   "beat": null,
-  "size": 137
+  "size": 227
  },
  {
   "id": "14_012",
@@ -5330,8 +5330,8 @@
    "51_6"
   ],
   "pos": [
-   284,
-   1042
+   456,
+   2078
   ],
   "subject": "a towering carved oak bookcase packed with leather volumes, rolled charts and curios like a little stuffed bird and a brass compass",
   "looks": [
@@ -5349,7 +5349,7 @@
    }
   ],
   "beat": null,
-  "size": 137
+  "size": 227
  },
  {
   "id": "14_013",
@@ -5362,8 +5362,8 @@
    "51_9"
   ],
   "pos": [
-   385,
-   1044
+   244,
+   2346
   ],
   "subject": "a small cast-iron spiral staircase of a few open treads with a curling rail, rusty, standing on a round iron base plate",
   "looks": [
@@ -5377,12 +5377,12 @@
    },
    {
     "name": "Painted white stair",
-    "instruction": "make the stair painted white with a pale wooden handrail and a plush carpet runner on the treads, with a thin dark outline around every pale part, keep the same object, framing, viewpoint and lighting"
+    "instruction": "make the stair painted cream, solid and opaque, on its dark iron base plate, with a polished wooden handrail and a burgundy carpet runner on the treads, with a thin dark outline around every pale part, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null,
   "art_bg": "soft",
-  "size": 137
+  "size": 227
  },
  {
   "id": "14_014",
@@ -5394,8 +5394,8 @@
    "51_11"
   ],
   "pos": [
-   360,
-   1170
+   474,
+   2599
   ],
   "subject": "a round oak table whose top is inlaid with a few invented island shapes in different tooled leathers, scattered on a plain dark leather sea, not the real world map, on a carved pedestal",
   "looks": [
@@ -5414,7 +5414,7 @@
   ],
   "beat": "beat_d051",
   "art_bg": "soft",
-  "size": 137
+  "size": 227
  },
  {
   "id": "14_015",
@@ -5427,8 +5427,8 @@
    "52_3"
   ],
   "pos": [
-   499,
-   1170
+   246,
+   2823
   ],
   "subject": "a flat glass-topped display case of old unrolled blank charts and instruments laid on faded green felt",
   "looks": [
@@ -5446,7 +5446,7 @@
    }
   ],
   "beat": null,
-  "size": 137
+  "size": 227
  },
  {
   "id": "14_016",
@@ -5459,8 +5459,8 @@
    "52_6"
   ],
   "pos": [
-   221,
-   1170
+   246,
+   2599
   ],
   "subject": "a cushioned window seat with a curved carved wooden back, tasselled cushions and a pair of velvet drapes gathered at each end",
   "looks": [
@@ -5478,7 +5478,7 @@
    }
   ],
   "beat": null,
-  "size": 137
+  "size": 227
  },
  {
   "id": "14_017",
@@ -5491,8 +5491,8 @@
    "52_9"
   ],
   "pos": [
-   360,
-   1271
+   474,
+   2823
   ],
   "subject": "a long illuminated parchment scroll with decorative borders and blank panels where names would be, laid flat under a glass lid",
   "looks": [
@@ -5510,7 +5510,7 @@
    }
   ],
   "beat": null,
-  "size": 137
+  "size": 227
  },
  {
   "id": "14_018",
@@ -5522,8 +5522,8 @@
    "52_11"
   ],
   "pos": [
-   357,
-   910
+   360,
+   1020
   ],
   "subject": "a huge ancient leather-bound book with brass clasps and a large embossed seal on a stout oak stand, closed",
   "looks": [
@@ -5541,7 +5541,7 @@
    }
   ],
   "beat": "beat_d052",
-  "size": 192
+  "size": 317
  },
  {
   "id": "15_001",
@@ -5555,8 +5555,8 @@
    "53_4"
   ],
   "pos": [
-   248,
-   913
+   159,
+   1276
   ],
   "subject": "a tall wooden stand holding a long-handled feather duster, a soft broom and a dustpan, all grey with cobwebs",
   "looks": [
@@ -5574,7 +5574,7 @@
    }
   ],
   "beat": null,
-  "size": 132
+  "size": 244
  },
  {
   "id": "15_002",
@@ -5587,8 +5587,8 @@
    "53_7"
   ],
   "pos": [
-   134,
-   601
+   241,
+   675
   ],
   "subject": "a leaning tower of grey cardboard archive boxes tied with faded pink ribbon, dusty and unlabelled",
   "looks": [
@@ -5606,7 +5606,7 @@
    }
   ],
   "beat": null,
-  "size": 132
+  "size": 244
  },
  {
   "id": "15_003",
@@ -5619,8 +5619,8 @@
    "53_10"
   ],
   "pos": [
-   258,
-   602
+   520,
+   675
   ],
   "subject": "a low round wooden stool with three splayed legs and a worn leather seat, a pair of white cotton gloves left on it",
   "looks": [
@@ -5639,7 +5639,7 @@
   ],
   "beat": null,
   "art_bg": "soft",
-  "size": 132
+  "size": 244
  },
  {
   "id": "15_004",
@@ -5652,8 +5652,8 @@
    "53_13"
   ],
   "pos": [
-   598,
-   913
+   562,
+   1276
   ],
   "subject": "a tall iron-framed compact shelving unit on rails, loaded with flat grey archive boxes, one run pulled partly open",
   "looks": [
@@ -5671,7 +5671,7 @@
    }
   ],
   "beat": "beat_d053",
-  "size": 132
+  "size": 244
  },
  {
   "id": "15_005",
@@ -5685,8 +5685,8 @@
    "54_4"
   ],
   "pos": [
-   585,
-   1047
+   225,
+   2544
   ],
   "subject": "a small walnut tray with a stub of burgundy sealing wax, a brass seal stamp with a plain crest and a snuffed candle",
   "looks": [
@@ -5705,7 +5705,7 @@
   ],
   "beat": null,
   "art_bg": "soft",
-  "size": 132
+  "size": 244
  },
  {
   "id": "15_006",
@@ -5718,8 +5718,8 @@
    "54_7"
   ],
   "pos": [
-   363,
-   601
+   235,
+   927
   ],
   "subject": "a huge oak wall of small square pigeonholes each stuffed with rolled papers, tied with string",
   "looks": [
@@ -5737,7 +5737,7 @@
    }
   ],
   "beat": null,
-  "size": 132
+  "size": 244
  },
  {
   "id": "15_007",
@@ -5750,8 +5750,8 @@
    "54_10"
   ],
   "pos": [
-   483,
-   601
+   501,
+   927
   ],
   "subject": "a tall slanted clerk's desk with a high stool, an open ledger of blank ruled pages and a steel pen",
   "looks": [
@@ -5769,7 +5769,7 @@
    }
   ],
   "beat": "beat_d054",
-  "size": 132
+  "size": 244
  },
  {
   "id": "15_008",
@@ -5783,8 +5783,8 @@
    "55_4"
   ],
   "pos": [
-   595,
-   603
+   178,
+   1529
   ],
   "subject": "a brass desk lamp with a large round magnifying lens in a swing arm, its glass dusty, clamped to a small oak base",
   "looks": [
@@ -5802,7 +5802,7 @@
    }
   ],
   "beat": null,
-  "size": 132
+  "size": 244
  },
  {
   "id": "15_009",
@@ -5815,8 +5815,8 @@
    "55_7"
   ],
   "pos": [
-   482,
-   915
+   224,
+   3178
   ],
   "subject": "a curved wooden ink blotter with a brass knob handle and fresh pink blotting paper, with a squat glass inkwell fixed to its stand",
   "looks": [
@@ -5834,7 +5834,7 @@
    }
   ],
   "beat": null,
-  "size": 132
+  "size": 244
  },
  {
   "id": "15_010",
@@ -5847,8 +5847,8 @@
    "55_10"
   ],
   "pos": [
-   135,
-   730
+   377,
+   1527
   ],
   "subject": "a tall black iron strongbox with a round brass combination dial with no numbers, heavy hinges and flaking gilt scrolls",
   "looks": [
@@ -5866,7 +5866,7 @@
    }
   ],
   "beat": "beat_d055",
-  "size": 132
+  "size": 244
  },
  {
   "id": "15_011",
@@ -5880,8 +5880,8 @@
    "56_4"
   ],
   "pos": [
-   573,
-   1169
+   224,
+   2975
   ],
   "subject": "a wide shallow oak chest of flat drawers, one drawer open to show folded blank parchment charts",
   "looks": [
@@ -5900,7 +5900,7 @@
   ],
   "beat": null,
   "art_bg": "soft",
-  "size": 132
+  "size": 244
  },
  {
   "id": "15_012",
@@ -5913,8 +5913,8 @@
    "56_7"
   ],
   "pos": [
-   138,
-   913
+   497,
+   3175
   ],
   "subject": "a bundle of yellowed letters tied with a faded red ribbon and fixed with a burgundy wax seal, resting on a small silver tray",
   "looks": [
@@ -5932,7 +5932,7 @@
    }
   ],
   "beat": null,
-  "size": 132
+  "size": 244
  },
  {
   "id": "15_013",
@@ -5945,8 +5945,8 @@
    "56_10"
   ],
   "pos": [
-   246,
-   730
+   562,
+   1527
   ],
   "subject": "a tall rotating brass wheel of blank index cards on a spindle, mounted on a small oak stand",
   "looks": [
@@ -5964,7 +5964,7 @@
    }
   ],
   "beat": "beat_d056",
-  "size": 132
+  "size": 244
  },
  {
   "id": "15_014",
@@ -5977,8 +5977,8 @@
    "57_3"
   ],
   "pos": [
-   360,
-   1272
+   496,
+   2976
   ],
   "subject": "a very long parchment scroll of branching family-tree lines with empty boxes and no writing, partly unrolled and weighted with a brass bar",
   "looks": [
@@ -5996,7 +5996,7 @@
    }
   ],
   "beat": null,
-  "size": 132
+  "size": 244
  },
  {
   "id": "15_015",
@@ -6009,8 +6009,8 @@
    "57_6"
   ],
   "pos": [
-   150,
-   1172
+   501,
+   2540
   ],
   "subject": "a wooden tray of six glass and brass inkwells in different shapes, some with dried ink, with a few quills standing in them",
   "looks": [
@@ -6028,7 +6028,7 @@
    }
   ],
   "beat": null,
-  "size": 132
+  "size": 244
  },
  {
   "id": "15_016",
@@ -6041,8 +6041,8 @@
    "57_9"
   ],
   "pos": [
-   428,
-   1179
+   491,
+   2785
   ],
   "subject": "a wall-mounted brass rail with iron hooks holding folded blank documents tied with string, mounted on a worn oak board",
   "looks": [
@@ -6060,7 +6060,7 @@
    }
   ],
   "beat": null,
-  "size": 132
+  "size": 244
  },
  {
   "id": "15_017",
@@ -6072,8 +6072,8 @@
    "57_11"
   ],
   "pos": [
-   356,
-   730
+   169,
+   1779
   ],
   "subject": "a small wooden lift cabinet in a brass-framed hatch with two shelves of folded papers, a small grooved pulley wheel on top with a straight rope running down its side",
   "looks": [
@@ -6091,7 +6091,7 @@
    }
   ],
   "beat": "beat_d057",
-  "size": 132
+  "size": 244
  },
  {
   "id": "15_018",
@@ -6104,8 +6104,8 @@
    "58_3"
   ],
   "pos": [
-   289,
-   1170
+   224,
+   2768
   ],
   "subject": "a giant old book with a cracked leather cover chained by an iron chain to a sloping oak stand, open to blank thick pages",
   "looks": [
@@ -6123,7 +6123,7 @@
    }
   ],
   "beat": null,
-  "size": 132
+  "size": 244
  },
  {
   "id": "15_019",
@@ -6136,8 +6136,8 @@
    "58_6"
   ],
   "pos": [
-   481,
-   730
+   378,
+   1779
   ],
   "subject": "a small black cast-iron hand-lever stamping press on a heavy base, with a small tray of tiny blank wooden blocks on its base, ink-stained, no keys",
   "looks": [
@@ -6156,7 +6156,7 @@
   ],
   "beat": null,
   "art_bg": "soft",
-  "size": 132
+  "size": 244
  },
  {
   "id": "15_020",
@@ -6169,8 +6169,8 @@
    "58_9"
   ],
   "pos": [
-   595,
-   731
+   569,
+   1779
   ],
   "subject": "an upright carved oak chair with a high back and a worn velvet cushion, a quill and a small brass lamp fixed to one arm",
   "looks": [
@@ -6189,7 +6189,7 @@
   ],
   "beat": null,
   "art_bg": "soft",
-  "size": 132
+  "size": 244
  },
  {
   "id": "15_021",
@@ -6201,8 +6201,8 @@
    "58_11"
   ],
   "pos": [
-   127,
-   1041
+   225,
+   2031
   ],
   "subject": "a tall earthenware jar bristling with long feather quill pens in cream, grey and green, a few with peacock eyes, standing on a small square of oak",
   "looks": [
@@ -6220,7 +6220,7 @@
    }
   ],
   "beat": "beat_d058",
-  "size": 132
+  "size": 244
  },
  {
   "id": "15_022",
@@ -6234,8 +6234,8 @@
    "59_4"
   ],
   "pos": [
-   242,
-   1043
+   490,
+   2034
   ],
   "subject": "a heavy round iron door with a big bolt wheel and rows of rivets in a stone-framed surround, stiff with rust",
   "looks": [
@@ -6253,7 +6253,7 @@
    }
   ],
   "beat": null,
-  "size": 132
+  "size": 244
  },
  {
   "id": "15_023",
@@ -6266,8 +6266,8 @@
    "59_7"
   ],
   "pos": [
-   370,
-   1042
+   256,
+   2284
   ],
   "subject": "a brass pneumatic message tube terminal with a trumpet mouth, a glass canister and a pressure gauge with no numbers, mounted on a square brass plate",
   "looks": [
@@ -6285,7 +6285,7 @@
    }
   ],
   "beat": null,
-  "size": 132
+  "size": 244
  },
  {
   "id": "15_024",
@@ -6298,8 +6298,8 @@
    "59_10"
   ],
   "pos": [
-   476,
-   1041
+   509,
+   2284
   ],
   "subject": "a tall glass case displaying a huge parchment charter with a heavy wax seal hanging on a cord, on a small carved oak base",
   "looks": [
@@ -6317,7 +6317,7 @@
    }
   ],
   "beat": null,
-  "size": 132
+  "size": 244
  },
  {
   "id": "15_025",
@@ -6330,8 +6330,8 @@
    "59_13"
   ],
   "pos": [
-   352,
-   913
+   360,
+   1276
   ],
   "subject": "a colossal carved oak card index tower with hundreds of tiny drawers, each with a brass pull, taller than a doorway",
   "looks": [
@@ -6349,7 +6349,7 @@
    }
   ],
   "beat": "beat_d059",
-  "size": 185
+  "size": 341
  },
  {
   "id": "16_001",
@@ -6362,8 +6362,8 @@
    "60_3"
   ],
   "pos": [
-   120,
-   622
+   218,
+   697
   ],
   "subject": "a plank shelf of long-spouted brass oil cans and little tins of grease, drips of black oil down its front",
   "looks": [
@@ -6382,7 +6382,7 @@
   ],
   "beat": null,
   "art_bg": "soft",
-  "size": 141
+  "size": 261
  },
  {
   "id": "16_002",
@@ -6395,10 +6395,10 @@
    "60_6"
   ],
   "pos": [
-   596,
-   1119
+   493,
+   2434
   ],
-  "subject": "a wide stiff-bristled push broom with a long wooden handle, a heap of brass filings and wood shavings caught in its bristles",
+  "subject": "a wide stiff-bristled push broom with a long dark wooden handle and dark bristles, a heap of brass filings and wood shavings caught in them",
   "looks": [
    {
     "name": "Dusty bristles",
@@ -6406,16 +6406,16 @@
    },
    {
     "name": "Corn broom",
-    "instruction": "make the broom a neat straw corn broom tied with red twine beside a clean pan, keep the same object, framing, viewpoint and lighting"
+    "instruction": "make the broom a neat straw corn broom tied with red twine beside a clean pan, with a thin dark outline around every pale part, keep the same object, framing, viewpoint and lighting"
    },
    {
     "name": "Soft bristle brush",
-    "instruction": "make the broom a soft long-handled brush with pale horsehair bristles and a brass-edged pan, keep the same object, framing, viewpoint and lighting"
+    "instruction": "make the broom a soft long-handled brush with dark horsehair bristles and a brass-edged pan, with a thin dark outline around every pale part, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null,
   "art_bg": "soft",
-  "size": 141
+  "size": 261
  },
  {
   "id": "16_003",
@@ -6428,8 +6428,8 @@
    "60_9"
   ],
   "pos": [
-   263,
-   622
+   513,
+   697
   ],
   "subject": "a pegboard of spanners, pliers, screwdrivers and tiny hammers hung in outlined rows, tarnished and greasy",
   "looks": [
@@ -6447,7 +6447,7 @@
    }
   ],
   "beat": null,
-  "size": 141
+  "size": 261
  },
  {
   "id": "16_004",
@@ -6459,8 +6459,8 @@
    "60_11"
   ],
   "pos": [
-   388,
-   624
+   151,
+   1333
   ],
   "subject": "a tall wooden rack of small drawers spilling gears, springs and screws in brass and steel",
   "looks": [
@@ -6479,7 +6479,7 @@
   ],
   "beat": "beat_d060",
   "art_bg": "soft",
-  "size": 141
+  "size": 261
  },
  {
   "id": "16_005",
@@ -6492,8 +6492,8 @@
    "61_3"
   ],
   "pos": [
-   111,
-   979
+   509,
+   3190
   ],
   "subject": "a heavy cast-iron bench vice with a long screw handle clamped to a short oak block, holding a half-made gear",
   "looks": [
@@ -6511,7 +6511,7 @@
    }
   ],
   "beat": null,
-  "size": 141
+  "size": 261
  },
  {
   "id": "16_006",
@@ -6524,8 +6524,8 @@
    "61_6"
   ],
   "pos": [
-   219,
-   967
+   111,
+   1057
   ],
   "subject": "a thick leather work apron hung from a brass hook, pockets bulging with tiny screwdrivers and a pair of goggles, singed at the edges",
   "looks": [
@@ -6543,7 +6543,7 @@
    }
   ],
   "beat": null,
-  "size": 141
+  "size": 261
  },
  {
   "id": "16_007",
@@ -6556,10 +6556,10 @@
    "61_9"
   ],
   "pos": [
-   193,
-   159
+   241,
+   278
   ],
-  "subject": "a hanging mobile of brass gears of many sizes dangling on wires, turning slowly, tarnished",
+  "subject": "a hanging mobile of brass gears of many sizes dangling on wires from a dark iron bar, tarnished",
   "looks": [
    {
     "name": "Dull brass mobile",
@@ -6567,16 +6567,16 @@
    },
    {
     "name": "Polished and spinning",
-    "instruction": "make the gears gleaming and spinning in a gentle blur of bright warm light, keep the same object, framing, viewpoint and lighting"
+    "instruction": "make the gears gleaming and spinning in a gentle blur of bright warm light, with a thin dark outline around every pale part, keep the same object, framing, viewpoint and lighting"
    },
    {
     "name": "Coloured gears",
-    "instruction": "make the gears enamelled in teal, burgundy and cream on thin wires, keep the same object, framing, viewpoint and lighting"
+    "instruction": "make the gears enamelled in teal, burgundy and cream on thin wires, with a thin dark outline around every pale part, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null,
   "art_bg": "soft",
-  "size": 141
+  "size": 261
  },
  {
   "id": "16_008",
@@ -6589,8 +6589,8 @@
    "61_12"
   ],
   "pos": [
-   128,
-   1262
+   213,
+   2691
   ],
   "subject": "a clockwork tin mouse with a brass key in its back and wheels hidden beneath, sitting on a folded rag",
   "looks": [
@@ -6609,7 +6609,7 @@
   ],
   "beat": null,
   "art_bg": "soft",
-  "size": 141
+  "size": 261
  },
  {
   "id": "16_009",
@@ -6621,8 +6621,8 @@
    "61_14"
   ],
   "pos": [
-   438,
-   1261
+   211,
+   2940
   ],
   "subject": "a large coiled steel mainspring in a brass barrel on a wooden stand, partly uncoiled",
   "looks": [
@@ -6640,7 +6640,7 @@
    }
   ],
   "beat": "beat_d061",
-  "size": 141
+  "size": 261
  },
  {
   "id": "16_010",
@@ -6653,8 +6653,8 @@
    "62_3"
   ],
   "pos": [
-   281,
-   1262
+   508,
+   2691
   ],
   "subject": "a small iron metalworking lathe with a belt drive and a brass handwheel on a short cast-iron stand",
   "looks": [
@@ -6672,7 +6672,7 @@
    }
   ],
   "beat": null,
-  "size": 141
+  "size": 261
  },
  {
   "id": "16_011",
@@ -6685,8 +6685,8 @@
    "62_6"
   ],
   "pos": [
-   496,
-   623
+   348,
+   1331
   ],
   "subject": "a tall black iron frame holding a swinging brass pendulum bob above a curved bar scored with plain tick marks and no numbers",
   "looks": [
@@ -6704,7 +6704,7 @@
    }
   ],
   "beat": null,
-  "size": 141
+  "size": 261
  },
  {
   "id": "16_012",
@@ -6717,8 +6717,8 @@
    "62_9"
   ],
   "pos": [
-   613,
-   622
+   560,
+   1331
   ],
   "subject": "an exposed wooden cuckoo clock movement with brass wheels, hanging chains and pine-cone weights, the little bird door ajar",
   "looks": [
@@ -6737,7 +6737,7 @@
   ],
   "beat": null,
   "art_bg": "soft",
-  "size": 141
+  "size": 261
  },
  {
   "id": "16_013",
@@ -6749,8 +6749,8 @@
    "62_11"
   ],
   "pos": [
-   119,
-   775
+   183,
+   1609
   ],
   "subject": "a large brass pin-studded cylinder on a mahogany musical box with a steel comb, lid propped open",
   "looks": [
@@ -6768,7 +6768,7 @@
    }
   ],
   "beat": "beat_d062",
-  "size": 141
+  "size": 261
  },
  {
   "id": "16_014",
@@ -6781,8 +6781,8 @@
    "63_3"
   ],
   "pos": [
-   238,
-   773
+   398,
+   1605
   ],
   "subject": "a delicate brass birdcage holding a little feathered automaton songbird with a key in its tail",
   "looks": [
@@ -6800,7 +6800,7 @@
    }
   ],
   "beat": null,
-  "size": 141
+  "size": 261
  },
  {
   "id": "16_015",
@@ -6813,8 +6813,8 @@
    "63_6"
   ],
   "pos": [
-   595,
-   1262
+   512,
+   2942
   ],
   "subject": "a half-assembled brass solar system model with loose planet spheres and arms laid on a green baize cloth",
   "looks": [
@@ -6832,7 +6832,7 @@
    }
   ],
   "beat": null,
-  "size": 141
+  "size": 261
  },
  {
   "id": "16_016",
@@ -6845,8 +6845,8 @@
    "63_9"
   ],
   "pos": [
-   635,
-   967
+   580,
+   1605
   ],
   "subject": "a life-size articulated brass hand on a stand, fingers curled, with visible tendon wires and cogs",
   "looks": [
@@ -6864,7 +6864,7 @@
    }
   ],
   "beat": null,
-  "size": 141
+  "size": 261
  },
  {
   "id": "16_017",
@@ -6876,8 +6876,8 @@
    "63_11"
   ],
   "pos": [
-   346,
-   776
+   134,
+   1884
   ],
   "subject": "a small potted tree of wire branches hung with tiny brass cogs instead of leaves, in a cast-iron pot",
   "looks": [
@@ -6896,7 +6896,7 @@
   ],
   "beat": "beat_d063",
   "art_bg": "soft",
-  "size": 141
+  "size": 261
  },
  {
   "id": "16_018",
@@ -6909,8 +6909,8 @@
    "64_3"
   ],
   "pos": [
-   479,
-   772
+   356,
+   1878
   ],
   "subject": "a miniature polished copper steam engine with a tall chimney, a flywheel and a spout of vapour, on a brass drip tray",
   "looks": [
@@ -6929,7 +6929,7 @@
   ],
   "beat": null,
   "art_bg": "soft",
-  "size": 141
+  "size": 261
  },
  {
   "id": "16_019",
@@ -6942,8 +6942,8 @@
    "64_6"
   ],
   "pos": [
-   614,
-   774
+   582,
+   1880
   ],
   "subject": "a seated brass automaton with a hinged jaw and a pen in its jointed hand, at its own small brass writing desk with a blank sheet of paper",
   "looks": [
@@ -6962,7 +6962,7 @@
   ],
   "beat": null,
   "art_bg": "soft",
-  "size": 141
+  "size": 261
  },
  {
   "id": "16_020",
@@ -6975,8 +6975,8 @@
    "64_9"
   ],
   "pos": [
-   116,
-   1117
+   170,
+   2152
   ],
   "subject": "a huge cluttered oak workbench with a lamp, a bell jar of springs, a tray of lenses and half-built gadgets",
   "looks": [
@@ -6994,7 +6994,7 @@
    }
   ],
   "beat": null,
-  "size": 141
+  "size": 261
  },
  {
   "id": "16_021",
@@ -7007,8 +7007,8 @@
    "64_12"
   ],
   "pos": [
-   241,
-   1117
+   390,
+   2152
   ],
   "subject": "a tall clock whose face is a set of interlocking exposed brass gears with a single pointer, no numerals, on a pale wood case",
   "looks": [
@@ -7026,7 +7026,7 @@
    }
   ],
   "beat": null,
-  "size": 141
+  "size": 261
  },
  {
   "id": "16_022",
@@ -7038,8 +7038,8 @@
    "64_14"
   ],
   "pos": [
-   387,
-   159
+   473,
+   278
   ],
   "subject": "a hanging chandelier built from bicycle gears, brass funnels and hanging lightbulbs with glowing filaments",
   "looks": [
@@ -7058,7 +7058,7 @@
   ],
   "beat": "beat_d064",
   "art_bg": "soft",
-  "size": 141
+  "size": 261
  },
  {
   "id": "16_023",
@@ -7071,8 +7071,8 @@
    "65_3"
   ],
   "pos": [
-   522,
-   968
+   211,
+   3169
   ],
   "subject": "a large brass calculating machine of rows of numberless cogged columns with a hand crank, on an oak base",
   "looks": [
@@ -7090,7 +7090,7 @@
    }
   ],
   "beat": null,
-  "size": 141
+  "size": 261
  },
  {
   "id": "16_024",
@@ -7103,8 +7103,8 @@
    "65_6"
   ],
   "pos": [
-   350,
-   1117
+   580,
+   2152
   ],
   "subject": "a tall wheel with weighted brass arms turning slowly inside a glass case with a wooden base",
   "looks": [
@@ -7122,7 +7122,7 @@
    }
   ],
   "beat": null,
-  "size": 141
+  "size": 261
  },
  {
   "id": "16_025",
@@ -7135,8 +7135,8 @@
    "65_9"
   ],
   "pos": [
-   465,
-   1118
+   203,
+   2426
   ],
   "subject": "an enormous exposed clock escapement with a huge brass anchor and escape wheel, mounted on a stand of dark oak",
   "looks": [
@@ -7154,7 +7154,7 @@
    }
   ],
   "beat": null,
-  "size": 141
+  "size": 261
  },
  {
   "id": "16_026",
@@ -7166,8 +7166,8 @@
    "65_11"
   ],
   "pos": [
-   354,
-   968
+   360,
+   1058
   ],
   "subject": "a life-sized-looking mechanical brass elephant with a howdah, visible gear seams and a wind-up key on its side",
   "looks": [
@@ -7186,7 +7186,7 @@
   ],
   "beat": "beat_d065",
   "art_bg": "soft",
-  "size": 197
+  "size": 365
  },
  {
   "id": "17_001",
@@ -7199,8 +7199,8 @@
    "66_3"
   ],
   "pos": [
-   139,
-   563
+   223,
+   613
   ],
   "subject": "a squat wooden trolley with brass wheels and two shelves of dusty padded instrument cases, a faded green baize cloth draped over the lower shelf",
   "looks": [
@@ -7219,7 +7219,7 @@
   ],
   "beat": null,
   "art_bg": "soft",
-  "size": 120
+  "size": 228
  },
  {
   "id": "17_002",
@@ -7232,8 +7232,8 @@
    "66_6"
   ],
   "pos": [
-   565,
-   951
+   230,
+   3506
   ],
   "subject": "a neat stack of folded yellow chamois and cotton polishing cloths with a squat tin of brass polish and a soft brush on a small wooden tray",
   "looks": [
@@ -7251,7 +7251,7 @@
    }
   ],
   "beat": null,
-  "size": 120
+  "size": 228
  },
  {
   "id": "17_003",
@@ -7264,8 +7264,8 @@
    "66_9"
   ],
   "pos": [
-   257,
-   562
+   488,
+   610
   ],
   "subject": "a waist-high square plinth of cream-painted wood with a glass top, scuffed and empty but for a bit of dust",
   "looks": [
@@ -7283,7 +7283,7 @@
    }
   ],
   "beat": null,
-  "size": 120
+  "size": 228
  },
  {
   "id": "17_004",
@@ -7295,8 +7295,8 @@
    "66_11"
   ],
   "pos": [
-   281,
-   1069
+   226,
+   2726
   ],
   "subject": "a long pale-wood bench with a brass vice, lens cloths and a row of tiny screwdrivers, ink-stained and worn",
   "looks": [
@@ -7315,7 +7315,7 @@
   ],
   "beat": "beat_d066",
   "art_bg": "soft",
-  "size": 120
+  "size": 228
  },
  {
   "id": "17_005",
@@ -7329,8 +7329,8 @@
    "67_4"
   ],
   "pos": [
-   366,
-   561
+   228,
+   836
   ],
   "subject": "a small copper weathervane cockerel on a brass post with four plain crossed arms ending in small arrow tips, no letters or writing anywhere, green with age",
   "looks": [
@@ -7349,7 +7349,7 @@
   ],
   "beat": null,
   "art_bg": "soft",
-  "size": 120
+  "size": 228
  },
  {
   "id": "17_006",
@@ -7362,8 +7362,8 @@
    "67_7"
   ],
   "pos": [
-   360,
-   148
+   290,
+   256
   ],
   "subject": "a round brass-cased wall barometer with a white dial of plain tick marks, a pointer and a gentle thermometer tube, cloudy glass",
   "looks": [
@@ -7381,7 +7381,7 @@
    }
   ],
   "beat": null,
-  "size": 120
+  "size": 228
  },
  {
   "id": "17_007",
@@ -7394,8 +7394,8 @@
    "67_10"
   ],
   "pos": [
-   420,
-   1068
+   494,
+   2724
   ],
   "subject": "a narrow oak case holding a wet-and-dry bulb thermometer pair, a coil of hair and a pointer on a plain scale with no numerals",
   "looks": [
@@ -7413,7 +7413,7 @@
    }
   ],
   "beat": null,
-  "size": 120
+  "size": 228
  },
  {
   "id": "17_008",
@@ -7426,8 +7426,8 @@
    "67_13"
   ],
   "pos": [
-   475,
-   563
+   498,
+   841
   ],
   "subject": "a small brass coil galvanometer with a glass dome, copper wire windings and a needle pivoting on a wooden base, without numbers",
   "looks": [
@@ -7445,7 +7445,7 @@
    }
   ],
   "beat": "beat_d067",
-  "size": 120
+  "size": 228
  },
  {
   "id": "17_009",
@@ -7458,8 +7458,8 @@
    "68_3"
   ],
   "pos": [
-   579,
-   562
+   236,
+   1362
   ],
   "subject": "a velvet-lined walnut box holding eight graduated steel tuning forks and a little ivory mallet, lid open",
   "looks": [
@@ -7478,7 +7478,7 @@
   ],
   "beat": null,
   "art_bg": "soft",
-  "size": 120
+  "size": 228
  },
  {
   "id": "17_010",
@@ -7491,8 +7491,8 @@
    "68_6"
   ],
   "pos": [
-   294,
-   1174
+   231,
+   3138
   ],
   "subject": "a large triangular glass prism on a brass stand, throwing a faint rainbow on a cream card",
   "looks": [
@@ -7506,12 +7506,12 @@
    },
    {
     "name": "Cut crystal",
-    "instruction": "make the prism cut lead crystal with a bright spray of rainbow light, with a thin dark outline around every pale part, keep the same object, framing, viewpoint and lighting"
+    "instruction": "make the prism cut lead crystal with a bright spray of rainbow light, standing on a dark slate card, with a thin dark outline around every pale part, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null,
   "art_bg": "soft",
-  "size": 120
+  "size": 228
  },
  {
   "id": "17_011",
@@ -7524,8 +7524,8 @@
    "68_9"
   ],
   "pos": [
-   149,
-   678
+   514,
+   1361
   ],
   "subject": "a tall brass compound microscope on a horseshoe base with a rack-and-pinion focus knob, a mirror below the stage and a glass slide in place",
   "looks": [
@@ -7543,7 +7543,7 @@
    }
   ],
   "beat": null,
-  "size": 120
+  "size": 228
  },
  {
   "id": "17_012",
@@ -7556,8 +7556,8 @@
    "68_12"
   ],
   "pos": [
-   258,
-   678
+   242,
+   1588
   ],
   "subject": "a hand-held wooden stereoscope with twin lenses and a sliding card holder on a stick, a blank card in the clip",
   "looks": [
@@ -7575,7 +7575,7 @@
    }
   ],
   "beat": "beat_d068",
-  "size": 120
+  "size": 228
  },
  {
   "id": "17_013",
@@ -7588,8 +7588,8 @@
    "69_3"
   ],
   "pos": [
-   373,
-   678
+   502,
+   1588
   ],
   "subject": "a tall black tin and brass magic lantern projector with a chimney and a lens tube, a painted glass slide loaded in its plate",
   "looks": [
@@ -7607,7 +7607,7 @@
    }
   ],
   "beat": null,
-  "size": 120
+  "size": 228
  },
  {
   "id": "17_014",
@@ -7620,8 +7620,8 @@
    "69_6"
   ],
   "pos": [
-   428,
-   1175
+   494,
+   3140
   ],
   "subject": "a brass table spectroscope with a prism box, collimator tube and viewing telescope set out in a row on one polished wooden base",
   "looks": [
@@ -7639,7 +7639,7 @@
    }
   ],
   "beat": null,
-  "size": 120
+  "size": 228
  },
  {
   "id": "17_015",
@@ -7652,8 +7652,8 @@
    "69_9"
   ],
   "pos": [
-   157,
-   1174
+   494,
+   2938
   ],
   "subject": "a large glass disc on a wooden stand with two brass collecting combs and Leyden jars, a blue spark between the brass balls",
   "looks": [
@@ -7671,7 +7671,7 @@
    }
   ],
   "beat": null,
-  "size": 120
+  "size": 228
  },
  {
   "id": "17_016",
@@ -7684,8 +7684,8 @@
    "69_12"
   ],
   "pos": [
-   360,
-   1272
+   495,
+   3334
   ],
   "subject": "a row of four tall glass jars coated in tinfoil with brass rods and knobs, linked by a copper chain on a wooden tray",
   "looks": [
@@ -7703,7 +7703,7 @@
    }
   ],
   "beat": null,
-  "size": 120
+  "size": 228
  },
  {
   "id": "17_017",
@@ -7715,8 +7715,8 @@
    "69_14"
   ],
   "pos": [
-   481,
-   679
+   241,
+   1816
   ],
   "subject": "a glass-fronted case with a heavy brass weight hung on a spring above a rotating paper drum with a fine ink line",
   "looks": [
@@ -7734,7 +7734,7 @@
    }
   ],
   "beat": "beat_d069",
-  "size": 120
+  "size": 228
  },
  {
   "id": "17_018",
@@ -7748,8 +7748,8 @@
    "70_4"
   ],
   "pos": [
-   586,
-   678
+   494,
+   1815
   ],
   "subject": "a tall brass post with four cup-shaped arms spinning on a crossbar, mounted on a wooden stand",
   "looks": [
@@ -7767,7 +7767,7 @@
    }
   ],
   "beat": null,
-  "size": 120
+  "size": 228
  },
  {
   "id": "17_019",
@@ -7780,8 +7780,8 @@
    "70_7"
   ],
   "pos": [
-   559,
-   1070
+   226,
+   2943
   ],
   "subject": "a brass measuring arm with a small wheel, pivot and dial without numbers, laid in a fitted velvet case",
   "looks": [
@@ -7799,7 +7799,7 @@
    }
   ],
   "beat": null,
-  "size": 120
+  "size": 228
  },
  {
   "id": "17_020",
@@ -7812,8 +7812,8 @@
    "70_10"
   ],
   "pos": [
-   148,
-   795
+   250,
+   2042
   ],
   "subject": "a wax-cylinder phonograph with a big flared horn, a hand crank and a polished wooden base",
   "looks": [
@@ -7831,7 +7831,7 @@
    }
   ],
   "beat": null,
-  "size": 120
+  "size": 228
  },
  {
   "id": "17_021",
@@ -7844,8 +7844,8 @@
    "70_13"
   ],
   "pos": [
-   563,
-   1175
+   227,
+   3334
   ],
   "subject": "a brass telegraph key with a black knob lever on a polished wooden base, wired to a small brass sounder",
   "looks": [
@@ -7855,7 +7855,7 @@
    },
    {
     "name": "Ebony key",
-    "instruction": "make the key an ebony knob on a marble base with a green wire, with a thin dark outline around every pale part, keep the same object, framing, viewpoint and lighting"
+    "instruction": "make the key an ebony knob on a dark green veined marble base with a green wire, with a thin dark outline around every pale part, keep the same object, framing, viewpoint and lighting"
    },
    {
     "name": "Pearl key",
@@ -7864,7 +7864,7 @@
   ],
   "beat": "beat_d070",
   "art_bg": "soft",
-  "size": 120
+  "size": 228
  },
  {
   "id": "17_022",
@@ -7877,8 +7877,8 @@
    "71_3"
   ],
   "pos": [
-   157,
-   950
+   494,
+   3504
   ],
   "subject": "a long brass kaleidoscope tube on a swivel stand, with a ring of coloured glass beads at its far end",
   "looks": [
@@ -7897,7 +7897,7 @@
   ],
   "beat": null,
   "art_bg": "soft",
-  "size": 120
+  "size": 228
  },
  {
   "id": "17_023",
@@ -7910,10 +7910,10 @@
    "71_6"
   ],
   "pos": [
-   254,
-   796
+   496,
+   2042
   ],
-  "subject": "a wooden frame holding five hourglasses of different sizes with white, red and green sand, pivoted on brass pins",
+  "subject": "a dark wooden frame holding five hourglasses of different sizes with white, red and green sand, pivoted on brass pins, the frame solid on every side",
   "looks": [
    {
     "name": "Wooden frame",
@@ -7921,16 +7921,16 @@
    },
    {
     "name": "Brass frame",
-    "instruction": "make the frame brass with clear crystal glass and gold sand, keep the same object, framing, viewpoint and lighting"
+    "instruction": "make the frame brass with clear crystal glass and gold sand, with a thin dark outline around every pale part, keep the same object, framing, viewpoint and lighting"
    },
    {
     "name": "Ebony frame",
-    "instruction": "make the frame black ebony with pewter sand in each glass, keep the same object, framing, viewpoint and lighting"
+    "instruction": "make the frame black ebony with pewter sand in each glass, with a thin dark outline around every pale part, keep the same object, framing, viewpoint and lighting"
    }
   ],
   "beat": null,
   "art_bg": "soft",
-  "size": 120
+  "size": 228
  },
  {
   "id": "17_024",
@@ -7943,8 +7943,8 @@
    "71_9"
   ],
   "pos": [
-   370,
-   795
+   238,
+   2269
   ],
   "subject": "a tall wooden box with a brass lens tube, a hooded viewing screen and a folding leather bellows on three legs",
   "looks": [
@@ -7962,7 +7962,7 @@
    }
   ],
   "beat": null,
-  "size": 120
+  "size": 228
  },
  {
   "id": "17_025",
@@ -7975,8 +7975,8 @@
    "71_12"
   ],
   "pos": [
-   485,
-   795
+   500,
+   2269
   ],
   "subject": "a round brass sundial plate on a short stone pillar with a sharp gnomon, marked with lines only and no numerals",
   "looks": [
@@ -7994,7 +7994,7 @@
    }
   ],
   "beat": "beat_d071",
-  "size": 120
+  "size": 228
  },
  {
   "id": "17_026",
@@ -8007,8 +8007,8 @@
    "72_3"
   ],
   "pos": [
-   587,
-   796
+   179,
+   2498
   ],
   "subject": "a tall wooden frame holding two heavy brass-weighted pendulums connected to a pen arm over a round drawing table with swirling patterns",
   "looks": [
@@ -8026,7 +8026,7 @@
    }
   ],
   "beat": null,
-  "size": 120
+  "size": 228
  },
  {
   "id": "17_027",
@@ -8039,8 +8039,8 @@
    "72_6"
   ],
   "pos": [
-   152,
-   1068
+   384,
+   2498
   ],
   "subject": "a large brass cabinet of wheels, pulleys and cords with a long paper curve roll and a crank, in a glazed oak case",
   "looks": [
@@ -8058,7 +8058,7 @@
    }
   ],
   "beat": null,
-  "size": 120
+  "size": 228
  },
  {
   "id": "17_028",
@@ -8071,8 +8071,8 @@
    "72_9"
   ],
   "pos": [
-   275,
-   951
+   573,
+   2497
   ],
   "subject": "a lantern-shaped brass and glass case holding a small ivory moon ball that turns through its phases around a tiny lit lamp, on a short stem and round foot",
   "looks": [
@@ -8091,7 +8091,7 @@
   ],
   "beat": null,
   "art_bg": "soft",
-  "size": 120
+  "size": 228
  },
  {
   "id": "17_029",
@@ -8103,8 +8103,8 @@
    "72_11"
   ],
   "pos": [
-   403,
-   952
+   359,
+   1137
   ],
   "subject": "an enormous brass arithmometer as wide as a table with rows of unmarked ivory keys, a sliding carriage, a hand crank and a bell, on a dark oak base",
   "looks": [
@@ -8123,7 +8123,7 @@
   ],
   "beat": "beat_d072",
   "art_bg": "soft",
-  "size": 168
+  "size": 320
  },
  {
   "id": "18_001",
