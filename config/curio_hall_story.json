@@ -10749,10 +10749,12 @@
   "trigger": "area_opened:18",
   "panels": [
    {
-    "caption": "A spiral stair climbs into the Astronomy Dome, and at the top the night sky wheels slowly overhead, painted on a great hemisphere of dark blue glass. Telescopes point in every direction, and one of them is pointing at the door."
+    "caption": "A spiral stair climbs into the Astronomy Dome, and at the top the night sky wheels slowly overhead, painted on a great hemisphere of dark blue glass. Telescopes point in every direction, and one of them is pointing at the door.",
+    "subject": "inside a Victorian observatory dome at night, seen from the top of a spiral iron stair: the great dark blue glass hemisphere overhead painted with golden stars fills the top of the picture, brass telescopes on stands pointing every way, one aimed straight at the doorway, warm lamplight on wooden floorboards, nobody in the room, the interior filling the whole picture edge to edge"
    },
    {
-    "caption": "The stars on the ceiling are in the right places. It is the first thing about the Hall that has been entirely reliable."
+    "caption": "The stars on the ceiling are in the right places. It is the first thing about the Hall that has been entirely reliable.",
+    "subject": "Cornelia Wren, an elderly formidable lady curator with silver-grey hair in a bun and a dark teal high-collared dress, and Professor Aldous Finch, a thin gaunt elderly ornithologist with wild untidy white hair, clean-shaven, round wire spectacles, in a rumpled tweed coat, stand inside a dark blue observatory dome whose star-painted ceiling fills the whole background, looking up, she with a small satisfied smile, he pointing out a constellation; brass telescopes, warm lamplight, full-frame"
    }
   ],
   "cast": [
@@ -10766,10 +10768,12 @@
   "trigger": "area_opened:19",
   "panels": [
    {
-    "caption": "The Orrery Landing is a gallery of dusty planets. Moons hang from their wires, a banded giant sits sulking in the corner, and a comet sleeps in a case marked Do Not Wake."
+    "caption": "The Orrery Landing is a gallery of dusty planets. Moons hang from their wires, a banded giant sits sulking in the corner, and a comet sleeps in a case marked Do Not Wake.",
+    "subject": "a Victorian upper landing gallery full of dusty model planets: painted moons hanging from fine wires, a big banded giant planet on a stand in the corner, a glass case holding a sleeping comet with a long pale tail, warm lamplight, nobody in the room"
    },
    {
-    "caption": "The great orrery in the centre is missing its sun."
+    "caption": "The great orrery in the centre is missing its sun.",
+    "subject": "Professor Aldous Finch, a thin gaunt elderly ornithologist with wild untidy white hair, clean-shaven, round wire spectacles, in a rumpled tweed coat, and Hugo Pemberton, a bearded clockwork engineer of about forty with brass goggles pushed up on his forehead and a brown leather tool apron, stand beside a great brass orrery whose planets ring an empty middle where the sun should be, Hugo scratching his head with a spanner, Aldous peering into the empty middle; warm lamplight on brass"
    }
   ],
   "cast": [
@@ -10783,10 +10787,12 @@
   "trigger": "area_opened:20",
   "panels": [
    {
-    "caption": "The Gaslight Gallery is a long hall of glass globes and brass pipes, and every lamp is out. Someone, long ago, filled every jet with a little oil, and then walked away."
+    "caption": "The Gaslight Gallery is a long hall of glass globes and brass pipes, and every lamp is out. Someone, long ago, filled every jet with a little oil, and then walked away.",
+    "subject": "a long Victorian gallery lined with glass globe gas lamps on curling brass pipes along both walls, every lamp dark and unlit, dim blue dusk light from high windows, dust in the air, nobody in the room"
    },
    {
-    "caption": "When the first one is lit, it is as though the Hall draws in a long breath."
+    "caption": "When the first one is lit, it is as though the Hall draws in a long breath.",
+    "subject": "Hugo Pemberton, a bearded clockwork engineer of about forty with brass goggles pushed up on his forehead and a brown leather tool apron, reaches up with a long brass lighting pole to the first glass globe gas lamp in a long dark gallery, the lamp just lit with a warm golden flame, while Cornelia Wren, an elderly formidable lady curator with silver-grey hair in a bun and a dark teal high-collared dress, watches; warm glow spreading along the brass pipes, the far end still in blue dusk"
    }
   ],
   "cast": [
@@ -10800,10 +10806,12 @@
   "trigger": "area_opened:21",
   "panels": [
    {
-    "caption": "The Sculpture Court is a square of pale stone open to the sky, with a dry fountain at its heart and marble figures standing about in the leaves. One of them has lost its head, and another seems to be looking for it."
+    "caption": "The Sculpture Court is a square of pale stone open to the sky, with a dry fountain at its heart and marble figures standing about in the leaves. One of them has lost its head, and another seems to be looking for it.",
+    "subject": "an open-air Victorian sculpture court of pale stone under an evening sky, at its heart an old stone fountain gone completely dry, its empty basin holding only fallen leaves, marble statues standing among autumn leaves, one statue missing its head and another bending down as if looking for it, nobody else present, the court filling the whole picture edge to edge"
    },
    {
-    "caption": "A stone bench sits against the far wall, and on it, someone has left a half-eaten apple."
+    "caption": "A stone bench sits against the far wall, and on it, someone has left a half-eaten apple.",
+    "subject": "Zephyrine Blackwood, a sun-tanned freckled woman of about thirty-five with short cropped jet-black hair under a battered wide-brimmed explorer's hat, in a long brown leather duster coat, trousers and tall boots, and Cornelia Wren, an elderly formidable lady curator with silver-grey hair in a bun and a dark teal high-collared dress, look at a stone bench against a pale stone wall in an open sculpture court, a half-eaten red apple left on the bench; fallen leaves, soft evening light"
    }
   ],
   "cast": [
@@ -10817,10 +10825,16 @@
   "trigger": "area_opened:22",
   "panels": [
    {
-    "caption": "The Hall of Giants soars over the visitor's head. A giraffe's neck disappears into the gloom, a pair of tusks curve like cathedral arches, and an enormous spider crab stretches across the floor like a mournful carpet."
+    "caption": "The Hall of Giants soars over the visitor's head. A giraffe's neck disappears into the gloom, a pair of tusks curve like cathedral arches, and an enormous spider crab stretches across the floor like a mournful carpet.",
+    "subject": "a soaring Victorian natural history hall of giant skeletons: a giraffe skeleton whose long neck disappears up into the gloom, a pair of huge curved mammoth tusks like cathedral arches, an enormous spider crab stretched across the floor, warm lamplight, nobody in the room"
    },
    {
-    "caption": "A very small door is set into the base of one skeleton. It is, Barnaby decides, for mice."
+    "caption": "A very small door is set into the base of one skeleton. It is, Barnaby decides, for mice.",
+    "subject": "Barnaby Pluck, a cheerful clean-shaven young porter with tousled brown hair in a green waistcoat with rolled sleeves, crouches grinning by a tiny arched wooden door in the stone plinth of a giant skeleton, while Prudence Quill, a thin severe blonde woman of about forty with a tight bun and gold pince-nez, in a narrow black dress with burgundy trim, looks down at him holding a ledger; the great skeleton hall with arched windows fills the whole background; warm lamplight",
+    "cast": [
+     "barnaby",
+     "prudence"
+    ]
    }
   ],
   "cast": [
@@ -10834,10 +10848,12 @@
   "trigger": "area_opened:23",
   "panels": [
    {
-    "caption": "The Insectarium hums with a thousand silent wings. Cases of beetles glitter like pirate treasure, and a great glass nest sits in the middle of the floor, quite empty, but not entirely quiet."
+    "caption": "The Insectarium hums with a thousand silent wings. Cases of beetles glitter like pirate treasure, and a great glass nest sits in the middle of the floor, quite empty, but not entirely quiet.",
+    "subject": "a Victorian insectarium: wall cases of glittering iridescent beetles like pirate treasure, a great empty glass beehive nest standing in the middle of the floor, warm lamplight, nobody in the room"
    },
    {
-    "caption": "Everything here is very small and very well organised. The Hall approves."
+    "caption": "Everything here is very small and very well organised. The Hall approves.",
+    "subject": "Mark Bloom, a shy young gardener with wavy brown hair in a green canvas apron, and Professor Aldous Finch, a thin gaunt elderly ornithologist with wild untidy white hair, clean-shaven, round wire spectacles, in a rumpled tweed coat, lean over a glass case of small insects pinned in perfect rows, Mark delighted, Aldous holding a magnifying glass; behind them the insectarium walls of glittering beetle cases fill the whole background; warm lamplight"
    }
   ],
   "cast": [
@@ -10851,10 +10867,12 @@
   "trigger": "area_opened:24",
   "panels": [
    {
-    "caption": "The Herbarium smells of hay and sunlit paper. Pressed flowers are framed in their hundreds, and a long worktable is set with magnifiers, tweezers, and an enormous unfinished atlas."
+    "caption": "The Herbarium smells of hay and sunlit paper. Pressed flowers are framed in their hundreds, and a long worktable is set with magnifiers, tweezers, and an enormous unfinished atlas.",
+    "subject": "a sunlit Victorian herbarium: walls covered in hundreds of small framed pressed flowers, a long wooden worktable set with brass magnifiers, tweezers and an enormous open botanical atlas, golden light on hay-coloured paper, nobody in the room"
    },
    {
-    "caption": "A single page in the atlas has been left blank, with a little pressed flower beside it that no one can name."
+    "caption": "A single page in the atlas has been left blank, with a little pressed flower beside it that no one can name.",
+    "subject": "Rosalind Thorne, a young woman of about twenty-five with abundant copper-red curls, in a wide bustled cream and burgundy silk gown with lace, and Mark Bloom, a shy young gardener with wavy brown hair in a green canvas apron, bend over an enormous open botanical atlas on a worktable, puzzled at a blank page with one small pressed flower beside it; behind them a herbarium wall of framed pressed flowers and a sunny window fills the whole background"
    }
   ],
   "cast": [
@@ -11329,7 +11347,8 @@
   "trigger": "day:80",
   "panels": [
    {
-    "caption": "A pair of spectacles glints at the top of the Archives stair. Prudence Quill, the Society's exacting archivist, has watched the Hall wake up through a skylight for weeks, and has finally come to tell everyone where they have been filing things wrong."
+    "caption": "A pair of spectacles glints at the top of the Archives stair. Prudence Quill, the Society's exacting archivist, has watched the Hall wake up through a skylight for weeks, and has finally come to tell everyone where they have been filing things wrong.",
+    "subject": "Prudence Quill, a thin severe woman of about forty with straw-blonde hair scraped into a tight bun and gold pince-nez, in a narrow high-necked black dress with burgundy trim, holding a ledger, stands at the top of a stone archive stair under a skylight, her pince-nez glinting, looking down disapprovingly; shelves of boxes and files, warm lamplight"
    }
   ],
   "cast": [
@@ -11342,7 +11361,8 @@
   "trigger": "day:90",
   "panels": [
    {
-    "caption": "A woman in a salt-stained coat sits on the Court Bench with a rolled chart across her knees. Zephyrine Blackwood, cartographer, has just come back from the edge of the world, and she has a message that she is not quite ready to deliver."
+    "caption": "A woman in a salt-stained coat sits on the Court Bench with a rolled chart across her knees. Zephyrine Blackwood, cartographer, has just come back from the edge of the world, and she has a message that she is not quite ready to deliver.",
+    "subject": "Zephyrine Blackwood, a sun-tanned freckled woman of about thirty-five with short cropped jet-black hair under a battered wide-brimmed explorer's hat, in a long brown leather duster coat, trousers and tall boots, the coat salt-stained, sits on a stone bench in an open sculpture court with a rolled chart across her knees, thoughtful; fallen leaves, soft evening light"
    }
   ],
   "cast": [
@@ -11355,7 +11375,8 @@
   "trigger": "day:100",
   "panels": [
    {
-    "caption": "A sweep of lavender silk, a faint scent of roses, and a very long umbrella. Rosalind Thorne, botanical illustrator and the Society's patroness, has come to see whether the Hall is worth the twenty years of her subscription, and has a secret she was asked to keep."
+    "caption": "A sweep of cream silk, a faint scent of roses, and a very long umbrella. Rosalind Thorne, botanical illustrator and the Society's patroness, has come to see whether the Hall is worth the twenty years of her subscription, and has a secret she was asked to keep.",
+    "subject": "Rosalind Thorne, a young woman of about twenty-five with abundant copper-red hair in elaborate curls, in a wide bustled cream and burgundy silk gown with lace, carrying a very long furled umbrella, sweeps into a grand Victorian museum entrance hall, appraising it with one raised eyebrow; warm evening light on a teal and cream marble floor"
    }
   ],
   "cast": [

@@ -152,7 +152,7 @@
 =P arrival_zephyrine day:90 z
 > A woman in a salt-stained coat sits on the Court Bench with a rolled chart across her knees. Zephyrine Blackwood, cartographer, has just come back from the edge of the world, and she has a message that she is not quite ready to deliver.
 =P arrival_rosalind day:100 r
-> A sweep of lavender silk, a faint scent of roses, and a very long umbrella. Rosalind Thorne, botanical illustrator and the Society's patroness, has come to see whether the Hall is worth the twenty years of her subscription, and has a secret she was asked to keep.
+> A sweep of cream silk, a faint scent of roses, and a very long umbrella. Rosalind Thorne, botanical illustrator and the Society's patroness, has come to see whether the Hall is worth the twenty years of her subscription, and has a secret she was asked to keep.
 =P chronicle_20_11 task:20_11 c s
 > Volume I: The Hall Wakes. The gates are open, the Atrium is lit, and the first wings have been restored. A rival collector arrives in the Hall of Feathers, and the Society's old rhythm begins, at last, to turn.
 > The founder's bust looks on from the stairs, and for the first time in twenty years, it seems to approve.
