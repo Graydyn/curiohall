@@ -47,6 +47,20 @@ Real payment processing, rewarded-ad SDK, and event shop variants are deferred.
   reason split (done); event shop variants (`ShopSlotConfig_shell`, `ShopDailyDealsConfig_random`,
   `ShopIAPConfigCN`); real payment + rewarded-ad SDKs (blocked on a shipping app).
 
+## Membership (replaces Phase 3 real-money IAP) ✅
+
+The only real-money product is a 30-day membership pass, bought by hand (never
+auto-renewing, stack cap 60 days). Google Play Pass grants the same membership. Members get
+20 gems a day, a claimable +100 energy refill each day, and tier-2 expedition feed items from
+orders (one prize tier higher for the same play). The expedition now pays a growing prize at
+every tier (final prize ≤ 25% of the total, test-enforced). Gem packs and the starter bundle
+are removed. Billing and Play Pass detection are still DEV stubs. Save v11.
+
+- Spec: `docs/superpowers/specs/2026-11-17-membership-design.md`
+- Plan: `docs/superpowers/plans/2026-11-17-membership.md`
+- Deferred: tuning the free-vs-member event split by playtest; real Play Billing and Play
+  Pass detection; skipping the real ad step for members once an ad SDK exists.
+
 ## Phase 4a: Campaign and map ✅
 
 The `MainTask` campaign (282 story days, 4,107 coin-paid tasks), `AreaUnlock` gating to

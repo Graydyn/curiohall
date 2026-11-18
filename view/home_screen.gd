@@ -23,8 +23,6 @@ const REJECT_MESSAGES := {
     "sold_out": "Sold out",
     "out_of_stock": "Out of stock",
     "locked": "Unlocks at level 3",
-    "already_bought": "Already purchased",
-    "expired": "Offer expired",
     "unknown": "Unavailable",
     "not_today": "That task isn't on today's docket",
     "already_done": "Already completed",
@@ -37,6 +35,14 @@ const REJECT_MESSAGES := {
     "no_event": "No expedition is underway",
     "event_already_active": "An expedition is already underway",
     "boost_already_active": "The gala is already under way.",
+    "storage_full": "Storage is full - unlock another slot",
+    "unsellable": "This item can't be sold",
+    "storage_maxed": "Every storage slot is unlocked",
+    "stack_limit": "You can hold at most 60 days of membership",
+    "play_pass": "Included with Play Pass",
+    "not_member": "Members only",
+    "already_claimed": "Already claimed today",
+    "last_day": "Your membership ends today",
 }
 
 var game: Game
@@ -258,7 +264,11 @@ func _setup_toast() -> void:
     _toast.add_theme_color_override("font_outline_color", Color(0, 0, 0, 0.8))
     _toast.add_theme_constant_override("outline_size", 6)
     _toast.visible = false
-    add_child(_toast)
+    # Own top layer so toasts show above modal panels too.
+    var toast_layer := CanvasLayer.new()
+    toast_layer.layer = 20
+    add_child(toast_layer)
+    toast_layer.add_child(_toast)
     _toast_timer = Timer.new()
     _toast_timer.wait_time = 1.6
     _toast_timer.one_shot = true
@@ -266,7 +276,10 @@ func _setup_toast() -> void:
     add_child(_toast_timer)
 
 func show_toast(reason: String) -> void:
-    _toast.text = REJECT_MESSAGES.get(reason, reason)
+    show_toast_text(REJECT_MESSAGES.get(reason, reason))
+
+func show_toast_text(text: String) -> void:
+    _toast.text = text
     _toast.visible = true
     _toast_timer.start()
 
@@ -288,7 +301,7 @@ func go_back() -> bool:
     if story_player.is_playing():
         story_player.skip()
         return true
-    for p in [gala_panel, event_panel, chronicle_panel, society_panel, shop_panel]:
+    for p in [workroom.info_panel, workroom.storage_panel, gala_panel, event_panel, chronicle_panel, society_panel, shop_panel]:
         if p.visible:
             p.close()
             return true

@@ -4,11 +4,15 @@ extends Control
 ## the home screen swaps in; it has no navigation of its own beyond Esc.
 
 signal back_requested
+## Storage or a sale changed state that no Game signal reports.
+signal save_requested
 
 var game: Game
 var board_view: BoardView
 var order_bar: OrderBar
 var inventory: InventoryPanel
+var storage_panel: StoragePanel
+var info_panel: InfoPanel
 
 func setup(g: Game, toast: Callable) -> void:
     game = g
@@ -35,6 +39,25 @@ func setup(g: Game, toast: Callable) -> void:
 
     board_view.action_rejected.connect(toast)
     order_bar.action_rejected.connect(toast)
+    inventory.action_rejected.connect(toast)
+
+    storage_panel = StoragePanel.new()
+    add_child(storage_panel)
+    storage_panel.setup(game)
+    storage_panel.action_rejected.connect(toast)
+    storage_panel.storage_changed.connect(inventory.refresh)
+    storage_panel.storage_changed.connect(func(): save_requested.emit())
+    storage_panel.visibility_changed.connect(inventory.refresh)
+    inventory.storage_requested.connect(storage_panel.open)
+
+    info_panel = InfoPanel.new()
+    add_child(info_panel)
+    info_panel.setup(game)
+    info_panel.action_rejected.connect(toast)
+    info_panel.sold.connect(func():
+        board_view.clear_selection()
+        save_requested.emit())
+    inventory.info_requested.connect(func(): info_panel.open(board_view.selected))
 
 func _place(c: Control, l: float, t: float, r: float, b: float) -> void:
     c.offset_left = l

@@ -23,8 +23,8 @@ func test_inactive_until_trigger_task_done() -> void:
     assert_true(g.specials.maybe_activate(g.campaign, g, NOW))
     assert_true(g.specials.active)
     assert_eq(int(g.specials.current()["Id"]), 1)
-    # seed granted; board is full so it lands in the inventory
-    assert_has(g.player.inventory, "1501")
+    # seed granted onto the reward stack
+    assert_has(g.player.reward_stack, "1501")
 
 func test_sequential_gating_and_auto_advance() -> void:
     var g := Game.fresh(NOW, 42)
@@ -38,7 +38,7 @@ func test_sequential_gating_and_auto_advance() -> void:
     # order 1 done -> order 2 activates immediately and seeds 1901
     assert_true(g.specials.active)
     assert_eq(int(g.specials.current()["Id"]), 2)
-    assert_eq(g.board.count_of("1901"), 1)   # delivery freed a cell, so the seed spawned onto the board
+    assert_has(g.player.reward_stack, "1901")   # seed waits on the reward stack
 
 func test_deliver_pays_rewards_and_consumes_item() -> void:
     var g := Game.fresh(NOW, 42)
@@ -81,8 +81,8 @@ func test_full_walk_to_all_done() -> void:
         if g.specials.active:
             for seed_id in SpecialOrders.seed_items(g.specials.current()):
                 var on_board := g.board.count_of(String(seed_id))
-                var in_inv := g.player.inventory.count(String(seed_id))
-                assert_gt(on_board + in_inv, 0, "seed %s granted" % seed_id)
+                var stacked := g.player.reward_stack.count(String(seed_id))
+                assert_gt(on_board + stacked, 0, "seed %s granted" % seed_id)
     assert_true(g.specials.is_all_done())
     assert_true(g.specials.current().is_empty())
 

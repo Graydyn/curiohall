@@ -74,3 +74,19 @@ func test_drag_merges_items_through_gui_routing() -> void:
     await wait_process_frames(1)
     assert_null(bv.board.item_at(a), "dragged item left its cell")
     assert_eq(bv.board.item_at(b).type, "102", "the pair merged")
+
+## Merge with main: storage and item-info panels live in the Workroom, and
+## Back closes them before leaving the screen.
+func test_storage_and_info_panels_wired_and_back_closes_them() -> void:
+    var main := await _boot()
+    var home: HomeScreen = main.home
+    home.open_workroom()
+    await wait_process_frames(1)
+    var wr: Workroom = home.workroom
+    assert_not_null(wr.storage_panel)
+    assert_not_null(wr.info_panel)
+    wr.inventory.storage_requested.emit()
+    assert_true(wr.storage_panel.visible, "inventory opens storage")
+    assert_true(home.go_back(), "back handled")
+    assert_false(wr.storage_panel.visible, "back closes storage first")
+    assert_eq(home.current_screen(), "workroom", "still in the workroom")

@@ -92,14 +92,15 @@ func test_level_1_reward_grants_the_104_generator() -> void:
 	assert_has(rewards, "104-1")
 	g.grant_xp(int(ConfigDB.levels[0]["cost"]), 1000.0)   # complete level 1
 	assert_eq(g.player.level, 2)
-	var got_104 := g.player.inventory.has("104")
-	for y in range(MergeBoard.HEIGHT):
-		for x in range(MergeBoard.WIDTH):
-			var item := g.board.item_at(Vector2i(x, y))
-			if item != null and item.type == "104":
-				got_104 = true
-				assert_not_null(item.gen)   # 104 is a working generator
-	assert_true(got_104, "level-1 reward should place a 104 generator on board or inventory")
+	assert_has(g.player.reward_stack, "104", "level-1 reward should queue a 104 generator")
+	# Placing it from the stack yields a working generator on the board.
+	g.board.remove(Vector2i(3, 4))
+	g.board.set_state(Vector2i(3, 4), MergeBoard.CellState.OPEN)
+	while g.player.peek_reward() != "104":
+		g.player.pop_reward()
+	var res := g.place_reward()
+	assert_true(res["ok"])
+	assert_not_null(g.board.item_at(res["pos"]).gen)   # 104 is a working generator
 
 func _allowed_avatars(level: int) -> Array:
 	var normals_v: Variant = ConfigDB.order_avatars.get("NormalAvatars")

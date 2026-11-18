@@ -3,7 +3,7 @@ extends RefCounted
 
 signal spawned(pos: Vector2i, type: String)
 
-const SAVE_VERSION := 11
+const SAVE_VERSION := 12
 
 var board: MergeBoard
 var wallet: EnergyWallet
@@ -11,7 +11,7 @@ var player: PlayerState
 var orders: OrderBook
 var shop: ItemShop
 var deals: DailyDeals
-var iap: Iap
+var membership: Membership
 var campaign: Campaign
 var intimacy: Intimacy
 var specials: SpecialOrders
@@ -20,6 +20,7 @@ var boost: Boost
 var hall: HallState
 var story: Story
 var rng := RandomNumberGenerator.new()
+var tz_offset_seconds: int = 0   # not saved; scenes/main.gd sets it at startup
 
 static func fresh(now: float, seed_value: int = 0) -> Game:
     var g := Game.new()
@@ -36,7 +37,7 @@ static func fresh(now: float, seed_value: int = 0) -> Game:
     g.shop = ItemShop.new()
     g.shop.fill(g.rng, now)
     g.deals = DailyDeals.new()
-    g.iap = Iap.new()
+    g.membership = Membership.new()
     g.campaign = Campaign.new()
     g.intimacy = Intimacy.new()
     g.specials = SpecialOrders.new()
@@ -54,6 +55,13 @@ func merge(a: Vector2i, b: Vector2i, now: float) -> String:
         if token != "":
             Rewards.grant(token, self, now)
     return err
+
+## Sell the item at `pos` for its coin price (see ItemInfo.sell_price).
+func sell(pos: Vector2i) -> Dictionary:
+    var res := board.sell(pos)
+    if res["ok"]:
+        wallet.add_coins(int(res["coins"]))
+    return res
 
 func tap(pos: Vector2i, now: float) -> Dictionary:
     var item := board.item_at(pos)
@@ -153,6 +161,38 @@ func _grant_level_rewards(gained: Array, now: float) -> void:
 func grant_xp(n: int, now: float) -> void:
     _grant_level_rewards(player.add_xp(n), now)
 
+## Place the front item of the reward stack on the board, nearest the centre.
+## Leaves the stack untouched if it is empty or the board has no free cell.
+func place_reward() -> Dictionary:
+    var t := player.peek_reward()
+    if t == "":
+        return {"ok": false, "reason": "no_reward"}
+    var pos := board.spawn(t, Vector2i(3, 4))
+    if pos == Vector2i(-1, -1):
+        return {"ok": false, "reason": "board_full"}
+    player.pop_reward()
+    return {"ok": true, "reason": "", "pos": pos, "type": t}
+
+## Take the item in storage slot i out and place it on the board, nearest the
+## centre. Leaves storage untouched if the board has no free cell.
+func withdraw_stored(i: int) -> Dictionary:
+    if i < 0 or i >= player.inventory.size():
+        return {"ok": false, "reason": "empty"}
+    var t: String = player.inventory[i]
+    var pos := board.spawn(t, Vector2i(3, 4))
+    if pos == Vector2i(-1, -1):
+        return {"ok": false, "reason": "board_full"}
+    player.withdraw(i)
+    return {"ok": true, "reason": "", "pos": pos, "type": t}
+
+func unlock_storage_slot() -> Dictionary:
+    var cost := player.next_slot_cost()
+    if cost < 0:
+        return {"ok": false, "reason": "storage_maxed"}
+    if not player.unlock_slot(wallet):
+        return {"ok": false, "reason": "not_enough_gems"}
+    return {"ok": true, "reason": ""}
+
 func skip_order_refresh(i: int, now: float) -> Dictionary:
     if not orders.skip_refresh(i, wallet, now):
         return {"ok": false, "reason": "not_enough_gems"}
@@ -206,11 +246,31 @@ func skip_shop_refresh(now: float) -> Dictionary:
 func buy_daily_deal(id: int, now: float) -> Dictionary:
     return deals.buy(id, wallet, self, now)
 
-func buy_iap_pack(purchase_id: String, now: float) -> Dictionary:
-    return iap.purchase_pack(purchase_id, self, now)
+## Local calendar day index (midnight in the player's time zone).
+func local_day(now: float) -> int:
+    return floori((now + tz_offset_seconds) / 86400.0)
 
-func buy_bundle(now: float) -> Dictionary:
-    return iap.purchase_bundle(self, now)
+func tick_membership(now: float) -> void:
+    membership.tick(self, now, local_day(now))
+
+func buy_pass(now: float) -> Dictionary:
+    return membership.buy_pass(now)
+
+func refill_available(now: float) -> bool:
+    return membership.refill_available(now, local_day(now))
+
+func claim_refill(now: float) -> Dictionary:
+    return membership.claim_refill(self, now, local_day(now))
+
+## Calendar days from today to the local day the pass ends (0 = ends today).
+func membership_end_days(now: float) -> int:
+    return local_day(membership.member_until - 1.0) - local_day(now)
+
+func take_membership_reminder(now: float) -> String:
+    return membership.take_reminder(now, local_day(now), local_day(membership.member_until - 1.0))
+
+func set_play_pass(on: bool, now: float) -> void:
+    membership.set_play_pass(on, now)
 
 func complete_task(id: int, now: float) -> Dictionary:
     var key := Campaign.task_key(campaign.day, id)
@@ -305,7 +365,7 @@ func to_dict() -> Dictionary:
         "orders": orders.to_dict(),
         "shop": shop.to_dict(),
         "deals": deals.to_dict(),
-        "iap": iap.to_dict(),
+        "membership": membership.to_dict(),
         "campaign": campaign.to_dict(),
         "intimacy": intimacy.to_dict(),
         "specials": specials.to_dict(),
@@ -325,7 +385,7 @@ static func from_dict(d: Dictionary) -> Game:
     g.orders = OrderBook.from_dict(d["orders"])
     g.shop = ItemShop.from_dict(d["shop"])
     g.deals = DailyDeals.from_dict(d["deals"])
-    g.iap = Iap.from_dict(d["iap"])
+    g.membership = Membership.from_dict(d["membership"])
     g.campaign = Campaign.from_dict(d["campaign"])
     g.intimacy = Intimacy.from_dict(d["intimacy"])
     g.specials = SpecialOrders.from_dict(d["specials"])

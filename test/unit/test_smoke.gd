@@ -128,16 +128,17 @@ func test_shop_loop_buy_and_refresh() -> void:
     # buy an item-shop slot with coins
     var price := int(g.shop.slots[0]["price"])
     g.wallet.add_coins(price + 100)
+    var left := int(g.shop.slots[0]["left"])
     assert_true(g.buy_shop_slot(1, 1000.0)["ok"])
-    assert_true(g.shop.slots[0]["sold_out"])
-    # dev-stub an IAP pack -> gems, then buy a gem daily deal
-    g.buy_iap_pack("getgem_1", 1000.0)   # +100 gems
+    assert_eq(int(g.shop.slots[0]["left"]), left - 1)
+    # grant gems, then buy a gem daily deal
+    g.wallet.add_gems(100)
     assert_true(g.buy_daily_deal(1, 1000.0)["ok"])   # 25 gems
     # save/load preserves it
     SaveManager.save(g)
     var g2 := SaveManager.load_game()
     assert_not_null(g2)
-    assert_true(g2.shop.slots[0]["sold_out"])
+    assert_eq(int(g2.shop.slots[0]["left"]), left - 1)
 
 func test_campaign_smoke_deliver_then_complete_task() -> void:
     var g := Game.fresh(1000.0, 42)
@@ -185,7 +186,7 @@ func test_special_order_smoke() -> void:
     g.campaign.done["2_7"] = true
     g.specials.maybe_activate(g.campaign, g, 1000.0)
     assert_eq(int(g.specials.current()["Id"]), 1)
-    assert_has(g.player.inventory, "1501")          # the seeded generator chain
+    assert_has(g.player.reward_stack, "1501")       # the seeded generator chain
     g.board.remove(Vector2i(3, 4))
     g.board.set_state(Vector2i(3, 4), MergeBoard.CellState.OPEN)
     g.board.place(Vector2i(3, 4), ItemInstance.make("1610"))

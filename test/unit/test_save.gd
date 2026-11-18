@@ -103,10 +103,10 @@ func test_v9_roundtrip_campaign() -> void:
     assert_eq(g2.campaign.day, 1)
     assert_true(g2.campaign.is_task_done(1, 2))
 
-func test_save_version_is_11_and_campaign_key_present() -> void:
+func test_save_version_is_12_and_campaign_key_present() -> void:
     var g := Game.fresh(1000.0, 42)
     var d := g.to_dict()
-    assert_eq(int(d["save_version"]), 11)
+    assert_eq(int(d["save_version"]), 12)
     assert_true(d.has("campaign"))
 
 func test_v6_roundtrip_intimacy() -> void:

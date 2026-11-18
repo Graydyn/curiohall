@@ -7,13 +7,21 @@ var _energy := Label.new()
 var _coins := Label.new()
 var _gems := Label.new()
 var _level := Label.new()
+var _refill_btn := Button.new()
 
 func setup(g: Game) -> void:
     game = g
     add_theme_constant_override("separation", 18)
     for l in [_energy, _coins, _gems, _level]:
         add_child(l)
+    _refill_btn.text = "Refill +100"
+    _refill_btn.pressed.connect(func():
+        game.claim_refill(Time.get_unix_time_from_system())
+        refresh())
+    add_child(_refill_btn)
+    move_child(_refill_btn, 1)   # right under the energy readout
     game.wallet.changed.connect(refresh)
+    game.membership.membership_changed.connect(refresh)
     var t := Timer.new()
     t.wait_time = 1.0
     t.autostart = true
@@ -29,3 +37,4 @@ func refresh() -> void:
     _coins.text = "Coins %d" % game.wallet.coins
     _gems.text = "Gems %d" % game.wallet.gems
     _level.text = "Lv %d" % game.player.level
+    _refill_btn.visible = game.refill_available(now)

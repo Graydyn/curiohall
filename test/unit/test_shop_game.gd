@@ -19,25 +19,30 @@ func test_fresh_game_has_shop_surfaces() -> void:
     var g := Game.fresh(1000.0, 42)
     assert_not_null(g.shop)
     assert_not_null(g.deals)
-    assert_not_null(g.iap)
+    assert_not_null(g.membership)
     # shop filled at fresh
     for slot in g.shop.slots:
         assert_not_null(slot)
+
+func _sell_out(g: Game, n: int) -> void:
+    while not g.shop.slots[n - 1]["sold_out"]:
+        assert_true(g.buy_shop_slot(n, 1000.0)["ok"])
 
 func test_buy_shop_slot_via_game() -> void:
     var g := Game.fresh(1000.0, 42)
     _free_cells(g)
     var price := int(g.shop.slots[0]["price"])
+    var left := int(g.shop.slots[0]["left"])
     g.wallet.add_coins(price + 50)
     assert_true(g.buy_shop_slot(1, 1000.0)["ok"])
-    assert_true(g.shop.slots[0]["sold_out"])
+    assert_eq(int(g.shop.slots[0]["left"]), left - 1)
 
 func test_tick_shop_starts_and_completes_refresh() -> void:
     var g := Game.fresh(1000.0, 42)
     _free_cells(g)
     g.wallet.add_coins(1000000)
     for n in range(1, ItemShop.SLOTS + 1):
-        g.buy_shop_slot(n, 1000.0)   # sell out all slots
+        _sell_out(g, n)
     g.tick_shop(1000.0)              # all sold out -> start refresh cooldown
     assert_true(g.shop.is_refreshing(1000.0))
     var secs := int(ConfigDB.tuning["shop_refresh_seconds"])
@@ -51,7 +56,7 @@ func test_skip_shop_refresh_insufficient_gems() -> void:
     var g := Game.fresh(1000.0, 42)
     g.wallet.add_coins(1000000)
     for n in range(1, ItemShop.SLOTS + 1):
-        g.buy_shop_slot(n, 1000.0)
+        _sell_out(g, n)
     g.tick_shop(1000.0)
     g.wallet.spend_gems(g.wallet.gems)
     assert_eq(g.skip_shop_refresh(1000.0)["reason"], "not_enough_gems")
@@ -71,8 +76,8 @@ func test_save_round_trip_preserves_shop_state() -> void:
     g.wallet.add_gems(100)
     g.buy_daily_deal(1, 1000.0)
     var g2 := Game.from_dict(g.to_dict())
-    assert_eq(g2.to_dict()["save_version"], 11)
-    assert_true(g2.shop.slots[0]["sold_out"])
+    assert_eq(int(g2.to_dict()["save_version"]), 12)
+    assert_eq(int(g2.shop.slots[0]["left"]), int(g.shop.slots[0]["left"]))
     assert_eq(int(g2.deals.stock[1]), 0)
 
 func test_save_and_load_through_manager() -> void:

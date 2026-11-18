@@ -14,15 +14,13 @@ func test_add_xp_multi_level() -> void:
     assert_eq(gained, [1, 2])
     assert_eq(p.level, 3)
 
-func test_level_reward_grants_chest_onto_board() -> void:
+func test_level_reward_queues_items_on_reward_stack() -> void:
     var g := Game.fresh(1000.0, 42)
-    # free some cells so granted items/chests can land
-    for p in [Vector2i(1, 3), Vector2i(1, 4), Vector2i(2, 3), Vector2i(2, 4)]:
-        g.board.remove(p); g.board.set_state(p, MergeBoard.CellState.OPEN)
-    # level 1 rewards include a chest/item token per LevelConfig; drive a level-up
+    var on_board := g.board.count_of("104")
     g._grant_level_rewards(g.player.add_xp(int(ConfigDB.levels[0]["cost"])), 1000.0)
-    # LevelConfig level-1 rewards contain item "104-1" (a generator) -> now on board
-    assert_gt(g.board.count_of("104"), 0)
+    # LevelConfig level-1 rewards contain item "104-1" (a generator) -> queued, not placed
+    assert_has(g.player.reward_stack, "104")
+    assert_eq(g.board.count_of("104"), on_board)
 
 func test_deliver_order_uses_pipeline() -> void:
     var g := Game.fresh(1000.0, 42)

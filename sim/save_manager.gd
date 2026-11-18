@@ -19,12 +19,12 @@ static func load_game() -> Game:
     var data: Variant = json.data if err == OK else null
     var is_valid := data != null and typeof(data) == TYPE_DICTIONARY
     if is_valid:
-        for key in ["board", "wallet", "player", "orders", "shop", "deals", "iap", "campaign", "intimacy", "specials", "events", "boost", "hall", "story"]:
+        for key in ["board", "wallet", "player", "orders", "shop", "deals", "membership", "campaign", "intimacy", "specials", "events", "boost", "hall", "story"]:
             if not data.has(key):
                 is_valid = false
                 break
         if is_valid and int(data.get("save_version", 0)) != Game.SAVE_VERSION:
-            is_valid = false  # old saves reset on version upgrade (v10 saves reset on upgrade to v11)
+            is_valid = false  # old saves reset on version upgrade (v11 saves reset on upgrade to v12)
     if not is_valid:
         DirAccess.copy_absolute(path, corrupt_path)
         print("[save] corrupt save backed up to " + corrupt_path)

@@ -41,12 +41,13 @@ func roll_slot(n: int, rng: RandomNumberGenerator) -> Dictionary:
 		pool = by_chain[chosen]
 	if pool.is_empty():
 		push_warning("ItemShop.roll_slot: no candidate items for slot %d" % n)
-		return {"item": "", "price": 0, "count": 0, "sold_out": true}
+		return {"item": "", "price": 0, "left": 0, "sold_out": true}
 	var item_weights := Weighted.parse(pool.map(
 		func(r: Dictionary) -> String: return "%s-%d" % [r["Type"], int(r.get("ShopWeight", 1))]))
 	var item_id := Weighted.roll(item_weights, rng)
 	var prop: Dictionary = ConfigDB.properties[item_id]
-	return {"item": item_id, "price": int(prop["Price"]), "count": int(prop.get("ShopCount", 1)), "sold_out": false}
+	# Price is per item; ShopCount is how many the slot stocks per refresh.
+	return {"item": item_id, "price": int(prop["Price"]), "left": int(prop.get("ShopCount", 1)), "sold_out": false}
 
 func fill(rng: RandomNumberGenerator, now: float) -> bool:
 	if now < refresh_at:
@@ -68,9 +69,9 @@ func buy(n: int, wallet: EnergyWallet, game, now: float) -> Dictionary:
 		return {"ok": false, "reason": "sold_out"}
 	if not wallet.spend_coins(int(slot["price"])):
 		return {"ok": false, "reason": "not_enough_coins"}
-	for i in range(int(slot["count"])):
-		Rewards.grant(String(slot["item"]), game, now)
-	slot["sold_out"] = true
+	Rewards.grant(String(slot["item"]), game, now)
+	slot["left"] = int(slot["left"]) - 1
+	slot["sold_out"] = int(slot["left"]) <= 0
 	shop_changed.emit()
 	return {"ok": true, "reason": ""}
 
@@ -100,5 +101,10 @@ func to_dict() -> Dictionary:
 static func from_dict(d: Dictionary) -> ItemShop:
 	var s := ItemShop.new()
 	s.slots = (d.get("slots", [null, null, null, null, null, null]) as Array).duplicate(true)
+	# Older saves granted "count" items per buy; that count is now the slot's stock.
+	for slot in s.slots:
+		if slot is Dictionary and not slot.has("left"):
+			slot["left"] = 0 if slot.get("sold_out", false) else int(slot.get("count", 1))
+			slot.erase("count")
 	s.refresh_at = float(d.get("refresh_at", 0.0))
 	return s

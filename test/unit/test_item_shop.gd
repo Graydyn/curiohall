@@ -10,7 +10,7 @@ func test_roll_slot_yields_real_priced_item() -> void:
         assert_true(ConfigDB.properties.has(slot["item"]))
         assert_true(int(n) in ConfigDB.properties[slot["item"]].get("Slot", []))
         assert_eq(int(slot["price"]), int(ConfigDB.properties[slot["item"]]["Price"]))
-        assert_gt(int(slot["count"]), 0)
+        assert_eq(int(slot["left"]), int(ConfigDB.properties[slot["item"]].get("ShopCount", 1)))
         assert_false(slot["sold_out"])
 
 func test_fill_populates_all_slots_and_returns_true() -> void:
@@ -21,22 +21,41 @@ func test_fill_populates_all_slots_and_returns_true() -> void:
     # already full and not yet refreshing -> no-op returns false
     assert_false(s.fill(_rng(), 1000.0))
 
-func test_buy_spends_coins_grants_and_marks_sold_out() -> void:
+func _slot_with_stock(s: ItemShop, stock: int) -> void:
+    s.slots[0] = {"item": "205", "price": 4, "left": stock, "sold_out": false}
+
+func test_buy_spends_price_and_grants_one_item() -> void:
     var g := Game.fresh(1000.0, 42)
-    g.shop.fill(g.rng, 1000.0)
-    # free a board cell so granted items can land
-    for p in [Vector2i(1, 3), Vector2i(1, 4), Vector2i(2, 3)]:
-        g.board.remove(p); g.board.set_state(p, MergeBoard.CellState.OPEN)
-    var n := 1
-    var price := int(g.shop.slots[n - 1]["price"])
-    g.wallet.add_coins(price + 100)
+    _slot_with_stock(g.shop, 5)
+    g.wallet.add_coins(100)
     var coins0 := g.wallet.coins
-    var res := g.shop.buy(n, g.wallet, g, 1000.0)
-    assert_true(res["ok"])
-    assert_eq(g.wallet.coins, coins0 - price)
-    assert_true(g.shop.slots[n - 1]["sold_out"])
-    # buying a sold-out slot is rejected without spend
-    assert_eq(g.shop.buy(n, g.wallet, g, 1000.0)["reason"], "sold_out")
+    var stack0 := g.player.reward_stack.size()
+    assert_true(g.shop.buy(1, g.wallet, g, 1000.0)["ok"])
+    assert_eq(g.wallet.coins, coins0 - 4)
+    assert_eq(g.player.reward_stack.size(), stack0 + 1)
+    assert_eq(int(g.shop.slots[0]["left"]), 4)
+    assert_false(g.shop.slots[0]["sold_out"])
+
+func test_slot_sells_out_after_its_stock() -> void:
+    var g := Game.fresh(1000.0, 42)
+    _slot_with_stock(g.shop, 2)
+    g.wallet.add_coins(100)
+    assert_true(g.shop.buy(1, g.wallet, g, 1000.0)["ok"])
+    assert_true(g.shop.buy(1, g.wallet, g, 1000.0)["ok"])
+    assert_true(g.shop.slots[0]["sold_out"])
+    var coins := g.wallet.coins
+    assert_eq(g.shop.buy(1, g.wallet, g, 1000.0)["reason"], "sold_out")
+    assert_eq(g.wallet.coins, coins)
+
+func test_old_save_slot_gets_stock_from_count() -> void:
+    var d := {"slots": [
+        {"item": "205", "price": 4, "count": 5, "sold_out": false},
+        {"item": "205", "price": 4, "count": 5, "sold_out": true},
+        null, null, null, null], "refresh_at": 0.0}
+    var s := ItemShop.from_dict(d)
+    assert_eq(int(s.slots[0]["left"]), 5)
+    assert_eq(int(s.slots[1]["left"]), 0)
+    assert_false(s.slots[0].has("count"))
 
 func test_buy_insufficient_coins_rejected_without_spend() -> void:
     var g := Game.fresh(1000.0, 42)

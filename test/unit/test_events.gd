@@ -187,7 +187,7 @@ func test_unboxing_event_cell_pays_event_grid_extra() -> void:
     if token.begins_with("energy-"):
         assert_eq(g.wallet.energy(NOW), energy_before + int(token.get_slice("-", 1)))
 
-func test_completion_grants_end_rewards_once() -> void:
+func test_completion_pays_whole_ladder_once() -> void:
     var g := Game.fresh(NOW, 42)
     g.dev_start_event(NOW)
     var chain := _walk_chain_from("pb_dogpark_tar_1")
@@ -198,10 +198,10 @@ func test_completion_grants_end_rewards_once() -> void:
     var gems_before := g.wallet.gems
     assert_eq(g.merge_event(Vector2i(0, 13), Vector2i(1, 13), NOW), "")
     assert_true(g.events.completed)
-    assert_eq(g.wallet.gems, gems_before + 30)
+    assert_eq(g.wallet.gems, gems_before + 273)
     assert_eq(g.events.best_tier, chain.size())
     # a second top merge cannot double-grant
     b.spawn(penultimate, Vector2i(2, 13))
     b.spawn(penultimate, Vector2i(3, 13))
     assert_eq(g.merge_event(Vector2i(2, 13), Vector2i(3, 13), NOW), "")
-    assert_eq(g.wallet.gems, gems_before + 30)
+    assert_eq(g.wallet.gems, gems_before + 273)

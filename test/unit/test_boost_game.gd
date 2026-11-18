@@ -61,4 +61,4 @@ func test_game_save_roundtrip_includes_boost() -> void:
     assert_true(g2.boost.is_active())
     assert_eq(g2.boost.progress, 2)
     assert_eq(g2.boost.buff_level, 1)
-    assert_eq(int(g.to_dict()["save_version"]), 11)
+    assert_eq(int(g.to_dict()["save_version"]), 12)

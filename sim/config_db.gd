@@ -2,6 +2,7 @@ extends Node
 ## Autoload. Loads all phase-1 config verbatim and validates cross-references.
 
 var items: Dictionary = {}        # "101" -> row
+var item_images: Dictionary = {}  # "101" -> art name, e.g. "GroceryBag01"
 var properties: Dictionary = {}   # "101" -> row
 var scores: Dictionary = {}       # "101" -> row
 var board_layout: Array = []
@@ -15,8 +16,6 @@ var inventory_cfg: Dictionary = {}
 var tuning: Dictionary = {}
 var shop_slots: Array = []
 var daily_deals: Array = []
-var iap_packs: Array = []
-var bundles: Array = []
 var main_tasks: Dictionary = {}       # day:int -> Array[rows]
 var main_task_by_key: Dictionary = {} # "day_id" -> row
 var area_tasks: Dictionary = {}       # area:int -> Array[rows]
@@ -71,6 +70,9 @@ func load_all(dir: String = "res://config/") -> void:
 	scenes_by_trigger.clear()
 	for row in _read(dir + "ItemModelConfig.json"):
 		if row != null: items[String(row["Type"])] = row
+	for row in _read(dir + "ItemViewConfig.json"):
+		if row != null and row.get("Image") is Array and not row["Image"].is_empty():
+			item_images[String(row["Type"])] = String(row["Image"][0])
 	for row in _read(dir + "ItemPropertyConfig.json"):
 		if row != null: properties[String(row["Type"])] = row
 	for row in _read(dir + "MergeItemScoreConfig.json"):
@@ -113,8 +115,6 @@ func load_all(dir: String = "res://config/") -> void:
 	tuning = _read(dir + "curio_hall_tuning.json")
 	shop_slots = _read(dir + "ShopSlotConfig.json")
 	daily_deals = _read(dir + "ShopDailyDealsConfig.json")
-	iap_packs = _read(dir + "ShopIAPConfig.json")
-	bundles = _read(dir + "BundleConfig.json")
 	for row in _read(dir + "MainTaskConfig.json"):
 		if row == null:
 			continue
